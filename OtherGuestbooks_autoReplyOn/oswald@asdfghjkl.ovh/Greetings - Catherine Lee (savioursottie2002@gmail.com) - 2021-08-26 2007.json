@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "domain": [
+                "ms.catherine",
+                "total.the"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings\r\n\r\nI am Ms.Catherine Lee, a Registered Nurse. Apart from being surprised\r\nyou may be skeptical to reply to me based on what is happening around\r\nthe world on the internet. I am one of the few US (USRNT ) Registered\r\ntravel nurses  here in Syria.\r\n\r\nI discovered one suitcase containing hundred usd bills in the secret\r\ncoffers of a CORONA-VIRUS victim and when checked, it is  five point\r\neight million usd in total.the suitcase and the funds was clinically\r\ntested and is (NEGATIVE) of any virus. I have kept the suitcase safe\r\nin a security firm here in Syria.I found you trust worthy to partner\r\nwith me in receiving it and we share the funds equally.\r\n\r\nPlease get back to me immediately and let me know if you intend to\r\npartner or not. If you also do not want to be involved kindly let me\r\nknow so I would sever further communication with you.\r\n\r\nRegards\r\nMs Catherine\r\n",
+            "content_type": "text/plain",
+            "hash": "39c8025e6292721973242201c668cee5633b87214f216b5b1a52f343c835592c"
+        }
+    ],
+    "header": {
+        "subject": "Greetings",
+        "from": "savioursottie2002@gmail.com",
+        "to": [],
+        "date": "2021-08-26T11:07:13-07:00",
+        "received_domain": [
+            "mail-lf1-f68.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6520:25cd:b0:138:a90f:a9f4",
+            "209.85.167.68"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

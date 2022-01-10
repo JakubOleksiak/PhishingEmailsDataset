@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi,Gerard\r\n\r\nWould you be interested in building your website? We are a professional web\r\ndesign and development Company from USA.\r\n\r\nWe are expert in the following:\r\n\r\n\r\nWebsite RE- Design\r\n\r\nE-Commerce Solutions\r\n\r\nCustom Websites\r\n\r\nDrupal Websites\r\n\r\n\r\nJoomla Websites\r\n\r\nUpgrade Websites\r\n\r\nShopify Websites\r\n\r\nHTML Websites\r\n\r\nWe'd be glad to work with you to build your new home on the internet! Just\r\nreply back to this mail with your requirements and direct contact details\r\nlike phone number, Skype id, Whatsapp number.\r\n\r\nThanks,\r\n\r\nOlive\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "3bba7cbfa66097990ddd4f570de6e87e19aee958cf3ed032348b4848276a775e",
+            "boundary": "----=_NextPart_000_2B53_01D792BC.E8FC8850"
+        }
+    ],
+    "header": {
+        "subject": "RE; Any Web",
+        "from": "olive85wiliams@hotmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T16:30:58+05:30",
+        "received_domain": [
+            "db8pr03mb5627.eurprd03.prod.outlook.com",
+            "db9pr03mb7321.eurprd03.prod.outlook.com",
+            "eur05-am6-obe.outbound.protection.outlook.com",
+            "bm1pr0101ca0023.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:b00:18::33",
+            "40.92.91.52",
+            "2401:4900:1f38:6993:38e7:4546:fdc3:ed39",
+            "2603:10a6:10:105::29",
+            "2603:10a6:10:1ff::7"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

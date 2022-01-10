@@ -1,0 +1,49 @@
+{
+    "body": [
+        {
+            "email": [
+                "dr29876dr@gmail.com"
+            ],
+            "domain": [
+                "gmail.com",
+                "mr.fung"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "I am Vice Chairman of Hang Seng Bank, I have Important Matter to Discuss with you concerning my late client. Died without a NEXT OF KIN. Send me your private email for full details information. email me at \r\n E-Mail: dr29876dr@gmail.com \r\n Regards \r\n Mr.Fung\r\n",
+            "content_type": "text/plain",
+            "hash": "78e15e7280db43205dbf30442062d4fa6737223f40e583502f9388814d366161",
+            "boundary": "===============0650672944=="
+        }
+    ],
+    "header": {
+        "subject": "REPLY AS SOON AS POSSIBLE ",
+        "from": "etchosketch1@gmail.com",
+        "to": [
+            "etchosketch1@gmail.com"
+        ],
+        "date": "2021-08-11T11:51:43+01:00",
+        "received_domain": [
+            "c154biom.mwprem.net",
+            "desktop-gf9772c.home"
+        ],
+        "received_ip": [
+            "153.149.193.82",
+            "2.24.203.106"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

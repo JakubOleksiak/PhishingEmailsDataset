@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.franck"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello Dear,\r\n\r\nI am Mr.Franck Salif. and I work with UNITED BANK OF AFRICA. Please Can you\r\nuse ATM Visa card to withdraw money at ATM cash machine in your country? I\r\nwant to transfer money to you from my country; it\u2019s part of money taken by\r\nsome old politician that was forced out of power.\r\n\r\nI will change the account details to yours, and apply for a visa card with\r\nyour details in our bank, they will send the visa card to you and you will\r\nbe withdrawing money with it and always send my own percentage of the\r\nmoney, and the money we are talking about is $10.5Million us dollars.\r\n\r\nWhatever amount you withdraw daily, you will send 50% to me and you will\r\ntake 50%, the visa card and the bank account will be on your name, I will\r\nbe waiting for your information as soon as possible.\r\n\r\nYour name..........................\r\n\r\nAge...........................\r\n\r\nSex...........................\r\n\r\nCountry.......................\r\n\r\nOccupation....................\r\n\r\nPhone number........................\r\n\r\n\r\nBest Regards.\r\nMr.Franck Salif.\r\n",
+            "content_type": "text/plain",
+            "hash": "57e6bc07bbab11d58e73c1e3b85ddc87dab1486eb1457c10e63d976aa9fca042",
+            "boundary": "0000000000004f165105be5cdf10"
+        }
+    ],
+    "header": {
+        "subject": "Hello Dear,",
+        "from": "mr.francksalif21@gmail.com",
+        "to": [],
+        "date": "2021-03-25T02:02:36-07:00",
+        "received_domain": [
+            "mail-ot1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.44"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

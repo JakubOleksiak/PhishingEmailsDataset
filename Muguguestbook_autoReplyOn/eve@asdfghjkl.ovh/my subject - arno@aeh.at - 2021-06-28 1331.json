@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "mrkennedyu7@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "my message...From Mr. Kennedy Uzoka\r\nCEO, Group Managing Director \r\n& Executive Director.\r\nTel: +234-809-050-9908\r\nEmail: mrkennedyu7@gmail.com\r\n                                  $10Million, ATM Master card Payment\r\n \r\nAttention Beneficiary\r\n \r\n \r\nI am Mr. Kennedy Uzoka , ATM Head of Operation Department United Bank for Africa PLC, I resumed to this office on the 5th of last Month and during my official research last week I discovered an abandoned ATM Master card valued sum of $10Million with card number 5321452123409380 with  your name as the rightful beneficiary.\r\n \r\nI tried to know why this card have not been released to you but I was told that the formal ATM head of operation who left this office two months ago with-held your card for his own selfish interest.\r\n \r\nNow that your ATM Master card is still available for you to pick it up here in our bank, I want to know how you wish to receive your ATM card along with your four digits pin code number.\r\n \r\nYou can come down here in our bank to pick up your card direct from my office or alternatively it can be send to your address through any registered reliable courier service company that you will take care of the courier charge, I don't know the cost of shipping the card to you but if you permit me I will go to the courier shipment company to find out the cost,\r\n \r\nYour direct telephone number and address will be needed and more details of your ATM card payment will be made known to you as soon as I receive your swift positive response, to enable you know the amount programmed for your ATM daily withdrawal. Do call me as soon as you receive this message Tel: +234-809-050-9908 also reply to my email: mrkennedyu7@gmail.com\r\n \r\nThanks For your anticipated co-operation and understanding. We will serve\r\nYou better.\r\n \r\nYours Faithfully,\r\n\r\nMr.Kennedy Uzoka \r\nCEO, Group Managing Director \r\n& Executive Director.\r\nTel: +234-809-050-9908\r\n",
+            "content_type": "text/plain",
+            "hash": "9dc047fe48b398a77e24a9aaf2f0e052d0794a28c928394ab2a136ff7d6100d5"
+        }
+    ],
+    "header": {
+        "subject": "my subject",
+        "from": "arno@aeh.at",
+        "to": [
+            "arno@aeh.at"
+        ],
+        "date": "2021-06-28T04:31:03-07:00",
+        "received_domain": [
+            "mail.aeh.at"
+        ],
+        "received_ip": [
+            "85.125.168.42",
+            "45.35.196.150"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

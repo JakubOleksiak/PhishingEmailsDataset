@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "conditions.so"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Attention Package owner,This is to inform you that a delivery company\r\ncontacted my law firmregarding your unclaimed package in their custody\r\nwhich they intent tohand over to the government as unclaimed package,So am\r\ncontacting you to know if you are still interested in claimingthe package\r\nas it has  been with the Turkish customs for over a yearnow and they have\r\njust  informed us that they will release it once youmeet the needed\r\ndelivery conditions.so contact me as soon as possible with this\r\nemail:(bharlesokoye@gmail.com <bharlesokoye@gmail.com>)  so that i will\r\ndirect you on what to doRegardsBar Charles*\r\n",
+            "content_type": "text/plain",
+            "hash": "e9022fb31246d65f91507c8e65bc32bc69be132076237b71cef5e21f7718f4c5",
+            "boundary": "000000000000ec804b05cd0989ed"
+        }
+    ],
+    "header": {
+        "subject": "contact me as soon as possible with this email:(bharlesokoye@gmail.com)",
+        "from": "drjfioads@gmail.com",
+        "to": [],
+        "date": "2021-09-28T08:55:21+01:00",
+        "received_domain": [
+            "mail-vs1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.67"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

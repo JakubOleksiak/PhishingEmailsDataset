@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Cornelia,\r\n\r\n \r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your site. I am a Web design / Developer that can do\r\njust about anything you can imagine at very affordable prices.\r\n\r\nLet me know what you think.\r\n\r\n \r\n\r\nWe Provide Web services at a minimum cost. May I send you a quote? If\r\ninterested.\r\n\r\n \r\n\r\nKind Regards,\r\n\r\nAlex Carrew,\r\n\r\n \r\n\r\nBusiness Development Consultant        \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "e358a57ee40a96af2d0cee9ef9066c7a52d615a0610bd4925f0778bd790a2326",
+            "boundary": "----=_NextPart_000_165E_01D787A0.3738DEB0"
+        }
+    ],
+    "header": {
+        "subject": "Fw:- Web Designing'",
+        "from": "alexcarrew@hotmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T13:11:58+05:30",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "pu1pr04ca0003.outlook.office365.com",
+            "pu1apc01ft005.eop-apc01.prod.protection.outlook.com",
+            "oszp286mb1079.jpnp286.prod.outlook.com",
+            "pu1pr04ca0003.apcprd04.prod.outlook.com",
+            "bm1pr01ca0071.indprd01.prod.outlook.com",
+            "kl1pr0401mb4241.apcprd04.prod.outlook.com",
+            "pu1apc01ft005.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:820:2d::8",
+            "2a01:111:e400:7ebe::116",
+            "2603:1096:b00:1::11",
+            "122.161.53.220",
+            "2603:1096:803:29:cafe::4",
+            "40.92.255.57",
+            "2a01:111:e400:7ebe::44",
+            "2603:1096:803:29::15"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

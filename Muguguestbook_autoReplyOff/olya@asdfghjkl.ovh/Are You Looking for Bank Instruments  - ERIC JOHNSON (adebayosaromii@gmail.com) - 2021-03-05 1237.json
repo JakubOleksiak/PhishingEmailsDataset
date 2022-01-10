@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "ericjohnsonfinancial@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attn: Sir,\r\n\r\nMy name is Eric Johnson; I am a financial Facilitator with a Personal\r\nWealth Partner Financial Service, INC. However, I have a provider for\r\nall types of bank Financial Instrument for Lease/Sale such as SBLC,\r\nDLC, MT103, MT799, MT199, MT760, Bank Draft, and RWA.\r\n\r\nWe also arrange Loan for long time business and investment project. If\r\nyou are in need of any of the above kindly contact me through the\r\nbelow stated E-mail address: ericjohnsonfinancial@gmail.com for more\r\ndetails.\r\n\r\nBest regards.\r\n\r\nEric Johnson,\r\nDirect email:ericjohnsonfinancial@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "35fa8d6cf283db325b913d30d24778009f3c372c6843cddd293b88caf78a8241"
+        }
+    ],
+    "header": {
+        "subject": "Are You Looking for Bank Instruments?",
+        "from": "adebayosaromii@gmail.com",
+        "to": [
+            "alextjay@protonmail.com"
+        ],
+        "date": "2021-03-05T12:37:46+01:00",
+        "received_domain": [
+            "mail-ej1-f52.google.com"
+        ],
+        "received_ip": [
+            "2002:a54:2b8b::",
+            "209.85.218.52"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

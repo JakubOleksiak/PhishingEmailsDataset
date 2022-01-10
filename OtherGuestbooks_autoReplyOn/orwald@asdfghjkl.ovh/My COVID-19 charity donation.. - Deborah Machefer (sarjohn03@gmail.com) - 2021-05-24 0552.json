@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "6.900.000.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "My Greetings to you and your family my dear,\r\nI am Mrs. Deborah Machefer I have a donation of (6.900.000.00 USD) MILLION\r\nfor you. Please i will like you to get back to me if you will help on this\r\ndonation to help the poor. I will give you more details on how you can help\r\nto invest this money to help the poor because of my poor health condition\r\nwhich I will let you know as soon as I hear from you. Reply for more\r\ndetails & information.\r\nGod bless you as I wait for your reply.\r\nYour sister.\r\nMrs. Deborah Machefer.\r\n",
+            "content_type": "text/plain",
+            "hash": "bfa3f87b76b460b6e1864045af2c36354eae8dc39922eded60d10f3d270f1c81",
+            "boundary": "00000000000063f2f605c30b57d9"
+        }
+    ],
+    "header": {
+        "subject": "My COVID-19 charity donation..",
+        "from": "sarjohn03@gmail.com",
+        "to": [],
+        "date": "2021-05-24T05:52:15+02:00",
+        "received_domain": [
+            "mail-lj1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.194"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

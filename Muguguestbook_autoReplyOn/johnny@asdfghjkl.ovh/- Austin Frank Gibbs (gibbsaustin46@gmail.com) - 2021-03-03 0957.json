@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\ni have a business proposal to disclose to you\r\n",
+            "content_type": "text/plain",
+            "hash": "8db3b5fef264bbffea6e8cb531bf2417b9295dbbe57b06c05228ee30fe32e3a2",
+            "boundary": "000000000000273ae605bc9e0bb7"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "gibbsaustin46@gmail.com",
+        "to": [],
+        "date": "2021-03-03T09:57:29+01:00",
+        "received_domain": [
+            "mail-io1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.66"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

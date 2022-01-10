@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "lloyds.halifax@englandmail.com"
+            ],
+            "domain": [
+                "englandmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "DEAR JOHN\r\n\r\nI AM VERY HAPPY TO INFORM YOU ABOUT THE NEW ARRANGEMENT MADE BY THE BANK\r\nAUTHORITY. AFTER PROPER AND SEVERAL INVESTIGATIONS AND RESEARCH, THE AFRICA\r\nDEVELOPMENT BANK (ADB) HAS DECIDED TO AVOID THE RISK SENDING YOUR FUNDS\r\nTHROUGH DIPLOMATS MEANS.\r\n\r\nWE ARE SENDING YOUR $10.5 MILLION THROUGH OUR CORRESPONDENCE BANK UNITED\r\nKINGDOM.\r\nWE HAD FORWARDED INSTRUCTION TO LLOYDS HALIFAX BANK ON YOUR BEHALF FOR YOU\r\nTO RECEIVE THE FUNDS, SO FEEL FREE TO GET IN TOUCH WITH THE LLOYDS HALIFAX\r\nBANK UNITED KINGDOM.\r\n\r\nYOU ARE ADVISE TO CONTACT THEM IMMEDIATELY AND DECLARE YOUR ARRIVING DATE\r\nIN UNITED KINGDOM FOR THE OFFICIAL SIGNING AND IMMEDIATE TRANSFER OF YOUR\r\nFUND DEPENDING ON YOUR CHOICE.\r\n\r\nBANK NAME: LLOYDS HALIFAX\r\nCONTACT PERSON: DARREN TONG\r\nEMAIL: Lloyds.Halifax@englandmail.com\r\nTELEPHONE NUMBER +44 7451 27622\r\n\r\nPLEASE KEEP ME INFORMED AS SOON YOU CONTACT LLOYDS HALIFAX BANK SO I CAN\r\nGIVE YOU ADVISE YOU THE ABOUT FURTHER DEVELOPMENTS IN THIS PROCESS.\r\nIF YOU NEED ANY ASSISTANCE, FEEL FREE TO CONTACT ME. + 226 52 45 88 59.\r\n\r\nTHANK YOU.\r\nYOUR FRIEND.\r\nMr Ozobot Obobo\r\nTel : + 226 52 45 88 59.\r\n",
+            "content_type": "text/plain",
+            "hash": "929fe53f8265c528ef1d76049c7cf1ff6a80e5761f57feb22bd047a88f34cced",
+            "boundary": "00000000000070726005c4a52ffd"
+        }
+    ],
+    "header": {
+        "subject": "DEAR JOHN",
+        "from": "mrozobotobobo@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-13T13:54:15-07:00",
+        "received_domain": [
+            "mail-lf1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.51"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

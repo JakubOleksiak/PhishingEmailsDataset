@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend,\r\nI know that this mail will come to you as a surprise as we never met\r\nbefore.I am Barrister Moses Morrow.I need your urgent assistance in\r\ntransferring the sum  of (US$9.600.000 million US dollars) to your\r\naccount after hearing from you i will give you more details about the\r\ntransaction, Kindly get back to me immediately for more information\r\nregarding this project.\r\n\r\nMoses\r\n",
+            "content_type": "text/plain",
+            "hash": "9a3bb43210d1333ffa716a6a3e48946b3b5dc8270de0ad252c6800011aed6826"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend,",
+        "from": "mosesmorrow@gmail.com",
+        "to": [],
+        "date": "2021-08-11T08:27:22-07:00",
+        "received_domain": [
+            "mail-ed1-f42.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6408:128b:b029:114:1258:6ff6",
+            "209.85.208.42"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

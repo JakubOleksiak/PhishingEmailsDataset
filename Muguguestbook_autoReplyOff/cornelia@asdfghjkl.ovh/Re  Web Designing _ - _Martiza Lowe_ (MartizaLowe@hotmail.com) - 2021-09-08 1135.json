@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Cornelia\r\n\r\n \r\n\r\nGreetings and best wishes for the day..!!\r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your website. I am a Web design / Developer that can\r\ndo just about anything you can imagine at very affordable prices. Feel free\r\nto contact me in case of any enquiry. If interested?\r\n\r\n \r\n\r\nThanks,\r\n\r\n \r\n\r\nMaritza Lowe\r\n\r\n \r\n\r\nBusiness Development Executive\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "56d0382c86b5a0f709c29debfaf25c9e52d952fb21f5e0ea35f120e1be7cc25f",
+            "boundary": "----=_NextPart_000_141A_01D7A4C3.645EEE80"
+        }
+    ],
+    "header": {
+        "subject": "Re: Web Designing %",
+        "from": "martizalowe@hotmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-08T15:05:20+05:30",
+        "received_domain": [
+            "pn3pr01ca0029.indprd01.prod.outlook.com",
+            "tybp286mb0382.jpnp286.prod.outlook.com",
+            "tycp286mb0736.jpnp286.prod.outlook.com",
+            "jpn01-ty1-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:404:802c::16",
+            "2603:1096:c01:97::18",
+            "122.161.52.143",
+            "2603:1096:400:7d::12",
+            "104.47.93.164"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

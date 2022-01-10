@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "westernunionu063@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nAttention My Dear,\r\n\r\nYour first payment of $5000 is about to sent today. You are advise to\r\ncontact MR David Alaba with your full information. such as\r\n\r\nYour name.....\r\n\r\nYour country....\r\nYour phone number.......\r\nYour address.........\r\n\r\n\r\nTo enable him to send your First Payment of $5000 today. For more\r\ninformation contact MR David Alaba, Telephone number: +234)08145866781\r\nEmail (westernunionu063@gmail.com) he will keep sending you payment\r\nuntil your total fund is Completed ($2.500,000.00 USD)\r\n\r\nBest Regards,\r\nMr. John Stones\r\n\r\nCONTACT WESTERN UNION now\r\n",
+            "content_type": "text/plain",
+            "hash": "7ed892e79484418b4ecc146eb0c36a7c57a974049e41db200df721b1eac93860",
+            "boundary": "000000000000b5c3c105cb91503e"
+        }
+    ],
+    "header": {
+        "subject": "Attention My Dear,",
+        "from": "chilokwu.h.chinaka2018@gmail.com",
+        "to": [],
+        "date": "2021-09-09T16:03:38+01:00",
+        "received_domain": [
+            "mail-qv1-f68.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.68"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

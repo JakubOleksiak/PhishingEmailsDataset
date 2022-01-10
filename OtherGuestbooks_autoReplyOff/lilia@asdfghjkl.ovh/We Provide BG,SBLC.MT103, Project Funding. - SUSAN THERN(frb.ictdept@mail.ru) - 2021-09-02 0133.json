@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "email": [
+                "lilia@asdfghjkl.ovh",
+                "susantherns@gmail.com"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org",
+                "asdfghjkl.ovh",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.9600.19699\"></HEAD>\r\n<BODY style=\"MARGIN: 0.5em\">\r\n<P>TO: lilia@asdfghjkl.ovh <BR><BR><BR>Financial Assets UK leads in the financial service industry. Our mandate is from Lloyds Bank UK and we provide bank instruments like BG Bank Guarantee and Standby Letters of Credit SBLC. We are committed to serving you better with easy and affordable loans and bank guarantees with varieties of options to choose from.</P>\r\n<P>We also offer MT103,Business Loan,Project funding,Import and export finance,Agric Loan,Issuance of SBLC etc<BR>Please let us know where we can be of help to you.</P>\r\n<P>We are open 6 days a week, Monday-through-Saturday.</P>\r\n<P>Contact me for more details.<BR>SUSAN THERN<BR>\r\nEmail: <SPAN style=\"FONT-SIZE: 14px; FONT-FAMILY: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; WHITE-SPACE: nowrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(95,99,104); FONT-STYLE: normal; TEXT-ALIGN: center; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; \r\ntext-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">susantherns@gmail.com</SPAN></P>\r\n<P>&nbsp;</P>\r\n<P>Regards</P>\r\n<P><BR>Susan Thern</P>\r\n<P>Financial Assets UK<BR>3 Belsize Place Belsize Place, <BR>London, Nw3 5al</P></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "46ff846a19943602e45e3e5aecff2aa47d4eb380d4be7044d82de67841c6cb86"
+        }
+    ],
+    "header": {
+        "subject": "We Provide BG,SBLC.MT103, Project Funding.",
+        "from": "frb.ictdept@mail.ru",
+        "to": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-02T02:33:54+03:00",
+        "received_domain": [
+            "mail.ru"
+        ],
+        "received_ip": [
+            "46.183.220.62"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "gordonwei23@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hi, How are you doing? Is your email still active? I have a very important business transaction to discuss with you. Kindly respond to this message.\r\nThank you,\r\nE-Mail: gordonwei23@gmail.com\r\nGordon Wei\r\n",
+            "content_type": "text/plain",
+            "hash": "633705c5b4376196ac14c38a9c20734387032dbc5eb1e347e97d7bb86bf88c63"
+        }
+    ],
+    "header": {
+        "subject": "8/23/2021---",
+        "from": "info@boc.com",
+        "to": [
+            "info@boc.com"
+        ],
+        "date": "2021-08-23T02:14:30-07:00",
+        "received_domain": [
+            "oprek.kemendesa.go.id"
+        ],
+        "received_ip": [
+            "103.125.202.40",
+            "202.55.133.108"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

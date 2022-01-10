@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\nCompliments of the season! I know this email message will definitely\r\ncome to you as a huge surprise, but I implore you to take the time to\r\ngo through it carefully as the decision you make will go off a long\r\nway to determine my future and continued existence. Please keep this\r\nmessage top secrete.\r\n\r\nI am Cpt. Emily Naslund, presently in Afghanistan. I am desperately in\r\nneed of your assistance and I have summoned up courage to contact you.\r\n\r\nPls go through the above link and get back to me.\r\n\r\nRespectfully,\r\n\r\nCpt. Emily Naslund, a member of the United States Marine Corps.\r\n\r\nI bid you good tidings\r\n\r\nSky Team USA\r\n",
+            "content_type": "text/plain",
+            "hash": "47dfb31943b6d1545fd37be13b8c24793bf0b07c59a9f6d0a4a9d3b71cabc45a"
+        }
+    ],
+    "header": {
+        "subject": "I bid you good tidings",
+        "from": "kinsluma21@gmail.com",
+        "to": [],
+        "date": "2021-05-25T17:20:08+01:00",
+        "received_domain": [
+            "mail-lf1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.66",
+            "2002:ac2:434a::"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

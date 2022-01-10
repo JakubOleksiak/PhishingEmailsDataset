@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Morning,\r\nI apologize for my intrusion into your privacy. Kindly contact me for more\r\ninfo on the transfer of the funds left behind by my late client.(A\r\nnationality of your country) for our mutual benefits.\r\nRegards.\r\n",
+            "content_type": "text/plain",
+            "hash": "00bd9738c676ce491145517e2ef0de393905e0f338634fe10c721b9a5a27415b",
+            "boundary": "000000000000de48ea05c6731d08"
+        }
+    ],
+    "header": {
+        "subject": "Are you willing?",
+        "from": "jamessolomon6579@gmail.com",
+        "to": [],
+        "date": "2021-07-06T13:56:37+02:00",
+        "received_domain": [
+            "mail-vs1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.51"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

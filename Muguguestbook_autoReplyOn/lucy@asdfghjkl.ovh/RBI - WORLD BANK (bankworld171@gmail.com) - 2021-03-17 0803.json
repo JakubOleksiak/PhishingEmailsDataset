@@ -1,0 +1,64 @@
+{
+    "attachment": [
+        {
+            "filename": "W.jpg",
+            "size": 439214,
+            "extension": "jpg",
+            "hash": {
+                "md5": "d4afc0689da4d3f24acc3ec4eca61071",
+                "sha1": "7dc9c55fe2ed00e9dcd7e6e5b91e92fdab7a6e58",
+                "sha256": "8c5ba7fbca19cb856538e0cb5f304b2c7909660c94820d811eb55f42b2a35d33",
+                "sha512": "419da3485a42af8ee087f74ed32553da867acb4e3d1d5736e763b4c592567e306623f0b891ba685139733e12042b2e3e3ff3b03822372454230971100acdb016"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"W.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"W.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_kmd3kcoi0>"
+                ],
+                "x-attachment-id": [
+                    "f_kmd3kcoi0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+            "boundary": "0000000000009fef0b05bdb614cb"
+        }
+    ],
+    "header": {
+        "subject": "RBI",
+        "from": "bankworld171@gmail.com",
+        "to": [
+            "rbi_transfer.india@rbigovt.co.in"
+        ],
+        "date": "2021-03-17T12:33:23+05:30",
+        "received_domain": [
+            "mail-ed1-f68.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.68"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "UNKNOWN"
+    }
+}

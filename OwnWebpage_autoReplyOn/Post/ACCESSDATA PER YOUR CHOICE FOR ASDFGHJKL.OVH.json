@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi Team,\r\n\r\nWishing you, your family, and your team a successful and healthier 2021.\r\n\r\nWould you be interested to acquire an email list of key decision-makers from Specific Industries?\r\n\r\nWe provide comprehensive email data lists with up to date information based on your requirements. Kindly let me know your Target Criteria, so that I will get back to you with Counts, Additional Details &amp; Pricing for your review and feedback.\r\n\r\nIndustry type    :\r\nJob Titles           :\r\nGeography        :\r\n\r\nThank you and looking forward to your response.\r\n\r\nSincerely,\r\nJillian Adams\r\nLead Research Analyst\r\n\r\n\r\nIf you do not want to receive emails from us please reply &#8216;Leave Out&#8217; in subject line.\r\n",
+            "content_type": "text/plain",
+            "hash": "bd2930060c4afe645dd9bb3a1ab713e0fa0b51f3a267f726b7f1fbbbbb9066e4",
+            "boundary": "_000_PNZPR01MB4383B320EF8FEF1BC8598EF4E76A9PNZPR01MB4383INDP_"
+        }
+    ],
+    "header": {
+        "subject": "ACCESSDATA PER YOUR CHOICE FOR ASDFGHJKL.OVH",
+        "from": "jillian.adams@sansprimary.com",
+        "to": [
+            "adam@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-17T12:22:16+00:00",
+        "received_domain": [
+            "ind01-ma1-obe.outbound.protection.outlook.com",
+            "pn1pr0101mb1693.indprd01.prod.outlook.com",
+            "pnzpr01mb4383.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.107.138.90",
+            "2603:1096:c00:f::17",
+            "2603:1096:c01:4::7"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

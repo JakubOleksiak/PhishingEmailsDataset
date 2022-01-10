@@ -1,0 +1,64 @@
+{
+    "attachment": [
+        {
+            "filename": "Cash1 (1).jpg",
+            "size": 93519,
+            "extension": "jpg",
+            "hash": {
+                "md5": "e73cc637442140cb5d25573832a45954",
+                "sha1": "dcc52df95f11d3b5aa3e96071d079fb5ebe4211d",
+                "sha256": "e74c18366bf18905947ebbe523c2ac8b716ae84b8cf1ce92a5ca178c66042941",
+                "sha512": "d49d662ddce00e835d26b530eb439af0c68b2e32198ab3d6e4ed86cd7b4f0e71b5d80afa202716a7ab1676c7795fa8a02cb5c7bcfabc495441aebcd09037d4c6"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"Cash1 (1).jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"Cash1 (1).jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_krzdrluj0>"
+                ],
+                "x-attachment-id": [
+                    "f_krzdrluj0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Thanks for the opportunity to work with you to release your  consignments\r\nfrom  JFK international Airport ,as I told you in my previous mail I\r\ndiscovered your consignments abandoned  in the airport ,The consignment are\r\ntwo metal boxes with an undisclosed  sum of money , I have decided to\r\nattach to this mail a picture of the consignments captured during my\r\ninspection so that you can testify that what I am telling you is true. and\r\ngenuine  All I need to do is to obtain the required documents to release\r\nthe consignments since your consignments are no longer under my\r\nauthority and I no longer have access to them ; I will pay for  the non\r\ninspection fees and warehouse charges and I will proceed with the delivery\r\nto your address , Please can you specify your nearest international\r\nAirport? see attached the picture of your consignments to this mail\r\n",
+            "content_type": "text/plain",
+            "hash": "6058e2b94c78310d21900c372396299f5d1372777190bfbe3626eb927b060665",
+            "boundary": "000000000000d33f5705c8d5e401"
+        }
+    ],
+    "header": {
+        "subject": "consignments",
+        "from": "rollinssummers2@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-05T15:37:44-05:00",
+        "received_domain": [
+            "mail-pj1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.47"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

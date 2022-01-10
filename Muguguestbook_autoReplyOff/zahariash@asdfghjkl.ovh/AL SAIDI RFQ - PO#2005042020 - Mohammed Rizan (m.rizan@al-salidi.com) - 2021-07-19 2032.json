@@ -1,0 +1,65 @@
+{
+    "attachment": [
+        {
+            "filename": "PO#2005042020.gz",
+            "size": 27,
+            "extension": "gz",
+            "hash": {
+                "md5": "4f6ba332da60b249de2ec1964b084ab6",
+                "sha1": "c10d17907d9ec29f1775cfcd2cda2478c2b96f78",
+                "sha256": "3319fc57dd9357e2ecb7657e9281aee06b19de7e49fcd368b5dbf9958acb63da",
+                "sha512": "4af9ccddcd433ddd24c747a2b8983eb9f4ad1fe6c4530d2cf23862ffed374377240099b0f0a766a0a8ba14618aaf42522d25fdf6110250a743d56fcf7fe11439"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/octet-stream; name=\"PO#2005042020.gz\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"PO#2005042020.gz\""
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.9600.17037\"></HEAD>\r\n<body style=\"MARGIN: 0.5em\">\r\n<DIV><FONT color=#0b5394>Dear Sir,</FONT></DIV>\r\n<DIV>&nbsp;</DIV>\r\n<DIV><FONT color=#0b5394>We kindly request for your compliance with our attached purchase request documents. Please revert back with your best<BR><BR>Offer and earliest time of delivery in accordance to&nbsp;</FONT><SPAN style=\"COLOR: rgb(11,83,148)\">our customer note enclosed.</SPAN></DIV>\r\n<DIV>&nbsp;</DIV>\r\n<DIV><FONT color=#0b5394>Looking forward to your soon feedback on the quotation to proceed further.</FONT></DIV>\r\n<DIV>&nbsp;</DIV>\r\n<DIV>\r\n<P class=MsoNormal style=\"FONT-SIZE: 12px\"><SPAN style='FONT-SIZE: 14pt; FONT-FAMILY: \"Arial Narrow\",sans-serif; COLOR: rgb(31,73,125)'>Mohammed Rizan</SPAN></P>\r\n<P class=MsoNormal style=\"FONT-SIZE: 12px\"><I><SPAN style='FONT-SIZE: 12pt; FONT-FAMILY: \"Times New Roman\",serif; COLOR: rgb(31,73,125)'>Business Development Executive</SPAN></I></P>\r\n<P class=MsoNormal style=\"FONT-SIZE: 12px\"><SPAN style=\"COLOR: rgb(31,73,125)\">&nbsp;&nbsp;</SPAN><SPAN style='FONT-SIZE: 20pt; FONT-FAMILY: \"Arial Black\",sans-serif; COLOR: rgb(31,73,125)'>Al Saidi Factory</SPAN></P>\r\n<P class=MsoNormal style=\"FONT-SIZE: 12px\"><SPAN style=\"FONT-FAMILY: Arial,sans-serif; COLOR: rgb(31,73,125)\">P.O. Box: 1501, Dammam 2<SUP>nd</SUP>&nbsp;Industrial Area, 31441 Dammam.</SPAN></P>\r\n<P class=MsoNormal style=\"FONT-SIZE: 12px\"><SPAN style=\"FONT-FAMILY: Arial,sans-serif; COLOR: rgb(31,73,125)\">T: 00966 13 812 6625&nbsp; Ext. 110&nbsp; F: 00966 13 812 6624 M: 00966 55 925 1035</SPAN></P>\r\n<P class=MsoNormal style=\"FONT-SIZE: 12px\"><B><I><SPAN lang=ES-CO style=\"FONT-SIZE: 24pt; FONT-FAMILY: Webdings; COLOR: green\">P</SPAN></I></B><I><SPAN style=\"FONT-SIZE: 10pt; COLOR: green\">&nbsp;&nbsp;&nbsp;&nbsp;Please print only if necessary.</SPAN></I></P>\r\n<P class=MsoNormal style=\"FONT-SIZE: 12px\"><SPAN style=\"COLOR: rgb(31,73,125)\"></SPAN>&nbsp;</P></DIV></BODY></HTML>",
+            "content_type": "text/html",
+            "hash": "45a6d8ed2290dd68378b639ce86a5874f2b1533415a80efc2231d9a4790ab061",
+            "boundary": "----=_NextPart_000_17A3_01D7BE1E.7703E800"
+        }
+    ],
+    "header": {
+        "subject": "Message has been processed :AL SAIDI RFQ - PO#2005042020",
+        "from": "m.rizan@al-salidi.com",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-19T20:32:54+02:00",
+        "received_domain": [
+            "al-salidi.com"
+        ],
+        "received_ip": [
+            "45.137.22.35"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

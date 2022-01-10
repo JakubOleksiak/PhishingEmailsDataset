@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "email": [
+                "maviswanczyk195@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nI am MAVIS WANCZYK, I am donating $4,800,000.00 to you from my Lottery winnings, for more details email me on via (maviswanczyk195@gmail.com) for claim.\r\n",
+            "content_type": "text/plain",
+            "hash": "4745d46071e6b6633d0464ed36b58a8f002610010c61825cae1958dad0b7206c"
+        }
+    ],
+    "header": {
+        "subject": "I have a donation worth $4,800,000.00 for you",
+        "from": "pgomez@conatel.gob.ve",
+        "to": [],
+        "date": "2021-06-07T23:49:10-04:30",
+        "received_domain": [
+            "mail.conatel.gob.ve"
+        ],
+        "received_ip": [
+            "201.248.69.230"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

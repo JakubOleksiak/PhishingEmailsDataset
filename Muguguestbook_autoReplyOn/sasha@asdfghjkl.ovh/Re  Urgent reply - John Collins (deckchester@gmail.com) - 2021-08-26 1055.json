@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "sasha@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear friend,\r\n\r\nThanks for your urgent response and interest in this business deal. I\r\nbelieve with trust we will achieve success like one family, this is a\r\ngreat opportunity for both of us.\r\n\r\nAs you already know I am Mr. John Collins, a Banker from Lome Republic\r\nof Togo. There is a fund which I want you to help me receive in your\r\nbank account, the total amount is ($7.2 million USD) the fund belongs\r\nto a foreign late client without a next of kin as he died in a drastic\r\ncar accident with his entire family years ago. I want to present you\r\nas the next of kin so that the fund will be transferred to your bank\r\naccount. I cannot work alone without a foreigner who will act as my\r\npartner and beneficiary of the fund because of my work and position. I\r\nguarantee that this will be executed under a legitimate arrangement\r\nthat will protect both of us, as it is 100% risk free for both\r\nparties.\r\n\r\nHowever, I have decided to give you 50% of the total sum for your role\r\nand participation in this transaction and any expenses that might\r\nincurred in the course of this transaction will be taken care by  both\r\nof us\r\n\r\nI want us to put hands together in order to achieve this great\r\nfinancial opportunity and smiles together like one family\r\n\r\nYour response is urgently needed to enable me to proceed without any\r\nfurther delay.\r\n\r\nThanks!!\r\nYours Partner\r\nMr. John Collins\r\n\r\nOn 8/17/21, sasha@asdfghjkl.ovh <sasha@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Sasha\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "3e869e9250a4186843a265851f5134f58c5307afcec1075cad09b8e1cdc654ac"
+        }
+    ],
+    "header": {
+        "subject": "Re: Urgent reply",
+        "from": "deckchester@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-26T08:55:59+00:00",
+        "received_domain": [
+            "mail-qk1-f181.google.com"
+        ],
+        "received_ip": [
+            "2002:a0c:c784::",
+            "209.85.222.181"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "email": [
+                "asherkoku@gmail.com",
+                "oswald@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "gmail.com",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "send your datas as\r\nFulnames ...........\r\nMarital status .......\r\nAge .......\r\nPhone number....\r\nFax number ....\r\nOccupation ........\r\nEmail ........\r\nBest regards,\r\nBarrister Asher Koku\r\nPLS REPLY TO asherkoku@gmail.com\r\n\r\nOn Wed, Oct 6, 2021 at 9:39 PM <oswald@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Oswald\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "ff2c1c11e1b728c72db0a7cdd36c4fb02da32e1736f046858c3adfef22a07592",
+            "boundary": "0000000000000b6e7c05cdbe1ef8"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "afrimkokuviea@gmail.com",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-07T07:21:43+00:00",
+        "received_domain": [
+            "mail-yb1-f180.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.180"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

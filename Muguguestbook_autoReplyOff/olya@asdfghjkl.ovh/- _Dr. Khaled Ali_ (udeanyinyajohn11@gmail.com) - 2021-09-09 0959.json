@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://en.wikipedia.org/wiki/Khaled_Ali"
+            ],
+            "email": [
+                "drkhalida9@gmail.com"
+            ],
+            "domain": [
+                "en.wikipedia.org",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dear, Can you handle huge portfolio for investment project?\r\n\r\nHello Dear,\r\n\r\nMy name is Dr. Khaled Ali.\r\n\r\nI need to confirm if you can handle an investment portfolio of over a\r\nhundred million United states dollars (usd).\r\n\r\nYou can read more about me on my profile through the link below and\r\nget back to me if you can handle the Portfolio for further details.\r\n\r\nbelow: https://en.wikipedia.org/wiki/Khaled_Ali\r\n\r\nReply for more details Email: drkhalida9@gmail.com\r\n\r\nI await your response\r\n4\r\nYours Sincerely,\r\nDr. Khaled Ali.\r\n",
+            "content_type": "text/plain",
+            "hash": "f80648ecd719b69396e6711b5d5211b2e72a86722e322ef820f82bbd5e4ef3a1"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "udeanyinyajohn11@gmail.com",
+        "to": [],
+        "date": "2021-09-09T08:59:54+01:00",
+        "received_domain": [
+            "mail-yb1-f175.google.com"
+        ],
+        "received_ip": [
+            "2002:aca:6709::",
+            "209.85.219.175"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

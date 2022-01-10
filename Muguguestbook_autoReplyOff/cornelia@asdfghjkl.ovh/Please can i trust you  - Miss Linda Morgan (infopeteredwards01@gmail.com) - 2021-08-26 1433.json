@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "linda.morgantg@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good day\r\nPlease can i trust you?\r\nMiss Linda Morgan\r\nlinda.morgantg@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "734fbec20fc9f8f6e576d624efe9c23ac862bc2f0d09103e1b866d92e1a36dc4",
+            "boundary": "000000000000f6fe2f05ca759320"
+        }
+    ],
+    "header": {
+        "subject": "Please can i trust you?",
+        "from": "infopeteredwards01@gmail.com",
+        "to": [],
+        "date": "2021-08-26T13:33:29+01:00",
+        "received_domain": [
+            "mail-qk1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.194"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

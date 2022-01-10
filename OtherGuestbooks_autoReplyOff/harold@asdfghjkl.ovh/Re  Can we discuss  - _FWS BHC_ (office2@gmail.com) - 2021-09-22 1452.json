@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "I want to discuss a business with you. I am having your business \r\ncomplementary card. Can we discuss?\r\nI am a politician and i don't have time to invest. i am willing \r\nto invest $35 Million  in area of Investment interest: Oil & Gas, \r\nAgriculture, Aviation, Tourism, Retail, Real Estate & \r\nConstruction, IT & Communications, Engineering, Utilities, \r\nTelecoms, Mining, Maritime Sector and Entertainment industries.\r\nI will give you 40% of the total funds while i have 60% but to be \r\non a safe side and to be sure you will give to me my 60% of the \r\ntotal funds,we need to sign an agreement document to guarantee my \r\n60% please. can we discuss more? i wait to hear from you.\r\nThanks\r\nQadeer\r\n",
+            "content_type": "text/plain",
+            "hash": "76d2f28dc4d72ead88a37768a7894669956ce0c9d16d1e542221375b7800769f"
+        }
+    ],
+    "header": {
+        "subject": "Re: Can we discuss?",
+        "from": "office2@gmail.com",
+        "to": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-22T08:52:34-04:00",
+        "received_domain": [
+            "gmail.com",
+            "ns1.youtalk.tel"
+        ],
+        "received_ip": [
+            "192.144.82.244",
+            "3.239.189.221"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

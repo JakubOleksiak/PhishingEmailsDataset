@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Attn: Dear Beneficiary\r\n \r\n \r\n \r\n \r\n \r\nHave you received your payment which was scheduled to be remitted to you on 06-01-2021? You have to confirm back to me immediately.\r\n \r\n \r\n \r\nIf you have been fully paid and compensated, kindly specify the following below:\r\n \r\n \r\n \r\nFULL NAME:\r\nAMOUNT TRANSFERRED:\r\nAMOUNT EXPECTING:\r\nDIRECT MOBILE NUMBER:\r\n \r\n \r\n \r\nI will be waiting to hear from you immediately.\r\n \r\n \r\n \r\n \r\nThanks.\r\nMr. Morrison Green,\r\nFunds Investigator.\r\n",
+            "content_type": "text/plain",
+            "hash": "553e2fa1f37a10c4c7faa33640c8b8912c3b28fa235b5de90cc75f2e7017166a"
+        }
+    ],
+    "header": {
+        "subject": "Attn:. Confirm If You Have Received Your Funds.  ",
+        "from": "info@promede.com",
+        "to": [
+            "info@promede.com"
+        ],
+        "date": "2021-06-08T02:30:58+02:00",
+        "received_domain": [
+            "hy-eojx9.27993",
+            "cars-srv-dc.cars.local"
+        ],
+        "received_ip": [
+            "64.39.177.26",
+            "103.28.70.233"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

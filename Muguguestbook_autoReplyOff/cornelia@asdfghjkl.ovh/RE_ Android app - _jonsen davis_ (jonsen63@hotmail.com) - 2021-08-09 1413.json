@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,Cornelia\r\n\r\nHow about a place in Apple App Store, and Google Play Store? \r\n\r\nOur mobile app developers can build the mobile app to your requirement, in\r\nyour budget and as per your timeline.\r\n\r\nWe build all kinds of Apps \r\n\r\n.    Android Apps\r\n\r\n.    I Phone Apps \r\n\r\n.    I Pad Apps \r\n\r\n.    Mobile App layout and UX design\r\n\r\nIf you have any kind of Mobile App's requirement, then please share your\r\nfull requirements with your website URL so that I can share you more details\r\naccordingly.\r\n\r\nThanks\r\n\r\nJonsen\r\n\r\nBusiness Development Manager\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "52f7f13d9761fa96342d4b91e57f618ff5560c1cf13161eef2e383e0a84c8db0",
+            "boundary": "----=_NextPart_000_443A_01D78D46.43BBFEA0"
+        }
+    ],
+    "header": {
+        "subject": "RE; Android app",
+        "from": "jonsen63@hotmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-09T17:43:16+05:30",
+        "received_domain": [
+            "pn0pr01ca0039.indprd01.prod.outlook.com",
+            "db8eur05ft010.eop-eur05.prod.protection.outlook.com",
+            "db8eur05ht137.eop-eur05.prod.protection.outlook.com",
+            "db8eur05ft010.mail.protection.outlook.com",
+            "db8pr04mb7178.eurprd04.prod.outlook.com",
+            "eur05-am6-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:fc0f::4d",
+            "2603:1096:c01:49::9",
+            "40.92.91.52",
+            "2a01:111:e400:fc0f::65",
+            "2a01:111:e400:fc0f::203",
+            "2a01:111:e400:fc0f::51",
+            "2401:4900:1f38:5e87:c97:12e1:6a2b:1a44"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

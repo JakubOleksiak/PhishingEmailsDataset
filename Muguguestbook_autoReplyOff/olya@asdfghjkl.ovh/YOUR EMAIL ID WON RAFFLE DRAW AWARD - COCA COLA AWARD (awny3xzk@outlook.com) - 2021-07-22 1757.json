@@ -1,0 +1,67 @@
+{
+    "attachment": [
+        {
+            "filename": "WINNING DETAILS CC.jpg",
+            "size": 286882,
+            "extension": "jpg",
+            "hash": {
+                "md5": "98d97272c9534ca66971d02ae2b08178",
+                "sha1": "68092d7bed207bbc2f663377523650d5cdaf0bf9",
+                "sha256": "a8a8af0ebff2fd09825756a84c694cde8158b318dd40cc4a3f798de7e9032faa",
+                "sha512": "124e2395c4035d56e4f3d34d2ec649001495324aed7455598943328c900819dfef1588bb5b3ab3887f43d6fe296ea600e9b1d3cdf36c186290b65a496c943149"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"WINNING DETAILS CC.jpg\""
+                ],
+                "content-description": [
+                    "WINNING DETAILS CC.jpg"
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"WINNING DETAILS CC.jpg\"; size=\"286882\"; creation-date=\"Sun, 16 May 2021 20:56:28 GMT\"; modification-date=\"Thu, 22 Jul 2021 15:56:20 GMT\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1252\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Attention Winner,\r\n\r\nThis is to notify you on your winning in the 2021 coca cola promotion raffle draw. You have won one million British Pounds (\u00a31,000,000.00) Kindly reconfirm your details as stated below to enable us give you the details of the promotion and how to claim your winning amount\r\n\r\n(1) NAME ...................................\r\n\r\n(2) AGE:......................................\r\n\r\n(3) SEX:.......................................\r\n\r\n(4) ADDRESS:.......................................\r\n\r\n(5) EMAIL:...............................................\r\n\r\n(6) PHONE:..............................................\r\n\r\n(7) OCCUPATION:..................................\r\n\r\n(8) COMPANY\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n(9) STATE/CITY:......................................\r\n\r\n(10)COUNTRY:........................................\r\n\r\n(11) NATIONALITY:.................................\r\n\r\n(12)TICKET / BALLOT NUMBER:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n(13)AMOUNT WON:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nWe shall proceed with the immediate release of your winning amount upon your reply to this email. You are required to contact our fiduciary agent (NAME): MR.GREG SMITH Email: gregsmithukmanager1@outlook.com<mailto:gregsmithukmanager1@outlook.com>\r\n\r\n\r\n\r\nCongratulations Once again!!.\r\n\r\nYours Sincerely\r\nMrs. Linda Dominic.\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "b88ff538ffc2aa8ced3aab331f0817da7f377fc61494103feb858a797ef9379b",
+            "boundary": "_000_MW2PR12MB249243E2A52E0C40D676963B87E49MW2PR12MB2492namp_"
+        }
+    ],
+    "header": {
+        "subject": "YOUR EMAIL ID WON RAFFLE DRAW AWARD",
+        "from": "awny3xzk@outlook.com",
+        "to": [],
+        "date": "2021-07-22T15:57:27+00:00",
+        "received_domain": [
+            "bn7nam10ht098.eop-nam10.prod.protection.outlook.com",
+            "nam10-bn7-obe.outbound.protection.outlook.com",
+            "bn7nam10ft009.eop-nam10.prod.protection.outlook.com",
+            "bn7nam10ft009.mail.protection.outlook.com",
+            "mw2pr12mb2492.namprd12.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7e8f::413",
+            "2a01:111:e400:7e8f::248",
+            "40.92.40.45",
+            "2a01:111:e400:7e8f::51",
+            "2a01:111:e400:7e8f::4d"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

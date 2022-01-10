@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "From Olivia?\r\n",
+            "content_type": "text/plain",
+            "hash": "47e3896f9abe9ba21b17ed2dc9de20ac82011d951b3e9ce4bf7ab1d74add6803",
+            "boundary": "0000000000006ce11c05cae4f0ae"
+        }
+    ],
+    "header": {
+        "subject": "From Olivia?",
+        "from": "jafarnancy20@gmail.com",
+        "to": [],
+        "date": "2021-09-01T01:24:50+00:00",
+        "received_domain": [
+            "mail-wm1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.52"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

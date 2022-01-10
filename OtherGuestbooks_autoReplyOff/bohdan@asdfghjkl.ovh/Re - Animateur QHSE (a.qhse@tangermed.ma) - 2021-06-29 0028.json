@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "jhaskel60@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Attn: Your Names are linked to an unclaimed benefit Please Email: jhaskel60@gmail.com details\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "151155f33f530780f8c4f9825796baf04c24b446ee77ee154f266f7692c3617e",
+            "boundary": "_000_cddc3fae5b2d4d888ff2a7cb661f1e30WTEXCM1tmsama_"
+        }
+    ],
+    "header": {
+        "subject": "Re",
+        "from": "a.qhse@tangermed.ma",
+        "to": [],
+        "date": "2021-06-28T22:28:07+00:00",
+        "received_domain": [
+            "wtexcm2.tmsa.ma",
+            "wtexcm3.tmsa.ma",
+            "mail2.tmsa.ma",
+            "wtexcm1.tmsa.ma"
+        ],
+        "received_ip": [
+            "81.192.64.231"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

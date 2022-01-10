@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Greetings\r\n\r\n I was searching through a local business directory when I found your\r\n\r\nProfile. I am Soliciting On-Behalf of my private client who is interested in given out big loans to high profile individuals who are interested in a serious business investment or has a valid business, investment or project he/she wants to pump more cash into, as we know the pandemic has destroyed so many finances so if you are interested in needing any loan get to me for more details. Your swift response is highly needed. Contact me via email: listephan27@gmail.com\r\n\r\n Sincerely Stephen Li\r\n",
+            "content_type": "text/plain",
+            "hash": "14ced0a9e79583295c86b139eba269a54e6c44809bbb76b2d31833e85c9085b7"
+        }
+    ],
+    "header": {
+        "subject": "Stephen Li",
+        "from": "app@procket.com.br",
+        "to": [
+            "app@procket.com.br"
+        ],
+        "date": "2021-09-01T14:55:40+01:00",
+        "received_domain": [
+            "zimbra.npk-mt.spb.ru"
+        ],
+        "received_ip": [
+            "81.3.188.230"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

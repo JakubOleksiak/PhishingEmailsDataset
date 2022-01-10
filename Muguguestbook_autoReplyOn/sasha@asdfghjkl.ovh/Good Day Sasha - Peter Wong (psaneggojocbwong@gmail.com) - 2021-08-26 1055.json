@@ -1,0 +1,64 @@
+{
+    "attachment": [
+        {
+            "filename": "Agreement Form.jpg",
+            "size": 694975,
+            "extension": "jpg",
+            "hash": {
+                "md5": "693687aeda7a5b457fd30fd673322721",
+                "sha1": "4485e6b5d5ba35205e87c82fe481d7ff1032f896",
+                "sha256": "69cdf4fbb99961f1f242e4f8dda071bd75ae2dc76bc13a639aae380ca37d3447",
+                "sha512": "129731ea1aa31c5d67c4ef35f71a774167dd382f48b113a04bdf868f6f2d0bfafcc593ef4842f4213dd905a77512d9d4f0f246e78818875f516aee65162be155"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"Agreement Form.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"Agreement Form.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_kssovsrw0>"
+                ],
+                "x-attachment-id": [
+                    "f_kssovsrw0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Thanks for your response to my email,considering the money involved,and due\r\nto the nature of this transaction, it is necessary for you to be sure of\r\nwhom you are transacting with, I want to be sure that you are ready to\r\nexecute this transaction with me. What I expect from you is trust and\r\ncommitment, I want this large sum of money transferred with your assistance\r\nand you should have nothing to worry about regarding legality AT ALL.\r\nConsidering the paper work we are about to sign together, I will appreciate\r\nyou to follow my directives amicably as everything shall be done in\r\naccordance passing through all international banking laws, and as a banker\r\nI know that if we follow up this transaction diligently it would be\r\ncompleted within 9 working days.\r\n\r\nI have attached to this mail, an agreement letter which you are to fill and\r\nsign, then scan and send it as an attachment via E-mail to me, before the\r\nAttorney can go ahead with the preparation of the application for funds\r\nrelease and some other documents which you shall also sign, before he can\r\nofficially tendered the application on our behalf, so that it will be look\r\ninto before the funds can be endorse for transfer.\r\n\r\nI await your prompt reply on this.\r\n\r\n\r\nKind Regards\r\nMr. Peter Wong\r\nTell : (852)28593251\r\nEmail: santhmense@gmail.com\r\nEmail: psaneggojocbwong@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "c2427a7735174297a95ea63cffc90839aae5bccdc239be1c5a6ddd99351e04be",
+            "boundary": "00000000000080243505ca7286c5"
+        }
+    ],
+    "header": {
+        "subject": "Good Day Sasha",
+        "from": "psaneggojocbwong@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-26T09:55:05+01:00",
+        "received_domain": [
+            "mail-ot1-f65.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.65"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

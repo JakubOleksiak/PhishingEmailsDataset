@@ -1,0 +1,63 @@
+{
+    "attachment": [
+        {
+            "filename": "image001.png",
+            "size": 157,
+            "extension": "png",
+            "hash": {
+                "md5": "d0f99a9fee5c9e057f5b76ce5f4a375d",
+                "sha1": "0be9ac0e2999dfefb2353f6b38d056e9f2dfc478",
+                "sha256": "a00bee78697bf96cb900b301e383845c5c8b83cecf66c371a3cf4bccd4e80dd2",
+                "sha512": "0869b8075112d12804c25908c3fbdfc0543b1c642c48cdbfd320466a08a185489f44ab36338e662a78735fef00d7650b5d7f2baf51b30d41f92f39948fabcd85"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image001.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<image001.png@01D76CD1.64241550>"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Olya\r\n\r\nI am reaching out to see if there is anything that would like to upgrade,\r\nrepair, or redesign on your site. I am a web designer / developer that can\r\ndo just about anything you can imagine at very affordable prices.\r\n\r\nLet me know what you think.\r\n\r\nPS: - if this is something, you are interested please respond to this email\r\nfor Portfolio and Price list.\r\n\r\nThanks &Regards,\r\n\r\n\t\r\n\t\t\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "43552d161751a26888a5bfbd3a075ca65d39c5e3a510257268e316b06317fba5",
+            "boundary": "----=_NextPart_001_077C_01D76CD4.DE932210"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices",
+        "from": "goerge5766wal@gmail.com",
+        "to": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-29T10:51:59+05:30",
+        "received_domain": [
+            "mail-vk1-f196.google.com",
+            "smtp.gmail.com"
+        ],
+        "received_ip": [
+            "209.85.221.196",
+            "182.69.228.183"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

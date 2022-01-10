@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings from me\r\nMy name is Monica Brown and how are you today, please I have something that\r\ni will like to share with you okay please try and get back.\r\n",
+            "content_type": "text/plain",
+            "hash": "d0da874183ff7379948bf2053b1ec2333fd4ed0633a8545b71764a725c77a9e8",
+            "boundary": "0000000000002fd79505c84f9c8d"
+        }
+    ],
+    "header": {
+        "subject": "HI",
+        "from": "monica6brown@gmail.com",
+        "to": [],
+        "date": "2021-07-30T04:25:10+00:00",
+        "received_domain": [
+            "mail-ej1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.52"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

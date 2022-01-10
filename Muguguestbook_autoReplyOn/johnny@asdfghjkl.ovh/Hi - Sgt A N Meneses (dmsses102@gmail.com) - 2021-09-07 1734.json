@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I'm Alfred Norr Menesses from the United States but presently working\r\nin Afghanistan. I have been trying to send an email to you for a\r\ncouple of days but each time I try sending, my message will return\r\nback as a failure. Do not know where the fault was coming from. I have\r\nnot given up,still trying to send and interested to tell you my\r\npurpose of contacting you. Kindly acknowledge receipt by return mail\r\nif you eventually receive this. My photo is attached.\r\n\r\nYour friend,\r\nSergeant A.N Menesses\r\n",
+            "content_type": "text/plain",
+            "hash": "03d06793273c253295f692655a186fb0fc2973ce27ef091e721153797e135f89"
+        }
+    ],
+    "header": {
+        "subject": "Hi",
+        "from": "dmsses102@gmail.com",
+        "to": [],
+        "date": "2021-09-07T16:34:26+01:00",
+        "received_domain": [
+            "mail-wm1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.53",
+            "2002:a05:600c:1d0b::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

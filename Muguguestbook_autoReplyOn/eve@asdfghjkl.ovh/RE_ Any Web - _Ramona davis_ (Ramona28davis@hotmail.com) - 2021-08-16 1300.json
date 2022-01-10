@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi,Eve\r\n\r\nWould you be interested in building your website? We are a professional web\r\ndesign and development Company from USA.\r\n\r\nWe are expert in the following:\r\n\r\n\r\nWebsite RE- Design\r\n\r\nE-Commerce Solutions\r\n\r\nCustom Websites\r\n\r\nDrupal Websites\r\n\r\n\r\nJoomla Websites\r\n\r\nUpgrade Websites\r\n\r\nShopify Websites\r\n\r\nHTML Websites\r\n\r\nWe'd be glad to work with you to build your new home on the internet! Just\r\nreply back to this mail with your requirements and direct contact details\r\nlike phone number, Skype id, Whatsapp number.\r\n\r\nThanks,\r\n\r\nRamona\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "88d5ce5a6e9c25557a0bee1832e2011898d59be4b54092678c7e944b5634f74e",
+            "boundary": "----=_NextPart_000_27D9_01D792BC.AE81D450"
+        }
+    ],
+    "header": {
+        "subject": "RE; Any Web",
+        "from": "ramona28davis@hotmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T16:30:59+05:30",
+        "received_domain": [
+            "hk2apc01ft056.eop-apc01.prod.protection.outlook.com",
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "slxp216mb0768.korp216.prod.outlook.com",
+            "bm1pr0101ca0009.indprd01.prod.outlook.com",
+            "hk0pr03ca0107.outlook.office365.com",
+            "hk2apc01ft056.mail.protection.outlook.com",
+            "hk0pr03ca0107.apcprd03.prod.outlook.com",
+            "hk0pr02mb3490.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:b00:18::19",
+            "40.92.255.75",
+            "2a01:111:e400:7ebc::323",
+            "2603:1096:203:b0:cafe::6",
+            "2a01:111:e400:7ebc::4a",
+            "2401:4900:1f38:6993:38e7:4546:fdc3:ed39",
+            "2603:1096:203:77::12",
+            "2603:1096:203:b0::23"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

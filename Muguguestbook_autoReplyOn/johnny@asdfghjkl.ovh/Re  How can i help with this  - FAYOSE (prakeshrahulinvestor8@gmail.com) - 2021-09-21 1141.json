@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "email": [
+                "iykoh7@yahoo.com",
+                "johnny@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "yahoo.com",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "by replying to iykoh7@yahoo.com\r\nthanks\r\n\r\nOn Tue, Sep 21, 2021 at 10:27 AM <johnny@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> John\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "699a679d22f01d48e19eef862f8d0c55b77dd0b133edaff936eeb5eb625a3473",
+            "boundary": "000000000000a4e4f605cc7e3488"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "prakeshrahulinvestor8@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-21T10:41:32+01:00",
+        "received_domain": [
+            "mail-qk1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.179"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

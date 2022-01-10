@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.9600.18763\"></HEAD>\r\n<body style=\"MARGIN: 0.5em\">\r\n<P>Attention,<BR><BR>I'm an investor who supports and gives financial opportunities to business communities, real estates, Hair Stylists, farmers, IT providers, Gamers, entrepreneurs, startups and business seeking investors in the form of equity or convertible note .<BR><BR>Does your business or project currently need financing? If there is anything I can help with let me know and share your project to enable us to discuss it further.Send me an email to <BR>\r\n<A id=LPlnk299137 href=\"mailto:chen.yang05@yandex.com\" rel=\"noopener noreferrer\" target=_blank data-linkindex=\"0\" data-auth=\"NotApplicable\">chen.yang05@yandex.com</A><BR><BR>Regards,<BR>Chen</P></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "0d7f16828375d4691cca2c6a7e6cdb655600d788256f1d156132271197952fe6"
+        }
+    ],
+    "header": {
+        "subject": "Do You need help   (ML)",
+        "from": "mapfrechen@mixmail.com",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-30T03:02:20+02:00",
+        "received_domain": [
+            "mixmail.com"
+        ],
+        "received_ip": [
+            "156.146.49.138"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

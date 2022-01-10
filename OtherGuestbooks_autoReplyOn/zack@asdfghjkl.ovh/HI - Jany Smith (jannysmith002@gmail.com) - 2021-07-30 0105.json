@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dear i am Jany by name i gut your email and i decided to contact you\r\nfor us to know each other more better,once i get your message i will send\r\nyou my pictures and also tell you more details about myself,\r\n",
+            "content_type": "text/plain",
+            "hash": "b924990327d310f8cedd75764ef11892f48ec39fa1aa3a1a4390a3dc5cc786a4",
+            "boundary": "000000000000cbb79d05c84b22c0"
+        }
+    ],
+    "header": {
+        "subject": "HI",
+        "from": "jannysmith002@gmail.com",
+        "to": [],
+        "date": "2021-07-30T02:05:09+03:00",
+        "received_domain": [
+            "mail-vs1-f43.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.43"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

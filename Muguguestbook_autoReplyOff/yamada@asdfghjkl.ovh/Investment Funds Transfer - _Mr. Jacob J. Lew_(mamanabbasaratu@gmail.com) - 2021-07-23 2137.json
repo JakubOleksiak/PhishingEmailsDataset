@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nHello ,</DIV>\r\n<DIV>\r\nI am Jacob J. Lew . Head of Operations at Finance and Account</DIV>\r\n<DIV>\r\nDepartment of Qatar Petroleum. I have an Investment opportunity</DIV>\r\n<DIV>\r\nof $100m, for Investment in your Country. I need your assistance</DIV>\r\n<DIV>\r\nand co-operation to move it into your account as a Contract</DIV>\r\n<DIV>\r\nPayment with the QP for onward investment in your country.</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\nTell me if you can handle this, if you can't, don't let this</DIV>\r\n<DIV>\r\nto be known by any other person. Its between you and I.</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\nKind regards,</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\nJacob J. Lew</DIV>\r\n<DIV>\r\nFinance and Account Department</DIV>\r\n<DIV>\r\nQatar Petroleum</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "8dc1899be8545aed4a2bc23a205921f82efc17a5c67ac243ad8e0f7e89f7343b"
+        }
+    ],
+    "header": {
+        "subject": "Investment Funds Transfer",
+        "from": "mamanabbasaratu@gmail.com",
+        "to": [],
+        "date": "2021-07-23T21:37:51+02:00",
+        "received_domain": [
+            "160-251-16-122.localdomain"
+        ],
+        "received_ip": [
+            "6::",
+            "160.251.16.122"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

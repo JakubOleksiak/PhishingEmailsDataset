@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "covid-19claims@mail.com"
+            ],
+            "domain": [
+                "mail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nDear Beneficiary/Registered Email Address Owner,\r\nREGISTERED CLAIM NR: WH0/8210531MF\r\nCOVID-19 COMPENSATION LOTTERY PRIZE\r\nThe World Health Organization (WHO), in association with international Monetary Fund(IMF) and Bill & Melinda Gates Foundation, bring this notice to you as a beneficiary of compensation Lottery prize payment of 1Million USD for losses and damages suffered as a result of impact of the global COVID-19 pandemic.\r\nThis notification letter confirms the approval of your selection as a beneficiary of the compensation prize payment. Your email address was randomly drawn and selected from global databases, and registered with the above claim number. This qualifies and confirms you to lodge a compensation prize claim of One Million USD.\r\nYour COVID-19 compensation prize payment has been approved, and will be processed by a WHO\u00ad appointed finance management firm-Capital Finance Inc, London. Your COVID- 19 compensation claim, after being processed by Capital Finance Inc, will then be paid out to you by any of our appointed paying banks located either in South Africa, Switzerland and the United Kingdom.\r\nYou are advised now on one and final notice, to contact the Claims Office of Capital Finance Inc, and file your claim application. The following document/details below, must be submitted by email as a Claim Application to the Claims Office of Capital Finance Inc, London.\r\n(1) Copy of your proof of identification or passport ID (2) Your registered claim number (3) Nationality (4) Occupation (5) Contact address, contact telephone number and email address.\r\nSubmit Claim Application to:\r\nThe Claims Office:\r\nCapital Finance Inc., London\r\ne-mail: COVID-19claims@mail.com\r\nIn order to process and receive payment of your compensation, your claim application must be submitted to the Claims Office of Capital Finance Inc London and duly processed. We expect your urgent confirmation and response to this notice as directed. to enable the WHO complete due payment to you.\r\n\r\nWith Best Compliments,\r\nAndree Pinard Clark\r\nDirector-General's Office\r\nDepartment of Communications\r\nCOVID-19-IMF Compensation Fund.\r\nWorld Health Organization(WHO)\r\n",
+            "content_type": "text/plain",
+            "hash": "e327dd10657f2f7c054cf2ed48a422a90e568a4a2fe9b54580e2fe9e94e2f2b5",
+            "boundary": "BRXEMrmpRBtgCAWFALGGZRKdv2K8xoJ=_J"
+        }
+    ],
+    "header": {
+        "subject": "COVID-19 COMPENSATION LOTTERY PRIZE",
+        "from": "support@domet.co.in",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-01T20:03:26-07:00",
+        "received_domain": [
+            "p3plsmtpa07-07.prod.phx3.secureserver.net"
+        ],
+        "received_ip": [
+            "173.201.192.236",
+            "91.134.145.129"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "kronda240@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Good Friend,\r\n\r\nMy name is Mrs Ronda Kampala,I am 30 years old, I intend to invest\r\nbond/share of my late Husband oversea, under your profersional advise.\r\n\r\nReply if your are interesting.\r\ncontact me through this private mail address ( kronda240@gmail.com )\r\n\r\nRegard\r\nMrs Ronda Kampala\r\n",
+            "content_type": "text/plain",
+            "hash": "94664da1128cfe8752df9f7c80b6c5755cd20acca95e256b7baa9e0a8b8bfbd3"
+        }
+    ],
+    "header": {
+        "subject": "investment project",
+        "from": "oficef02@gmail.com",
+        "to": [],
+        "date": "2021-09-22T04:39:56-07:00",
+        "received_domain": [
+            "mail-ed1-f65.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.65",
+            "2002:a17:906:30d1::"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

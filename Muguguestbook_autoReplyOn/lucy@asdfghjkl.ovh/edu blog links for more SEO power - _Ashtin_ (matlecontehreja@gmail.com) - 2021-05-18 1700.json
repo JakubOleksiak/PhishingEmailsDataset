@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.creative-digital.co/unsubscribe/",
+                "https://www.creative-digital.co/product/edu-backlinks/"
+            ],
+            "domain": [
+                "www.creative-digital.co"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi!\r\n\r\nCheap 1000 edu blogs links to increase authority and ranks\r\nhttps://www.creative-digital.co/product/edu-backlinks/\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhttps://www.creative-digital.co/unsubscribe/\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "9f616fdbb69ac03ef5e590bedfa2ab80cfaab57f4e63932637a1f7c4ee4e77ca"
+        }
+    ],
+    "header": {
+        "subject": "edu blog links for more SEO power",
+        "from": "matlecontehreja@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-18T09:00:01-06:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "92.244.247.144"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings Dear,\r\n\r\nMy name is Norbert Parpan, a Legal practitioner. I apologize for contacting\r\nyou in this manner but the situation at hand demands urgent attention from\r\nall presumed beneficiaries. I have an important subject to share with you,\r\nregarding my late client Martin, a nationality of your country who has the\r\nsame last name as you inheritance funds in his bank. Write back for more\r\ndetails.\r\n\r\nRegards,\r\nNorbert Parpan.\r\n",
+            "content_type": "text/plain",
+            "hash": "84a6fbb077616b5197fe7f222bc0b3e010e30458fbf4211a4f052cd58b03b5e1",
+            "boundary": "00000000000057e52505c9f94954"
+        }
+    ],
+    "header": {
+        "subject": "Your kind attention",
+        "from": "legalandadviceservices@gmail.com",
+        "to": [],
+        "date": "2021-08-20T09:16:19+01:00",
+        "received_domain": [
+            "mail-yb1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.196"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

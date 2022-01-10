@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "domain": [
+                "through.as"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "How are you my good Friend,\r\n\r\nThis is to inform you that I have finally succeeded in completing the project. I therefore thank God Almighty for his grace that saw me through.As a matter of fact, I didn't forget your past efforts and attempts to assist me in securing the project I executed with Sustainable Development Project (SDP) in collaboration with United Nations Development Programs (UNDP)\r\n\r\nHowever, I have left behind the certified International Bank Cheque of $950.000.00 in the custody of Safeway Security and Shipping Services. The certified International Bank Cheque will be registered and delivered to your doorstep.\r\n\r\nYou are advised to contact Mr.Edward Daniel and he will advise you accordingly. The contact email address of Mr.Edward Daniel read thus: edwardan96@gmail.com\r\n\r\nGod bless you\r\nBest Regards,\r\nMr. Jacob Union\r\n",
+            "content_type": "text/plain",
+            "hash": "6f9edbca935364c7280871935b07e256b3af377b23fe9ee635ca789d4af1aa57"
+        }
+    ],
+    "header": {
+        "subject": "Greetings! my good Friend For your compensation,",
+        "from": "officer.director@mail.com.tr",
+        "to": [],
+        "date": "2021-08-06T09:01:11-07:00",
+        "received_ip": [
+            "190.63.48.210",
+            "136.144.41.242"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

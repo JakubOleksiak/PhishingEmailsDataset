@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.mansourgroup.com/"
+            ],
+            "domain": [
+                "www.mansourgroup.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\nHello,\r\n\r\nMy name is Mohamed Mansour from Egypt ( CEO MANSOUR GROUP). I want to discuss business/Investment with you in your area and i need your kind response to discuss further.\r\n\r\nAlso glance through my profile via Google.\r\n\r\nWebsite:www.mansourgroup.com<http://www.mansourgroup.com/>\r\n\r\nWarm Regards,\r\nMohamed Mansour\r\n",
+            "content_type": "text/plain",
+            "hash": "c4b080dbf0ede694e9fd7374f0f0003d909b5fc664398553ce892ef7826b3cf8",
+            "boundary": "_000_CY4PR04MB10819FF2B09213EE7E5B4A36CFF89CY4PR04MB1081namp_"
+        }
+    ],
+    "header": {
+        "subject": "Mansour Group",
+        "from": "profitableservices10@outlook.com",
+        "to": [],
+        "date": "2021-08-11T03:05:45+00:00",
+        "received_domain": [
+            "nam12-dm6-obe.outbound.protection.outlook.com",
+            "cy1pr04mb2345.namprd04.prod.outlook.com",
+            "cy4pr04mb1081.namprd04.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10b6:910:55::29",
+            "40.92.22.20",
+            "2a01:111:e400:c60e::27"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

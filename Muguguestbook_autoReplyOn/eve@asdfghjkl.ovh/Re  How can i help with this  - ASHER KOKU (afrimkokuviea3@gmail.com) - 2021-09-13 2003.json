@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "eve@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Send me your datas as below for more details\r\n\r\nPhone number....\r\nFax number ....\r\nOccupation ........\r\nEmail ........\r\nBest regards,\r\nBarrister Asher Koku\r\nOn Monday, 13 September 2021, <eve@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Eve\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "cf1a7a634dec3d35907ca3dbf4793568e9c00551894ea27eff20a79b11e30b07",
+            "boundary": "0000000000007140a405cbe44901"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "afrimkokuviea3@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-13T18:03:48+00:00",
+        "received_domain": [
+            "mail-il1-f180.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6638:372a::",
+            "209.85.166.180"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

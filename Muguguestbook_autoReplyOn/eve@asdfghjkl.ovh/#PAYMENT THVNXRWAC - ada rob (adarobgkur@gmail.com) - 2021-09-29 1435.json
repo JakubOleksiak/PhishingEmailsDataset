@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Dear Subscriber,*\r\n\r\n\r\n\r\nYour activation for NORTON PC has been successfully renewed & restored.\r\n\r\n\r\n\r\nThe entire transaction will be reflected within next 24 to 48 hours on your\r\na/c profile.\r\n\r\n\r\n\r\n_PRODUCT DESCRIPTION_\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nInvoice Number              :       THVNXRWAC\r\n\r\n\r\n\r\nProduct Name                 :       NORTON PC\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nStart Date                         :       29th September 2021\r\n\r\n\r\n\r\nEnd Date                           :       1 year from the date of purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nAmount                             :       $253.04USD\r\n\r\n\r\n\r\nPayment Method            :       AUTO DEBIT\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n** If you wish to claim a REFUND then please feel free to contact our\r\nbilling department as soon as possible. **\r\n\r\n\r\n\r\nYou can Reach us on   +1   \u2013  (888)   \u2013  549   \u2013  0042\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "bf811ffd83a6a52d42bff826b31d8b7f85d199acac86e83b49f5547f13f978ec",
+            "boundary": "000000000000932a9305cd219259"
+        }
+    ],
+    "header": {
+        "subject": "#PAYMENT THVNXRWAC",
+        "from": "adarobgkur@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-29T18:05:48+05:30",
+        "received_domain": [
+            "mail-ed1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.47"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

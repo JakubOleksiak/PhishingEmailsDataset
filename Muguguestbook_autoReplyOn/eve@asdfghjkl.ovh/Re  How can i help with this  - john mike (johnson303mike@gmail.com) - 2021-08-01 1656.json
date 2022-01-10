@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "eve@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I'm John Mike, Contract Director inheritance/contract funds approved by the\r\nWorld Monetary Institution,\r\nwhich has been delayed due to the problems on cash movement and transfer of\r\nHuge sums of $1.2 million.\r\nwhere to pick up the cash. You can pick up the cash at any of the\r\nconvenient Bank Transfer A withdrawal slip\r\n\r\nOn Mon, Jul 26, 2021 at 12:20 PM <eve@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Eve\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "f69df083396b2e2abf17765e2f2e187c7d6a313042da3f8bb8aef403e76362b4",
+            "boundary": "0000000000001cd04d05c86cfea6"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "johnson303mike@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-01T07:56:53-07:00",
+        "received_domain": [
+            "mail-pl1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.214.177"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

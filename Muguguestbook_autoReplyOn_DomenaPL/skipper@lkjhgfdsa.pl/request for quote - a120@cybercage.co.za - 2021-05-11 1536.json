@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-type": [
+                    "text/plain; format=\"flowed\"; charset=\"iso-8859-1\""
+                ]
+            },
+            "content": "Greetings,\r\n\r\nSee attached request for quotation.\r\nRevert the quote as per spreadsheet.\r\n\r\nBest Regards,\r\nPurchase South Africa\r\nAXIZ (PTY) LTD\r\nPhone: +27 21 529 3908\r\n1 Waterford Place, Century Blvd, Century City, WC\r\n",
+            "content_type": "text/plain",
+            "hash": "bcb08ebd49abab4de2aff6b06394cd73d98b3e55efddd2313221a76da9ebd538"
+        }
+    ],
+    "header": {
+        "subject": "Message has been processed :request for quote",
+        "from": "a120@cybercage.co.za",
+        "to": [
+            "undisclosed-recipients:"
+        ],
+        "date": "2021-05-11T15:36:54+02:00",
+        "received_email": [
+            "a120@cybercage.co.za"
+        ],
+        "received_domain": [
+            "srv92.hostserv.co.za",
+            "ladybird.maple.relay.mailchannels.net",
+            "relay.mailchannels.net"
+        ],
+        "received_ip": [
+            "23.83.214.98",
+            "100.101.162.41",
+            "41.185.8.164"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

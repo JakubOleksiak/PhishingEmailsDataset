@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "funds.we",
+                "money.first",
+                "information.your"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "*Attention Beneficiary,....This is to inform you that we have reviewed all\r\nthe problems regarding the transfer of your USD $7.5 Million and due to\r\nyour inability to receive your funds.We have decided to  deposit your funds\r\nwith western union here in Republic due Senegal which will be the easiest\r\nand fastest way to receive your funds without more delaying.Therefore,You\r\nhave to contact the western union with the below details to start receiving\r\nyour funds. However, Be in mind that we have already paid for the deposit\r\ncharges and the only money you will pay is the capitation fee of $170 only\r\nin order to start receiving your funds through western union. Below is the\r\nwestern union Contact Address which you can contact them now and start\r\nreceiving your money.First I want you to re-confirm the below\r\ninformation.Your full name......Your Country/Address........Your Phone\r\nnumber....Occupation/Valid ID..... Contact person.Mr. James BenWestern\r\nUnion managerContact Email: westernunionotransfer@gmail.com\r\n<westernunionotransfer@gmail.com>Phone number +221 703 105 296. Contact\r\nthem as soon as you receive this message to avoid the demur-rage fee.I gave\r\nthem your information\u2019s address but you have to re-confirm it to them again\r\nto avoid any mistake in the receiver name. Let me know as soon as you\r\nreceive your funds and be informed that any delay at this time may be\r\ndangerous.Thanks for your understanding.Yours FaithfulMr. David Macky.*\r\n",
+            "content_type": "text/plain",
+            "hash": "da8c237b2efe7ffe7f7367b5c04ae3a0b6ac7cc6239163bc1d9b4cf7ca0e6daf",
+            "boundary": "0000000000002ada8705cb5e382d"
+        }
+    ],
+    "header": {
+        "subject": "Attention Beneficiary,....",
+        "from": "unitedbankf8@gmail.com",
+        "to": [],
+        "date": "2021-09-07T02:06:35+00:00",
+        "received_domain": [
+            "mail-lj1-f176.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.176"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

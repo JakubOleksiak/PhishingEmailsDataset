@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; format=\"flowed\""
+                ]
+            },
+            "content": "-- \r\nDear Sir/Ma'am,\r\n\r\nWe wish to bring to your notice today that the process for the transfer \r\nof your fund has been perfected.\r\n\r\nThe Clydesdale Bank, United Kingdom will transfer your total approved \r\nsum of US$1,850,000.00 (One Million Eight Hundred and Fifty Thousand US \r\nDollars) within 24hrs once the Originating  Bank is able to activate the \r\nInternational Transfer Permit Code (ITPC), synchronizing with the \r\nClydesdale Bank, United Kingdom Telex System. This will be after the  \r\nUS$285 ITPC fee has been received from you.\r\n\r\nBe informed that this fee of US$285 cannot be deducted from your fund. \r\nThe government has already gazetted your fund and under the insurance \r\npolicy and regulations placed on this approved fund, it has been \r\ngazetted and no deductions can be made. Your fund being gazetted means \r\nthe government has made it official that that particular amount will be \r\nreleased into your account without being decreased by any amount or \r\nincreased by any amount.\r\n\r\nYou are therefore urged to contact back immediately to enable us \r\nfinalize the transfer process of your fund with the Clydesdale Bank, \r\nUnited Kingdom. The transfer of your fund will be done electronically, \r\nand fund confirmed in your account within specified hours.\r\n\r\nI wait your quick action on this.\r\n\r\nFrank Mbanefo",
+            "content_type": "text/plain",
+            "hash": "4866fa5101363298b32e555cb0efb0380d5933ecdf608753c58dd6de0de66244",
+            "boundary": "=_35f56cfee9b58ecd7a681e5bc7aa7bdb"
+        }
+    ],
+    "header": {
+        "subject": "High Important Information",
+        "from": "info@thehaydenscholarship.org",
+        "to": [],
+        "date": "2021-05-24T09:32:16+00:00",
+        "received_email": [
+            "info@thehaydenscholarship.org"
+        ],
+        "received_domain": [
+            "hwc-hwp-527272-811758.novalocal",
+            "hwsrv-811758.hostwindsdns.com"
+        ],
+        "received_ip": [
+            "104.168.245.246"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.avg.com/email-signature?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail",
+                "http://yield-finance.com/?ref=Joe",
+                "http://www.avg.com/email-signature?utm_medium=email&utm_source=link&utm_campaign=sig-email"
+            ],
+            "domain": [
+                "yield-finance.com",
+                "www.avg.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Start as low as $50, you will earn Daily profit also withdraw instantly.\r\nEarn commission from 3%~5%~10%,\r\n\r\n\r\n\r\nPAYING\r\n\r\n[image: \u2705]Legit\r\n\r\n[image: \u267b\ufe0f]No WITHDRAWAL pending\r\n\r\nRegister link[image: \ud83d\udc47][image: \ud83d\udc47][image: \ud83d\udc47][image: \ud83d\udc47]\r\n\r\nhttp://yield-finance.com/?ref=Joe\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Methods of payments\r\n\r\n\u2022bitcoin,perfect money and payeer\r\n\r\n\r\n\r\n\u00b6 Investemt packages \u00b6\r\n\r\n\u2713 Starter> $50 to get $53.5 in 24hours (7%)\r\n\r\n \u2713Pro> $1000 to get $1100 24hours (10%)\r\n\r\n\u2713VIP>$5000 to get $6000 in 5 days  (20%)\r\n\r\n+Principal included,\r\n\r\n+Withdrawals instant!!\r\n\r\n*We wish you good luck on your investments[image: \ud83d\ude0e][image: \ud83d\ude0e][image: \ud83d\ude0e]\r\n\r\n\r\n\r\n\u2022Referral commissions[image: \ud83e\udd1d]\r\n\r\nIf your down line invests with starter plan, you will get, 3%, pro plan you\r\nwill get 5%, and vip plan you will get 10%.\r\n\r\n\r\n\r\n\r\n\r\nYour breakthrough for online Investments is finally here!!\r\n\r\n<http://www.avg.com/email-signature?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.\r\nwww.avg.com\r\n<http://www.avg.com/email-signature?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>\r\n",
+            "content_type": "text/plain",
+            "hash": "c24aa6f5afcaa267e763f29aede4fed2394ea3e33de79da9f4683f82c1e150cb",
+            "boundary": "0000000000001b38f405caeb68f5"
+        }
+    ],
+    "header": {
+        "subject": "YIELD-FINANCE INVESTMENT",
+        "from": "victormore1977@gmail.com",
+        "to": [],
+        "date": "2021-09-01T09:08:07+00:00",
+        "received_domain": [
+            "mail-wr1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.48"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Liebster Freund,\r\n\r\nIm Namen Gottes, des gn\u00e4digsten, barmherzigsten.\r\n\r\nFriede sei mit dir und Barmherzigkeit sei mit dir und Segen sei mit dir.\r\nIch habe die Summe von 27,5 Millionen USD f\u00fcr Investitionen, ich\r\ninteressiere mich f\u00fcr Sie f\u00fcr die Unterst\u00fctzung von\r\nInvestitionsprojekten in Ihrem Land. Mein Name ist Aisha Gaddafi und\r\nlebe derzeit im Oman, ich bin eine Witwe und alleinerziehende Mutter\r\nmit drei Kindern, die einzige leibliche Tochter des verstorbenen\r\nlibyschen Pr\u00e4sidenten (dem verstorbenen Oberst Muammar Gaddafi) und\r\nstehe derzeit unter politischem Asylschutz der omanischen Regierung.\r\n\r\nBitte antworten Sie dringend f\u00fcr weitere Details.\r\n\r\nmeine E-Mail-Adresse unten: ayishagddafio@mail.ru\r\nVielen Dank\r\nMit freundlichen Gr\u00fc\u00dfen Aisha\r\n",
+            "content_type": "text/plain",
+            "hash": "c7ff69bf02f6c58efe6277bc25873fe237e7624cefd7ddd29887cb0b0a87e555"
+        }
+    ],
+    "header": {
+        "subject": "Liebster Freund,?",
+        "from": "ayishagadafi1@gmail.com",
+        "to": [],
+        "date": "2021-09-30T14:40:08-07:00",
+        "received_domain": [
+            "mail-lf1-f54.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6520:2e02:b0:13e:6c6f:8f78",
+            "209.85.167.54"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "German"
+    }
+}

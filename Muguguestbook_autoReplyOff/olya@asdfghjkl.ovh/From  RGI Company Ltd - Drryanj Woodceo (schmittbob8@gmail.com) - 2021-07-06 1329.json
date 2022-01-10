@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "drryanjwood183@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " From: RGI Company Ltd\r\nAddress, Netherlands\r\n25/2/2021\r\n\r\nAttention:\r\n\r\nRGI Genealogical Investigators specializes in probate research to locate\r\nmissing funds, inherited funds and consignment around the world. We can\r\nalso help you find wills, obtain copies of certificates.\r\n\r\nRecently a woman from Rothschild family one of the richest and famous\r\nfamily in the city of Hesse-Kassel Frankfurt Germany that has been\r\nsuffering from (hepatocellular of the liver) and unstable health\r\nchallenge contacted our company that we should contact a trustworthy\r\nbusiness minded person who is capable to invest her funds in a lucrative\r\nbusiness.\r\n\r\nOur service fee is 2% of the funds and we will be paid after you received\r\nthe funds. The funds transfer process should take just a matter of days as\r\nwe have the mechanism and expertise to get this done\r\nvery quickly. Please if you find this letter offensive ignore it and accept\r\nour apologies  :  < drryanjwood183@gmail.com >\r\n\r\n\r\nWarmest Regards,\r\n\r\nDr.Ryan J.Wood, Ceo\r\n",
+            "content_type": "text/plain",
+            "hash": "12be87e060c179734b031b0a2bb7aa5af27ed93604f68e08eded661c3aed6812",
+            "boundary": "000000000000fb988f05c671e624"
+        }
+    ],
+    "header": {
+        "subject": "From: RGI Company Ltd",
+        "from": "schmittbob8@gmail.com",
+        "to": [],
+        "date": "2021-07-06T12:29:17+01:00",
+        "received_domain": [
+            "mail-pg1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.194"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

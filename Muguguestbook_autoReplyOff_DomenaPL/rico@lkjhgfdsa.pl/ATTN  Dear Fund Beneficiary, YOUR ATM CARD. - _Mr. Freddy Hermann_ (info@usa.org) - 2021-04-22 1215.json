@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Dear Fund Beneficiary,\r\n\r\nThis is to notify you concerning your abandoned ATM Visa Card valued sum of US$10.5 Million of which I will like to receive a positive response from you or make a suggestion on how you wish to receive your ATM Card. I am Mr. Freddy Hermann the new director ATM Head of Operation United Bank for Africa PLC, I resumed this office on the 10th of January 2019 and during my official research I discovered an abandoned ATM Visa Card valued sum of $10.5 Million belonging to you as the rightfully intimate beneficiary.\r\n\r\nI tried to know why this card has not been released to you but I was told by the UBA Bank management that the former director ATM head of operation who left this office two Years ago withheld your card for his own personal use without knowing that his evil plans towards diverting your fund will be discovered.\r\n\r\nNow that your ATM Visa card is still available and ready for your receiving, therefore you can come down here to our bank to pick up your card direct from my office or alternatively it can be arranged ship to your address through any registered reliable courier service company that you will take care of the courier charge, hope it is cleared and accepted by you?\r\n\r\nI don\u2019t know the courier cost of shipping the card to you but if you permit me and accept the terms, then I can make an inquiry from the courier shipping company to find out the cost, but in that case, you will be required to forward to me your address where you want to receive the card to enable me find out the shipping cost to your location.\r\n\r\nURGENTLY RE-CONFIRM YOUR DATA AS REQUIRED OF BLOW:\r\n\r\n(1) YOUR FULL NAMES\u2026\u2026\r\n(2) YOUR DIRECT TELEPHONE NUMBER\u2026..\r\n(3) YOUR CORRECT HOME ADDRESS\u2026\u2026\u2026.\r\n(4) YOUR RELIGION...............\r\n(5) YOUR SEX AND AGE\u2026\u2026\u2026\u2026\u2026.\r\n(6) YOUR OCCUPATION\u2026\u2026\u2026\u2026\r\n(7) SCAN COPY OF YOUR VALID I.D CARD\u2026\u2026\u2026\u2026\u2026.\r\n\r\nNOTE: that on reconfirmation of the above stated data, more details about your ATM CARD payment will be made known to you. We await to receive your swift positive response,  thanks for your cooperation.\r\nRegards,\r\n\r\nMr. Freddy Hermann.\r\n",
+            "content_type": "text/plain",
+            "hash": "39f5d8d19bba5a1d8e12c0bd89e143064f56c7b8d111f5c3601a075fe7a46f33"
+        }
+    ],
+    "header": {
+        "subject": "ATTN: Dear Fund Beneficiary, YOUR ATM CARD.",
+        "from": "info@usa.org",
+        "to": [
+            "info@usa.org"
+        ],
+        "date": "2021-04-22T03:15:16-07:00",
+        "received_domain": [
+            "mail.gelvsen.cn"
+        ],
+        "received_ip": [
+            "197.242.108.102",
+            "101.200.184.113"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

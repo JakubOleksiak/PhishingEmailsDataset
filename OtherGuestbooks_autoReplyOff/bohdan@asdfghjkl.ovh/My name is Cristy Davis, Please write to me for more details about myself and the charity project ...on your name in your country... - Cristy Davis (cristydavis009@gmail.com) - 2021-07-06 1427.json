@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+            "boundary": "000000000000c83bf605c6738cf0"
+        }
+    ],
+    "header": {
+        "subject": "My name is Cristy Davis, Please write to me for more details about myself and the charity project of 2.7.Million.US.Dollars I want to invest on your name in your country...",
+        "from": "cristydavis009@gmail.com",
+        "to": [],
+        "date": "2021-07-06T13:27:39+01:00",
+        "received_domain": [
+            "mail-wr1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.52"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "UNKNOWN"
+    }
+}

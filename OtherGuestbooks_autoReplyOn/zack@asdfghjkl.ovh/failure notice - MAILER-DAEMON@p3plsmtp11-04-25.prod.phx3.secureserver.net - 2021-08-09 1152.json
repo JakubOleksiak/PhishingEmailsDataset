@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "mike@westernskyadventures.com",
+                "zack@asdfghjkl.ovh",
+                "b3c0ff98-27e8-48b9-a8ae-e9af7695a6db@desktop-9avsair"
+            ],
+            "domain": [
+                "westernskyadventures.com",
+                "asdfghjkl.ovh",
+                "p3plibsmtp02-09.prod.phx3.secureserver.net",
+                "p3plsmtp11-04-25.prod.phx3.secureserver.net",
+                "qmail-1.03"
+            ],
+            "ip": [
+                "185.25.217.220"
+            ],
+            "content_header": {},
+            "content": "Your mail message to the following address(es) could not be delivered.\r\nThis is a permanent error. Please verify the address(es) and try again.\r\n\r\n<mike@westernskyadventures.com>:\r\nThe e-mail message could not be delivered because the user's mailfolder is full.\r\n\r\n--- Below this line is a copy of the message.\r\n\r\nReturn-Path: <zack@asdfghjkl.ovh>\r\nReceived: (qmail 13880 invoked by uid 30297); 9 Aug 2021 09:52:54 -0000\r\nReceived: from unknown (HELO p3plibsmtp02-09.prod.phx3.secureserver.net) ([68.178.213.9])\r\n          (envelope-sender <zack@asdfghjkl.ovh>)\r\n          by p3plsmtp11-04-25.prod.phx3.secureserver.net (qmail-1.03) with SMTP\r\n          for <mike@westernskyadventures.com>; 9 Aug 2021 09:52:54 -0000\r\nReceived: from DESKTOP-9AVSAIR ([185.25.217.220])\r\n\t(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 256/256 bits)\r\n\t(Client did not present a certificate)\r\n\tby CMGW with ESMTP\r\n\tid D1xjmA5Bxror9D1xlmZzjO; Mon, 09 Aug 2021 02:52:54 -0700\r\nX-CMAE-Analysis: v=2.4 cv=FcnyeLy6 c=1 sm=1 tr=0 ts=6110faf6 cx=a_idp_d\r\n a=evsxPtfTUe6aPS23ztH9MA==:117 a=evsxPtfTUe6aPS23ztH9MA==:17\r\n a=KiCxJD0x+Pe5VASQKmYoJrcyuOo=:19 a=chFv-2V-2-kzWzgZ:21 a=IkcTkHD0fZMA:10\r\n a=MKtGQD3n3ToA:10 a=0KcE4EIvx8wA:10 a=ZZnuYtJkoWoA:10\r\n a=pOChhTEU8Q2rECRREyEA:9 a=QEXdDO2ut3YA:10 a=7ev4m4PrbuCRjFo3kGXC:22\r\nContent-Type: text/plain; charset=\"utf-8\"\r\nMIME-Version: 1.0\r\nReturn-Path: <zack@asdfghjkl.ovh>\r\nMessage-ID: <B3C0FF98-27E8-48B9-A8AE-E9AF7695A6DB@DESKTOP-9AVSAIR>\r\nDate: Mon, 9 Aug 2021 11:52:38 +0200\r\nFrom: zack@asdfghjkl.ovh\r\nTo: mike@westernskyadventures.com\r\nSubject: Hello, how can i help with this?\r\nContent-Transfer-Encoding: quoted-printable\r\nAuto-Submitted: auto-replied\r\nX-hMailServer-LoopCount: 1\r\nX-CMAE-Envelope: MS4xfGXKoNxm7+UxC+aLdp1zL953LhCFmBq9MmFdnLldsV3IZnJz8KwQihR2GI/otl/b1Xc7gGHhAW3crbaIgLleqMm6GCSEq2h8Ijn20ABpiGE2XFK4oKgX\r\n LI3FuBTZC9whmj4pbzpFtVmAJ6JMiyksp8zgC+gF+W3ZJ5j3HbVvf/CRlCPCDHxh3+ofaSR42yfVULfmMxW34T5y0njfLOfA9zQ=\r\n\r\nHello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nZack\r\n\r\n",
+            "hash": "2a53893326c62f71528caf7f0429d086ae31131d6eae02c2bc9c0524536aeb28"
+        }
+    ],
+    "header": {
+        "subject": "failure notice",
+        "from": "mailer-daemon@p3plsmtp11-04-25.prod.phx3.secureserver.net",
+        "to": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-09T09:52:54+00:00",
+        "received_domain": [
+            "p3plsmtp11-04-25.prod.phx3.secureserver.net"
+        ],
+        "received_ip": [
+            "173.201.192.39"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

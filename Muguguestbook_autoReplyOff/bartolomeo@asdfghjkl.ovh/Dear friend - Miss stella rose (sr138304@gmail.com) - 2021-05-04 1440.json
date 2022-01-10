@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "alinco22@outlook.com"
+            ],
+            "domain": [
+                "repeat.contact",
+                "mr.paul",
+                "outlook.com",
+                "reconfirm.your"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Attn: Beneficiary!\r\nCourage my dear, I know you will be waiting for the arrival of your\r\nConsignment contain the total amount of your($5million ) cash payment\r\ncompensation which I was to sent to you and letter return back due to wrong\r\naddress provided, I think there is a mistake in the address giving to me\r\nand that has cost me a lot of strength, but I thank God that it return back\r\nsafely. The only things now is your urgent contact directly to (  ALINCO\r\nSECURITY COMPANY) this company are in charge of delivering your consignment\r\nbox contain the ($5million ) Again let me repeat.Contact Person: Mr.Paul\r\nEgo. ( Delivery Department Managing Director )E-mail : (\r\nalinco22@outlook.com\r\n)Tel :+234-80-23631899  For the purpose of clarification, It is advice that\r\nthe entire fee has been paid for your delivery so it's probably $55 dollar\r\nthat remains that you will sent to their security office for the safe\r\nkeeping fee of your returning box so far. don't be\r\nmisconceived by anybody, and be advised to reconfirm.YOUR\r\nCOUNTRY_____________\r\nYOUR FULL NAME_______________\r\nOCCUPATION_______________\r\nHOMEADDRESS?_____________\r\nPASS PORT_____________\r\nMOBIL PHONE NUMBER________________\r\nOFFICE NUMBER;;;HOME NUMBER_______________\r\nAGE__________________\r\nSEX______________ In addition to what i said earlier please don't dispose\r\nthe content of the box to them, avoid delay and finally endeavor to\r\nindicate this CODE N\u00b0(GL-14160) this code shows that you are the rightful\r\nowner of the box deposited in their company, use it as your subject when\r\ncontacting them, thanks and have a nice day. Best Regards\r\nMiss. Stella Rose\r\n",
+            "content_type": "text/plain",
+            "hash": "b6bcc0ea4a128e1e984b6383bb896252b71e95e047c98bb3a19870a178520842",
+            "boundary": "00000000000076c98905c18062c5"
+        }
+    ],
+    "header": {
+        "subject": "Dear friend",
+        "from": "sr138304@gmail.com",
+        "to": [],
+        "date": "2021-05-04T13:40:34+01:00",
+        "received_domain": [
+            "mail-lj1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.194",
+            "2002:a05:6512:6c2::"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

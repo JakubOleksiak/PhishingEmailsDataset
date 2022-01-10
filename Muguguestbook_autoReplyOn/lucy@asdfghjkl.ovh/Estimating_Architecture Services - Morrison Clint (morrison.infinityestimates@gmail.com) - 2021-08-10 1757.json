@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi,\r\n\r\nWe are an estimating/architecture firm. We provide costing & architecture\r\nservices to General contractors, Sub-Contractors, Home builders, Owners and\r\narchitectural firms.\r\n\r\nWe work on both Commercial and Residential.\r\n\r\nLet me know if you are interested or you want to learn more. Thanks.\r\n\r\nRegards,\r\nMorrison Clint\r\nMarketing Manager\r\nCrossLand Estimating, LLC\r\n",
+            "content_type": "text/plain",
+            "hash": "469803e55fba48259c678c8f4d40f17e02216230560a4c9665ddcc021671e0a6",
+            "boundary": "000000000000be016105c9368e1b"
+        }
+    ],
+    "header": {
+        "subject": "Estimating/Architecture Services",
+        "from": "morrison.infinityestimates@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-10T15:57:23+00:00",
+        "received_domain": [
+            "mail-lj1-f193.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.193"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

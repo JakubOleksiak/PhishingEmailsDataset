@@ -1,0 +1,145 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1942,
+            "hash": {
+                "md5": "e7c2e771b36093c9641e471fee735c2a",
+                "sha1": "66446b8766f561fc2a478547a510beca0236fc93",
+                "sha256": "927022b1d04fcd49256b6939c07258aaa10e4f5588cc3f7f1ccd1d2d4cdee250",
+                "sha512": "2bcd19da6ba681fdeb32c7c5b8582d7922e76fd53e245086efc836f7157075d6aefef5480149e69f494f5e5ebe97ca1f06ae4d92bf3ebbed6d8be568a686eef8"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "k-maruyama@c15sfxpp.mwprem.net",
+                "k-maruyama@just.co.jp"
+            ],
+            "domain": [
+                "c15sfxpp.mwprem.net",
+                "just.co.jp"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host c15sfxpp.mwprem.net.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<k-maruyama@c15sfxpp.mwprem.net> (expanded from <k-maruyama@just.co.jp>): host\r\n    c15sfxpp.mwprem.net[private/dovecot-lmtp] said: 552 5.2.2\r\n    <k-maruyama@c15sfxpp.mwprem.net> Not enough disk space (in reply to end of\r\n    DATA command)\r\n",
+            "content_type": "text/plain",
+            "hash": "0fdd31c550bb9883e0f1e79d6d354e6efd5ee2de023423fca0dd93b58e65ca27",
+            "boundary": "7BCEAE1688.1630258281/c15sfxpp.mwprem.net"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; k-maruyama@c15sfxpp.mwprem.net"
+                ],
+                "original-recipient": [
+                    "rfc822;k-maruyama@just.co.jp"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.2.2"
+                ],
+                "remote-mta": [
+                    "dns; c15sfxpp.mwprem.net"
+                ],
+                "diagnostic-code": [
+                    "smtp; 552 5.2.2 <k-maruyama@c15sfxpp.mwprem.net> Not enough    disk space"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<swen@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from vg-cb007.ocn.ad.jp (vg-kg004.ocn.ad.jp [122.1.234.57])\tby c15sfxpp.mwprem.net (Postfix) with ESMTP id 7BCEAE1688\tfor <k-maruyama@just.co.jp>; Mon, 30 Aug 2021 02:31:21 +0900 (JST)",
+                    "from mgw-spm-mtr-003c4.ocn.ad.jp (mgw-spm-mtr-003c0lvs.ocn.ad.jp [153.153.67.169])\tby vg-cb007.ocn.ad.jp (Postfix) with ESMTP id 7394E6E0272\tfor <k-maruyama@just.co.jp>; Mon, 30 Aug 2021 02:31:21 +0900 (JST)",
+                    "from mgw-vc-mtr-006c1.ocn.ad.jp ([153.153.67.84])\tby mgw-spm-mtr-003c4.ocn.ad.jp with ESMTP\tid KOePm1fUNTCfLKOePmQnLB; Mon, 30 Aug 2021 02:31:21 +0900",
+                    "from ofmgw023.ocn.ad.jp ([153.149.229.72])\tby mgw-vc-mtr-006c1.ocn.ad.jp with ESMTP\tid KOePmrV3fFSrUKOePmT4H1; Mon, 30 Aug 2021 02:31:21 +0900",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby ofmgw023.ocn.ad.jp (Postfix) with ESMTP id 42960880247\tfor <k-maruyama@just.co.jp>; Mon, 30 Aug 2021 02:31:19 +0900 (JST)"
+                ],
+                "x-ocn-spam-check": [
+                    "0.00%"
+                ],
+                "x-ocn-analysis": [
+                    "v=2.3 cv=U6ns8tju c=1 sm=1 tr=0 a=c3HNfXCA0llCL4fvfDBuHw==:117 a=evsxPtfTUe6aPS23ztH9MA==:17 a=KiCxJD0x+Pe5VASQKmYoJrcyuOo=:19 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10 a=MhDmnRu9jo8A:10 a=0KcE4EIvx8wA:10 a=ZZnuYtJkoWoA:10 a=Uoghuaj-kqoj1F6O9T4A:9 a=QEXdDO2ut3YA:10"
+                ],
+                "received-spf": [
+                    "none (OCN: of-ofc-ucb023: transitioning domain does not provide an SPF record) client-ip=185.25.217.220; envelope-from=<swen@asdfghjkl.ovh>; helo=DESKTOP-9AVSAIR;"
+                ],
+                "authentication-results": [
+                    "of-ofc-ucb023; spf=none smtp.mailfrom=swen@asdfghjkl.ovh"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<A093BBD4-305E-4694-8718-E7490C842152@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Sun, 29 Aug 2021 19:30:23 +0200"
+                ],
+                "from": [
+                    "swen@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "k-maruyama@just.co.jp"
+                ],
+                "subject": [
+                    "Hello, how can i help?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nSwen\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a0a23b091ee8e336cd1f6264eebbf72838b7ab63387a0a3ab72d445ca1500e9f"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@c15sfxpp.mwprem.net",
+        "to": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-30T02:31:21+09:00",
+        "received_domain": [
+            "c15sfxpp.mwprem.net"
+        ],
+        "received_ip": [
+            "60.43.157.118"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

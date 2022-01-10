@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Dear, Cornelia*\r\n\r\n\r\n* Hope you are doing good.*\r\n\r\n*I am SEO Consultant from a leading Search Engine Optimization (SEO)\r\nCompany.*\r\n\r\n *Would you like to increase the leads/sales generated from your website or\r\nwant to become first page ranking on Google, Yahoo & Bing? We can help you\r\nto promote your website.*\r\n\r\n *Let me know if you are interested then I will send you our Packages and\r\nprice list.*\r\n\r\n*Thanks & Regards,*\r\n\r\n\r\n*Elena RybakinaSEO Consultant*\r\n[image: beacon]\r\n",
+            "content_type": "text/plain",
+            "hash": "440d311051c6dff2493a630222d025cc193027a4cacdcf2bab3d98f007fc2040",
+            "boundary": "000000000000c2ce2805c9fb3018"
+        }
+    ],
+    "header": {
+        "subject": "Hey Cornelia, Need Mobile ?",
+        "from": "rybakinaelena7@gmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-20T03:32:55-07:00",
+        "received_domain": [
+            "mail-ej1-f68.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.68"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

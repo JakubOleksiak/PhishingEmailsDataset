@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "eng.pty"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "FEDERAL REPUBLIC OF NIGERIA\r\nOFFICE OF THE PAYMENT VERIFICATION PANEL\r\nLAGOS LIAISON OFFICE\r\nDATE: 11/08/2021\r\n\r\nATTENTION DEAR BENEFICIARY,\r\n\r\n\r\nYOUR OUTSTANDING PAYMENT.\r\n\r\n\r\nWe hereby bring to your notice that your outstanding payment with the Federal Government of Nigeria has reached this office for verification and clarifications before the release. Anyway, without wasting much time,I have personally investigated this payment down to the Ministry were this contract was executed and from my findings it is clear that you did not execute this contract in question, from all available information, it looks like some officials in the Ministry were trying to use you to claim this particular value which they over invoiced for their own selfish interest. I know it might interest you to know how I managed to find out this truth, yes. I investigated this payment up to the ministry were this contract was executed and after some checks I was surprise to see that the most vital/important documents regarding to this contract bears a different name and beneficiary.\r\n\r\n\r\nBased on this I decide to contact the supervisor that signed the attestation report, on getting to the contract award and supervisory commission I collected the contract attestation report and found out that this document steel bears the name: B& B PETROLEUM ENG.PTY as the company that executed this contract. I keep this to my self and came down to my base. As a matter of fact I have been thinking whether to report my findings to the appropriate body for cancellation of this payment, but I have this second thought of contacting you since I am not a saint and in a position to approve this payment for the president to give go ahead order to the release, I feel this might be a Gods given opportunity.\r\n\r\n\r\nSo it is based on this I am writing you, if you will accept with my understated conditions I can normalize all the relevant papers of this\r\npayment and the funds will be release within 14 working days. Contract\r\nattestation report is not in your name, the fund owner ship certificate is also not in your name. Actually your partners as I should say did a very great work in manipulating almost all the documents to your favor.\r\n\r\n\r\nNow, I want you to know that, with my position, I can amend this problems and this money will be paid to your nominated bank account which both of us will share on a 50/50 %if only you will accept with my conditions.\r\n\r\n\r\nSo, if you see it wise to get this perfected with me feel free to contact me through my private email address ( eberetobyrepanel@hotmail.com )\r\n\r\n\r\nI shall let you know my conditions as soon as I here from you.\r\n\r\n\r\nThanks,\r\nTony Ebere\r\n",
+            "content_type": "text/plain",
+            "hash": "94f3cb48a0728d139a3853d607c6fa4fec8a2d39aef3e554d5d0832605eed15a"
+        }
+    ],
+    "header": {
+        "subject": "OFFICE OF THE PAYMENT VERIFICATION PANEL",
+        "from": "info@lee.com",
+        "to": [
+            "info@lee.com"
+        ],
+        "date": "2021-08-11T15:23:41-07:00",
+        "received_domain": [
+            "mail.mot.rw"
+        ],
+        "received_ip": [
+            "41.186.76.50",
+            "195.133.40.64"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

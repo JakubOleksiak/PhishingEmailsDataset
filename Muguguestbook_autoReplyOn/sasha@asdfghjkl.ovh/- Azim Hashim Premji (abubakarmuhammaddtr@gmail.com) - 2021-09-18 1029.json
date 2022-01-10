@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I'm Azim Hashim Premji, an Indian business tycoon, investor, and\r\nphilanthropist. I am the chairman of Wipro Limited. I have donated 25\r\npercent of my personal wealth to charity. And I also promised to give\r\naway the remaining 25% this year in 2021. I have decided to donate\r\n$2,000,000.00 to you. If you are interested in my donation, please\r\ncontact me for more information. I would also like you to become part\r\nof my charity foundation as soon as you receive this money so that we\r\ncan use our hands for those in need. You can also learn more about me\r\nby using the link below to read\r\n\r\nhttp://en.wikipedia.org/wiki/Azim_Premji\r\n\r\nContact by email for more details: azimnhashimpremji@gmail.com\r\n\r\nregards\r\nCEO Wipro Limited\r\nAzim Hashim Premji\r\n",
+            "content_type": "text/plain",
+            "hash": "ec73dfa6fc2de00e996506781f983f84587ff73f7f579f86c4f29e0adfd884df"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "abubakarmuhammaddtr@gmail.com",
+        "to": [],
+        "date": "2021-09-18T01:29:44-07:00",
+        "received_domain": [
+            "mail-lf1-f48.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6512:104d::",
+            "209.85.167.48"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

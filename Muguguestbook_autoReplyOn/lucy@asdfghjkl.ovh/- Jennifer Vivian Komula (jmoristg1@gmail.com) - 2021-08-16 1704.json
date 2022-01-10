@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "life.there"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "It's\u00a0my\u00a0pleasure\u00a0to\u00a0contact\u00a0you\u00a0for\u00a0a\u00a0business\u00a0venture\u00a0which\u00a0I\u00a0intend\r\nto\u00a0\u00a0establish\u00a0in\u00a0your\u00a0country,\u00a0though\u00a0I\u00a0have\u00a0not\u00a0met\u00a0with\u00a0you\u00a0before\r\nbut\u00a0I\u00a0\u00a0believe\u00a0one\u00a0has\u00a0to\u00a0risk,\u00a0confiding\u00a0in\u00a0someone\u00a0to\u00a0succeed\r\nsometimes\u00a0in\u00a0life.There\u00a0is\u00a0this\u00a0huge\u00a0amount\u00a0of\u00a0money,\u00a0(US\u00a0$3.500,\u00a0000)\r\nwhich\u00a0I\u00a0inherit\u00a0\u00a0from\u00a0my\u00a0late\u00a0father\u00a0and\u00a0is\u00a0deposited\u00a0in\u00a0a\u00a0finance\r\nfirm\u00a0here\u00a0in\u00a0Lome\u00a0Togo\u00a0\u00a0.Now\u00a0I\u00a0decided\u00a0to\u00a0invest\u00a0this\u00a0money\u00a0in\u00a0your\r\ncountry\u00a0please\u00a0contact\u00a0me\u00a0for\u00a0\u00a0more\u00a0details,Jennifer\u00a0Vivian\u00a0Komula.\r\n",
+            "content_type": "text/plain",
+            "hash": "368ee28fc6f36e5288c890b6f71806a28363c3818a3fd38f579ca31f0366f52b"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "jmoristg1@gmail.com",
+        "to": [],
+        "date": "2021-08-16T15:04:13+00:00",
+        "received_domain": [
+            "mail-qt1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.160.178",
+            "2002:ad4:50c9::"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Johnny\r\n\r\nAre you looking for mobile App development service?\r\n\r\nWe are an app development company based in India having 7+ years of\r\nexperience.    \r\n\r\nAndroid (Phone/Tablet) Based Application\r\n\r\niPhone / iPad Based Applications\r\n\r\nGPS/Location based Applications\r\n\r\nApp Development for your idea\r\n\r\nPlease feel free to reach out to us in case of any requirements.\r\n\r\nWith regards\r\n\r\nMariaya\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "4de4247824a0709988f035ba543f78b9b1dfd8332b17ba19f16dadd1138b7fcb",
+            "boundary": "----=_NextPart_000_85A3_01D78961.37CE9F00"
+        }
+    ],
+    "header": {
+        "subject": "RE; Android App",
+        "from": "mariaya58williams@hotmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T18:43:49+05:30",
+        "received_domain": [
+            "pn2pr01ca0052.indprd01.prod.outlook.com",
+            "kor01-sl2-obe.outbound.protection.outlook.com",
+            "sl2pr01mb3371.apcprd01.prod.exchangelabs.com",
+            "sl2pr01mb2873.apcprd01.prod.exchangelabs.com"
+        ],
+        "received_ip": [
+            "2401:4900:1f38:e7a:584b:14cb:a147:cdfa",
+            "2603:1096:100:58::16",
+            "2603:1096:c01:22::27",
+            "2603:1096:100:4a::12",
+            "104.47.108.178"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

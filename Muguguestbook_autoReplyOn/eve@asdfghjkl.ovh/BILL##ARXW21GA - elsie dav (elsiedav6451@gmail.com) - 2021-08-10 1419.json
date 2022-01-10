@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hello prime user,\r\n\r\n*Your Membership for GEEK SQUAD has been successfully renewed & restored.*\r\n\r\n*The debited amount will be reflected within the next 24 to 48 hrs. On your\r\nA/C statement. *\r\n\r\n\r\n\r\nPRODUCT DESCRIPTION\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nInvoice No.                       :        ARXW21GA\r\n\r\nProduct Name                   :      GEEK SQUAD\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                       :        10th AUGUST 2021\r\n\r\nExpiration Date              :       1 Years from the Date of Purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nAmount                                :       $207.15 USD\r\n\r\nPayment Method            :       AUTO CHARGE\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible.*\r\n\r\n\r\n\r\nYou can Reach us on   +1     \u2013    (424)   (533)   (4553)\r\n\r\nRegards,\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "6d4828ebdbe14eb68b9f9a6b2914e2df99b56f081bc887d79855304b8f43ecf9",
+            "boundary": "00000000000056503005c934ca94"
+        }
+    ],
+    "header": {
+        "subject": "BILL##ARXW21GA",
+        "from": "elsiedav6451@gmail.com",
+        "to": [],
+        "date": "2021-08-10T19:19:32+07:00",
+        "received_domain": [
+            "mail-vs1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.41"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

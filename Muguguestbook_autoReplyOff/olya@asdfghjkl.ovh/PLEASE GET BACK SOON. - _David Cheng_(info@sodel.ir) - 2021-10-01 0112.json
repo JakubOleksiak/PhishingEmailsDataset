@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Good day,\r\n\r\nI am Trained and working as an auditor for the Development Bank of Singapore (DBS).\r\nI write to contact you about a foreigner bearing the last name as yours who died leaving behind an estate/capital of usd12,800,000\r\nin Development Bank of Singapore.\r\n\r\nThe Investor died intestate, no next-of-kin, nobody has come all these years to lay claim of the inheritance. I have decided to work with you to secure the funds and propose 40% offer to you.\r\n\r\nIf you are interested, kindly re-confirm\r\n\r\n1.YOUR FULL NAMES:\r\n2. CONTACT ADDRESS:\r\n3. TELEPHONE:\r\n\r\nUpon hearing from you, I will unfold more details and how to commence in the transaction.\r\nRegards,\r\n\r\nDavid Cheng\r\n\r\nEmail : davidcheng11@qq.com\r\n",
+            "content_type": "text/plain",
+            "hash": "a19085eef5a2f13cd9726354c8135b18c84f4c3e258e6d67e29499685cc44227"
+        }
+    ],
+    "header": {
+        "subject": "PLEASE GET BACK SOON.",
+        "from": "info@sodel.ir",
+        "to": [
+            "davidcheng11@qq.com"
+        ],
+        "date": "2021-09-30T16:12:09-07:00",
+        "received_domain": [
+            "sanadata.ir",
+            "mail.sanadata.ir"
+        ],
+        "received_ip": [
+            "188.0.240.132",
+            "163.123.141.116"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

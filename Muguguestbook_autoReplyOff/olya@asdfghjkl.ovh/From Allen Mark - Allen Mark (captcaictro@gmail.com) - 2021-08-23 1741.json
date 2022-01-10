@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "mark.car003@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend,\r\n\r\nI am counsel to the late Henry Dennis who left an account with a\r\nfinance house here in the United Kingdom. Henry\r\n\r\nDennis has no known next of kin, I want to present to you which gives\r\nyou legal entitlement to his Account for he\r\n\r\nhad no known relative.\r\n\r\nPlease do get in touch via email mark.car003@gmail.com with your\r\ncontact details to discuss the modality of you\r\n\r\ninheriting his account valued at US$5,200.000 million.\r\n\r\nRegards,\r\n\r\nAllen Mark\r\nNORWICH NORFOLK,  NR5 8BZ UK\r\nTEL:  +44 7700 049 618\r\n",
+            "content_type": "text/plain",
+            "hash": "2d5a04c746bc971736285e0949b6c708003be0052bddccc47d1965011005b8e6"
+        }
+    ],
+    "header": {
+        "subject": "From Allen Mark",
+        "from": "captcaictro@gmail.com",
+        "to": [],
+        "date": "2021-08-23T16:41:53+01:00",
+        "received_domain": [
+            "mail-yb1-f172.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6830:4185::",
+            "209.85.219.172"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

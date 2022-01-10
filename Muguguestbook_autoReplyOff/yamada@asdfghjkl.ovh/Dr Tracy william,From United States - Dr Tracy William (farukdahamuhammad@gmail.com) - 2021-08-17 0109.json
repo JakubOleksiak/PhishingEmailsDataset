@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dear,\r\n\r\nHow are you today, I hope you are good. My name is Tracy William\r\nFrom the United States, Am an English and French nationalities.\r\nI will give you pictures and more details about my self as soon as\r\nI hear from you.\r\n\r\nThanks\r\nTracy\r\n",
+            "content_type": "text/plain",
+            "hash": "9b3eca54b6255c3b6947126efa84b11aa91ab405cb5fbffe0961231c49fda470"
+        }
+    ],
+    "header": {
+        "subject": "Dr Tracy william,From United States",
+        "from": "farukdahamuhammad@gmail.com",
+        "to": [],
+        "date": "2021-08-16T11:09:35-12:00",
+        "received_domain": [
+            "mail-ej1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.54",
+            "2002:a17:906:d8bb::"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

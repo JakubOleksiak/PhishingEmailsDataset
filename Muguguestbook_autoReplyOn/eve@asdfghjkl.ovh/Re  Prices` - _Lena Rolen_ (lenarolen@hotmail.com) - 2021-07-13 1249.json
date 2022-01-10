@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Eve,\r\n\r\n \r\n\r\nI am a Web Design & Mobile application Manager with 11 years of Experience.\r\n\r\nMay I send you a quote and Company Information, if interested?\r\n\r\n.         Mobile Apps Development\r\n\r\n.         Website Design / Redesign\r\n\r\n.         PHP | Word press |.Net\r\n\r\n.         E-Commerce & Graphic Design\r\n\r\nKind Regards.!!\r\n\r\nLena Rolen,\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a88e58092032d39d6481e3a9773a9d7441a539df3794fb5aa9c2acba3b6a8dba",
+            "boundary": "----=_NextPart_000_5F8D_01D77803.75097CB0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices`",
+        "from": "lenarolen@hotmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-13T16:19:46+05:30",
+        "received_domain": [
+            "ps2pr02ca0088.apcprd02.prod.outlook.com",
+            "pu1apc01ft041.eop-apc01.prod.protection.outlook.com",
+            "pu1apc01ft041.mail.protection.outlook.com",
+            "pn2pr01ca0136.indprd01.prod.outlook.com",
+            "ps2pr02ca0088.outlook.office365.com",
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "slxp216mb0528.korp216.prod.outlook.com",
+            "hkapr01mb3650.apcprd01.prod.exchangelabs.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7ebe::364",
+            "40.92.254.51",
+            "2603:1096:c01:6::21",
+            "2603:1096:300:5c::28",
+            "2603:1096:300:5c:cafe::eb",
+            "122.161.53.23",
+            "2a01:111:e400:7ebe::42",
+            "2603:1096:203:d6::15"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

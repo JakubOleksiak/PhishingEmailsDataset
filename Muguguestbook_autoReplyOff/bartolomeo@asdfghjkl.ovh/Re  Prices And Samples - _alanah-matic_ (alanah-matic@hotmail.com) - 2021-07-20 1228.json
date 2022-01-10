@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi bartolomeo\r\n\r\n \r\n\r\nI am a professional Web Designer & Android developer, with 11 years of\r\nexperience. We Provide SEO services at a minimum cost, May I send you a\r\nquote? If interested-:\r\n\r\n \r\n\r\n               . IPhone, Mobile Apps, Games ..etc.\r\n\r\n               . Website Re-design // Personal interest.\r\n\r\n \r\n\r\nIf this is something, you are interested please respond to this email for\r\nPortfolio and Price list.\r\n\r\n \r\n\r\nThanks.!\r\n\r\nAlanah\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "54c8968fbaa7386532bfc1aaf6b0326f5315155f024b8d9b4cd94918acd52502",
+            "boundary": "----=_NextPart_000_1EA6_01D77D80.984A6FE0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices And Samples",
+        "from": "alanah-matic@hotmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-20T15:58:38+05:30",
+        "received_domain": [
+            "sg2pr06ca0233.apcprd06.prod.outlook.com",
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "ty2pr03mb3808.apcprd03.prod.outlook.com",
+            "ty2pr03mb3919.apcprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:404:5e::12",
+            "2603:1096:404:5f::10",
+            "2603:1096:4:ac::17",
+            "40.92.255.47",
+            "122.161.49.25"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

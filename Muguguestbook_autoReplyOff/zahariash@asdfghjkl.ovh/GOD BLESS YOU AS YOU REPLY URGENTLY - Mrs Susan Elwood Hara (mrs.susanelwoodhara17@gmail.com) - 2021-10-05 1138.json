@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "GOD BLESS YOU AS YOU REPLY URGENTLY\r\n\r\n Hello Dear,\r\nGreetings, I am contacting you regarding an important information i\r\nhave for you please reply to confirm your email address and for more\r\ndetails Thanks\r\nRegards\r\nMrs Susan Elwood Hara.\r\n",
+            "content_type": "text/plain",
+            "hash": "55a6922c027e86034636ae3d5b23ec8779dd0cba3e9a7ad872cc2b387a494aff"
+        }
+    ],
+    "header": {
+        "subject": "GOD BLESS YOU AS YOU REPLY URGENTLY",
+        "from": "mrs.susanelwoodhara17@gmail.com",
+        "to": [],
+        "date": "2021-10-05T09:38:40+00:00",
+        "received_domain": [
+            "mail-yb1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.177",
+            "2002:a05:7000:270e::"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

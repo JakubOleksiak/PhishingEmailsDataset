@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nCher ami, je suis un investisseur \u00e9tranger et veulent investir dans votre\r\npays dans toute entreprise / investissement rentable que vous et moi\r\nprofiter. Je veux investir dans toute entreprise ou d'investissement que\r\nvous pouvez g\u00e9rer soit comme des investissements ou mon directeur de\r\npartenaire (de partenariat) dans votre pays. S'il vous pla\u00eet revenir \u00e0 moi\r\navec votre num\u00e9ro de t\u00e9l\u00e9phone afin que je puisse vous appeler et parler\r\nplus \u00e0 ce sujet avec vous. S'il vous pla\u00eet joindre \u00e0 moi / r\u00e9pondre \u00e0 moi\r\nsur mon email:  (abiam.halima11@yandex.com)   Mme Halima\r\n",
+            "content_type": "text/plain",
+            "hash": "7efd6628046bdb273c55229ce902fb4ee0d3b78703fb238c1258880997ddcfb8",
+            "boundary": "000000000000d32f9105bcb804c2"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "abiam.halima11@gmail.com",
+        "to": [],
+        "date": "2021-03-04T16:56:45+01:00",
+        "received_domain": [
+            "mail-lf1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.67"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "French"
+    }
+}

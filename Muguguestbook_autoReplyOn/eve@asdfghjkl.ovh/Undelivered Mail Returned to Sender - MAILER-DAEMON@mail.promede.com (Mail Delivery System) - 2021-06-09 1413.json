@@ -1,0 +1,187 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 3081,
+            "hash": {
+                "md5": "1d9b9e58ca846f723d8053c307451d7e",
+                "sha1": "f9c42da98fe55cbd6ad1fd54371420c872c9af68",
+                "sha256": "b2c89eedff59311b02ea51fa61c99249011bc517704c6dd16232ea244b1bebba",
+                "sha512": "e4a11017c30430f5c97cc46bd503e24476116fd5fd35f6fd6c2634de58da619018561cfb8ca0ee8fb53d190f33f91f6d099f4fd802cb0a2698501b8995fbe754"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "info@promede.com"
+            ],
+            "domain": [
+                "promede.com"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host mail.promede.com.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<info@promede.com>: promede.com\r\n",
+            "content_type": "text/plain",
+            "hash": "63994ab74125c886d466926e64c6daddca1613f9b014a82dcc9f1f4ade4d3a22",
+            "boundary": "D47053B8017E.1623240828/mail.promede.com"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; info@promede.com"
+                ],
+                "original-recipient": [
+                    "rfc822;info@promede.com"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.0.0"
+                ],
+                "diagnostic-code": [
+                    "X-Postfix; promede.com"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<eve@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from localhost (localhost.localdomain [127.0.0.1])\tby mail.promede.com (Postfix) with ESMTP id D47053B8017E\tfor <info@promede.com>; Wed,  9 Jun 2021 14:13:48 +0200 (CEST)",
+                    "from mail.promede.com ([127.0.0.1])\tby localhost (mail.promede.com [127.0.0.1]) (amavisd-new, port 10032)\twith ESMTP id Le7_OAujIrRW for <info@promede.com>;\tWed,  9 Jun 2021 14:13:48 +0200 (CEST)",
+                    "from localhost (localhost.localdomain [127.0.0.1])\tby mail.promede.com (Postfix) with ESMTP id 959C1391A69E\tfor <info@promede.com>; Wed,  9 Jun 2021 14:13:48 +0200 (CEST)",
+                    "from mail.promede.com ([127.0.0.1])\tby localhost (mail.promede.com [127.0.0.1]) (amavisd-new, port 10026)\twith ESMTP id NvboE6XddkQ7 for <info@promede.com>;\tWed,  9 Jun 2021 14:13:48 +0200 (CEST)",
+                    "from smgk.grupotrc.com (unknown [192.168.1.232])\tby mail.promede.com (Postfix) with ESMTPS id 733393B801DF\tfor <info@promede.com>; Wed,  9 Jun 2021 14:13:48 +0200 (CEST)",
+                    "from pocedr.localdomain.local (localhost [127.0.0.1])\tby smgk.grupotrc.com (Postfix) with ESMTP id 03A9860003\tfor <info@promede.com>; Wed,  9 Jun 2021 14:13:13 +0200 (CEST)",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\t(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))\t(No client certificate requested)\tby smgk.grupotrc.com (Postfix) with ESMTPS\tfor <info@promede.com>; Wed,  9 Jun 2021 14:13:11 +0200 (CEST)"
+                ],
+                "x-spam-flag": [
+                    "NO"
+                ],
+                "x-spam-score": [
+                    "2.369"
+                ],
+                "x-spam-level": [
+                    "**"
+                ],
+                "x-spam-status": [
+                    "No, score=2.369 required=14 tests=[ALL_TRUSTED=-1,\tBAYES_50=0.8, FSL_HELO_NON_FQDN_1=0.001, NO_FM_NAME_IP_HOSTN=1.586,\tRDNS_DYNAMIC=0.982] autolearn=no autolearn_force=no"
+                ],
+                "x-virus-scanned": [
+                    "amavisd-new at promede.com"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<30AFFCCA-CCFB-48DB-B23E-603FC8781FBD@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Wed, 09 Jun 2021 14:13:29 +0200"
+                ],
+                "from": [
+                    "eve@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "info@promede.com"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ],
+                "x-ksmg-rule-id": [
+                    "7"
+                ],
+                "x-ksmg-message-action": [
+                    "clean"
+                ],
+                "x-ksmg-antispam-lua-profiles": [
+                    "164212 [Jun 09 2021]"
+                ],
+                "x-ksmg-antispam-version": [
+                    "5.9.20.0"
+                ],
+                "x-ksmg-antispam-envelope-from": [
+                    "eve@asdfghjkl.ovh"
+                ],
+                "x-ksmg-antispam-rate": [
+                    "0"
+                ],
+                "x-ksmg-antispam-status": [
+                    "not_detected"
+                ],
+                "x-ksmg-antispam-method": [
+                    "none"
+                ],
+                "x-ksmg-antispam-auth": [
+                    "spf=none smtp.mailfrom=asdfghjkl.ovh"
+                ],
+                "x-ksmg-antispam-info": [
+                    "LuaCore: 448 448 71fb1b37213ce9a885768d4012c46ac449c77b17, {rep_avail}, {Tracking_from_domain_doesnt_match_to}, {Tracking_autoreply}, 127.0.0.199:7.1.2;d41d8cd98f00b204e9800998ecf8427e.com:7.1.1;asdfghjkl.ovh:7.1.1, ApMailHostAddress: 185.25.217.220"
+                ],
+                "x-ksmg-antispam-interceptor-info": [
+                    "scan successful"
+                ],
+                "x-ksmg-antiphishing": [
+                    "Clean, bases: 2021/06/09 10:57:00"
+                ],
+                "x-ksmg-antivirus": [
+                    "Kaspersky Secure Mail Gateway, version 1.1.0.379, bases: 2021/06/09 10:16:00 #16694414"
+                ],
+                "x-ksmg-antivirus-status": [
+                    "Clean, skipped"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nEve\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "76ce2c4ebd3b59378f13ade0c96d812ab8a0b72320d8d7269fd3368c43630a3c"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@mail.promede.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-09T14:13:48+02:00",
+        "received_domain": [
+            "mail.promede.com"
+        ],
+        "received_ip": [
+            "212.4.99.9"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

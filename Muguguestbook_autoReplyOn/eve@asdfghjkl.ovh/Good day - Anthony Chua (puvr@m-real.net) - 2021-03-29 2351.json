@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "domain": [
+                "kin.contact"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nMy name is Mr. Anthony Chua, I am a trained external auditor working for \r\nFederal Reserve System.\r\nA late investor who bears the same last name as you left Unclaimed \r\nLottery Money (Seven Million Five Hundred Thousand Dollars) with a Bank\r\nfor the past years without next of kin.Contact me for more details.\r\n\r\nBest Regards\r\nAnthony Chua\r\n",
+            "content_type": "text/plain",
+            "hash": "95d828d463721886c59f6cbfbfef4d9cf5dd43d129b5624e978394cc37d420dc"
+        }
+    ],
+    "header": {
+        "subject": "Good day",
+        "from": "puvr@m-real.net",
+        "to": [],
+        "date": "2021-03-29T22:51:55+01:00",
+        "received_email": [
+            "puvr@m-real.net"
+        ],
+        "received_domain": [
+            "mail.m-real.net",
+            "webmail.m-real.net"
+        ],
+        "received_ip": [
+            "77.76.140.5",
+            "77.76.140.200"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

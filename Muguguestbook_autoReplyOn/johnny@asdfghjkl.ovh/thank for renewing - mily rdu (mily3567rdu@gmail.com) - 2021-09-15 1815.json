@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello Customer,\r\n\r\nThank You For Choosing Norton 360, we wanted to remind you that you've\r\nchoosen\r\nthe automatic renewal options.\r\n'You have been charged from your saved card details for the annual amount of\r\n your plan upon expiration of your contract on 15/09/2021.\r\n\r\n*__PRODUCT INFORMATION_*\r\n_______________________________________________\r\nInvoice No.             :MTD-POFB-5874-9873\r\n\r\nProduct Name        : NORTON SECURITY 360\r\n______________________________________________\r\nOrder Date          :15th September 2021,\r\n\r\nExpiration Date     :  2 Years from The Date Of Purchase\r\n_________________________________________________________\r\nAmount              : 349.09 USD\r\n\r\nPayment Method      : AUTO DEBIT\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible. *\r\nYou can Reach us on   +1  (866) - (954) - (4874)\r\n\r\nRegards,\r\nNorton Team\r\n",
+            "content_type": "text/plain",
+            "hash": "d18d423df54b8eeb0e7fed999076516ae6d7da3aa157b42c97af053c27190c01",
+            "boundary": "000000000000ea503f05cc0b01bf"
+        }
+    ],
+    "header": {
+        "subject": "thank for renewing",
+        "from": "mily3567rdu@gmail.com",
+        "to": [
+            "nortonlock0786@gmail.com"
+        ],
+        "date": "2021-09-15T21:45:19+05:30",
+        "received_domain": [
+            "mail-io1-f43.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.43"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

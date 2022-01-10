@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "rosemarywilson20@aol.com"
+            ],
+            "domain": [
+                "aol.com"
+            ],
+            "content_header": {
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\""
+                ]
+            },
+            "content": "Greetings to you my dear friend,\r\n\r\nMy name is Rosemary Wilson, Born and brought up in Ontario Canada but a\r\ncitizen of Burkina Faso one of the West Africa Country. I am a banker by\r\nprofession, I work as an Auditor General in Bank Of Africa (BOA). I will\r\nbe very glad if you can assist me to receive this sum of ( USD$ 15\r\nMillion US Dollars) into your bank account for the benefit of our both\r\nfamilies for onward investment in any profitable Oriented business in\r\nyour country, reply to me if you are ready to receive this fund.\r\n\r\nTo enable me start the process I need the following information from you\r\nby e-mail:    rosemarywilson20@aol.com \r\n\r\n(1) Full\r\nNames:............................................................(2)\r\nResidential Address:............................    (3) Country of\r\nResidence:......................   (4) Age:............... (5)\r\nPhone/Cell Number:.......................................(6)\r\nOccupation:....................................  (7) Passport\r\nID:................................................\r\n\r\nMay Almighty God Bless You!\r\n\r\nHoping to hear from you dear friend.\r\n\r\nYour's Sincerely\r\nMiss. Rosemary Wilson",
+            "content_type": "text/plain",
+            "hash": "9561d0a2891a0c21df7d31de8189a2b7358f4322d099a1a451c4624a188c14ee",
+            "boundary": "=_0701c322879363b94ad1bdc2495c6677"
+        }
+    ],
+    "header": {
+        "subject": "URGENT REPLY IS NEEDED",
+        "from": "jasa@unique76i.com",
+        "to": [],
+        "date": "2021-06-30T17:02:59+01:00",
+        "received_domain": [
+            "bosmailout06.eigbox.net",
+            "bosmailscan10.eigbox.net",
+            "boswebmail16.eigbox.net",
+            "emailmg.homestead.com"
+        ],
+        "received_ip": [
+            "196.28.249.86",
+            "66.96.187.6"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

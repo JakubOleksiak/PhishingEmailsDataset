@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "499.00usd"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "N0RTON\r\nTOTAL SECURITY\r\nCalifornia\r\nUSA.\r\n94043\r\nPhone +1 850-889-1882  Fax [509.555.0191]\r\nINVOICE\r\nINVOICE #73763\r\nDATE: JULY 26, 2021\r\n\r\n\r\n\r\nDEAR USER,\r\nYour auto-renewal subscription for Norton security is renewed successfully.\r\nYou have been charged 499.00usd from your card.\r\nYou will get your activation key within 24 hours.\r\n\r\n                                            N0RT0N LIFE-L0CK\r\n\r\nQUANTITY DESCRIPTION UNIT PRICE TOTAL\r\n1.\r\nN0RT0N ANTIVIRUS(32/64 BIT)\r\nSUPPORT IN 5 DEVICES FOR 2 YEARS. 499.00USD 499.00USD\r\n\r\nSUBTOTAL 499.00USD\r\nSHIPPING & HANDLING 0.00USD\r\nTOTAL DUE 499.00USD\r\n\r\nFor Refund cancel this subscription within 24 hours.\r\nIf you have any questions concerning this invoice, contact +1 850-889-1882\r\n(TOLL-FREE)\r\n\r\nThank you for purchasing with us\r\n",
+            "content_type": "text/plain",
+            "hash": "92a5b958cd558f72e57b95b65539c5a0d42c8f0990f4d64b3f279deb31d26c0c",
+            "boundary": "000000000000aec5cc05c8077793"
+        }
+    ],
+    "header": {
+        "subject": "Thanks for payment",
+        "from": "zickelerrory@gmail.com",
+        "to": [],
+        "date": "2021-07-26T19:51:43-07:00",
+        "received_domain": [
+            "mail-pj1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.41"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

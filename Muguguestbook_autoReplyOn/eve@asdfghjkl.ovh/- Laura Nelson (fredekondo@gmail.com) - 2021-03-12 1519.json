@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\nPlease can i talk to you\r\nLaura\r\n",
+            "content_type": "text/plain",
+            "hash": "7c564bb5dc910cca8f3a411fca0dd25af656a395cad7477c21b4105665d6edc9",
+            "boundary": "000000000000d0cbb305bd57976f"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "fredekondo@gmail.com",
+        "to": [],
+        "date": "2021-03-12T15:19:13+01:00",
+        "received_domain": [
+            "mail-oi1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.178"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Spanish; Castilian"
+    }
+}

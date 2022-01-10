@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "HELLO\r\n",
+            "content_type": "text/plain",
+            "hash": "be9478591b86d67c374ab4a5e356cc09094065cc9ebcc2323f85ea839e5d8b97",
+            "boundary": "000000000000949eec05c597db39"
+        }
+    ],
+    "header": {
+        "subject": "HELLO",
+        "from": "jafarnancy@gmail.com",
+        "to": [],
+        "date": "2021-06-25T14:21:30+00:00",
+        "received_domain": [
+            "mail-ej1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.50"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Italian"
+    }
+}

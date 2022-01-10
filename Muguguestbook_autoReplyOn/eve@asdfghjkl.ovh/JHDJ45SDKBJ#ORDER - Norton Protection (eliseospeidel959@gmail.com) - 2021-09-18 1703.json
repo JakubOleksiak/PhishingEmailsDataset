@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\nThank you for choosing Norton 360. Here's a summary of your order\r\nYour computer protection subscription has been successfully extended\r\nand renewed.\r\n\r\nThe on account payment will be shown soon within next 2 to 4 hours on\r\nyour Account Declaration.\r\n\r\n\r\nOrder ID: JHDJ45SDKBJ\r\n\r\n\r\nPaid In Full:  September 18, 2021\r\n\r\nDescription\r\n          Quantity            Amount\r\n\r\nNorton 360 Total Protection  Services (For 1 Year)            1\r\n            $359.00\r\n\r\n\r\n\r\n                    Subtotal         $359.00\r\n\r\n\r\nTotal Refund : N/A\r\n\r\nRefund Trans : YES\r\n\r\nValidity      : 1 year from the Date of purchase.\r\n\r\nPayment method : AUTO RENEWAL\r\n\r\n**************************************************************************\r\nIf you wish to cancel this subscription, Contact our Customer Service\r\n\r\n+1 (719) - (423) - (6555)\r\n\r\n\r\nBack Office Department\r\n\r\nNorton 360 Device Security Entitlement only PC or Mac\r\n",
+            "content_type": "text/plain",
+            "hash": "e9bb0000f9fb16ef651b1e00bb34921b4c4d3369f3ffd94463d4da32d59c9f0c"
+        }
+    ],
+    "header": {
+        "subject": "JHDJ45SDKBJ#ORDER",
+        "from": "eliseospeidel959@gmail.com",
+        "to": [
+            "nortoncustomer70@gmail.com"
+        ],
+        "date": "2021-09-18T20:33:31+05:30",
+        "received_domain": [
+            "mail-qk1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.172"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

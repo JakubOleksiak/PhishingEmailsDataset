@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "2017.he"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\nHow are you today?\r\nI have earlier sent an  email to you but did not receive a  response.  I\r\ndid mention to you in my previous email about my late client, a foreigner,\r\nwho died since 2017.He had a deposit of Seven Million Five Hundred thousand\r\nUS Dollars with a bank here and upon his death, I have been instructed by\r\nthe management of the bank to provide his next of kin or any of his\r\nrelatives who can make claim to his funds but all my efforts to trace any\r\nof the relations, proved abortive hence I have contacted you to present you\r\nfor this claim.\r\nWaiting for your response for further  details on the procedure of the\r\ntransaction .\r\nRegards,\r\nOlivier Jean. Esq.\r\n",
+            "content_type": "text/plain",
+            "hash": "fe574f374cd003e4a20b13413a601beb495fbb35f1b5bf94f8e49e1007270f9c",
+            "boundary": "000000000000515ae905c983a754"
+        }
+    ],
+    "header": {
+        "subject": "Hi",
+        "from": "4olivierjean@gmail.com",
+        "to": [],
+        "date": "2021-08-14T04:55:55-07:00",
+        "received_domain": [
+            "mail-ed1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.44"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

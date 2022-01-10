@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi,Bartolomeo\r\n\r\nAre you looking for mobile App development service?\r\n\r\nWe are an app development company based in India having 7+ years of\r\nexperience.    \r\n\r\nAndroid (Phone/Tablet) Based Application\r\n\r\niPhone / iPad Based Applications\r\n\r\nGPS/Location based Applications\r\n\r\nApp Development for your idea\r\n\r\nPlease feel free to reach out to us in case of any requirements.\r\n\r\nWith regards\r\n\r\nSasah\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "f12e415527225f4b75cce4863efec5597e93052aa95f3809fcfef1624ae8ce77",
+            "boundary": "----=_NextPart_000_0B6E_01D792B4.F7B63100"
+        }
+    ],
+    "header": {
+        "subject": "Re; Android App",
+        "from": "sasha28davis@hotmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T15:34:59+05:30",
+        "received_domain": [
+            "hk2apc01ft115.mail.protection.outlook.com",
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "pn0pr01ca0045.indprd01.prod.outlook.com",
+            "sg2pr02ca0011.outlook.office365.com",
+            "ty2pr02mb4349.apcprd02.prod.outlook.com",
+            "sg2pr02ca0011.apcprd02.prod.outlook.com",
+            "hk2apc01ft115.eop-apc01.prod.protection.outlook.com",
+            "tyyp286mb0906.jpnp286.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7ebc::194",
+            "40.92.255.40",
+            "2a01:111:e400:7ebc::45",
+            "2603:1096:404:800a::10",
+            "2401:4900:1f38:6993:38e7:4546:fdc3:ed39",
+            "2603:1096:3:17:cafe::f4",
+            "2603:1096:c01:49::8",
+            "2603:1096:3:17::23"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

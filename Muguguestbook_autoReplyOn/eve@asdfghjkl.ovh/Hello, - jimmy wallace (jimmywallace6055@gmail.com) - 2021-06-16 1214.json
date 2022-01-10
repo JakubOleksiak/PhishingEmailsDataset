@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\nDid you receive an email I sent to you ?\r\n",
+            "content_type": "text/plain",
+            "hash": "711fc2c21cd5561d6328ab7403a85d3cbb41d31119bd6a850416348aec14fecb",
+            "boundary": "00000000000062d1ae05c4df5ce3"
+        }
+    ],
+    "header": {
+        "subject": "Hello,",
+        "from": "jimmywallace6055@gmail.com",
+        "to": [],
+        "date": "2021-06-16T10:14:39+00:00",
+        "received_domain": [
+            "mail-qk1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.173"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

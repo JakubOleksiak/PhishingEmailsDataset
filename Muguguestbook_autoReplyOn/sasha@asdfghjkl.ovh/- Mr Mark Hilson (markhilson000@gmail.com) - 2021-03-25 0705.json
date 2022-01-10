@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Day.\r\nI am lawyer Mark Hilson, I am contacting you again to confirm if you have\r\nreceived my previous email regarding your family member's estimated\r\ninheritance of ($8.580.000.00 Million USD). I am writing to you because you\r\nhave the same surname with my late client and I need your help in getting\r\nthis money into your account for our mutual benefits.\r\nRespond for further information\r\nSincerely,\r\nMr Mark Hilson (lawyer)\r\n",
+            "content_type": "text/plain",
+            "hash": "04e357b3042e2b5003197a4784ecad4455f7e54125c45971926ed9b4cf0ced8b",
+            "boundary": "0000000000005fa38f05be5636dd"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "markhilson000@gmail.com",
+        "to": [],
+        "date": "2021-03-25T06:05:59+00:00",
+        "received_domain": [
+            "mail-ed1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.46"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

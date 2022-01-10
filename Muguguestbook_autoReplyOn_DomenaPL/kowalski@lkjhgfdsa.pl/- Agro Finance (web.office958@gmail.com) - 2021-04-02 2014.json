@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nDo you need a Loan? Amount needed and phone.\r\n",
+            "content_type": "text/plain",
+            "hash": "fc0879a72b8ec4128735a77d988d4c06c8c6274ab0b678d1abf853cd9f6df737"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "web.office958@gmail.com",
+        "to": [],
+        "date": "2021-04-02T19:14:49+01:00",
+        "received_domain": [
+            "mail-io1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.53",
+            "2002:a4f:e317::"
+        ],
+        "received_foremail": [
+            "kowalski@lkjhgfdsa.pl"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "attachment": [
+        {
+            "filename": "RDP.txt",
+            "size": 1217,
+            "extension": "txt",
+            "hash": {
+                "md5": "fd6e911ef8b2080a0c3ee089351e4395",
+                "sha1": "41379a6a936efbdbd0cd82c71b59f5c74d7a6f69",
+                "sha256": "1f965f0c573a6ae5ad633930667582d9bb5dc4b56f6e1cc3ae01e249df671477",
+                "sha512": "4bf74f2bf8e701b80ef98a0397f0f8be506589cec800aec6460da48422de61d51dfd7c253067517a03788120c31ea267fd29070f36b03eaa3030ad964ec2c218"
+            },
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; name=\"RDP.txt\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"RDP.txt\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_krsds5tq1>"
+                ],
+                "x-attachment-id": [
+                    "f_krsds5tq1"
+                ]
+            }
+        },
+        {
+            "filename": "international id.JPG",
+            "size": 1771388,
+            "extension": "jpg",
+            "hash": {
+                "md5": "ddfc1b08eb2b912b23045f7d791d8f00",
+                "sha1": "d05f14b7406a275bcf9007ac8a296aee0109beb8",
+                "sha256": "6da6acd45fedb5f414b86b9c8e08a244d446100d145269490775e2a13d4905c8",
+                "sha512": "36a79466dd4ecfd040a569d8f9d7de927b6058f1ba30cdf57ef1090313c2da6b3fbfc1b7b171fa81c0456730b4592bdf7e1b143842d1835e2a6fb0a2307ca012"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"international id.JPG\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"international id.JPG\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_krsdrxkc0>"
+                ],
+                "x-attachment-id": [
+                    "f_krsdrxkc0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "domain": [
+                "bank.your",
+                "claimed.note",
+                "number.finally",
+                "better.yours"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*[image: image.png] *\r\n\r\n\r\n\r\n\r\n\r\n\r\n* FROM INTERNATIONAL REMITTANCE DEPARTMENT FIRST BANK NIGERIA PLC 35 ASABA\r\nHOUSE LAGOS NIGERIA CONTACT EMAIL:CONTACT EMAIL:**Dear  **Sir,*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Good Morning I got your email but you need to do what I ask you to do to\r\nenable us to receive your details from his Bank.Your advice to reconfirm\r\nthe following details below to us with valid account co-ordinates and\r\namount to be claimed.Note your transfer code is FBXNZ7XX5M you must keep it\r\nconfidential to avoid intruder or claim by anyone so that I do not transfer\r\nyour fund to the wrong Bank Account.1.Account Holders Name..........2.Bank\r\nName.............3.Bank Address.........4.Home Address.........5.Swift Code\r\nand Routing Code..........6.Your Contact Cell\r\nPhone......7.Occupation..........8.Age.................9.A Copy of your id*\r\n\r\n\r\n\r\n\r\n\r\n*10 Your account Number.Finally I ask for your mutual understanding and\r\ncooperation to serve you better.Yours truly,Rev Ashii Ashii*\r\n\r\n*First Bank Nigeria Plc.*\r\n+2347066084670 CALL ME FOR MORE INFORMATION OKAY.\r\n\r\nHello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nSasha\r\n\r\nsasha@asdfghjkl.ovh<sasha@asdfghjkl.ovh\r\n",
+            "content_type": "text/plain",
+            "hash": "1a01fb258bf7969456489df7f233857233e583c9bb39284aace54df2d7fe9e14",
+            "boundary": "00000000000048488505c86cab23"
+        }
+    ],
+    "header": {
+        "subject": "FILE AND GET BACK TO US WITH YOU BANK INFORMATION.",
+        "from": "officeo941@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-31T16:05:04-07:00",
+        "received_domain": [
+            "mail-ot1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.46"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

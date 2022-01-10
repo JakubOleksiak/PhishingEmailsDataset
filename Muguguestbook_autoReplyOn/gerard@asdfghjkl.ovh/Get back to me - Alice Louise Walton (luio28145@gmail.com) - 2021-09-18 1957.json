@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nDear friend\r\n\r\n Nice to meet you.\r\n\r\n My name is Alice  Walton  from the USA , I am an American heiress to\r\nthe fortune of Wal-Mart Stores, Inc\r\n I have a charity project to discuss with you.\r\n Please get back to me  for more details\r\n God bless you.\r\n Mrs Alice\r\n\r\nMy whatsaap number  +13029478864\r\n",
+            "content_type": "text/plain",
+            "hash": "d612b08e7ec34e148b5e2df6bd63cd986e66716c1099da555c9e7a78c1d3db6a"
+        }
+    ],
+    "header": {
+        "subject": "Get back to me",
+        "from": "luio28145@gmail.com",
+        "to": [],
+        "date": "2021-09-18T18:57:16+01:00",
+        "received_domain": [
+            "mail-vs1-f67.google.com"
+        ],
+        "received_ip": [
+            "2002:a59:af36:0:b0:230:bedb:e644",
+            "209.85.217.67"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "domain": [
+                "000.000.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "MEGA/JACKPOT\r\n\r\nWe wish to inform you of the Lottery Draw held by National Lottery Commission here in London and this draw is held monthly and tag Mega/Jackpot,and you have been awarded the lump sum of ?4 000.000.00 (Four Million Pounds) and your email address that Won the Draw and was gotten through United Kingdom Information Network Online (U.K.I.N.O) which is affiliated with the internet. so please contact your claims manager with details below and also provide him with the requested information so that he can expedite the processing on your winning payment.\r\n\r\n\r\nNAME:\r\n==============COUNTRY: ============ADDRESS:============OCCUPATION:=============Gender:=============AGE:============CITY:=============STATE/PROV:===========ZIP/POSTAL CODE:\r\n==================PHONE:==============FAX:================EMAIL:=============REFERENCE NUMBER:==========BATCH NUMBER:===============\r\n\r\nMr. Jack Jordan\r\nClaims Manager\r\nForeign Claims Department,\r\nTel: +44 704 573 6923\r\nFax: +44 870 471 9707\r\n",
+            "content_type": "text/plain",
+            "hash": "dfbe3d8ab1404b450e51112910fb0462d30693ecdc44ac4ecb35c1dfea023177"
+        }
+    ],
+    "header": {
+        "subject": "MEGA/JACKPOT",
+        "from": "",
+        "to": [],
+        "date": "2021-03-15T09:00:04+01:00",
+        "received_domain": [
+            "142-4-31-235.unifiedlayer.com",
+            "ibb.ibbcaparticipacoes.com.br"
+        ],
+        "received_ip": [
+            "142.4.31.235",
+            "102.68.111.1"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

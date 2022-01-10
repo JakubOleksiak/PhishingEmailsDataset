@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello\r\n\r\nBelow is the email:I sent to you.\r\nI am so sorry for sending you this unsolicited and unexpected email.\r\nI actually got your contact from your country website and l decided to\r\ncontact you directly about this business venture.\r\n\r\n\r\nI am contacting you in good faith and this business investment\r\nproposal will be of mutual benefit for us. I have a business proposal\r\nin a huge sum of (Eight Hundred & Twenty Million United States\r\nDollars} to be transferred to any safe account with your assistance.\r\n\r\n\r\nContact me back via my email (mrjhnsavage@gmail.com) if you are\r\ninterested in this business investment proposal and if you can be\r\ntrusted for further briefing and details.\r\n\r\n\r\nI look forward to hearing from you.\r\n\r\n\r\nKind Regards.\r\n\r\nMr.John Savage\r\n",
+            "content_type": "text/plain",
+            "hash": "d5bd6cdf82c7cb6eeba0bf6bbec40f227bb1c5d53266fc4091220d9a54f6e7da"
+        }
+    ],
+    "header": {
+        "subject": "Good Day",
+        "from": "mredwardc040@gmail.com",
+        "to": [],
+        "date": "2021-08-17T13:56:30+01:00",
+        "received_domain": [
+            "mail-qv1-f43.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.43",
+            "2002:a05:622a:207::"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

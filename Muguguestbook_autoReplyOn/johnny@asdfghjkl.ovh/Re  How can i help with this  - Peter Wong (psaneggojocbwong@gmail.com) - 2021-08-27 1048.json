@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "johnny@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Fill and sign the agreement letter and send t back to me so i can instruct\r\nmy lawyer to proceed with the funds release docuemtn on your behalf to\r\nenable my Bank approved the funds for transfer and have it share as it will\r\nbe agree on in the agreement letter if interested to complete this\r\ntransaction with me\r\n\r\nOn Thu, 26 Aug 2021 at 12:41, <johnny@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> John\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "db4a67264937286c64bc877cba3dc6a5d2ac36907faef6c7ad457a79229a159f",
+            "boundary": "00000000000066e64e05ca868e1d"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "psaneggojocbwong@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-27T09:48:57+01:00",
+        "received_domain": [
+            "mail-ot1-f65.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.65"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

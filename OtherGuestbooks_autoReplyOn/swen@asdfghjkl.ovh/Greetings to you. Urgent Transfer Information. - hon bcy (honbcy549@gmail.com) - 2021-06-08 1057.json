@@ -1,0 +1,65 @@
+{
+    "attachment": [
+        {
+            "filename": "MY FAMILY  PHOTO .jpg",
+            "size": 489972,
+            "extension": "jpg",
+            "hash": {
+                "md5": "7b53e5e5e1767be21f5a6354230dc8ee",
+                "sha1": "a76391a7775664c4b279bd164251ff1fcb8aa1a2",
+                "sha256": "1f60aa3092b56d058ed696f570e04e248b1a094a527ef370204068b7fca8c387",
+                "sha512": "007e9f90f73a859531fe897c1b8d5484f97311117a08f5dd597cb1e7ce69d206646771dec169aef0657885e2aa4f4661af28dff392fbb53cf7c3a17f156a9ad6"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"MY FAMILY  PHOTO .jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"MY FAMILY  PHOTO .jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "file0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "domain": [
+                "1.8m"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend.\r\n\r\nSorry for my late reply because I traveled to Lome Togo,West Africa\r\nfor a board directors meeting .\r\n\r\nThank you for your mail. Attached to you is my family photo and I am\r\nhappy to share this transaction with you.\r\n\r\n\r\nMY FULL NAME: DR. NASA JIRMA\r\nCOUNTRY OF ORIGIN: GHANA.\r\nRESDENTIAL ADDRESS:#288 QUEZIN FERDINAND AVENUE\r\nGHANA  WEST AFRICA.\r\nSTATUS: MARRIED WITH 3 CHILDREN (ONE BOY 2 GIRLS).\r\nOCCUPATION: CIVIL SERVANT (WITH BANK OF AFRICA. GHANA WEST AFRICA).\r\n\r\nHEIGHT: 1.8M\r\nDATE OF BIRTH: 10TH OF MARCH 1956(10/03/56)\r\nCOMPLEXION:FAIR IN COMPLEXION/CHOCOLATE COLOUR\r\nHUBBIES:WATCHING FILMS,LISTENING TO RADIO AND READING NEWS PAPER/JOURNAL.\r\n\r\n\r\nGet back to me with the following details below.\r\n\r\n(1)Your age........................\r\n\r\n(2)Sex........................\r\n\r\n(3)Your occupation.....\r\n\r\n(4)Your marital status.....\r\n\r\n(5)Your country Name......\r\n\r\n(6)Your full residential address.......\r\n\r\n(7)Your private phone and fax number and your complete name.......\r\n\r\n(8)A copy of your passport or ID card............\r\n\r\nSend me all necessary details immediately to commence on this project\r\nwithout any further delay.\r\n\r\nAs soon as I receive these data, I will forward to you the application\r\nform which you will send to the bank to proceed the release of the\r\nfund in your bank account.\r\n\r\nThen after you confirm this fund into your account  I will  come over\r\nto you country  for the sharing  of the fund as agreed .\r\n\r\n\r\nReply Urgent\r\n\r\n\r\nMy private number (+233263703012 )\r\nThanks,\r\nDr. Nasa Jirma\r\n\r\nMy private mail box contact me here\r\n",
+            "content_type": "text/plain",
+            "hash": "1921944ec82f505069cfbb093b229abc08b73cb2f0749c19de191fc7b161ce15",
+            "boundary": "0000000000006db1e505c43d58b3"
+        }
+    ],
+    "header": {
+        "subject": "Greetings to you. Urgent Transfer Information.",
+        "from": "honbcy549@gmail.com",
+        "to": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-08T01:57:18-07:00",
+        "received_domain": [
+            "mail-yb1-f193.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.193",
+            "2002:a05:6918:134f:b029:2c:fc33:fd9"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

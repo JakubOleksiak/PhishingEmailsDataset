@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://docs.google.com/forms/d/e/1FAIpQLScfKqmHS0r_WGoDJDGflk5QXlQWNy5hpEruNjD1zbMTvVzKuA/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link"
+            ],
+            "email": [
+                "cfcubabenin@accountant.com"
+            ],
+            "domain": [
+                "docs.google.com",
+                "accountant.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\"; format=\"flowed\"; delsp=\"yes\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Je vous ai invit\u00e9 \u00e0 remplir le formulaire suivant\u00a0:\r\nVos coordonn\u00e9es\r\n\r\nPour remplir ce formulaire, consultez\u00a0:\r\nhttps://docs.google.com/forms/d/e/1FAIpQLScfKqmHS0r_WGoDJDGflk5QXlQWNy5hpEruNjD1zbMTvVzKuA/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link\r\n\r\nDear Beneficiary,\r\n\r\nI am obliged to contact you concerning your approved compensation payment  \r\nsum because your name was among the list of 162 persons (Scam Victims) that  \r\nwas approved by the new elected Government of Republic of Benin in  \r\ncorroboration with ECO-WAS-Economic Community of West African States  \r\nregional government to pay a compensation payment of $1.200,000.00USD One  \r\nMillion Two hundred thousand USA dollars.\r\n\r\nNote that a valid ATM Visa Card has been issued on your name and has been  \r\ndeposited with our account officer, therefore you are hereby advised to  \r\nContact Mr. Martins Adams on his private E-mail with your full information.\r\n\r\nContact person; &#39;&#39;Mr. Martins Adams&#39;&#39;\r\nEmail: (cfcubabenin@accountant.com)\r\nTelephone; +229 5155 4511\r\n\r\nFor our confirmation / delivery of your ATM Visa Card, you are required to  \r\nforward your full information below:\r\n\r\nYour Full Names:.............\r\nAddress:................\r\nZip Code:....................\r\nCell Phone Number#:..........\r\nID Card or front Copy of your passport............\r\n\r\nNote that the Beneficiary is required to pay $95 only for the  \r\nshipment/services fee to send the ATM Visa Card to your receiving doorstep  \r\naddress. Your urgent attention to send the above information to  \r\n&#39;&#39;Mr. Martins Adams&#39;&#39; is obliged.\r\n\r\nThank for your cooperation,\r\n\r\nMrs Glory Cyprian.\r\n\r\nGoogle\u00a0Forms vous permet de cr\u00e9er des enqu\u00eates et d'en analyser les  \r\nr\u00e9sultats.\r\n",
+            "content_type": "text/plain",
+            "hash": "42cc48600f3bfa5adb24d9fe8692e8e1905ce9d70c693bff2dcd721bdc2c176d",
+            "boundary": "00000000000088b68e05cc9c2246"
+        }
+    ],
+    "header": {
+        "subject": "ATM Visa-Card",
+        "from": "cyprienglory@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-22T21:24:09+00:00",
+        "received_domain": [
+            "mail-qv1-f72.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.72"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

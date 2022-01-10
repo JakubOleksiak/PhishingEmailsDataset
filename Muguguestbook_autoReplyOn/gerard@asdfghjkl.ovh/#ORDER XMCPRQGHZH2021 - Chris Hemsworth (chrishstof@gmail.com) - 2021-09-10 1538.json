@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hello Most Prime User,\r\n\r\n\r\n\r\nYour yearly plan for NORTON PACK has been successfully renewed & updated.\r\n\r\n\r\n\r\n*The charged sum will be reflected within next 24 to 48 hours on your a/c\r\nrecord.*\r\n\r\n\r\n\r\nPRODUCT DESCRIPTION\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nInvoice No                         :       XMCPRQGHZH2021\r\n\r\n\r\n\r\nItem Code                         :       NORTON PACK\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nIssue Date                          :       10th September 2021\r\n\r\n\r\n\r\nExpiration Date                  :       1 year from the date of purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nSum                                      :       $318.19USD\r\n\r\n\r\n\r\n\r\nPayment Method               :       AUTO DEBIT\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to contact our\r\nbilling department as soon as possible. *\r\n\r\n\r\n\r\nYou can Reach us on   *+1   \u2013   (888)   \u2013   (355)   \u2013   (0507)*\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "60c51b2c273af2e2b3822c8ee1afd1504f39c4dd2dbf1c9d72bdff6a991320cd",
+            "boundary": "00000000000072e01305cba43a83"
+        }
+    ],
+    "header": {
+        "subject": "#ORDER XMCPRQGHZH2021",
+        "from": "chrishstof@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-10T19:08:08+05:30",
+        "received_domain": [
+            "mail-lj1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.196"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

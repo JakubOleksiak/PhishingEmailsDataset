@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Do you need a loan on 2%? if yes reply back for more details.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c30da4730e012c650afd51b23f50e1c2fed48db7dc9584a520877b1a37ded755",
+            "boundary": "_000_69635743f1ae467a8c43852cf5bd2ab9tuclausthalde_"
+        }
+    ],
+    "header": {
+        "subject": "RE",
+        "from": "amal.raju@tu-clausthal.de",
+        "to": [],
+        "date": "2021-08-07T23:55:20+00:00",
+        "received_domain": [
+            "poseidon.rz.tu-clausthal.de",
+            "exchange.tu-clausthal.de",
+            "mailrelay4.rz.tu-clausthal.de",
+            "exchange4.rz.tu-clausthal.de",
+            "exchange3.rz.tu-clausthal.de"
+        ],
+        "received_ip": [
+            "139.174.39.7",
+            "139.174.3.3",
+            "139.174.39.11",
+            "139.174.3.2"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

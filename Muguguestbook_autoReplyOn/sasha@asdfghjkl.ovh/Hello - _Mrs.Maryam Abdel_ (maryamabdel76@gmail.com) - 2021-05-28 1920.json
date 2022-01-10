@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello my dear\r\n\r\nI am Mrs Mariam Abdul from Dubai, I am 52 years old woman suffering\r\nfrom Endometrial cancer and I live in west Africa, please i want you\r\nhelp me create a charitable project with the sum of Seven million five\r\nhundred thousand US dollars [$7,500,000.00]\u00a0 that I inherited from my\r\ndeceased husband, I crave your indulgence as a God fearing individual\r\nand as someone who cares for the less-privileged as much as i do,\r\n\r\nTherefore, I want you to receive the money and take 50% to take care\r\nof yourself and family while 50% should be use basically on\r\nhumanitarian purposes mostly to orphanages home, Motherless babies\r\nhome, less privileged and disable citizens and widows around the\r\nworld. And as soon as I receive your respond I shall send you the full\r\ndetails ,\r\nHope to hear from you soon.\r\nYours Faithfully,\r\nMrs.Mariam Abdul\r\n",
+            "content_type": "text/plain",
+            "hash": "fba943482b0bcda71a3a7fb35689907b521a7ae3b53994dfc590cb057266900f"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "maryamabdel76@gmail.com",
+        "to": [],
+        "date": "2021-05-28T10:20:58-07:00",
+        "received_domain": [
+            "mail-qk1-f170.google.com"
+        ],
+        "received_ip": [
+            "2002:a0c:fe86::",
+            "209.85.222.170"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

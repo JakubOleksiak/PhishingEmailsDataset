@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "eve@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir\r\n For the Benefit of doubt  i think you will have to come down to my country\r\nto inspect the property and sign\r\nsome Document involved  or  i can get you a good lawyer to represent you\r\nhere until the deal is done\r\nCall me + 233 240047949\r\nThanks\r\n*GLOBAL SECURITY COMPANY*\r\n*Officer in Charge: *\r\n*Mr Patrick Smith*\r\n\r\n\r\n\r\n\r\n\r\n*GLOBAL SECURITY COMPANY*\r\n*Officer in Charge: *\r\n*Mr Patrick Smith *\r\n\r\n\r\n\r\n\r\nOn Sun, Sep 5, 2021 at 7:49 PM <eve@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Eve\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "c49aa31edcd2800ea0b694a516d5c2a4cc2103f5b6d78939702b6116a4aab499",
+            "boundary": "0000000000003a428005cb6b337a"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "globalsec22@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-02T17:50:15+00:00",
+        "received_domain": [
+            "mail-ot1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.46"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

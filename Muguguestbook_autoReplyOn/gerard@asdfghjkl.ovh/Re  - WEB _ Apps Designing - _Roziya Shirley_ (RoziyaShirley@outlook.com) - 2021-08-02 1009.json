@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Gerard,\r\n\r\nI am a professional Web designer/Developer; I can upgrade, Repair and\r\nRedesign your Website, The versatility of my profession also allows me to do\r\nGraphic Designing as well as Website Development at an affordable price.\r\n\r\n E-commerce // Personal interest // Mobile App's\r\n\r\nCorporate // Responsive // Seo marketing\r\n\r\nIf you are interested, Kindly reply to this mail then I can send you our\r\npast Work, Price, Portfolio & Details accordingly with the BEST OFFERS. \r\n\r\nThanks & Regards,\r\n\r\n Roziya Shirley,\r\n\r\n Business Development Consultant\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "4fa8bd97b68db27e35f9576ef8640189bc68870beb6e124b8caf6f3ac327f004",
+            "boundary": "----=_NextPart_000_3BAC_01D787A4.73F8CAF0"
+        }
+    ],
+    "header": {
+        "subject": "Re:- WEB & Apps Designing",
+        "from": "roziyashirley@outlook.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T13:39:52+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "pn1pr0101ca0004.indprd01.prod.outlook.com",
+            "kl1pr02mb5185.apcprd02.prod.outlook.com",
+            "kl1pr0201mb2248.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:820:7b::6",
+            "122.161.53.220",
+            "2603:1096:802:c::8",
+            "2603:1096:c00:e::14",
+            "40.92.254.21"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

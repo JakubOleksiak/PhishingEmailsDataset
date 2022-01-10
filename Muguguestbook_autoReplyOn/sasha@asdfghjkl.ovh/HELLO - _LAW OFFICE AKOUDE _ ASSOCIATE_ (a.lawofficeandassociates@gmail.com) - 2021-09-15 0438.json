@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am writing this message to you about my late client, a member of your\r\nfamily who died a few years ago leaving a large amount of money and\r\nproperty that has not been claimed.\r\nReply to this email to proceed with the details.\r\n\r\nRegards,\r\n",
+            "content_type": "text/plain",
+            "hash": "784a3b218e37623a1ee26ac6c5668b3cc6b36b08e5405ab7edd1771204dfef7a",
+            "boundary": "000000000000cec4d305cbff995c"
+        }
+    ],
+    "header": {
+        "subject": "HELLO",
+        "from": "a.lawofficeandassociates@gmail.com",
+        "to": [],
+        "date": "2021-09-15T02:38:49+00:00",
+        "received_domain": [
+            "mail-pg1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.172"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

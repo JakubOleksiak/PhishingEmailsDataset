@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am Spencer Mitchell and it's my pleasure to meet you, I saw your profile\r\nand I want to discuss an interesting project with you, I am hoping to get\r\nyour response to give you more details. Best regards, Spencer Mitchell\r\n",
+            "content_type": "text/plain",
+            "hash": "2cc2633e6b4776c002e14c273a0fa4c5a787c6366623347054e92a1ebfdf0498",
+            "boundary": "00000000000039b9d605cde995ca"
+        }
+    ],
+    "header": {
+        "subject": "HELLO MY DEAR",
+        "from": "tf80483@gmail.com",
+        "to": [],
+        "date": "2021-10-09T11:09:23+00:00",
+        "received_domain": [
+            "mail-wr1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.67"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

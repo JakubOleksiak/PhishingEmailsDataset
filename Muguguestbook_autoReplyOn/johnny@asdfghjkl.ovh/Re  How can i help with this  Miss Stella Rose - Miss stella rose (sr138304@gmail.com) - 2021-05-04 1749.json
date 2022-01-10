@@ -1,0 +1,101 @@
+{
+    "attachment": [
+        {
+            "filename": "MRS FAITH.jpg",
+            "size": 31378,
+            "extension": "jpg",
+            "hash": {
+                "md5": "767e66954310f150bff75ba36d3cd22c",
+                "sha1": "7ef3bb98089ac9f4777ee8c08324ba96e7192028",
+                "sha256": "fb905ab4baccf94a3f345f55e7539989e9b076bde937d1040506e4e8fd4edabf",
+                "sha512": "d74998f572e40143ee1918f6214a34f8352ac3d4299a3fd3bbdb7d31f3a365e2b32c3b143a5631e34c5ab580209f13b0ac462b7ab5429fe3c61f87231779c318"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"MRS FAITH.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"MRS FAITH.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "7d35b1f30c43aa07_0.1"
+                ]
+            }
+        },
+        {
+            "filename": "ME_AND_MY_HUSBAND.jpg",
+            "size": 48705,
+            "extension": "jpg",
+            "hash": {
+                "md5": "992d122cb492f1189ea8023d7c723afd",
+                "sha1": "634313dc7990278fd0b6e1f0e6db53f3b4940608",
+                "sha256": "f6fd182cc8dc17315c8252f22d52eb3f19e06875bae7aaf54197bbc0e599baa0",
+                "sha512": "33b3f676313819b537934cc1bf383283cf68b324ac1bca05a4e1c4aa80cf1472f6218364bf9107c551d397c3dbebec7c36d735ca52461d051a6ef8199764d086"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"ME_AND_MY_HUSBAND.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"ME_AND_MY_HUSBAND.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "26421e2ad18e3ee5_0.1"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "johnny@asdfghjkl.ovh",
+                "alinco22@outlook.com"
+            ],
+            "domain": [
+                "asdfghjkl.ovh",
+                "repeat.contact",
+                "mr.paul",
+                "outlook.com",
+                "reconfirm.your"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello John,  Thanks for your response and please kindly contact the Alinco\r\nSecurity Company on my behalf and ask them to deliver the consignment to\r\nyou immediately and here is my pictures.\r\n\r\nMiss Stella Rose\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nOn Tuesday, May 4, 2021, <johnny@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> John\r\n>\r\n>\r\n\r\n\r\nAttn: Beneficiary!\r\nCourage my dear, I know you will be waiting for the arrival of your\r\nConsignment contain the total amount of your($5million ) cash payment\r\ncompensation which I was to sent to you and letter return back due to wrong\r\naddress provided, I think there is a mistake in the address giving to me\r\nand that has cost me a lot of strength, but I thank God that it return back\r\nsafely. The only things now is your urgent contact directly to (  ALINCO\r\nSECURITY COMPANY) this company are in charge of delivering your consignment\r\nbox contain the ($5million ) Again let me repeat.Contact Person: Mr.Paul\r\nEgo. ( Delivery Department Managing Director )E-mail : (\r\nalinco22@outlook.com\r\n)Tel :+234-80-23631899  For the purpose of clarification, It is advice that\r\nthe entire fee has been paid for your delivery so it's probably $55 dollar\r\nthat remains that you will sent to their security office for the safe\r\nkeeping fee of your returning box so far. don't be\r\nmisconceived by anybody, and be advised to reconfirm.YOUR\r\nCOUNTRY_____________\r\nYOUR FULL NAME_______________\r\nOCCUPATION_______________\r\nHOMEADDRESS?_____________\r\nPASS PORT_____________\r\nMOBIL PHONE NUMBER________________\r\nOFFICE NUMBER;;;HOME NUMBER_______________\r\nAGE__________________\r\nSEX______________ In addition to what i said earlier please don't dispose\r\nthe content of the box to them, avoid delay and finally endeavor to\r\nindicate this CODE N\u00b0(GL-14160) this code shows that you are the rightful\r\nowner of the box deposited in their company, use it as your subject when\r\ncontacting them, thanks and have a nice day. Best Regards\r\nMiss. Stella Rose\r\n",
+            "content_type": "text/plain",
+            "hash": "8d54b2d7f1a44dcabe27fba3cdef3687da71c2656486ce025653d36e26e4221f",
+            "boundary": "000000000000b47bec05c183045e"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this? Miss Stella Rose",
+        "from": "sr138304@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-04T16:49:06+01:00",
+        "received_domain": [
+            "mail-lf1-f43.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6512:6c2::",
+            "209.85.167.43"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "Sizning elektron pochta manzilingiz.docx",
+            "size": 11558,
+            "extension": "docx",
+            "hash": {
+                "md5": "502b100bff1a788117a9a8fff68e1332",
+                "sha1": "e77377c21e0e427f3f0dcd30e03b0f4f971ba96e",
+                "sha256": "2931e299e5e7a29f63db081fe1cf4d6f074440b8aa7b5d2f1fd5c14a17fa67ee",
+                "sha512": "117f31659578d12653896906c747c6330cb3d4368190186ab6f48e26d8b8c00da2399c23e540605c29a2adca7413218cdda2af8bc8ac48d68dfa591c833423e7"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"Sizning elektron pochta manzilingiz.docx\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"Sizning elektron pochta manzilingiz.docx\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_kqtha0wf0>"
+                ],
+                "x-attachment-id": [
+                    "f_kqtha0wf0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+            "boundary": "000000000000a4e7a205c687fabc"
+        }
+    ],
+    "header": {
+        "subject": "DIQQAT",
+        "from": "barisvictorb@gmail.com",
+        "to": [],
+        "date": "2021-07-07T12:50:10+00:00",
+        "received_domain": [
+            "mail-ej1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.48"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "UNKNOWN"
+    }
+}

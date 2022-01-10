@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hello,\r\n\r\n# Your 12 MONTHS SUBSCRIPTION for NORTON 360 ANTIVIRUS has been\r\nsuccessfully renewed and updated. #\r\n\r\nThe charged amount will be reflected within the next 24 hrs to 48 hrs on\r\nyour account statement.\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nReceipt Number             :        #5477WFS#\r\n\r\nProduct Name                 :        NORTON 360 ANTIVIRUSES\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nPrice                                   :       $746.25 USD\r\n\r\nPAYMENT METHOD        :      AUTO RENEWED\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                        :       14 SEPT 2021\r\n\r\nExpiration Date                :       24 months from the Date of Purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\n* If you wish to Cancel this Subscription then please feel free to contact\r\nour billing department as soon as Possible *\r\n\r\nYou can Reach us on   +1 (877) (350) - (3723)\r\n\r\n\r\n\r\nRegards,\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "5e85f1d6da1668bfa6853ba88b51d93431515244ca09212ecb927cf2994489a0",
+            "boundary": "000000000000b5186b05cbf92b2e"
+        }
+    ],
+    "header": {
+        "subject": "Your antivirus purchase., #5477WFS#",
+        "from": "connorgdx5784@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-15T00:28:29+05:30",
+        "received_domain": [
+            "mail-wr1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.53"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "sasha@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello sir I am a Gold seller located to Ghana and i need real Gold buyer\r\nwho is ready to buy gold let me know if you are ready to buy my Gold at\r\ngood price get back to me for more details\r\nThanks\r\nDuke O\r\n\r\nOn Wed, Sep 1, 2021 at 2:09 PM <sasha@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Sasha\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "b0e7cbf52ad7978a08d890d6411cf100e57f33a7438564bc316efe58a44a79bf",
+            "boundary": "000000000000c5bc0305caf620cd"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "dkosam1215@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-01T09:55:28-07:00",
+        "received_domain": [
+            "mail-io1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.47"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

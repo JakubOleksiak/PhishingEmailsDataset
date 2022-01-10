@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "zack@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "contact him\r\n\r\nOn 8/18/21, zack@asdfghjkl.ovh <zack@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Zack\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "5338d8194903d1e5217be3ca74dd0844e320f0ade8c0451598344e90141b4adb"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help with this?",
+        "from": "you456120@gmail.com",
+        "to": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-19T12:35:46-07:00",
+        "received_domain": [
+            "mail-yb1-f172.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:7108:6882::",
+            "209.85.219.172"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

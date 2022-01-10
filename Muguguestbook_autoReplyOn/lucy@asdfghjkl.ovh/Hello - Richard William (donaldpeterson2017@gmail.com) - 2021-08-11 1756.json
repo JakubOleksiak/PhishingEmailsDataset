@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "richardcawilliam@yahoo.com"
+            ],
+            "domain": [
+                "yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi\r\n\r\nCan you help me set up  any profitable Business in your\r\n\r\ncountry?though we shall discuss the investment plan and your benefit\r\non our second conversation.\r\n\r\n\r\nGet back to me on this email Address richardcawilliam@yahoo.com\r\n\r\nRegards\r\n\r\n\r\n\r\nRichard\r\n",
+            "content_type": "text/plain",
+            "hash": "bb956449c31be89fcfce3d8b93de027b190c09e3a9ae39bf9ef3cae9cc636b74"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "donaldpeterson2017@gmail.com",
+        "to": [],
+        "date": "2021-08-11T08:56:25-07:00",
+        "received_domain": [
+            "mail-pj1-f44.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6a20:230b:b029:4d:65ba:15a0",
+            "209.85.216.44"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Bartolomeo\r\n\r\nGreetings and best wishes for the day!!!\r\n\r\nI work for an IT solution company as an app development manager.\r\nWe have offices in India and are excited to announce that our operation\r\ncentre will be in the United States soon.\r\n\r\nPlease have a look at our IT services below and discuss the requirements for\r\nyour project so that we can examine it and provide you with the most\r\ncost-effective solution for your company.\r\n\r\nOur Specialty: \r\n1: Business App & Websites\r\n2: Website Design & Redesign\r\n\r\n3: Food App & Fitness App\r\n4: SEO | PHP | Word press. Net\r\n\r\n5: Mobile and Web development\r\nif you are interested, please let me know and I will gladly share our\r\nproposal with you.\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "02958e55413e5e1d343d5b4c447cc7485446757436ff80b1adc170b38ef7d74b",
+            "boundary": "----=_NextPart_000_0DF3_01D7A4C3.4308FF00"
+        }
+    ],
+    "header": {
+        "subject": "Re: Our Specialty",
+        "from": "kevinjohnson52jd@outlook.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-08T15:05:21+05:30",
+        "received_domain": [
+            "osyp286mb0503.jpnp286.prod.outlook.com",
+            "pn3pr01ca0029.indprd01.prod.outlook.com",
+            "jpn01-os2-obe.outbound.protection.outlook.com",
+            "os3p286mb1368.jpnp286.prod.outlook.com"
+        ],
+        "received_ip": [
+            "104.47.92.175",
+            "2603:1096:604:121::13",
+            "2603:1096:c01:97::18",
+            "122.161.52.143",
+            "2603:1096:604:8f::7"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

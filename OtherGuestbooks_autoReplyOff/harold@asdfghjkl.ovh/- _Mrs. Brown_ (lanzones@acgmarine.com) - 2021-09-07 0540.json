@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": " My name is Monica L. Brown I have a private discussion with you.\r\n",
+            "content_type": "text/plain",
+            "hash": "0140677e78f158dd5e70f6d9460969f799aa1c64e7175e4bfbc2e2582e431926"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "lanzones@acgmarine.com",
+        "to": [
+            "lanzones@acgmarine.com"
+        ],
+        "date": "2021-09-07T11:40:32+08:00",
+        "received_domain": [
+            "mail4.acgmarine.com"
+        ],
+        "received_ip": [
+            "89.97.20.26",
+            "223.177.252.161"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

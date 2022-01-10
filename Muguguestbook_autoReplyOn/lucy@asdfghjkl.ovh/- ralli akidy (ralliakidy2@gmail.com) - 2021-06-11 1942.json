@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "bicici_bank_ci@zoho.com",
+                "bicicicicotdivoire@yahoo.fr"
+            ],
+            "domain": [
+                "zoho.com",
+                "yahoo.fr"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Contact the bank\r\nR\r\nralli akidy\r\nto Saint\r\n9 hours ago\r\nDetails\r\n\r\n> here is the bank contact , just send mail to them as soon as possible\r\n>\r\n> BANQUE INTERNATIONALE POUR LE' COMMERCE (BICICI)\r\n> BANK MANAGER IS MR. ANGE KOFFI\r\n> LINE: +225 5590 3880\r\n> BANK EMAIL :   bicici_bank_ci@zoho.com <bicicicicotdivoire@yahoo.fr>\r\n>\r\n> Please Contact the director Mr ange Koffi and tell him that you are\r\n> writing unbehalf of me Ms Ralli Akidy who's father is dead and have money\r\n> deposited in their bank. ask him what can you do do receive the money to\r\n> you, just Feel free to email the bank director because he have already told\r\n> me to look for someone who will help me and make the money transfer, Then\r\n> he will wellcome you and tell you what to do next for the transfer ok\r\n>\r\n> I will be waiting for your email after you contacting them\r\n> Your's Faithful Love Ralii\r\n>\r\n\r\n\r\n--\r\n",
+            "content_type": "text/plain",
+            "hash": "c0e8ffb504cffa3cc2a06d3d6ceea724adf9fea887571d1d7b51ada5973c5277",
+            "boundary": "0000000000006380a605c48108a5"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "ralliakidy2@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-11T19:42:33+02:00",
+        "received_domain": [
+            "mail-il1-f179.google.com"
+        ],
+        "received_ip": [
+            "2002:a02:6383::",
+            "209.85.166.179"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

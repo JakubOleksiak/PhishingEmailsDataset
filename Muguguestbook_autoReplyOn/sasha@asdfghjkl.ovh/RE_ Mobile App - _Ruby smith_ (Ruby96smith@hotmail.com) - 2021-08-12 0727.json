@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Sasha\r\n\r\n \r\n\r\nI am a professional Web Design & Mobile App, Developer, with 11 years of\r\nexperience. \r\n\r\nI can upgrade, Repair and Redesign your Website. \r\n\r\n \r\n\r\n.         Apps Development\r\n\r\n.         Website Redesign\r\n\r\n.         Web Development\r\n\r\n.         E-Commerce & Graphic Design\r\n\r\nMobile Apps Designing, Android App, Games ..etc.\r\n\r\n(Online Promotion) Online ads, Social Media Ads\r\n\r\n \r\n\r\nNote: - May I send you a quote and Company Information, if interested?\r\n\r\n \r\n\r\nRegards\r\n\r\nRuby\r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a85159bd8559caa6bcf25959e49b5a0fc44513360ffe3422a594bacdd169609e",
+            "boundary": "----=_NextPart_000_36F7_01D78F69.8938AD50"
+        }
+    ],
+    "header": {
+        "subject": "RE; Mobile App",
+        "from": "ruby96smith@hotmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-12T10:57:18+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "sg2pr03mb4295.apcprd03.prod.outlook.com",
+            "bmxpr01ca0080.indprd01.prod.outlook.com",
+            "sg2pr03mb3260.apcprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:4:84::19",
+            "40.92.254.25",
+            "2401:4900:1f38:1e0b:ed6f:3bbc:1512:6b70",
+            "2603:1096:b00:54::20",
+            "2603:1096:4:15::12"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "attachment": [
+        {
+            "filename": "icon.png",
+            "size": 1450,
+            "extension": "png",
+            "hash": {
+                "md5": "f0fca727b15b1ca91a2c74958fbe0a3d",
+                "sha1": "160b10198ae3d21b1a28414d66764905d0d12cad",
+                "sha256": "53f8dda136f73dc690d8e82b9e5ff20420f576e6876d327eb63f02b6ecb123dd",
+                "sha512": "09dbbd41e89dbd4419bd161fdae5c04a7e6ae04d543e1c73b911503b968854fdc38e31b617c543aff973f82f8b3a4e2739913b7dd4612d5db6c398098fde77fc"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"icon.png\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"icon.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<icon.png>"
+                ]
+            }
+        },
+        {
+            "filename": "part-000",
+            "size": 2789,
+            "hash": {
+                "md5": "a95f877ced63c63263e8e640b3aa39fa",
+                "sha1": "c2dd2630e6c1b226440b4d1428801d06ca139596",
+                "sha256": "7734f513dc3ae64a2bed4a4473600ee1aecf2b1d0be57faade1545f4e4189545",
+                "sha512": "3c77002fbd9937d30f2b0db8bcd19b8fa798d0fe7e156910f39db96d2134bac49bce719d66fa50e325169b2eee4be34f653cef0458e4d0aba4f31d9140f3a051"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "uri": [
+                "https://support.google.com/mail/answer/6596"
+            ],
+            "email": [
+                "stuyvesanlotto@lotto.com"
+            ],
+            "domain": [
+                "lotto.com",
+                "support.google.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n** Address not found **\r\n\r\nYour message wasn't delivered to Stuyvesanlotto@lotto.com because the address couldn't be found, or is unable to receive mail.\r\n\r\nLearn more here: https://support.google.com/mail/answer/6596\r\n\r\nThe response was:\r\n\r\nThe email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596\r\n",
+            "content_type": "text/plain",
+            "hash": "372a33dfede2c4ddb23fc5465db33061071b8b7fe9df4d06819023ad9bfc6781",
+            "boundary": "00000000000031891b05c8d08234"
+        },
+        {
+            "content_header": {
+                "reporting-mta": [
+                    "dns; googlemail.com"
+                ],
+                "received-from-mta": [
+                    "dns; gertrude@asdfghjkl.ovh"
+                ],
+                "arrival-date": [
+                    "Thu, 05 Aug 2021 07:12:26 -0700 (PDT)"
+                ],
+                "x-original-message-id": [
+                    "<CE17B997-934B-45D0-BD84-F020B2FFFB4C@DESKTOP-9AVSAIR>"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; Stuyvesanlotto@lotto.com"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.0.0"
+                ],
+                "diagnostic-code": [
+                    "smtp; The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596"
+                ],
+                "last-attempt-date": [
+                    "Thu, 05 Aug 2021 07:12:26 -0700 (PDT)"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "x-google-smtp-source": [
+                    "ABdhPJwoJ/wf0n+G52tVBJx2/FW4jtg1tuDrhQqZsjq8rH8RZYsvn3bFUDe5uJ7VXxo58ydDJjqg"
+                ],
+                "x-received": [
+                    "by 2002:a2e:9b4f:: with SMTP id o15mr3269524ljj.22.1628172746034;        Thu, 05 Aug 2021 07:12:26 -0700 (PDT)"
+                ],
+                "arc-seal": [
+                    "i=1; a=rsa-sha256; t=1628172746; cv=none;        d=google.com; s=arc-20160816;        b=ovBQcutXD6Ll4S/QuWXllw82ciQdr9xAjq5iWF9VkPAWW1trowm/BB5XkSIHKi2/4I         r7RTwZyC/6tzcC+yAcCwjIuX21H/b4qN679TyonhOudY8ldSisXjMaR0f2rG32kuO+Nv         2FuxhWVY3V6nF5hE/HNq8E/MjWdX1OsBmkqZuNVMiYxJ4OhHgQBFZ/02eh+8/wW8d7Io         J7u4bgBiAnryxucXoTA/CXKZ+Ddx5UB80+jfC2ZNO8YmJh2RkALFiRALDHLZcWVpKHqt         4zuB/zcoTT/lw0sW2zHJlY2DCm8MOZaC51PwyD+gWdSUgFs6AxBaTk1cSUnn6reQK/pv         iEig=="
+                ],
+                "arc-message-signature": [
+                    "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=auto-submitted:content-transfer-encoding:subject:to:from:date         :message-id:mime-version;        bh=x0W5g0nO8LoNLr1zKYs5lvGWd9PlfqoZG+tmgKnqgmw=;        b=a0x0XFd9PhQT0P3d7d43ZkLbgHJd041iu15Bl69IOTSk3q7DHegTPDZvX+ygNgHjBO         A2pbJvRYwRZpJ1X7u1pod4dnKvMnYMsN0iM0/MUtmjcx2FS4PJTPagaIo/rpMISavAUC         pYYPm8D0J/JO6ByWLM5r7hhIO573qKORRB+ySa6h5zRgvgJJI0fW72k59dsFntPasvgE         7mTSO1U6TffkF9m1+2eSX8J+7jTTuLFuYc1vn75enpGQ1YJ92IBGt7Oa3dUSWznexGKT         DpBWbYgFxhTZDWnwhZ+PNl0txvmfoLRkiuD5+FUyHmnFcmHca2m5HpexZmLsw85Wc1IL         4dZQ=="
+                ],
+                "arc-authentication-results": [
+                    "i=1; mx.google.com;       spf=neutral (google.com: 185.25.217.220 is neither permitted nor denied by best guess record for domain of gertrude@asdfghjkl.ovh) smtp.mailfrom=gertrude@asdfghjkl.ovh"
+                ],
+                "return-path": [
+                    "<gertrude@asdfghjkl.ovh>",
+                    "<gertrude@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl. [185.25.217.220])        by mx.google.com with ESMTPS id f9si6141909ljq.257.2021.08.05.07.12.25        for <Stuyvesanlotto@lotto.com>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Thu, 05 Aug 2021 07:12:25 -0700 (PDT)"
+                ],
+                "received-spf": [
+                    "neutral (google.com: 185.25.217.220 is neither permitted nor denied by best guess record for domain of gertrude@asdfghjkl.ovh) client-ip=185.25.217.220;"
+                ],
+                "authentication-results": [
+                    "mx.google.com;       spf=neutral (google.com: 185.25.217.220 is neither permitted nor denied by best guess record for domain of gertrude@asdfghjkl.ovh) smtp.mailfrom=gertrude@asdfghjkl.ovh"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<CE17B997-934B-45D0-BD84-F020B2FFFB4C@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Thu, 05 Aug 2021 16:12:24 +0200"
+                ],
+                "from": [
+                    "gertrude@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "Stuyvesanlotto@lotto.com"
+                ],
+                "subject": [
+                    "How can i help?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nGertrude\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "68e8cfcd9fd3de270acb23da2bb57543a4d9132042d7574531b55c91aa7eece7"
+        }
+    ],
+    "header": {
+        "subject": "Delivery Status Notification (Failure)",
+        "from": "mailer-daemon@googlemail.com",
+        "to": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-05T07:12:26-07:00",
+        "received_domain": [
+            "mail-lj1-f194.google.com"
+        ],
+        "received_ip": [
+            "2002:a2e:9b4f::",
+            "209.85.208.194"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

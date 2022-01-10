@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "image.png",
+            "size": 24333,
+            "extension": "png",
+            "hash": {
+                "md5": "acaa9c643404c1d35742fe59cb0e3373",
+                "sha1": "00d6b899783d0c6464a5e9d0b617983457e4452b",
+                "sha256": "5be0c6b7669bb19c5a99d6ef35e29727cd03d6cb1846e47c39afd5fc1038415b",
+                "sha512": "b6c0b2eaf1124c02f25c79f781a21a2cfdfa66655f6e7365432267763e2075e289b0be4d702cc5e39f2cc100a1caa74b1477b5119c1b21ee934d0cc66ae39587"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image.png\""
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<ii_ktiiq5py0>"
+                ],
+                "x-attachment-id": [
+                    "ii_ktiiq5py0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "[image: image.png]\r\n",
+            "content_type": "text/plain",
+            "hash": "69cf0d6ae3104730ebebc169786326fbd83d181abb76b5417fa1bf84b94b1246",
+            "boundary": "000000000000c748a105cbde2971"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend3333",
+        "from": "afrimkokuviea3@gmail.com",
+        "to": [],
+        "date": "2021-09-13T10:45:12+00:00",
+        "received_domain": [
+            "mail-io1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.41"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Tagalog"
+    }
+}

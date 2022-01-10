@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "domain": [
+                "engr.steve"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Attention:\r\n\r\nI am David Cohen Attorney to the late Engr.Steve Moore who died with his wife and their three kids in a car accident.\r\n\r\nBefore his death he had funds valued at $27 Million deposited in a bank\r\n\r\nI need your assistance to retrieve the money left behind by my client.\r\n\r\nGet back to me for more details.\r\n\r\nThanks\r\n\r\nAttorney\r\nDavid Cohen\r\n",
+            "content_type": "text/plain",
+            "hash": "bb2ba5d7d8e3f9016c8a5720a6ccc32200378ea0b3e0b69595c947b27882c01f"
+        }
+    ],
+    "header": {
+        "subject": "YOUR ATTENTION IS NEEDED URGENTLY",
+        "from": "davidcohen@gmail.com",
+        "to": [
+            "davidcohen@gmail.com"
+        ],
+        "date": "2021-08-30T22:03:57+02:00",
+        "received_ip": [
+            "207.244.98.218",
+            "37.49.225.194"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

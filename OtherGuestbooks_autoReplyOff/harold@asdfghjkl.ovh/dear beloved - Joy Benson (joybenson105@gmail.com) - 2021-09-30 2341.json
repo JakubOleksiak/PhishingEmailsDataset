@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi beloved,\r\ni have a revelation that you are the right person, plz get back to me urgently.\r\nthanks and remain bless\r\nMrs. Joy Benson\r\n",
+            "content_type": "text/plain",
+            "hash": "cf8ac9ed0d1815e2bca90be0ff0b772012cdf65a21d6c4232dbd72899077e1d9"
+        }
+    ],
+    "header": {
+        "subject": "dear beloved",
+        "from": "joybenson105@gmail.com",
+        "to": [],
+        "date": "2021-09-30T16:41:12-05:00",
+        "received_domain": [
+            "mail-pf1-f194.google.com"
+        ],
+        "received_ip": [
+            "2002:a67:e195::",
+            "209.85.210.194"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

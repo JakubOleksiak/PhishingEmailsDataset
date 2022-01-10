@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Dear : \r\nMail received,since you can not be able to travel down to collect your card you should send the below information to enable the dispatch of your card to your home.\r\nYour full name:Your home address:Your direct phone number:\r\n\r\nRegards \r\nYours in services\r\ndiplomat Egobia Steven\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "43008aec420e080164aea5380938e8105535be222b04e59006887f2213e31fb7",
+            "boundary": "----=_Part_554721_1334376586.1633586330587"
+        }
+    ],
+    "header": {
+        "subject": "Covid19 Relief Package to You",
+        "from": "d_dispatch@yahoo.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-07T05:58:50+00:00",
+        "received_domain": [
+            "sonic307-56.consmr.mail.ne1.yahoo.com",
+            "sonic.gate.mail.ne1.yahoo.com",
+            "sonic307.consmr.mail.ne1.yahoo.com"
+        ],
+        "received_ip": [
+            "66.163.190.31"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

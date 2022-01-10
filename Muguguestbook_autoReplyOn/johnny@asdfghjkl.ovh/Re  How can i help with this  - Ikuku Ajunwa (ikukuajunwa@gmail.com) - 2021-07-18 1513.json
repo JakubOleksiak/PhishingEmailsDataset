@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "ikukuajunwa@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "FORWARD YOUR INFORMATION TO THE BANK\r\n\r\nOn Tue, Jul 13, 2021 at 1:02 PM Ikuku Ajunwa <ikukuajunwa@gmail.com> wrote:\r\n\r\n> i want to inform you that you have to forward your information to the\r\n> Office on how to  transfer the sum of $1.2 million\r\n> (One Hundred and Two Million and the instructed the bank to role the fund\r\n> on ATM card for security reason,\r\n> you can use the ATM card to withdrawing money from any ATM all you have to\r\n> do now ,go to any available Bank MoneyGram\r\n> send the transferring fee $500 to the financial office immediately to pay\r\n> you the Fund $1.2 million\r\n> machine world wide with a maximum of US$ 5,000 daily.\r\n> Mr John Mike\r\n>\r\n> On Sat, Jul 10, 2021 at 10:41 AM <johnny@asdfghjkl.ovh> wrote:\r\n>\r\n>> Hello,\r\n>> how can I help you with this?\r\n>>\r\n>> Sincerely\r\n>> John\r\n>>\r\n>>\r\n",
+            "content_type": "text/plain",
+            "hash": "ce883882befef3d955c3e00b64079222ccdb368e3e3ea0881d4ca71754e10ed4",
+            "boundary": "0000000000006f2ffe05c751e86c"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "ikukuajunwa@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-18T06:13:21-07:00",
+        "received_domain": [
+            "mail-il1-f169.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.169"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

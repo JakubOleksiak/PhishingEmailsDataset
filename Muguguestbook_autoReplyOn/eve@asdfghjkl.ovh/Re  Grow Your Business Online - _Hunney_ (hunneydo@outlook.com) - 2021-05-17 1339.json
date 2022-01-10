@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi,\r\n\r\n \r\n\r\nI can help your website to get on the first page of Google and increase the\r\nnumber of leads and sales you are getting from your website.\r\n\r\n \r\n\r\nPlease email us back for the full proposal.\r\n\r\n \r\n\r\nLet me know if you are interested and I'll send you costing and other\r\ndetails.\r\n\r\n \r\n\r\nThanks & Regards,\r\n\r\nHunney\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c4262acc0a064fcf23b274fd4b4923eedac957adc092cc388b8e416159aa9851",
+            "boundary": "----=_NextPart_000_34A4_01D74B3F.C1180A40"
+        }
+    ],
+    "header": {
+        "subject": "Re: Grow Your Business Online",
+        "from": "hunneydo@outlook.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-17T17:09:45+05:30",
+        "received_domain": [
+            "bm1pr0101ca0068.indprd01.prod.outlook.com",
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "ty2pr02mb2749.apcprd02.prod.outlook.com",
+            "tyzpr02mb4861.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2401:4900:eb2:24fc:f1a9:6a55:ef62:9e0a",
+            "2603:1096:400:51::8",
+            "2603:1096:b00:19::30",
+            "2603:1096:404:4f::12",
+            "40.92.255.26"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

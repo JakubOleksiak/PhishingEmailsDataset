@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Did you received the mail i send to you?\r\n",
+            "content_type": "text/plain",
+            "hash": "e650f7f5ebaa9cb2d600b50e2be7206b7feaadcab849eb791c2cd2eda04bcfda"
+        }
+    ],
+    "header": {
+        "subject": "MESSAGE",
+        "from": "chrisdickson020@gmail.com",
+        "to": [],
+        "date": "2021-05-11T15:21:14+01:00",
+        "received_domain": [
+            "mail-wm1-f54.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:600c:2301::",
+            "209.85.128.54"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\r\n<HTML><HEAD>\r\n<META content=\"text/html; charset=unicode\" http-equiv=Content-Type>\r\n<META name=GENERATOR content=\"MSHTML 6.00.6000.16546\"></HEAD>\r\n<BODY><SPAN style=\"COLOR: rgb(34,34,34)\">Hello&nbsp;</SPAN><BR \r\nstyle=\"COLOR: rgb(34,34,34)\"><BR style=\"COLOR: rgb(34,34,34)\"><SPAN \r\nstyle=\"COLOR: rgb(34,34,34)\">I am Low T. Jho, a Malaysian businessman.</SPAN><BR \r\nstyle=\"COLOR: rgb(34,34,34)\"><BR style=\"COLOR: rgb(34,34,34)\"><SPAN \r\nstyle=\"COLOR: rgb(34,34,34)\">Are you still using this email address? I am \r\ninterested in discussing mutual cooperation with you.</SPAN><BR \r\nstyle=\"COLOR: rgb(34,34,34)\"><BR style=\"COLOR: rgb(34,34,34)\"><SPAN \r\nstyle=\"COLOR: rgb(34,34,34)\">I will enclose the proposal for your reference as \r\nsoon as I receive your response.</SPAN><BR style=\"COLOR: rgb(34,34,34)\"><BR \r\nstyle=\"COLOR: rgb(34,34,34)\"><SPAN \r\nstyle=\"COLOR: rgb(34,34,34)\">Regards,</SPAN><BR style=\"COLOR: rgb(34,34,34)\"><BR \r\nstyle=\"COLOR: rgb(34,34,34)\"><SPAN style=\"COLOR: rgb(34,34,34)\">Low T. \r\nJho</SPAN></BODY></HTML>\r\n\r\n",
+            "content_type": "text/html",
+            "hash": "e79262ac5cfe6d1d90496c619131275bf580399b89fefd3ae0205a6c807a7c1b",
+            "boundary": "_=aspNetEmail=_99b377d17ecb4b26bedb1842a8408d1e"
+        }
+    ],
+    "header": {
+        "subject": "Greetings",
+        "from": "sub_skardu@fbise.edu.pk",
+        "to": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-03T23:51:59+07:00",
+        "received_email": [
+            "sub_skardu@fbise.edu.pk"
+        ],
+        "received_domain": [
+            "vpssym.comsats.net.pk",
+            "cp.fbise.edu.pk"
+        ],
+        "received_ip": [
+            "45.119.85.145",
+            "203.124.44.50",
+            "210.56.12.251"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

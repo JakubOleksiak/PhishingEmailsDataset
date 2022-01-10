@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "email": [
+                "sylviapieterseinfo@yandex.com"
+            ],
+            "domain": [
+                "yandex.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear beneficiary,\r\n\r\nI saw your name among the list of beneficiaries who will receive a part-payment of Two Million Five Hundred Thousand United States Dollars ($2,500,000.00 USD) Only and has been approved and already for months which according to records in the system had been long overdue and your FILE NO IS UK/4/2021.\r\n\r\nYour fund has been located to the paying bank now, you are required to forward the following details of yours:\r\n\r\n1. Your Full Names:\r\n2. Your Company Name If Any:\r\n3. Your Profession:\r\n4. Your Nationality:\r\n5. Your Full Address:\r\n6. Your Country Of Resident:\r\n8. Your Telephone Number And Fax number:\r\n9. Your Passport Copy Or Driver's License\r\n10. Your File Number:\r\n\r\nfor verification and re-confirmation through my email: sylviapieterseinfo@yandex.com for me to inform you with the information of the paying bank.\r\n\r\nOnce again, I apologize to you on behalf Of the United Nations (UN) failure to pay your funds in time, which according to records in the system had been long overdue.\r\n\r\nYours Sincerely,\r\nMrs. Sylvia Pieterse\r\nDirector Legal Affairs (UN).\r\nUnited Nations (UN)\r\nEMAIL: sylviapieterseinfo@yandex.com\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "bf254b121a175407f1a44308defd0aa33ac0916dfc9a2795ecde9ba1226d981f",
+            "boundary": "_000_DB6P194MB00714AD2479C949854F5689FEC5F9DB6P194MB0071EURP_"
+        }
+    ],
+    "header": {
+        "subject": "United Nations (UN)",
+        "from": "lottwa6@hotmail.com",
+        "to": [],
+        "date": "2021-04-29T10:07:07+00:00",
+        "received_domain": [
+            "eur04-he1-obe.outbound.protection.outlook.com",
+            "db6p194mb0071.eurp194.prod.outlook.com",
+            "vi1eur04ft028.mail.protection.outlook.com",
+            "vi1eur04ht064.eop-eur04.prod.protection.outlook.com",
+            "vi1eur04ft028.eop-eur04.prod.protection.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.73.45",
+            "2a01:111:e400:7e0e::53",
+            "2a01:111:e400:7e0e::316",
+            "2a01:111:e400:7e0e::140",
+            "2a01:111:e400:7e0e::4e"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

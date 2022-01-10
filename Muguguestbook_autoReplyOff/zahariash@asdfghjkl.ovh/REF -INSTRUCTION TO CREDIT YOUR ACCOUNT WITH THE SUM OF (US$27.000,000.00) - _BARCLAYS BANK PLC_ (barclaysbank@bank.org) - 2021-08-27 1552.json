@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "barcaysbakplc@writeme.com"
+            ],
+            "domain": [
+                "www.barclaysbank.co.uk",
+                "writeme.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "BARCLAYS BANK PLC.\r\nCLAP HAM JUNCTION BRANCH,\r\n7 ST JOHNS HILL,\r\nSW 11 1 TN, LONDON\r\nWWW.barclaysbank.co.uk\r\n\r\nAlternative Email barcaysbakplc@writeme.com\r\n\r\nATTENTION :DEAR BENEFICIARY\r\n\r\nREF:-INSTRUCTION TO CREDIT YOUR ACCOUNT WITH THE SUM OF (US$27.000,000.00)\r\n\r\nThis is the second time we are notifying you about this said fund.\r\n\r\nAfter due vetting and evaluation of your Inheritance file which The\r\nNigerian National Petroleum Corporation (NNPC) in conjunction with the\r\nMinistry Of Finance Of the Federal Republic of Nigeria Forwarded and\r\ncontracted us to see to your immediate payment of the sum of\r\nUS$27,000,000.00 from their Offshore Account with us.\r\n\r\nWe were meant to understand from our findings that you have been going\r\nthrough hard ways by paying a lot of charges to see the release of your\r\nfund (US$27,000,000.00), which has been delayed. Which has been the\r\nhandiwork of some miscreant elements from Nigeria\r\n\r\nWe advise that you stop further communication with any correspondence from\r\nNigeria . You don't have to pay any charges to receive your Contract fund\r\nanymore as you have met up with the whole requirements, your\r\nrepresentatives in Nigeria will tell you to still go ahead with them but at\r\nyour own risk.\r\n\r\nThe only thing required from you is to obtain Non-Resident Clearance\r\nForm/Receipt which which is very important that you obtain  We will help\r\nyou to see that you obtain the form so that our bank will affect immediate\r\ntransfer of your Inheritance sum (US$27,000,000.00) into your designated\r\nbank account.\r\n\r\nShould you follow up our directives, your fund will reflect in your account\r\nwithin five Bank working days from the day you obtain this form. Do not go\r\nthrough anybody again but through this Bank if you really want your fund.\r\n\r\nFinally, you are advised to forward to this bank your receiving Account.\r\nWhere you want this fund to be remitted. Please for your information kindly\r\nreply to this email address: ( barcaysbakplc@writeme.com )\r\n\r\nYours sincerely,\r\nMr. Frank Edward Staley\r\nHead, Private Banking Section.\r\n",
+            "content_type": "text/plain",
+            "hash": "4c85398b2de8b8e01d2b0f8f987b240a33c18d611aaab9bc5c8decfd2cc4280c"
+        }
+    ],
+    "header": {
+        "subject": "REF:-INSTRUCTION TO CREDIT YOUR ACCOUNT WITH THE SUM OF (US$27.000,000.00)",
+        "from": "barclaysbank@bank.org",
+        "to": [
+            "barclaysbank@bank.org"
+        ],
+        "date": "2021-08-27T14:52:31+01:00",
+        "received_domain": [
+            "mail.dakshraipur.com"
+        ],
+        "received_ip": [
+            "202.56.195.90"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

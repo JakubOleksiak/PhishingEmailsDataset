@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello\r\n I'm the personal attorney to late Mr Robert\r\n\r\nSo Sorry for my short coming to your privacy  ,I have a file bearing\r\nthe same name as you here in my office , which is a beneficiary  of\r\nUSD$9.5 Million deposited in a Bank in the UK\r\n . your  name was used as the  next beneficiary  before his demise.\r\nHe Died on a ghastly Auto Accident alongside his wife and only\r\ndaughter.i want to stand you for the claims\r\nplease kindly contact me\r\nfor us to claim and transfer the funds to you and for more details on\r\ngetting the aforesaid fund.\r\n",
+            "content_type": "text/plain",
+            "hash": "a0844f3e71a6009b2617da3edae376ab942fcf8b53e7f83c7ded1f3489d496d7"
+        }
+    ],
+    "header": {
+        "subject": "Dear Beneficiary,",
+        "from": "akouwakomadjo@gmail.com",
+        "to": [],
+        "date": "2021-09-22T18:13:58+01:00",
+        "received_domain": [
+            "mail-vk1-f178.google.com"
+        ],
+        "received_ip": [
+            "2002:a59:ad51:0:b0:22d:68b6:58fd",
+            "209.85.221.178"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

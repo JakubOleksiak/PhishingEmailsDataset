@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "officefiles032@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "The briefcase containing your $5.5 million will arrive alongside with\r\nthe key to open it, your beneficiary fund is $5.5 million from Federal\r\nBeneficiary Fund (FBF) Am Stephen,michael contacting you from US\r\ntreasury department, do contact me back for confirmation of your fund\r\nand delivery updates on  (officefiles032@gmail.com)text(+1)7792013446)\r\nGod Bless America.\r\nStephen,michael\r\n",
+            "content_type": "text/plain",
+            "hash": "1fe128bfca5761dfbd45a7c1aa1cd0225f0f32f06e748a64dbcb18c0182820a6"
+        }
+    ],
+    "header": {
+        "subject": "Stephen,michael",
+        "from": "interpolitpolice@gmail.com",
+        "to": [],
+        "date": "2021-08-01T20:20:56-07:00",
+        "received_domain": [
+            "mail-ot1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.48",
+            "2002:a05:6918:1231:b029:50:96d0:c2c8"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

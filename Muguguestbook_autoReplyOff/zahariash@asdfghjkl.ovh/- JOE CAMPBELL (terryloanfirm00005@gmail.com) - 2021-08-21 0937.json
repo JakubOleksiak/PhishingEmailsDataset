@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "cashflows571@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nDo you need estate loan, business loans, personal loan, company loan,\r\nrefinancing, projects loan, and construction loan, to pay off your\r\ndebt? At 3% Interest rate. We give a maximum of \u20ac95,000,000.00 to a\r\nminimum of \u20ac3,000. If you are interested contact us for more\r\ninformation.\r\n\r\nEmail: cashflows571@gmail.com\r\nWhatsapp: +380959271564\r\nBest Regards\r\nJoe Campbell\r\n",
+            "content_type": "text/plain",
+            "hash": "87c9775fb18f422659d770922050cc1377a483070a9cdb38fc98347d3d6e806f"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "terryloanfirm00005@gmail.com",
+        "to": [],
+        "date": "2021-08-21T08:37:06+01:00",
+        "received_domain": [
+            "mail-pg1-f174.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.174",
+            "2002:a5d:8acf::"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

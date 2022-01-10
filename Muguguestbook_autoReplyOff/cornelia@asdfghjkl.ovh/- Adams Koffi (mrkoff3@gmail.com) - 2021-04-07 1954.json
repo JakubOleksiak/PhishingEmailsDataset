@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "            Querido amigo respetado,\r\nTe envi\u00e9 una carta hace unos d\u00edas y no s\u00e9 si la recibiste, por favor\r\ncont\u00e1ctame. Es muy importante.\r\nSaludos\r\nHonorable Adam Koffi Esq.\r\n",
+            "content_type": "text/plain",
+            "hash": "4013410181108b56c3b72b00b660ff1317207c90c7b4f2df0ee90a9393d4eb8f",
+            "boundary": "000000000000cce19905bf65a00b"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "mrkoff3@gmail.com",
+        "to": [],
+        "date": "2021-04-07T10:54:40-07:00",
+        "received_domain": [
+            "mail-oi1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.173"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Spanish; Castilian"
+    }
+}

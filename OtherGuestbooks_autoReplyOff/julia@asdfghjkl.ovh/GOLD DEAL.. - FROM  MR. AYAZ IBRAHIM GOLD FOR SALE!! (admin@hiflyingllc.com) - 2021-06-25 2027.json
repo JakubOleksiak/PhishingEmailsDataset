@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nHello Dear ,\r\n\r\n\r\n\r\nI have 99.99% 24 carat Gold , the total kilogram is 300 Kilograms, I am looking for a potential buyer that will buy the Gold at good price. If you are interested I  will ship the gold to your country for sell .\r\n\r\n\r\n\r\n\r\nYours faithfully,\r\n\r\n\r\nMR. AYAZ IBRAHIM.\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a5d9c06099b27a864a170e8563ec6ee474045d8855c5c7cabefbf2e53c0c70ff",
+            "boundary": "--=BOUNDARY_6252027_ERRN_IEAT_EHET_OMMY"
+        }
+    ],
+    "header": {
+        "subject": "GOLD DEAL..",
+        "from": "admin@hiflyingllc.com",
+        "to": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-25T20:27:07+02:00",
+        "received_domain": [
+            "import.flowconnect.nl"
+        ],
+        "received_ip": [
+            "37.187.144.127",
+            "178.255.24.204"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

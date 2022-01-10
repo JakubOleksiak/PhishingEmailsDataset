@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi friend\r\n\r\ni sent you a mail with no reply or maybe you did not receive it,please\r\ni can't wait to hear from you very soon.\r\n\r\nUrgently\r\nBest regards\r\n\r\nMiss herita\r\n",
+            "content_type": "text/plain",
+            "hash": "48734760ad0a65c0535db9ca5de71b0d96773e13e0bcf989c210cb58181bc217"
+        }
+    ],
+    "header": {
+        "subject": "hi dear",
+        "from": "papabiaye97@gmail.com",
+        "to": [],
+        "date": "2021-08-31T00:17:16+01:00",
+        "received_domain": [
+            "mail-qv1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.52",
+            "2002:ab0:67c5::"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

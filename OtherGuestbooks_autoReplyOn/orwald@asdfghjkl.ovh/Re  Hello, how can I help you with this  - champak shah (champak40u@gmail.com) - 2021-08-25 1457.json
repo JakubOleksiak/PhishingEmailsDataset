@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": ">\r\n>\r\n> Checking...\r\n> HELLO DEAR FRIEND\r\n> Spam\r\n> champak shah\r\n> to\r\n> 22 hours ago\r\n> Details\r\n>\r\n>\r\n>\r\n> HELLO DEAR FRIEND\r\n> AM CHRISTOVER WILLIAMS A DIPLOMAT WORKING WITH THE  UN STAFF\r\n> I CAME TO AFRICA TO DELIVER CORONAVIRUS VALSIN AND HAVE MEETING WITH THE\r\n> AU ORGANIZATION\r\n> AND GET TO FIND OUT ABOUT SCAMARS PAYBACK FUNDS THAT YOUR NAME IS PAT OF\r\n> THE PAPPEL THE\r\n>  AU HAVE COMPOSITE FOR THE LUST TO SCAMARS BUT DUE TO THE LOCKDOWN THEY\r\n> COULD NOT REACH YOU\r\n>    IF YOU WANT ME TO HELP YOU DELIVER YOUR FUNDS TO YOU DO REPLY ME BACK\r\n> WITH YOUR FULL DETAILS  BY EMAIL OR BY WHATSAPP NUMBAR ONLY ...+1 907 956\r\n> 1006\r\n> FULL NAME .......\r\n> ADDRESS......\r\n> TELL........\r\n>\r\n> THANKS\r\n> FROM CHRISTOVER WILLIAMS\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "9d0d5f95c3a04588a51e84c419d1d3fe2a4a43382e074b7abd39ceb54e1a57ac",
+            "boundary": "0000000000001bacd005ca61cc05"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can I help you with this?",
+        "from": "champak40u@gmail.com",
+        "to": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-25T13:57:48+01:00",
+        "received_domain": [
+            "mail-qv1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.52",
+            "2002:a05:6214:ac7::"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHello Dear,\r\nMy name is Mr Jaycock Philp, I sent you a message a few days ago? no reply\r\nfrom you. Please get back to me, it's very important.\r\n",
+            "content_type": "text/plain",
+            "hash": "ef9c0a3ad2e4c9a59264c21914fde4c3bf7f7d18f287aa201419510a6e5883de",
+            "boundary": "00000000000069c65f05c8b11136"
+        }
+    ],
+    "header": {
+        "subject": "I am Mr Jaycock Philp From - (UK)",
+        "from": "essaghamen6f@gmail.com",
+        "to": [],
+        "date": "2021-08-03T17:41:39-07:00",
+        "received_domain": [
+            "mail-pl1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.214.178"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

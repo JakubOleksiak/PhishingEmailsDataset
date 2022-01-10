@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.patricia"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "HELLO!!!\r\n\r\n\r\n\r\nThank God i found you AGAIN, I have sent you a message twice without\r\ngetting any response from you, please do not ignore this last message\r\nthat is very urgent.\r\n\r\n\r\n\r\nneed to read from you soon.\r\n\r\nBestRegards.\r\n\r\nMrs.patricia Fahad.\r\n",
+            "content_type": "text/plain",
+            "hash": "dafb6bbdfafcf2e46cfdda93185a54815306b83edc7adbf48ecfefd0b01ebcd3"
+        }
+    ],
+    "header": {
+        "subject": "HELLO DEAR FRIEND!!!!",
+        "from": "ryanrobert709@gmail.com",
+        "to": [],
+        "date": "2021-10-07T06:06:29-07:00",
+        "received_domain": [
+            "mail-vs1-f45.google.com"
+        ],
+        "received_ip": [
+            "2002:a59:1556:0:b0:236:14c8:785f",
+            "209.85.217.45"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

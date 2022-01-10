@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "image.png",
+            "size": 24033,
+            "extension": "png",
+            "hash": {
+                "md5": "b0fd6ad8e5e3ee3c747706da1579f435",
+                "sha1": "ea3905b689b0de094873186c98d747c3e658aaf5",
+                "sha256": "9fbe3dfa83d81d452c3bcb816b47ed7e29833b1665ac7767e983f4e8d5f72a59",
+                "sha512": "b894507c14f4350b741c7ce858584eec82101695d6cfb8577f77c7db05c801c76c7c32128effaf2011c83be2331b009f8e9de0c6940abd4857c6bf8475627a78"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image.png\""
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<ii_ktbeeu890>"
+                ],
+                "x-attachment-id": [
+                    "ii_ktbeeu890"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "[image: image.png]\r\n",
+            "content_type": "text/plain",
+            "hash": "69cf0d6ae3104730ebebc169786326fbd83d181abb76b5417fa1bf84b94b1246",
+            "boundary": "0000000000008d236d05cb79e8a8"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend\"",
+        "from": "afrimkokuviea@gmail.com",
+        "to": [],
+        "date": "2021-09-08T11:08:44+00:00",
+        "received_domain": [
+            "mail-ot1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.44"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Tagalog"
+    }
+}

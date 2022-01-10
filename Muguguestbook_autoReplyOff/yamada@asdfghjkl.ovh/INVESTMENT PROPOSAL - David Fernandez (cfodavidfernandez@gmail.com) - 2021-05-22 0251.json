@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir,\r\n\r\nMy name is David Fernandez, a retired Investment\r\nBanker. I have a former client who has earmarked some funds to invest\r\nin a joint venture or partnership. My client is a\r\nTurkish citizen, who belongs to the elite political class. For this\r\nreason, she wants to remain anonymous.\r\n\r\nWe can discuss further if you are interested in partnering with us.\r\nExpecting your feedback soon\r\n\r\nKind regards,\r\nDave\r\n",
+            "content_type": "text/plain",
+            "hash": "a0176a23f3193dea7fa53fa8ae7b34e123929433b45fd661e856dbcdf8ff1d09"
+        }
+    ],
+    "header": {
+        "subject": "INVESTMENT PROPOSAL",
+        "from": "cfodavidfernandez@gmail.com",
+        "to": [],
+        "date": "2021-05-21T19:51:51-05:00",
+        "received_domain": [
+            "mail-pf1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.182",
+            "2002:a05:6a10:a6d2::"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

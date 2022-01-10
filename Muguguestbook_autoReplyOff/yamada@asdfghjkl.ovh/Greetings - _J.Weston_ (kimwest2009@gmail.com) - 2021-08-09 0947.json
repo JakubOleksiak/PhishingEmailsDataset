@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "t.weston"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings\r\n\r\nI have a business to share with you that worth about 7m US D.  All i need\r\nis honesty with trust. Upon your positive response, i will furnish you with\r\ndetails..\r\nHope to hear back from you soon.\r\n\r\nJames T.Weston\r\n",
+            "content_type": "text/plain",
+            "hash": "87a3156a74f7beb39a8db4b9b7b709009beca4f2a5b3be2242b6d6330a8d9256",
+            "boundary": "0000000000002fc51b05c91b9cd8"
+        }
+    ],
+    "header": {
+        "subject": "Greetings",
+        "from": "kimwest2009@gmail.com",
+        "to": [],
+        "date": "2021-08-09T08:47:08+01:00",
+        "received_domain": [
+            "mail-pj1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.48"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

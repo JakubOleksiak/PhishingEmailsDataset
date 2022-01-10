@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir / Madam,\r\n\r\nMy name is Mrs. Fatemeh Ani from Iran, I got your email contact from online\r\nwebsite. I am the Regional Manager of Iranian Offshore Engineering and\r\nConstruction Company. I want to start a Business Enterprise in your country\r\nand I would like you to assist me, Please reply to discuss further. Thank\r\nyou.\r\n\r\nBest Regards,\r\nMrs. Fatemeh Ani.\r\nRegional Manager,\r\nIranian Offshore Engineering and Construction Company.\r\n",
+            "content_type": "text/plain",
+            "hash": "7e56a2e40d869a80b0d6f84f02252879cd18915ca5e89be76af8d39c1cdf9dea",
+            "boundary": "000000000000b6d38d05ca8010b8"
+        }
+    ],
+    "header": {
+        "subject": "VERY IMPORTANT AND URGENT",
+        "from": "companyushipexpress@gmail.com",
+        "to": [],
+        "date": "2021-08-27T07:56:39+07:00",
+        "received_domain": [
+            "mail-ed1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.49"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

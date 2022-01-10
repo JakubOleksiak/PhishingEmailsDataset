@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1252\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi,\r\n\r\n\r\n\r\nI just want to confirm whether you received my last email or not. Please let me know your interest in our content writing services.\r\n\r\n\r\n\r\nLook forward to your reply and input.\r\n\r\n\r\n\r\nThanks,\r\n\r\nDavid\r\n\r\nMarketing Manager\r\n\r\n\r\n\r\n\r\n\r\nHi,\r\n\r\n\r\n\r\nLet an expert business content writer take care of your business content writing needs, leaving you the time to focus on your core business.\r\n\r\n\r\n\r\nWe are an Indian based content writing agency. We are equipped with a team of qualified and experienced content marketing strategists, copywriters, content writers, editors, and proofreaders with vast experience across various industry verticals.\r\n\r\n\r\n\r\nOur writing rates are quite competitive. They are following:\r\n\r\n\r\n\r\nArticles/Blog \u2013 400 to 500 words \u2013 $12\r\n\r\nPress Release \u2013 400 to 500 words \u2013 $20\r\n\r\nWebsite Content \u2013 150 to 200 words \u2013 $10\r\n\r\nMetadata Creation \u2013 $4 per page\r\n\r\nProduct Description \u2013 100 to 150 words \u2013 $4\r\n\r\n\r\n\r\nNote \u2013 All our content copies are handwritten. We do not use any spinning tool for creating content.\r\n\r\n\r\n\r\nReply with your content writing needs today. We will look into your needs closely and contact you with the right solutions at the earliest.\r\n\r\n\r\n\r\nThanks,\r\n\r\n\r\n\r\n--\r\n\r\nWarm Regards,\r\n\r\nDavid\r\n\r\nMarketing Manager\r\n",
+            "content_type": "text/plain",
+            "hash": "3384f7f95cf469e40aa0de687979cf995e4e3f4b4a87f0aadc989016d4c5585a",
+            "boundary": "_000_PSXP216MB07446D59E784A2520F6D78A3EA009PSXP216MB0744KORP_"
+        }
+    ],
+    "header": {
+        "subject": "Re: Blog writing service",
+        "from": "david.mktgmanager@outlook.com",
+        "to": [
+            "david.mktgmanager@outlook.com"
+        ],
+        "date": "2021-07-06T15:44:57+00:00",
+        "received_domain": [
+            "si2pr02mb4569.apcprd02.prod.outlook.com",
+            "hk2p15301ca0001.apcp153.prod.outlook.com",
+            "psxp216mb0744.korp216.prod.outlook.com",
+            "hk2apc01ft007.eop-apc01.prod.protection.outlook.com",
+            "hk2p15301ca0001.outlook.office365.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com",
+            "hk2apc01ft007.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:202:1:cafe::68",
+            "2603:1096:4:10b::9",
+            "40.92.253.15",
+            "2603:1096:202:1::11",
+            "2a01:111:e400:7ebc::139",
+            "2a01:111:e400:7ebc::48"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

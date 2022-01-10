@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "mf90665407@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\n$2,800,000.00 dollars has been donated to you by Manuel Franco who won the\r\nPowerball Jackpot of $768 million dollars. Contact him via\r\nEmail:mf90665407@gmail.com for more details\r\n",
+            "content_type": "text/plain",
+            "hash": "03a4f0697195a4160442f3d75741ecd4ddda436242e04660240eccc02b6a61bd"
+        }
+    ],
+    "header": {
+        "subject": "$2,800,000.00 dollars has been donated to you",
+        "from": "manuelfranco11988@gmail.com",
+        "to": [],
+        "date": "2021-08-12T14:26:40+01:00",
+        "received_domain": [
+            "mail-oi1-f179.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6838:dfd1::",
+            "209.85.167.179"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

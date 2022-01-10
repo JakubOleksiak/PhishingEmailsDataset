@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "We send you this second email to know why you did not replied us since ?\r\n",
+            "content_type": "text/plain",
+            "hash": "e3cd3b30290e3b788baa3a5959266b0270fc1608461de0f6254105d268e603a1"
+        }
+    ],
+    "header": {
+        "subject": "R@ ?",
+        "from": "tashihealer@gmail.com",
+        "to": [],
+        "date": "2021-09-09T13:07:29+01:00",
+        "received_domain": [
+            "mail-io1-f50.google.com"
+        ],
+        "received_ip": [
+            "2002:a6b:c8d2::",
+            "209.85.166.50"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

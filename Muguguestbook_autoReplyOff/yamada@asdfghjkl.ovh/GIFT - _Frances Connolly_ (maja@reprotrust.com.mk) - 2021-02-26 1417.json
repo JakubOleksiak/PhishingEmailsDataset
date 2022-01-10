@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Compliment of the Season\r\n\r\nThe sum of 1 milliion Euros have been deposited to you for a humanitarian project, kindly get back for more info and processing of claim .. \r\n\r\nRegards\r\nFrances Connolly \r\n",
+            "content_type": "text/plain",
+            "hash": "ff66fd2c0d2666df5c5b6351a063945837b0c976612a9a06ef48a68fab5f74e7"
+        }
+    ],
+    "header": {
+        "subject": "GIFT",
+        "from": "maja@reprotrust.com.mk",
+        "to": [
+            "maja@reprotrust.com.mk"
+        ],
+        "date": "2021-02-26T05:17:07-08:00",
+        "received_domain": [
+            "repro-dc.reprotrust.com.mk"
+        ],
+        "received_ip": [
+            "197.210.35.73",
+            "80.77.147.33"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

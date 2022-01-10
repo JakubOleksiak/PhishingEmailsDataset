@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello, I hope that COVID-19 has not affected you. Did you receive my\r\nprevious message?\r\n",
+            "content_type": "text/plain",
+            "hash": "abcc85c46deb5d5fc8ab3e286f495f8b54222a2d97840a3d802101593b4c7155",
+            "boundary": "0000000000001287dc05c05dc2c9"
+        }
+    ],
+    "header": {
+        "subject": "hi",
+        "from": "nobledanel3@gmail.com",
+        "to": [],
+        "date": "2021-04-20T01:56:20-07:00",
+        "received_domain": [
+            "mail-ed1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.45"
+        ],
+        "received_foremail": [
+            "julian@lkjhgfdsa.pl"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

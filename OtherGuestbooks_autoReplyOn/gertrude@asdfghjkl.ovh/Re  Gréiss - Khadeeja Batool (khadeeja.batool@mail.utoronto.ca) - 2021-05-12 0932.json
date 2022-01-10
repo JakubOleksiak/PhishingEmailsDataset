@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "khadeeja.batool@mail.utoronto.ca",
+                "hhjgdj@gmail.com",
+                "aucovid19.reliefgrantfund90@gmail.com"
+            ],
+            "domain": [
+                "mail.utoronto.ca",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "\r\n\r\nFrom: Khadeeja Batool <khadeeja.batool@mail.utoronto.ca>\r\nDate: Wednesday, May 12, 2021 at 8:23 AM\r\nTo: \"hhjgdj@gmail.com\" <hhjgdj@gmail.com>\r\nSubject: Re: Gr\u00e9iss\r\n\r\n\r\n\r\n\u00c4r E-Mail huet e Subventioun (1,500,000.00 Australians) vun der australescher Regierung gewonnen.\r\n\r\nSch\u00e9ckt voll Numm, Land a Verifikatiounscode: T9839AU op E-Mail: aucovid19.reliefgrantfund90@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "c8be8fa32ffd7f80a24653e7865610c48515c24c5c40728717b1ad81c7693065",
+            "boundary": "_000_C04CBDD7BF464AF99131987443872E9Cmailutorontoca_"
+        }
+    ],
+    "header": {
+        "subject": "Re: Gr\u00e9iss",
+        "from": "khadeeja.batool@mail.utoronto.ca",
+        "to": [
+            "khadeeja.batool@mail.utoronto.ca"
+        ],
+        "date": "2021-05-12T07:32:58+00:00",
+        "received_domain": [
+            "can01-qb1-obe.outbound.protection.outlook.com",
+            "ytxpr0101mb1760.canprd01.prod.outlook.com",
+            "yt1pr01mb2649.canprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.107.66.93",
+            "2603:10b6:b01:5::11",
+            "2603:10b6:b00:10::23"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Dutch; Flemish"
+    }
+}

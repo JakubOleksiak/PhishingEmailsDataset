@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://cryptomall.biz"
+            ],
+            "domain": [
+                "cryptomall.biz"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\n\r\nI\u2019m an accredited partner with CryptoMall\u2122 cryptocurrency investment platform. \r\n\r\nCryptoMall\u2122 is an international crypto-forex company based in Australia that operates in the field of investment and exchange of funds in cryptocurrency, we are able to generate stable profits and provide high returns for our investors. We have 3 investment plans that you can run concurrently to suit your investment capital.\r\n\r\n1. Silver Plan (From $50 to $10,000) @ 1.8% of total deposit daily\r\n2. Gold Plan (From $10,000 to $30,00) @ 2.0% of total deposit daily\r\n3. Platinum Plan (From $30,000 to $60,000) @ 2.2% of total deposit daily\r\n\r\nIf you are interested in any of the investment programs above, kindly visit https://cryptomall.biz and initiate a conversation with customer service through the live chat system to get more information. For reference purposes, my referral code is \"JOHNSON247\".\r\n\r\n\r\nThank you and best regards,\r\nJOHN LEMAY LOUIS\r\n\r\n--\r\nII Conferencia Avances de la Biofisica, Bioingenieria y Bioinformatica, del 15 al 17 de septiembre de 2021. Santiago de Cuba.\r\nhttps://convenciones.uo.edu.cu/index.php/cbm/3dbio2021\r\n-------------------------------------------\r\nSiga nuestro perfil institucional en las redes sociales.\r\nUniversidad de Oriente. Cuba.\r\nhttps://www.facebook.com/UOCuba/\r\nhttps://twitter.com/UOCuba\r\nhttps://www.linkedin.com/school/universidad-de-oriente-cuba/\r\nhttps://www.youtube.com/channel/UCw-3-2wtGnhVkFAXHl7KsuQ\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "aa98256f92a00280503b992c3c61d5f1d84f9f2ff6300731dc44ab646e7b1bd8",
+            "boundary": "=_cbbd04e0-a87e-4e66-a56a-296ded5dfccc"
+        }
+    ],
+    "header": {
+        "subject": "my referral code is \"JOHNSON247\"",
+        "from": "rebecar@uo.edu.cu",
+        "to": [],
+        "date": "2021-05-20T20:47:20-04:00",
+        "received_domain": [
+            "mx3.uo.edu.cu",
+            "zmta2.uo.edu.cu",
+            "zmbx2.uo.edu.cu"
+        ],
+        "received_ip": [
+            "200.14.54.133"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

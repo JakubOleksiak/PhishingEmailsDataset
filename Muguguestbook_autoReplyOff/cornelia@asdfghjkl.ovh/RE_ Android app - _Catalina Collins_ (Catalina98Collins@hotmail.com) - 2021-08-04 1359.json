@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Cornelia\r\n\r\nAre you looking for mobile App development service?\r\n\r\nWe are an app development company based in India having 7+ years of\r\nexperience.    \r\n\r\nAndroid (Phone/Tablet) Based Application\r\n\r\niPhone / iPad Based Applications\r\n\r\nGPS/Location based Applications\r\n\r\nApp Development for your idea\r\n\r\nPlease feel free to reach out to us in case of any requirements.\r\n\r\nWith regards\r\n\r\nCatalina\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "496a8820c5c2d1cb41e2f8e47df134fb3f38994e45bbc847a6b0e639fe62c411",
+            "boundary": "----=_NextPart_000_294B_01D78956.A5FA8350"
+        }
+    ],
+    "header": {
+        "subject": "RE; Android app",
+        "from": "catalina98collins@hotmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T17:29:45+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "tyzpr06mb4159.apcprd06.prod.outlook.com",
+            "pn2pr01ca0038.indprd01.prod.outlook.com",
+            "tyzpr06mb4415.apcprd06.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:400:2c::12",
+            "2401:4900:1f38:e7a:584b:14cb:a147:cdfa",
+            "2603:1096:400:64::11",
+            "2603:1096:c01:22::13",
+            "40.92.254.40"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

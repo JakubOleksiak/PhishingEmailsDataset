@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nMy dear friend. I am Abel Roberts, did you get my previous email?\r\n\r\nRegards,\r\nAbel Roberts\r\n",
+            "content_type": "text/plain",
+            "hash": "79cb9eac85f88941d523873a14c488175765777d5109da42f09157c04d69a332"
+        }
+    ],
+    "header": {
+        "subject": "RES:",
+        "from": "paulfganna212@gmail.com",
+        "to": [],
+        "date": "2021-06-15T16:37:52+00:00",
+        "received_domain": [
+            "mail-lf1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.66",
+            "2002:a2e:a6a4::"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

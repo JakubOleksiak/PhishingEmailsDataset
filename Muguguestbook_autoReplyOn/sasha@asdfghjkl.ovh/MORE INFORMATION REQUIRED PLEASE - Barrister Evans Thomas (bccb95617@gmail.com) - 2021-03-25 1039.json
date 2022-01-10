@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear,\r\n\r\nPlease send this needed information to enable us proceed with this\r\ntransfer.  All documents will be obtained which will state that you\r\nare the Next of Kin to Late Engr. Ronald Johnson who deposited the\r\nfunds in the bank. As soon as you send to me the required informatio\r\nwhich are\r\n\r\nYour Full Names, Complete Address\r\nTel & Fax Numbers\r\nAge, Gender\r\nNationality and Occupation\r\n\r\nI shall apply through the high court for the necessary documents which\r\nwill empower the bank to pay the funds on your name as the genuine\r\nnext of kin to late Late Engr. Ronald Johnson.\r\n\r\nRegards,\r\n\r\nBarr. Evans Thomas.\r\n\r\nOn 3/25/21, sasha@asdfghjkl.ovh <sasha@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Sasha\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "c0643a50ba56647461ebee8f2c4a5c6448d5175ab3d9e44a50331cb15dec43f5"
+        }
+    ],
+    "header": {
+        "subject": "MORE INFORMATION REQUIRED PLEASE",
+        "from": "bccb95617@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-25T10:39:42+01:00",
+        "received_domain": [
+            "mail-ot1-f45.google.com"
+        ],
+        "received_ip": [
+            "2002:a4a:270d::",
+            "209.85.210.45"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

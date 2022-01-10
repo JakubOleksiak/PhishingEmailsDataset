@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "domain": [
+                "sorrows.my",
+                "parents.my"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " Dearest greetings\r\n\r\nI am contacting you with tears and sorrows.My name is Helen Richard from\r\nIvory Coast I am the only daughter of my parents.My father and mother died\r\nof Coronavirus on their missionary tour in Italy. My late father was a\r\nsenior pastor in one of the biggest churches in my country.\r\n\r\nMy late father deposited a consignment box in a security company containing\r\n($1.500.000) One Million Five Hundred Thousand dollars for safe keeping\r\nduring the civil war for presidential re-election in my country.\r\n\r\nI am seeking for your assistant to receive my inheritance fund for me as my\r\nbeneficiary from the security company and bring me to your country to start\r\na good living and continue my education as I am only 22 years.\r\n\r\nI am presently in a refugee camp in a neighbouring country to secure my\r\nlife as I escaped from my family members who wanted to kill me to claim my\r\nlate parents properties.\r\n\r\nI hope you will bring me out of this terrible condition? We can talk on\r\nwhatsapp video call to see each other in person for proper identification\r\n.Thanks for your sympathy and may God bless you.\r\n\r\nBest regards\r\nHelen Richard\r\n",
+            "content_type": "text/plain",
+            "hash": "00fbbbb66b9ab631063cf36bb351ece882c9299b5059a1f4fb3436206681323b",
+            "boundary": "00000000000080302005c37d331c"
+        }
+    ],
+    "header": {
+        "subject": "hi",
+        "from": "helenrichard228@gmail.com",
+        "to": [],
+        "date": "2021-05-29T19:42:29+02:00",
+        "received_domain": [
+            "mail-pf1-f193.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.193"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

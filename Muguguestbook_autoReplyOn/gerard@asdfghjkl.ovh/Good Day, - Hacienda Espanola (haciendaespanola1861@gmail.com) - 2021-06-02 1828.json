@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "country.if"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Day.\r\n\r\nI represent an investor seeking`to invest through you,in any lucrative\r\ninvestment in your country.If you have a solid background and\r\nidea/capacity of making good profit in any  business.\r\n\r\nWe are writing to seek your highly esteemed help/ consent in a lasting\r\nbusiness relationship of mutual benefits for investing in your company\r\n/country under a joint venture partnership. I'm willing to provide\r\ninvesting capital with terms that cedes considerable swift equity\r\nshare to you as managerial dividends.\r\n\r\nKindly get back to me for more details.\r\n\r\nBest Regards,\r\nMrs. Guadiola Fabrigaz\r\n",
+            "content_type": "text/plain",
+            "hash": "63d5927ea22e5daf14daa1d9997c17d533413c7e5cb859a5340c06966a5f9dae"
+        }
+    ],
+    "header": {
+        "subject": "Good Day,",
+        "from": "haciendaespanola1861@gmail.com",
+        "to": [],
+        "date": "2021-06-02T17:28:04+01:00",
+        "received_domain": [
+            "mail-ua1-f47.google.com"
+        ],
+        "received_ip": [
+            "2002:ab0:b9a::",
+            "209.85.222.47"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

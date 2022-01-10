@@ -1,0 +1,71 @@
+{
+    "attachment": [
+        {
+            "filename": "image.png",
+            "size": 5650,
+            "extension": "png",
+            "hash": {
+                "md5": "9537c550b96a697f79cc9b5a892a0a56",
+                "sha1": "0bdc16c17b89fd2af0406bd3466222c007f186ac",
+                "sha256": "5ec98d503b0db9261e3d9273f1a8cca44a45e0cc9068d6bbbffbe9f875686941",
+                "sha512": "c7fa2e5e397b98f42038f39c1d0f420717ed2e8ac1cd84dd0f83188f5efce061ea533d9ed1803c6b3fcded923e1ad7f214752d127c4a882a90859020f2d68751"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<ii_kla4bepe0>"
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image.png\""
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "uri": [
+                "http://179.43.187.131/umkz/pay-slip.exe"
+            ],
+            "domain": [
+                "179.43.187.131"
+            ],
+            "ip": [
+                "179.43.187.131"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!doctype html>\r\n<html>\r\n <head> \r\n  <meta charset=\"UTF-8\"> \r\n </head>\r\n <body>\r\n  <div style=\"\" class=\"default-style\">\r\n   Dear Sir,\r\n   <br>We have sent a payment as requested by you in our last phone conversation. See the attachment for the d complete summary.\r\n   <br>\r\n   <br>Regard\r\n   <br>Raj\r\n   <br>1 attachment&nbsp;\u2014&nbsp;<a href=\"http://179.43.187.131/umkz/pay-slip.exe\">Scan and download all attachments</a>\r\n   <br>\r\n   <br><a href=\"http://179.43.187.131/umkz/pay-slip.exe\"><img class=\"gmail-CToWUd\" src=\"cid:ii_kla4bepe0\" width=\"90\" height=\"90\">&nbsp; &nbsp;&nbsp;</a>Receipts Used For Payment.PDF&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;458K&nbsp;&nbsp;<a href=\"http://179.43.187.131/umkz/pay-slip.exe\">View as HTML</a>&nbsp;<a href=\"http://179.43.187.131/umkz/pay-slip.exe\">download</a>\r\n  </div>\r\n </body>\r\n</html>",
+            "content_type": "text/html",
+            "hash": "b6f869b8628c9046b4b2f8e3ae7b0ddd0ae64384a6155ea2d53b3e83adaabc7d",
+            "boundary": "----=_Part_425294_1214751581.1628957423074"
+        }
+    ],
+    "header": {
+        "subject": "Re:Payment Summary",
+        "from": "stefan@krok-the-game.de",
+        "to": [],
+        "date": "2021-08-14T18:10:23+02:00",
+        "received_domain": [
+            "mrelayeu.kundenserver.de",
+            "oxbaltgw00.schlund.de",
+            "mout.kundenserver.de"
+        ],
+        "received_ip": [
+            "212.227.17.13",
+            "213.165.67.113"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

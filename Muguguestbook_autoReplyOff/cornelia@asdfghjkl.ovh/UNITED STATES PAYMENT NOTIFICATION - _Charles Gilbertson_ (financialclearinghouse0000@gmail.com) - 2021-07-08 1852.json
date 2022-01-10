@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Sir,\r\n\r\n\r\n\r\nIf you received this notification in your email then you are eligible for United States payment. The United States treasury department secretary Mrs. Janet Yellen has commenced the coordination and disbursement of all unpaid contract funds from Africa, inheritance and funds that were deposited without proper documentation by all financial institutions. \r\n  \r\nIf you currently have a pending/uncompleted fund transaction for any reason by any security or financial institution, or you are a fraud victim awaiting compensation, you're eligible to receive this fund. \r\n \r\nYou are to reconfirm your information like your full name, address with a copy of your ID to us via email for official documentation, which shall facilitate the payment in your favor. \r\n  \r\nWe are very sorry for all the embarrassment our past government officials and impostors have caused to you and be informed that the government has helped to pay all the necessary bank charges accrued to your fund to the Federal Reserve Bank (FRB) of America as the apex bank in other to pacify you.\r\n\r\n\r\nWe are committed to serve you better.\r\n\r\nYours faithfully,\r\n \r\n  \r\nCharles Gilbertson, \r\nTreasury Building, \r\n1500 Pennsylvania Avenue, NW. \r\nWashington Dc.\r\n",
+            "content_type": "text/plain",
+            "hash": "18bd88106ff00c67b3a6a12e7f911202f3f98beee1db39cff8ffd786f0382c89"
+        }
+    ],
+    "header": {
+        "subject": "UNITED STATES PAYMENT NOTIFICATION",
+        "from": "financialclearinghouse0000@gmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-08T19:52:04+03:00",
+        "received_domain": [
+            "ip-130-142.dataclub.eu",
+            "blank.cafe24.com"
+        ],
+        "received_ip": [
+            "84.38.130.142",
+            "210.180.118.67"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

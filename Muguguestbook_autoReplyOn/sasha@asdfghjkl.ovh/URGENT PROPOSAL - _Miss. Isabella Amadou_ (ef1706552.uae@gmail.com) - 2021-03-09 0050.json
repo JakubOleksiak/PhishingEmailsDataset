@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "miss.isabella"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "URGENT PROPOSAL\r\n\r\nFrom Miss.Isabella Amadou\r\nCountry:Ivory Coast.\r\n\r\n\r\nGood day,\r\nIn confidence, I have to introduce myself for i am Miss. Isabella Amadou,\r\n19 years old, I am the only child of late Mr & Mrs. Ibrahim Amadou. Please\r\ndo not see my mail as embarrassment as we do not know each other.\r\n\r\nI wish to request for your assistance in my efforts to procure the transfer\r\nof my inherited money for investment ventures under your care and\r\ndirective.\r\nMy late father deposited  the sum of Three million five hundred thousand\r\ndollars ($3,500,000.00) on my name with one of the prime bank here in my\r\ncountry and I will require your assistance in receiving the transfer of my\r\ninherited money in your bank account for investment purposes, as it is my\r\nwish to come over to your country to further my education while you take\r\ncare of the investment of the money.\r\n\r\nPlease help me in this regard as I have no more family here, the only\r\nfamily member I have was my uncle (my late father\u2019s brother) who wants to\r\nkill me because of my inherit fund. My late father\u2019s lawyer who is in\r\npossession of the fund documents then advice I should look for a\r\ntrustworthy person that can help me secure the funds abroad.\r\n\r\nPlease i am an orphan and i need your assistance to transfer my inherited\r\nmoney to your country and also your assistance to secure a nice school for\r\nme in your country where I will continue my education.\r\n\r\nI am waiting to hear from you.\r\n\r\nYours sincerely,\r\nMiss. Isabella Amadou\r\n",
+            "content_type": "text/plain",
+            "hash": "98624b56b5b927f905313a4ef45c23e59a31537d03e6c5f6355d268641818397",
+            "boundary": "0000000000009d27b205bd0f1a59"
+        }
+    ],
+    "header": {
+        "subject": "URGENT PROPOSAL",
+        "from": "ef1706552.uae@gmail.com",
+        "to": [],
+        "date": "2021-03-08T23:50:57+00:00",
+        "received_domain": [
+            "mail-lj1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.177"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

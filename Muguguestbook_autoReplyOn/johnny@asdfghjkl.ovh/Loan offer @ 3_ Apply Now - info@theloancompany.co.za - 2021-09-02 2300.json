@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear johnny",
+            "content_type": "text/plain",
+            "hash": "e91c41fe5c1e61ff5a9bfdd0244e29a443ee1ca8197b3a0811c471f14b4373e6",
+            "boundary": "----=_NextPart_000_0012_B7BD5465.6B2AD440"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer @ 3% Apply Now ",
+        "from": "info@theloancompany.co.za",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-02T23:00:49+02:00",
+        "received_domain": [
+            "hosted-by.rootlayer.net"
+        ],
+        "received_ip": [
+            "185.222.57.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Swedish"
+    }
+}

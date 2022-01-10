@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Your email just won a mega jackpot of $1.9 Million usd (One Million Nine\r\nHundred Thousand Dollars),reply back for claims.\r\n",
+            "content_type": "text/plain",
+            "hash": "4802c16f4e7fe22a537c20887219d08c15be67f683ad5b3e87b1991fb8ff1a5a",
+            "boundary": "0000000000006edc5c05c2b72a44"
+        }
+    ],
+    "header": {
+        "subject": "Congratulations",
+        "from": "winnerslottomillions@gmail.com",
+        "to": [],
+        "date": "2021-05-19T23:25:42+02:00",
+        "received_domain": [
+            "mail-io1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.45"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

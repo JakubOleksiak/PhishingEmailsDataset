@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hello Consumer,\r\n\r\n\r\n\r\n\r\nYour 1 year plan  for NORTON PACK 360 has been successfully renewed &\r\nupdated.\r\n\r\n\r\n\r\n\r\n*The transaction will be reflected within the next 24 to 48 hours on your\r\naccount record.*\r\n\r\n\r\n\r\nPRODUCT DESCRIPTION\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nInvoice Number                :       GASR4567NC\r\n\r\n\r\n\r\n*Product Code *                  :       NORTON PACK 360\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nStarting Date                     :       9th September 2021\r\n\r\n\r\n\r\n\r\nEnding Date                        :       1 year from the date of purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nAmount                               :       $251.52USD\r\n\r\n\r\n\r\nMethod Of Payment          :       AUTO RENEW\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n* If you wish to claim a REFUND then please feel free to contact our\r\nbilling department as soon as possible. *\r\n\r\n\r\n\r\nYou can Reach us on   *+1  \u2013 (888)  \u2013 (331)  \u2013 (5129)*\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "6926ec95755e71fbb15aa4070fb758e7d1ad82e366803705dcc62d1897f4dd6d",
+            "boundary": "0000000000001a493205cb8f1829"
+        }
+    ],
+    "header": {
+        "subject": "ORDER##GASR4567NC",
+        "from": "aillywilson9787nm@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-09T17:53:41+07:00",
+        "received_domain": [
+            "mail-lj1-f175.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.175"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

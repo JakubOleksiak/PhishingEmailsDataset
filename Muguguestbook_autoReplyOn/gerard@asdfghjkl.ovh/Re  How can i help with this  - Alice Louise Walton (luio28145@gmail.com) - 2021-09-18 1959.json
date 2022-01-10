@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "On 18/09/2021, gerard@asdfghjkl.ovh <gerard@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Gerard\r\n>\r\n>\r\n\r\n\r\n-- \r\nDear friend\r\n\r\n Nice to meet you.\r\n\r\n My name is Alice  Walton  from the USA , I am an American heiress to\r\nthe fortune of Wal-Mart Stores, Inc\r\n I have a charity project to discuss with you.\r\n Please get back to me  for more details\r\n God bless you.\r\n Mrs Alice\r\n\r\nMy whatsaap number  +13029478864\r\n",
+            "content_type": "text/plain",
+            "hash": "8d7a3d7a87358512ea6d82e3081d013025473c7aa02e21b1b89dfeac52c13640"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "luio28145@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-18T18:59:25+01:00",
+        "received_domain": [
+            "mail-ua1-f68.google.com"
+        ],
+        "received_ip": [
+            "2002:a59:af36:0:b0:230:bedb:e644",
+            "209.85.222.68"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

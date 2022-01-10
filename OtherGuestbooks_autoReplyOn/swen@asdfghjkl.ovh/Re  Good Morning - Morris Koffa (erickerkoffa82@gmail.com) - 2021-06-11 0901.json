@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Morning from Mr. Morris Koffa, I can talk to you, very important please\r\n",
+            "content_type": "text/plain",
+            "hash": "d019d0765c6bf0a7fc58c8c4a84736a35d80c83135134cfe6f5045e64e2c738f"
+        }
+    ],
+    "header": {
+        "subject": "Re: Good Morning",
+        "from": "erickerkoffa82@gmail.com",
+        "to": [],
+        "date": "2021-06-11T08:01:25+01:00",
+        "received_domain": [
+            "mail-qk1-f175.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.175",
+            "2002:a0c:aa42::"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

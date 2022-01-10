@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "This is Federal Reserve Bank U.S.A.\r\n\r\nAttention.\r\n\r\nYour compensation funds for the failed transaction you had in the\r\ntotaling $5,200,000 ( Five million Two hundredThousand Dollars ) has\r\nbeen approved by government for release to you .\r\n\r\nConfirm the following information so that we can proceed with the funds release.\r\n\r\nYou full name ,\r\n\r\nNationality,\r\n\r\nhouse address,\r\n\r\nphone number ,\r\n\r\noccupation,\r\n\r\nage ,\r\n\r\nSex,\r\n\r\nMarital status,\r\n\r\nSend also any scanned copy of your id.\r\n\r\nI expect your prompt message to this effect so that we can proceed\r\nwith the process of the funds release and transfer to you.\r\n\r\nDr. J.P. Andrew\r\n",
+            "content_type": "text/plain",
+            "hash": "3edcff5a2873d4bf59feedafe6bebbd9bd2a963041841b8521c8cedd47a39ec7"
+        }
+    ],
+    "header": {
+        "subject": "Your Compensation Fund",
+        "from": "captivaaaan@gmail.com",
+        "to": [],
+        "date": "2021-06-21T16:25:56+01:00",
+        "received_domain": [
+            "mail-qk1-f176.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6214:80e::",
+            "209.85.222.176"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Probate & Executors\r\nHRMC London,\r\nUnited Kingdom.\r\n\r\nBy a proper analysis of the ESTATE of Late Eng. Richard Carlson, i wish to let you know that Late Eng. Richard Carlson made you a beneficiary to his WILL.\r\n\r\nI await your prompt response.\r\n\r\nBarrister John Cooke ESQ.\r\n\r\nPRINCIPAL PARTNERS: Barrister Kim Howes, Barrister John Cluster, Barrister Morgan Wilson.\r\n",
+            "content_type": "text/plain",
+            "hash": "63a7b799333ab725e55d5f5ed937977119580f454eea5f77e45e5bb9a8a82eb6"
+        }
+    ],
+    "header": {
+        "subject": "12/07/2021 WARNING YOUR LAST NOTIFICATION",
+        "from": "admin@internethouse.host",
+        "to": [
+            "admin@internethouse.host"
+        ],
+        "date": "2021-07-12T06:12:14-07:00",
+        "received_domain": [
+            "mail.internethouse.host"
+        ],
+        "received_ip": [
+            "103.82.26.186",
+            "103.167.85.192"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

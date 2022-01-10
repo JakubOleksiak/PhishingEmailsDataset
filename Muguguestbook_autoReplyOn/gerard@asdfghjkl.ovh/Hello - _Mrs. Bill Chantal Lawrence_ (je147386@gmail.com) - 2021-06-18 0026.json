@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "You have been compensated with the sum of 3.9 million dollars in this\r\nunited nation the payment will be issue into atm visa card and send to\r\nyou from the santander bank we need your address and your whatsapp\r\nnumber\r\n\r\nFill the followings with your details;\r\n\r\n1. Your Name:\r\n2. Country :\r\n3. Age and Sex:\r\n4. Occupation :\r\n5. Mobile Telephone:\r\n6. Delivery Address:\r\n7. Id Card Identification\r\n\r\nThanks\r\nMrs. Bill Chantal Lawrence.\r\nRegional Operations Senior Officer United Nation Inter-government\r\nOrganization\r\n",
+            "content_type": "text/plain",
+            "hash": "9fe3255f3e8d77f191665dc5b882587520c1b639cd003bd5c1b908c41ac17d2c",
+            "boundary": "00000000000032af4305c4fdb49b"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "je147386@gmail.com",
+        "to": [],
+        "date": "2021-06-17T10:26:41-12:00",
+        "received_domain": [
+            "mail-pg1-f180.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.180"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

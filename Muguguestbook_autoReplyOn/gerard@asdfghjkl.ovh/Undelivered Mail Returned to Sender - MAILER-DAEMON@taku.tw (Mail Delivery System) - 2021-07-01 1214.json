@@ -1,0 +1,125 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 897,
+            "hash": {
+                "md5": "0fa6a17a8f6fc4c5b799ace3e674c113",
+                "sha1": "7ea339c1f527b737974227c8088b465a0be7a105",
+                "sha256": "f887a77f121b9cba6912188fbdcd0fe6ae936b59f79040bec693fc742128a826",
+                "sha512": "93a551f7dc66ae3c113ceae57950b895dd2a0d0def1ef4eeecada4cf943c298d040e5110e7c3934bb06938d9fdc7b798456868dd8b012f8caabb6a2647ac165b"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "eve@taku.tw"
+            ],
+            "domain": [
+                "taku.tw"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host taku.tw.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<eve@taku.tw>: input/output error. Command output: procmail: Quota exceeded\r\n    while writing eve\r\n",
+            "content_type": "text/plain",
+            "hash": "a1fc0bf501dd84af1b3c7c09d537660706f84d742278706d06db18c759521f96",
+            "boundary": "DC35B1D54652.1625134476/taku.tw"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; eve@taku.tw"
+                ],
+                "original-recipient": [
+                    "rfc822;eve@taku.tw"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.3.0"
+                ],
+                "diagnostic-code": [
+                    "x-unix; procmail: Quota exceeded while writing eve"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<gerard@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from localhost (localhost.localdomain [127.0.0.1])\tby taku.tw (Postfix) with SMTP id DC35B1D54652\tfor <eve@taku.tw>; Tue, 29 Jun 2021 10:29:13 +0800 (CST)",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\t(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))\t(No client certificate requested)\tby taku.tw (Postfix) with ESMTPS id 5829622D7DA4\tfor <eve@taku.tw>; Sat, 19 Jun 2021 03:38:02 +0800 (CST)"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<D92030CE-DE6E-41DA-9442-DE489CAADA28@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Fri, 18 Jun 2021 21:37:58 +0200"
+                ],
+                "from": [
+                    "gerard@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "eve@taku.tw"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nGerard\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "9bb3890e1a06935a1060f2528df80df4009588d72e06c1ee6712c96f3e578dfc"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@taku.tw",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-01T18:14:36+08:00",
+        "received_domain": [
+            "taku.tw"
+        ],
+        "received_ip": [
+            "60.248.17.8"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

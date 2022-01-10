@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "abiam.halima@yandex.com"
+            ],
+            "domain": [
+                "yandex.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Bonjour je suis Madame Abiam Halima du Malien, je souhaite investir dans\r\nvotre pays, un bon projet qui a besoin d'un partenariat pour travailler\r\nensemble, abiam.halima@yandex.com\r\n",
+            "content_type": "text/plain",
+            "hash": "42dd83e763ad766a6f5edf72b289c6ba17ebe5dcb138ec76bcfe5f8eecc3dcf9",
+            "boundary": "0000000000006f9cf205bc1ebcc3"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "abiam.halima11@gmail.com",
+        "to": [],
+        "date": "2021-02-25T02:04:25+01:00",
+        "received_domain": [
+            "mail-ed1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.54"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "French"
+    }
+}

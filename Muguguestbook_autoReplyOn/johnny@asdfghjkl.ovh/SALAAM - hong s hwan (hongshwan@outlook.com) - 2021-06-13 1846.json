@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "domain": [
+                "finance.we"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nDear Sir/Madam\r\n\r\nWe invite all interested project owners and investors to our project financing programme. I am the investment officer of an UAE/ Kuwait based investment company, we are ready to fund projects outside UAE/ Kuwait in the form of debt finance.We grant a loan to both Corporate and private entities at a low-interest rate of 2.5% ROI per annum. The terms are very flexible and interesting.\r\n\r\nKindly revert back  to our chief investment officer if you have projects that need funding for further discussion and negotiation with the email Below .\r\n\r\nEmail;    atmybook@yahoo.ie\r\n\r\nthank you\r\n\r\nAbdul Malik D\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "f82369c028efe7ed7129520eb4e3cf2f2fa48304d61f51461b7298943747e8ba",
+            "boundary": "_000_AM7PR08MB5494907DE754C4B63736A45BB1329AM7PR08MB5494eurp_"
+        }
+    ],
+    "header": {
+        "subject": "SALAAM",
+        "from": "hongshwan@outlook.com",
+        "to": [
+            "hongshwan@outlook.com"
+        ],
+        "date": "2021-06-13T16:46:18+00:00",
+        "received_domain": [
+            "he1eur04ft064.mail.protection.outlook.com",
+            "he1eur04ht216.eop-eur04.prod.protection.outlook.com",
+            "eur04-db3-obe.outbound.protection.outlook.com",
+            "he1eur04ft064.eop-eur04.prod.protection.outlook.com",
+            "am7pr08mb5494.eurprd08.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.74.23",
+            "2a01:111:e400:7e0d::4b",
+            "2a01:111:e400:7e0d::197",
+            "2a01:111:e400:7e0d::226",
+            "2a01:111:e400:7e0d::48"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

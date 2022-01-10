@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "email": [
+                "charleswjackson2000@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "Your Email Account was selected for a charity work of Donation of $1,700,000.00 USD. Contact us for more info via this email: charleswjackson2000@gmail.com\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a478966e67adfe4eb6594de16ab8b1212739809026693aec41216721acbf85a3",
+            "boundary": "b1_b6bd872926708ab1c608133054fe05b1"
+        }
+    ],
+    "header": {
+        "subject": "Donation",
+        "from": "support@nuevo.interimobel.mx",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-08T04:25:46+00:00",
+        "received_domain": [
+            "interimobel.net"
+        ],
+        "received_ip": [
+            "198.71.48.245"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

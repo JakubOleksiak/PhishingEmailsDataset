@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "cfcubabenin@accountant.com"
+            ],
+            "domain": [
+                "accountant.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Beneficiary,\r\n\r\nI am obliged to contact you concerning your approved compensation\r\npayment sum because your name was among the list of 162 persons (Scam\r\nVictims) that was approved by the new elected Government of Republic\r\nof Benin in corroboration with ECO-WAS-Economic Community of West\r\nAfrican States regional government to pay a compensation payment of\r\n$1.200,000.00USD One Million Two hundred thousand USA dollars.\r\n\r\nNote that a valid ATM Visa Card has been issued on your name and has\r\nbeen deposited with our account officer, therefore you are hereby\r\nadvised to Contact Mr. Martins Adams on his private E-mail with your\r\nfull information.\r\n\r\nContact person; ''Mr. Martins Adams''\r\nEmail: (cfcubabenin@accountant.com)\r\nTelephone; +229 5155 4511\r\n\r\nFor our confirmation / delivery of your ATM Visa Card, you are\r\nrequired to forward your full information below:\r\n\r\nYour Full Names:.............\r\nAddress:................\r\nZip Code:....................\r\nCell Phone Number#:..........\r\nID Card or front Copy of your passport............\r\n\r\nNote that the Beneficiary is required to pay $95 only for the\r\nshipment/services fee to send the ATM Visa Card to your receiving\r\ndoorstep address. Your urgent attention to send the above information\r\nto ''Mr. Martins Adams'' is obliged.\r\n\r\nThank for your cooperation,\r\n\r\nMr. Frank T. Uzor.\r\n",
+            "content_type": "text/plain",
+            "hash": "04d1e2c2a47179abd2fd70078a8270a74ab5373deb4945b85a04ab5a17c5866c"
+        }
+    ],
+    "header": {
+        "subject": "Your ATM-Card",
+        "from": "tonyuzor50@gmail.com",
+        "to": [],
+        "date": "2021-09-21T17:12:52-07:00",
+        "received_domain": [
+            "mail-oi1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.179",
+            "2002:a4a:3e87::"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

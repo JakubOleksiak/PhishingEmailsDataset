@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.julianna",
+                "family.if"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings my beloved,\r\nMy name is Mrs.Julianna Stefan Ndoi,I am a deaf woman and also a cancer\r\npatient who had decided to donate what I have to you for God's works. I\r\nwant to donate $8.5 million to you so that you will use part of the this\r\nfund to help the poor ones,while you use the rest for your family.If you\r\nare interested,Respond now for more details on how to receive this fund.\r\n\r\nRegards,\r\nMrs.Julianna,greeting from the sick bed\r\n**************************************\r\nSaludos mi amado,\r\nMi nombre es Sra. Julianna Stefan Ndoi, soy una hermana sorda ... Soy\r\nuna paciente de c?ncer que ten?a\r\nDecid? donarles lo que tengo para las obras de Dios. Quiero donar\r\n$ 8.5 millones para usted para que use parte de este fondo para ayudar\r\nlos pobres, mientras que el resto lo usas para tu familia.\r\ninteresado, responda ahora para obtener m?s detalles sobre c?mo recibir\r\neste fondo.\r\n\r\nSaludos,\r\nSe?ora Julianna, saludando desde la cama de enferma\r\n",
+            "content_type": "text/plain",
+            "hash": "f3a014c760902e62bc3a554f1574dec72261206634f846a379c40fcf64d5c39b"
+        }
+    ],
+    "header": {
+        "subject": "Respond now for more details.....",
+        "from": "news@net-shinei.co.jp",
+        "to": [],
+        "date": "2021-06-25T11:15:04+00:00",
+        "received_domain": [
+            "mail.net-qp.com"
+        ],
+        "received_ip": [
+            "157.205.219.41"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Spanish; Castilian"
+    }
+}

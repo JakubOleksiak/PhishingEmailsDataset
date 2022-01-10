@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "jamesglarryloanhome@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Do you need an urgent loan to pay off debt or start any kind of\r\nbusiness? We offer all kinds of loan at low interest rate. email us\r\ntoday at jamesglarryloanhome@gmail.com for more info\r\n",
+            "content_type": "text/plain",
+            "hash": "221a8d3c9ef7532f30d6194db5438f1e554627d4465e80fec67f73af2ddead43"
+        }
+    ],
+    "header": {
+        "subject": "LOAN",
+        "from": "kayodejoseph17@gmail.com",
+        "to": [],
+        "date": "2021-08-30T00:33:23-07:00",
+        "received_domain": [
+            "mail-oi1-f193.google.com"
+        ],
+        "received_ip": [
+            "2002:a17:90a:2a4d::",
+            "209.85.167.193"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

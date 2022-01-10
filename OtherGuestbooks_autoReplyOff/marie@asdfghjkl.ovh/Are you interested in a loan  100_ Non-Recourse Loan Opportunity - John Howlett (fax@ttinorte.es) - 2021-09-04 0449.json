@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Good Day,\r\n\r\nWe are one of the world\u2019s largest LOAN PROVIDERS and one of the world\u2019s \r\nlargest and safest institutions, we work with global investors and \r\nfinancial companies and aim in helping our clients achieve their dreams \r\nin loan programs with interest as low as 1.50% (1.92% APR). Loans for \r\nforeigners. Programs without income verification. Fixed and variable \r\ninterest rate loans. Payment terms of 10, 15, 20 and 30 years. \r\nInternational Loan Consultants puts at your disposal 27 years of \r\nexperience in the industry to maximize your investment and minimize your \r\nexpenses.\r\n\r\nHowever, there is an ongoing program currently offering 85% Non-Recourse \r\nLoan (NRL) with a BG Leased Monetization program for trade finance, \r\nconstructions, credit enhancement, government funding, property \r\ninvestment and all-round range of fundings for a period of 10-years + 1 \r\nyear grace period with no prepayment penalties.\r\n\r\nLet us know if you are interested in our services so as to provide you\r\nwith more information.\r\n\r\nRegards,\r\nJohn Howlett\r\nFinancial Consultant\r\n",
+            "content_type": "text/plain",
+            "hash": "396e5929eb2490701d42f92e6bc00a243ed1b5bafefe188f0d8332ebe578a4e8"
+        }
+    ],
+    "header": {
+        "subject": "Are you interested in a loan? 100% Non-Recourse Loan Opportunity",
+        "from": "fax@ttinorte.es",
+        "to": [],
+        "date": "2021-09-04T04:49:43+02:00",
+        "received_domain": [
+            "serviciodecorreo.es",
+            "cmpc-084-205-028-220.cnet.gawex.pl",
+            "llsc092-a17.servidoresdns.net"
+        ],
+        "received_ip": [
+            "82.223.199.226",
+            "84.205.28.220",
+            "82.223.190.44"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

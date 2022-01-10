@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello\r\n\r\n\r\n\r\nI\u2019m Bar. Walter Pfiffner a probate Attorney with a reputable law firm here in UAE Dubai. I have a deal proposition, of an unclaimed fund of USD 6,700,000.00 belonging to a client who before his death I managed all his estate and to his financial portfolio here in the UAE.\r\n\r\n\r\n\r\nUnfortunately died some years back however didn\u2019t include any next of kin to his account while opening his account.\r\n\r\n\r\nThe deal here is I will present you as his next of kin and we make claims of the funds. For more information get back to me ASAP at my email address:walterpfiffner021@gmail.com\r\n\r\n\r\n\r\nRegards\r\nBar. Walter Pfiffner\r\n",
+            "content_type": "text/plain",
+            "hash": "46a554d14b3bd9e8d3f05794dbc025e7c039ef9863486c276c8b592ea71d19a1"
+        }
+    ],
+    "header": {
+        "subject": "Ref: This is (Mostly) Good News!! and a good idea,,",
+        "from": "kishi@techcave.pl",
+        "to": [],
+        "date": "2021-03-15T05:52:00-07:00",
+        "received_email": [
+            "mailing@teultd.eu"
+        ],
+        "received_domain": [
+            "www.teultd.eu"
+        ],
+        "received_ip": [
+            "157.230.24.117",
+            "23.106.223.149"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

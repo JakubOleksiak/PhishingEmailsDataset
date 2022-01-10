@@ -1,0 +1,65 @@
+{
+    "attachment": [
+        {
+            "filename": "MY FAMILY  PHOTO.jpg",
+            "size": 604514,
+            "extension": "jpg",
+            "hash": {
+                "md5": "578a70f084aebf683ca71857a78e1e20",
+                "sha1": "19d9b44ad67bb726b0f59544d777386559714f8b",
+                "sha256": "c61bf4d373967160da0409dab0dd33fec1542c991ecd553a456d5b1a7d5a9800",
+                "sha512": "aa09d15a370ecdbc2cb09c4e9e51a9f79b4ac7a4b0e56e6dc1d96e61aceb7d8ea0acfbecc50d7e0a18f1d16c79361c3f4a73ba506334b9c08d64b06da1590401"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"MY FAMILY  PHOTO.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"MY FAMILY  PHOTO.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "file1"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear Friend, Swen.\r\n\r\n\r\nYour great efforts will be really appreciated because I have been\r\nwaiting for your email but no information from you till this moment.\r\n\r\nI don\u2019t want our bank officials to claim this fund.\r\n\r\nPlease kindly fill  the application and send to our bank management\r\nfor urgent transfer release of the fund to your receiving bank account\r\nin your country.\r\n\r\nI have every information for us to claim this fund. I am in charge of\r\nauditing and account section\r\n\r\nTherefore, the bank will always abide by my official directions for\r\nthis reasons you have nothing to fear as your interest and identity\r\nwill be legally protected.\r\n\r\nThe fund will be successfully release to your account.\r\n\r\nReply soonest\r\n\r\nAttached is my family photo\r\n\r\nI wait for your prompt\r\nFrom:  Dr. Nasa  Jirma\r\nPrivate Tell: (+233263703012 )\r\n",
+            "content_type": "text/plain",
+            "hash": "2ca2290b942160554737db07b9b88f8bc8a4a23051cf939c7844c19ae3cde4a3",
+            "boundary": "00000000000059139f05c894db08"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend, Swen. Contact the bank",
+        "from": "honbcy549@gmail.com",
+        "to": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T08:02:23-07:00",
+        "received_domain": [
+            "mail-yb1-f194.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6918:910f:b029:51:a732:fed3",
+            "209.85.219.194"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

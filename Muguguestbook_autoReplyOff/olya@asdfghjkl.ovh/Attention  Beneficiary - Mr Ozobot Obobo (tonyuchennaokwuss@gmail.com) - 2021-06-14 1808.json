@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nDear\r\n\r\n\r\nIt's my pleasure to inform you that your name appeared in the list of\r\nbeneficiaries not yet received their approved fund. Due to over\r\ndelayed and inability of the ex staff to follow the right step to\r\ndisburse your approved fund.\r\n\r\nin this regard you are among the 6 beneficiaries approved to receive\r\ntheir funds as approved by Central Bank of West African States (Banque\r\nCentrale des \u00c9tats de l'Afrique de l'Ouest)\r\n\r\nYour fund has been approved to be disbursed to you through either ATM\r\nCard or bank wire transfer to enable you access to your overdue\r\npayment.\r\n\r\nIn order to process your funds transfer.\r\n\r\nKindly send them your full information.\r\n\r\n1.Your full name:\r\n2.Your home address:\r\n3.Current occupation:\r\n4. Mobile Phone Number:\r\n5.Your current home address:\r\n6. A Copy of your identification\r\n\r\n\r\nKindly acknowledge the receipt of this massage.\r\n\r\nCustomer Client Manager.\r\nMr Ozobot Obobo.\r\nKind Regards\r\n",
+            "content_type": "text/plain",
+            "hash": "f0bda4fbc5c3f8f28b9dd0f10e2888d8be66aa075324d6f21dcbc4041e501ab6"
+        }
+    ],
+    "header": {
+        "subject": "Attention: Beneficiary",
+        "from": "tonyuchennaokwuss@gmail.com",
+        "to": [],
+        "date": "2021-06-14T09:08:27-07:00",
+        "received_domain": [
+            "mail-qv1-f48.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6214:2126::",
+            "209.85.219.48"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

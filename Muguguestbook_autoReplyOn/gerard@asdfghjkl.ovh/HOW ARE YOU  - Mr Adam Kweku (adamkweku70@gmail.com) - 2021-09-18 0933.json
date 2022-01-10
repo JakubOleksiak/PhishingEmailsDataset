@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nDear friend\r\n\r\nMy name is Mr Adam kweku,i have a business proposal i want to share\r\nwith you, if you are interested respond to me positively.\r\n\r\nThanks.\r\nBest regards\r\nMr Adam kweku\r\n",
+            "content_type": "text/plain",
+            "hash": "28ad0fb028465b25a176de3466c5f7960ed393ea9d8eb0506d947dd1c3c1fc44"
+        }
+    ],
+    "header": {
+        "subject": "HOW ARE YOU?",
+        "from": "adamkweku70@gmail.com",
+        "to": [],
+        "date": "2021-09-18T00:33:31-07:00",
+        "received_domain": [
+            "mail-qk1-f193.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.193",
+            "2002:ab3:ee44:0:b0:2d2:184d:3f0d"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-type": [
+                    "text/html; charset=\"utf-8\""
+                ]
+            },
+            "content": "<html><body><span style=\"font-family:Verdana; color:#000000; font-size:10pt;\"><div><br>It`s me&nbsp; Kai Rosenberg ,the professional banker with the reserve , who was in touch&nbsp; with you . Finally, I am&nbsp; contacting you regarding our previous discussion ,&nbsp; about the deceased, whom I happened to be his banker and financial&nbsp; advisor, It's been confirmed&nbsp; he&nbsp; died of cancer and he has no beneficiary on&nbsp; file&nbsp; to receive&nbsp; his $137 Million USD from investment . I am ready&nbsp; for the deal as discussed ,it's a 50-50 share , are you ready ? all&nbsp; you do is to get me any of your nominated banks abroad for the&nbsp; transfer .<br><br>sincerely.<br><br>&nbsp;Kai Rosenberg<br><br mce_bogus=\"1\"></div></span></body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "2ffdc9d3c94b109e419dcbe41e02c697e9b6b9465ebd9d5907329ef2fead0052"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "scott@waxnmore.com",
+        "to": [],
+        "date": "2021-09-01T10:58:37-07:00",
+        "received_domain": [
+            "p3plgemwbe10-07.prod.phx3.secureserver.net",
+            "p3plwbeout10-05.prod.phx3.secureserver.net"
+        ],
+        "received_ip": [
+            "97.74.135.190",
+            "97.74.135.156"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

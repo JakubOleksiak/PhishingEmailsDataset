@@ -1,0 +1,50 @@
+{
+    "body": [
+        {
+            "email": [
+                "info@winghangbnk.com"
+            ],
+            "domain": [
+                "winghangbnk.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "I am a banker, in Wing Hang Bank, Hong Kong, I have some amount of funds that I want to move out of the country. I need a good partner someone I can trust. It is risk free and legal. Reply to this email: info@winghangbnk.com\r\n Elizabeth Lee\r\n",
+            "content_type": "text/plain",
+            "hash": "2aeaee92690b133148db08cd4520798591ae7075d5e329730d97456af7a37b13",
+            "boundary": "===============0681612495=="
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "david@renegade83.com",
+        "to": [
+            "david@renegade83.com"
+        ],
+        "date": "2021-05-26T17:15:29-05:00",
+        "received_email": [
+            "david@renegade83.com"
+        ],
+        "received_domain": [
+            "advanced1625.inmotionhosting.com"
+        ],
+        "received_ip": [
+            "197.185.97.153",
+            "74.124.197.188"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

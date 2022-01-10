@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://click.mlsend2.com/link/c/YT0xNzY4MzExNDcwMDIzNTE0NDc1JmM9cDZ2NyZlPTAmYj03MTEyMzIzNjMmZD1hMGM1czlv.EdggANx9b7YWNwAm_uClqvYGdknqdBo6tNYQGAhzkhA",
+                "https://click.mlsend2.com/link/c/YT0xNzY4MzExNDcwMDIzNTE0NDc1JmM9cDZ2NyZlPTAmYj03MTEyMzIzNzImZD1oMGg0cThw.IgD3PCBH8YXJc71"
+            ],
+            "domain": [
+                "click.mlsend2.com",
+                "yt0xnzy4mzexndcwmdiznte0ndc1jmm9cdz2nyzlptamyj03mteymziznzimzd1omgg0cthw.igd3pcbh8yxjc71"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\n\r\nYou have received a newsletter from Perpetual Income Team.\r\n\r\nHowever, your email software can't display HTML emails. You can view the newsletter by clicking here:\r\n\r\nhttps://click.mlsend2.com/link/c/YT0xNzY4MzExNDcwMDIzNTE0NDc1JmM9cDZ2NyZlPTAmYj03MTEyMzIzNjMmZD1hMGM1czlv.EdggANx9b7YWNwAm_uClqvYGdknqdBo6tNYQGAhzkhA\r\n\r\n\r\n\r\nYou're receiving this newsletter because you have shown interest in Perpetual Income Team.\r\nNot interested anymore? Click here to unsubscribe:\r\nhttps://click.mlsend2.com/link/c/YT0xNzY4MzExNDcwMDIzNTE0NDc1JmM9cDZ2NyZlPTAmYj03MTEyMzIzNzImZD1oMGg0cThw.IgD3PCBH8YXJc71el9YCM4HPbh69or8k8SVe2l05NFw\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "6a63f2cd1e5d5acf91d5edd717465986d22f3964657e648ec3a57896b3fdcee3",
+            "boundary": "b1_40ddc24fa9ccd7e39df1cc89de214412"
+        }
+    ],
+    "header": {
+        "subject": "The program I talked about does exist",
+        "from": "wayel@360onlinemoney.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-05T21:19:14+03:00",
+        "received_domain": [
+            "mail223.on.mlsend2.com"
+        ],
+        "received_ip": [
+            "185.249.220.223"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

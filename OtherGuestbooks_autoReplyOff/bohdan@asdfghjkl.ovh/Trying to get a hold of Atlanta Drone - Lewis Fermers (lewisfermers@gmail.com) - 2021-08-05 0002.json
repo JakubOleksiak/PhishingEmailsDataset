@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi there,\r\n\r\nI am trying to reach the owner of  Atlanta Drone. My name is Ricky DOP of\r\nClikpowr media, a digital and print company.\r\n\r\nWe are reaching out to offer competitive print prices on flyers, business\r\ncards, menus and more.\r\n\r\nWould you be willing to test us out for your next printing needs? If you\r\nare going to be printing anything at all for your business needs we'd like\r\nto give you a quote.\r\n\r\nBest Regards\r\n\r\n--\r\n\r\nClickpowr\r\nDallas| P: 469-996-8519\r\nMon-Fri (8am - 7:30pm CST)\r\nSat (10am - 4pm CST)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nYou may unsubscribe\r\n<http://link.gmgb4.net/x/u?u=07653181-a469-4d98-8422-832cbd608b9a> to stop\r\nreceiving our emails.\r\n",
+            "content_type": "text/plain",
+            "hash": "2e45ba5d8644b88af9cfae96692d1b73a40bfb31d0f1436a7422a75b4eb7c670",
+            "boundary": "0000000000008b1bd205c8c2f60a"
+        }
+    ],
+    "header": {
+        "subject": "Trying to get a hold of Atlanta Drone",
+        "from": "lewisfermers@gmail.com",
+        "to": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T15:02:47-07:00",
+        "received_domain": [
+            "gmailapi.google.com",
+            "mail-lj1-f181.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.181"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

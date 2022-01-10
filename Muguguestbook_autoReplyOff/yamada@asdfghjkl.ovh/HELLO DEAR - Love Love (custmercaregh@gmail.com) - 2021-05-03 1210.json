@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "gendianah@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHello dear I am Gen Dianah Hallanda of USA presently serving in here in\r\nBattalion 72 Kabul Army military barracks, Afghanistan. I am 56 years old,\r\nA divorcee with two sons . I will like to establish contact with you sir.\r\nContact me for more details and clarifications at our email email address (\r\ngendianah@gmail.com)\r\n\r\nYours lovely\r\nGen Dianah\r\n",
+            "content_type": "text/plain",
+            "hash": "5a1b725ef719d30d95cbe2a1d2f6f0722fd89577b6c3b1ed8b625aa544c2a172",
+            "boundary": "0000000000004bd91b05c16a865e"
+        }
+    ],
+    "header": {
+        "subject": "HELLO DEAR",
+        "from": "custmercaregh@gmail.com",
+        "to": [],
+        "date": "2021-05-03T03:10:30-07:00",
+        "received_domain": [
+            "mail-lf1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.50"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Do you need credit or partnership in funding your project or starting up business?\r\n",
+            "content_type": "text/plain",
+            "hash": "dccf8605fe04ea37c3b9899519e250f0c4fc081eda2539659ad36076b1407e6a"
+        }
+    ],
+    "header": {
+        "subject": "Re:",
+        "from": "podcast@webserver.radioitaliacina.loc",
+        "to": [
+            "podcast@webserver.radioitaliacina.loc"
+        ],
+        "date": "2021-05-17T02:03:00-07:00",
+        "received_domain": [
+            "webserver.radioitaliacina.loc"
+        ],
+        "received_ip": [
+            "185.30.65.110",
+            "193.107.219.174"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

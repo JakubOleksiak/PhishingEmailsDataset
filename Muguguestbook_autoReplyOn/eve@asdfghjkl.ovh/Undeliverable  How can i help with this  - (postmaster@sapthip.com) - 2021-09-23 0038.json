@@ -1,0 +1,153 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1222,
+            "hash": {
+                "md5": "54956ca321aee8a15e792f896d7a4b37",
+                "sha1": "35d9542ba7afcae5d350366ca447336379195ee0",
+                "sha256": "a2f124c0c3a059b47f65220f763344ca36810e8558092211921501c88c3f1a66",
+                "sha512": "568ccaa51682f0c174fa192eed9933893636eb672ebc45693e54c2f6aa46c278945731e127d1268db2c78758163c2a8f1e1cbee47dd12a44e0db61fd9beb64b9"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "bcpfitzner@sapthip.com",
+                "d539cabe-e2f2-40c6-9970-82b1b82d460a@desktop-9avsair"
+            ],
+            "domain": [
+                "sapthip.com",
+                "exsapthip.sapthip.com",
+                "192.168.168.15",
+                "fortimail.sapthip.com",
+                "192.168.168.16",
+                "host-185-25-217-220.jmdi.pl"
+            ],
+            "ip": [
+                "185.25.217.220"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Delivery has failed to these recipients or groups:\r\n\r\nbcpfitzner@sapthip.com<mailto:bcpfitzner@sapthip.com>\r\nThe email address you entered couldn't be found. Please check the recipient's email address and try to resend the message. If the problem continues, please contact your email admin.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDiagnostic information for administrators:\r\n\r\nGenerating server: 15MB\r\n\r\nbcpfitzner@sapthip.com\r\nRemote Server returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup'\r\n\r\nOriginal message headers:\r\n\r\nReceived: from EXSAPTHIP.sapthip.com (192.168.168.15) by EXSAPTHIP.sapthip.com\r\n (192.168.168.15) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1847.3; Thu, 23 Sep\r\n 2021 05:38:15 +0700\r\nReceived: from fortimail.sapthip.com (192.168.168.16) by EXSAPTHIP.sapthip.com\r\n (192.168.168.15) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1847.3 via Frontend\r\n Transport; Thu, 23 Sep 2021 05:38:15 +0700\r\nReceived: from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\r\n        by fortimail.sapthip.com  with ESMTP id 18MMcLYh004277-18MMcLYj004277\r\n        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)\r\n        for <bcpfitzner@sapthip.com>; Thu, 23 Sep 2021 05:38:22 +0700\r\nContent-Type: text/plain; charset=\"utf-8\"\r\nMIME-Version: 1.0\r\nMessage-ID: <D539CABE-E2F2-40C6-9970-82B1B82D460A@DESKTOP-9AVSAIR>\r\nDate: Thu, 23 Sep 2021 00:37:23 +0200\r\nFrom: <eve@asdfghjkl.ovh>\r\nTo: <bcpfitzner@sapthip.com>\r\nSubject: How can i help with this?\r\nContent-Transfer-Encoding: quoted-printable\r\nAuto-Submitted: auto-replied\r\nX-hMailServer-LoopCount: 1\r\nReturn-Path: eve@asdfghjkl.ovh\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "6ce42f19a6293e5348d5d4461ee8973cf91ad5d99da9035ce9b45e0da6782594",
+            "boundary": "9107b59b-d6a9-4391-8008-cecc5f36bda1"
+        },
+        {
+            "content_header": {
+                "reporting-mta": [
+                    "dns;15MB"
+                ],
+                "received-from-mta": [
+                    "dns;fortimail.sapthip.com"
+                ],
+                "arrival-date": [
+                    "Wed, 22 Sep 2021 22:38:15 +0000"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822;bcpfitzner@sapthip.com"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.1.10"
+                ],
+                "diagnostic-code": [
+                    "smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {},
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "received": [
+                    "from EXSAPTHIP.sapthip.com (192.168.168.15) by EXSAPTHIP.sapthip.com (192.168.168.15) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1847.3; Thu, 23 Sep 2021 05:38:15 +0700",
+                    "from fortimail.sapthip.com (192.168.168.16) by EXSAPTHIP.sapthip.com (192.168.168.15) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1847.3 via Frontend Transport; Thu, 23 Sep 2021 05:38:15 +0700",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby fortimail.sapthip.com  with ESMTP id 18MMcLYh004277-18MMcLYj004277\t(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)\tfor <bcpfitzner@sapthip.com>; Thu, 23 Sep 2021 05:38:22 +0700"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<D539CABE-E2F2-40C6-9970-82B1B82D460A@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Thu, 23 Sep 2021 00:37:23 +0200"
+                ],
+                "from": [
+                    "eve@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "bcpfitzner@sapthip.com"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ],
+                "return-path": [
+                    "eve@asdfghjkl.ovh"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nEve\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "76ce2c4ebd3b59378f13ade0c96d812ab8a0b72320d8d7269fd3368c43630a3c"
+        }
+    ],
+    "header": {
+        "subject": "Undeliverable: How can i help with this?",
+        "from": "postmaster@sapthip.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-23T05:38:15+07:00",
+        "received_domain": [
+            "exsapthip.sapthip.com",
+            "fortimail.sapthip.com"
+        ],
+        "received_ip": [
+            "58.82.160.139"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

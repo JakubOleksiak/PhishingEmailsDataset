@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi,\r\n\r\nAre you looking for the right investor partner or funding at 3-4% interest rate per year?\r\nWe are offering flexible funding for business rebuilding, business expansions and funding for various lucrative and profitable projects bypassing the usual rigorous procedures.\r\nThis funding program allows a client to enjoy a low interest rate payback for as low as 3-4% per year.\r\n\r\nYou should contact me back for more information, if you are interested for the project funding.\r\n\r\nRegards,\r\nGeorge Porter\r\n",
+            "content_type": "text/plain",
+            "hash": "029c6297ba74178e283993ecf4bf860b18fecaad1ad9ca73715ef24b59f037f1",
+            "boundary": "0299d07cebd5fff76b6ed87490a48e80e9e1f9"
+        }
+    ],
+    "header": {
+        "subject": "Funding",
+        "from": "marraffad@alice.it",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-13T17:21:24-07:00",
+        "received_email": [
+            "marraffad@alice.it"
+        ],
+        "received_domain": [
+            "smtp217t-alice.alice.it"
+        ],
+        "received_ip": [
+            "82.57.200.120",
+            "198.8.85.232"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

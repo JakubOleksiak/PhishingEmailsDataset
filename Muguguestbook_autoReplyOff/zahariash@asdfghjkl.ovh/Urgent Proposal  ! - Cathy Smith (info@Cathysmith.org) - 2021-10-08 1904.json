@@ -1,0 +1,30 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good day,\r\n\r\nMy associate from China wants to discuss a business investment deal with you. I await your response to enable us discuss about this business\r\ninvestment\r\n\r\n\r\nCathy Smith\r\nExecutive Director & High Investment Committee Member\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "286a4eacf1eddb407f2cd5994618516ed1cd6869cafb31a692334dfc3ffed8ac"
+        }
+    ],
+    "header": {
+        "subject": "Urgent Proposal  !",
+        "from": "info@cathysmith.org",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-08T17:04:53+00:00",
+        "received_domain": [
+            "gforge.inria.fr"
+        ],
+        "received_ip": [
+            "31.24.227.253"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

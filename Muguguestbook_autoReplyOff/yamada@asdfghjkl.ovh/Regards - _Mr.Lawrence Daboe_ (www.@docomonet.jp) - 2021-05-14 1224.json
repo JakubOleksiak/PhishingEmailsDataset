@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Dear\n\n\nIt's my pleasure to inform you that your name appeared in the list of beneficiaries not yet received their approved fund. Due to over delayed and inability of the ex staff to follow the right step to disburse your approved fund.\n\nin this regard you are among the 6 beneficiaries approved to receive their funds as approved by Central Bank of West African States (Banque Centrale des \u00c9tats de l'Afrique de l'Ouest)\n\nYour fund has been approved to be disbursed to you through either ATM Card or bank wire transfer to enable you access to your overdue payment.\n\nIn order to process your funds transfer.\n\nKindly send them your full information.\n\n1.Your full name:\n2.Your home address:\n3.Current occupation:\n4. Mobile Phone Number:\n5.Your current home address:\n6. A Copy of your identification\n\n\nKindly acknowledge the receipt of this massage.\n\nCustomer Client Manager.\nMr.Lawrence Daboe.\nKind Regards",
+            "content_type": "text/plain",
+            "hash": "87c24f775c919c4fc2f12e34c10319973e0e459a091ba6fcfd4702bf510a6b14"
+        }
+    ],
+    "header": {
+        "subject": "Regards",
+        "from": "www.@docomonet.jp",
+        "to": [],
+        "date": "2021-05-14T19:24:38+09:00",
+        "received_domain": [
+            "md-app-cb003.noc-chibaminato.ocn.ad.jp",
+            "vcwebmail.ocn.ad.jp",
+            "mf-smf-unw005c1.ocn.ad.jp",
+            "ocn-vc-mts-202c1.ocn.ad.jp",
+            "mbkd5225.ocn.ad.jp"
+        ],
+        "received_ip": [
+            "153.138.219.78",
+            "153.149.227.135",
+            "153.138.211.199",
+            "153.138.219.215",
+            "210.163.238.26"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

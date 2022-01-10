@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "power-ball-online@consultant.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "8bit"
+                ]
+            },
+            "content": "\u00a0Dear winner,\r\n\u00a0\r\nThis is to let you know that we (Powerball Online Lottery) are delighted to inform you that you were drawn a winner of ( USD $5,000,000.00 ) in our 2021 lottery. To file for claim please contact below our (claims officer).\r\n_______________________________________\r\nMr. Shamim Ataur(Claims Officer European Regional Sector)E-mail:\u00a0power-ball-online@consultant.com_______________________________________\r\n\u00a0\r\nYou are to establish contact with the Following details :\r\n\u00a0\r\nName :Residential/Office Address :Telephone :Fax Number :Age :Country :International Passport/Drivers License :\r\n\u00a0\r\nThanks & RegardsPowerball Lottery\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "4c60daefff0d2bdda99d6c624b9da12c355247c7d9e064ba85ed3e527e440834",
+            "boundary": "b1_8f58db026f355508b92fdc3a382285a7"
+        }
+    ],
+    "header": {
+        "subject": "Congratulations!!!!! You are a winner",
+        "from": "winner@powerballlottery.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-07T11:57:10+00:00",
+        "received_email": [
+            "winner@powerballlottery.com"
+        ],
+        "received_domain": [
+            "213-156-142-102.cprapid.com"
+        ],
+        "received_ip": [
+            "213.156.142.102"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

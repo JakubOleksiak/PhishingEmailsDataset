@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "odedalsabahalslalim@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Salaam,\r\n  \r\nI am Dr. Oded Al-sabah Al-slalim, I am interested in discussing \r\nfunding \r\nand Investment proposals in any project that can bring good \r\nprofit returns.\r\nPerhaps in a joint partnership.\r\n\r\nIf you are willing to work with me, write me on \r\nodedalsabahalslalim@gmail.com \r\nso we can exchange our ideas and plan everything in details.\r\n\r\nWarm regards\r\n\r\nDr. Oded Al-sabah Al-slalim\r\n\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a0140264b799d8048552196b384a2957e81f530f45638794cc9a7fd90b07f832"
+        }
+    ],
+    "header": {
+        "subject": "PARTNERSHIP PROPOSAL",
+        "from": "info@betatextiles.com",
+        "to": [
+            "szeregowy@lkjhgfdsa.pl"
+        ],
+        "date": "2021-08-09T04:26:10-07:00",
+        "received_domain": [
+            "betatextiles.com"
+        ],
+        "received_ip": [
+            "103.167.91.91"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

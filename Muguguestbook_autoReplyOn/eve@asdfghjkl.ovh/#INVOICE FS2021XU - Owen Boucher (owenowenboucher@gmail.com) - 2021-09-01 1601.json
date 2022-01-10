@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Dear Subscriber,*\r\n\r\n\r\n\r\nYour annual subscription for NORTON PROTECTION has been successfully\r\nrenewed & updated.\r\n\r\n\r\n\r\n*The debited amount will be reflected within the next 24 to 48 hours on\r\nyour bank account. #*\r\n\r\n\r\n\r\n                    # *PRODUCT DESCRIPTION* #\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\n*Invoice No.  *                   :      *FS2021XU*\r\n\r\n\r\n\r\nProduct Name                :     *NORTON PROTECTION*\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n\r\n\r\n\r\n*Issue Date*                       :        *1st September 2021*\r\n\r\n\r\n\r\nExpiration Date              :       1 Year from the Date of Issue\r\n\r\n\r\n\r\n\u2026\u2026\u2026..\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026..\r\n\r\n\r\n\r\n*Amount     *                        :       *$215.46 USD*\r\n\r\n\r\n\r\nPayment Method            :       AUTO CHARGE\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\n# If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible #\r\n\r\n\r\n\r\nYou can Reach us on    :    *+1     \u2013    (888)   \u2013      (499)   \u2013\r\n(1816)*\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\n\r\n\r\n\r\n*Billing Department*\r\n",
+            "content_type": "text/plain",
+            "hash": "a1b8c94c667e4cd6f43ea37f413282be79aeacc25cd15eb01c9e1ff135330742",
+            "boundary": "000000000000ee9ee305caef8181"
+        }
+    ],
+    "header": {
+        "subject": "#INVOICE FS2021XU",
+        "from": "owenowenboucher@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-01T19:31:19+05:30",
+        "received_domain": [
+            "mail-vs1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.67"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

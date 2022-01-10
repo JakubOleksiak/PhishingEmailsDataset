@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": " \r\n Dear Member, \r\n Your information requires an important update as soon as possible. You're receiving this message \r\n due to errors encountered in our verification process of Online DMV Records as at July, 15 2021. \r\n This might be due to one of the following reasons: \r\n  \r\nIncomplete verification process  \r\nYour information has changed or incomplete \r\n We advise you to complete the update process swiftly as it takes less than 3 minutes to complete. \r\n Click here to update your records. \r\n Thank you. \r\n Illinois Department of Information \r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "99329f34ede412bcbefa7abb4162a4fdd7ce151f450bd22f5a3882ecd931ba58",
+            "boundary": "===============1581407537=="
+        }
+    ],
+    "header": {
+        "subject": "Action Required: License Suspension",
+        "from": "cyberdriveillinois@t-online.de",
+        "to": [
+            "cyberdriveillinois@t-online.de"
+        ],
+        "date": "2021-07-16T01:02:55-04:00",
+        "received_domain": [
+            "fwd32.aul.t-online.de",
+            "fwd32.t-online.de",
+            "mailout06.t-online.de"
+        ],
+        "received_ip": [
+            "194.25.134.19",
+            "185.161.209.29"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

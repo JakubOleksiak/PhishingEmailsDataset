@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.blackhat.to/unsubscribe/",
+                "https://www.blackhat.to"
+            ],
+            "domain": [
+                "www.blackhat.to"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello\r\n\r\nIf you ever need Negative SEO Serrvices, we offer it here\r\nhttps://www.blackhat.to\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nUnsubscribe: http://www.blackhat.to/unsubscribe/\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "0a9bd8431b93899a95eb34a27c9600dd948678f0b80fd54cfad8859909d18ca6"
+        }
+    ],
+    "header": {
+        "subject": "Negative SEO Services",
+        "from": "bmackleurhue@gmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-08T14:10:25-08:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "164.163.208.180"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

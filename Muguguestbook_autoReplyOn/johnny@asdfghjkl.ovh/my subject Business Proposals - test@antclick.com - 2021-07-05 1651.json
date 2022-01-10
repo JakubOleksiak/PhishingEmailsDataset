@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "changyingfeng5@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Good Day my Name is Chuchen Hugs I am a banker, the Director for Credit & Marketing  Wing Hang Bank, Hong Kong, Wing Hang Bank Bank Center, 24 Des Voeux Road Central, Hong Kong., I have some amount of funds that I want to move out of the country. I need a good partner someone I can trust. It is risk free and legal. Reply to this email: changyingfeng5@gmail.com\r\n Chuchen Hugs\r\n",
+            "content_type": "text/plain",
+            "hash": "826994e31d275b6e90fa24d9c36795e1fae5bf00a780bc8b289b608e33c92e44",
+            "boundary": "===============1330337158=="
+        }
+    ],
+    "header": {
+        "subject": "my subject Business Proposals",
+        "from": "test@antclick.com",
+        "to": [
+            "test@antclick.com"
+        ],
+        "date": "2021-07-05T10:51:01-04:00",
+        "received_domain": [
+            "mail.mails.antclick.com"
+        ],
+        "received_ip": [
+            "117.29.163.162",
+            "102.182.52.22"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

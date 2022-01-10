@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.mariam",
+                "mr.daniel"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Greetings to you and your family,\r\n\r\nI am  Mrs.Mariam Kareem a widow to late Mr.daniel Kareem, I am 59\r\nyears old, suffering from long time cancerous tumors. From all\r\nindications my condition is really\r\ndeteriorating and it's quite obvious that I won't live more than 2\r\nmonths according to my doctor.\r\nI have funds (4.5 MILLION EURO) which I inherited from my late husband\r\nMr.daniel Kareem ,which he deposited in a bank here.\r\nI contact you because i need someone to administer the account to his\r\nor her name, to use these funds for Charity work, to build and\r\ncharitable organization, and help the Less Privileges.\r\nI took this decision, since I don't have any child that will inherit\r\nthis fund, and I don't want in a way my late husband\u2019s hard earned\r\nmoney will be misused.\r\nI decided to confide in you  to secure this fund and do this\r\nhumanitarian project. contact email.. markareem01@yahoo.com\r\nGod loves us, Remain bless.\r\n\r\nI wait to hear from you .\r\nYours sincerely\r\nMrs Mariam Kareem\r\n",
+            "content_type": "text/plain",
+            "hash": "24db0fac798dff109d163cc2dde275073c1359041c7d6526d5d0c44c4ce9241e"
+        }
+    ],
+    "header": {
+        "subject": "Greetings to you and your family,",
+        "from": "mariamkem806@gmail.com",
+        "to": [],
+        "date": "2021-07-23T12:55:07+01:00",
+        "received_domain": [
+            "mail-io1-f68.google.com"
+        ],
+        "received_ip": [
+            "2002:a92:d6c5::",
+            "209.85.166.68"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attention.\r\n\r\nYour compensation funds for the failed transaction you had in the\r\ntotaling $2,200,000 ( Two million Two hundred Thousand Dollars ) has\r\nbeen approved by government for release to you .\r\n\r\nConfirm the following information so that we can proceed with the funds release.\r\n\r\nYou full name ,\r\n\r\nNationality,\r\n\r\nhouse address,\r\n\r\nphone number ,\r\n\r\noccupation,\r\n\r\nage ,\r\n\r\nSex,\r\n\r\nMarital status,\r\n\r\nSend also any scanned copy of your id.\r\n\r\nI expect your prompt message to this effect so that we can proceed\r\nwith the process of the funds release and transfer to you.\r\n\r\nDr. J. Lawrence\r\nFederal reserve bank.\r\n",
+            "content_type": "text/plain",
+            "hash": "f213ed191aeea5f937e8fe982f1379acdbf7715e87a239e843ac257d0c08b4c9"
+        }
+    ],
+    "header": {
+        "subject": "Compensation Funds.",
+        "from": "mark.davise06@gmail.com",
+        "to": [],
+        "date": "2021-08-26T16:39:19+01:00",
+        "received_domain": [
+            "mail-lj1-f177.google.com"
+        ],
+        "received_ip": [
+            "2002:ab3:488f::",
+            "209.85.208.177"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Moien, ech g\u00e9if g\u00e4ren w\u00ebssen ob Dir m\u00e4i viregte Message krut, Merci.\r\n",
+            "content_type": "text/plain",
+            "hash": "300a6de80e8937ac9b779bc850c36ed56e62f555e21b1b36efb22afff840f026"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "sgtkayla2001@gmail.com",
+        "to": [],
+        "date": "2021-05-17T11:01:08+00:00",
+        "received_domain": [
+            "mail-qk1-f170.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6214:330::",
+            "209.85.222.170"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Swedish"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "image.png",
+            "size": 13257,
+            "extension": "png",
+            "hash": {
+                "md5": "2db601f51c02abfafa1319e476583696",
+                "sha1": "514710f7b184b208fd2d6f3ee7aec0f2bc1a5f31",
+                "sha256": "967579524304037c16a6031d3668b6f93c2461b5ffa6e0325413d5ee8eb6068d",
+                "sha512": "786737f3f49f9424b5b94b2c3872db60302ddd67936f21b349b56fbb4f129efc3389626023c23c5cda537701ac9c192fe4cb9e70470a6cf47795b6c2d7056fdb"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image.png\""
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<ii_kmckoq0d0>"
+                ],
+                "x-attachment-id": [
+                    "ii_kmckoq0d0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "[image: image.png]\r\n",
+            "content_type": "text/plain",
+            "hash": "69cf0d6ae3104730ebebc169786326fbd83d181abb76b5417fa1bf84b94b1246",
+            "boundary": "000000000000cefb9305bdaeb307"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "markhilson000@gmail.com",
+        "to": [],
+        "date": "2021-03-16T22:15:05+00:00",
+        "received_domain": [
+            "mail-lj1-f170.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.170"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Tagalog"
+    }
+}

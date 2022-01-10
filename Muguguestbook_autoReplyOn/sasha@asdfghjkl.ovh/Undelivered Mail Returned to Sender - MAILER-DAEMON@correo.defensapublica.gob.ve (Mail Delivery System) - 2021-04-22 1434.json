@@ -1,0 +1,135 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1120,
+            "hash": {
+                "md5": "99fd86d70aa4bb1d3c010aaabdbd6778",
+                "sha1": "89cab756da837a251171921e683c48efc7b5bad6",
+                "sha256": "b622a115ac6877aacfcc8307c0166e80e8a80c305be62eda78e93620aee0aa24",
+                "sha512": "6fe40de91286275685014503b8c385be9ff867e4f3ce465558737d0c6c777b84755f49c21bee9e290816455c8ba8719a78df04f0258c226a28cd76cccff50927"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "info@mail.com"
+            ],
+            "domain": [
+                "mail.com"
+            ],
+            "ip": [
+                "74.208.5.20"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host correo.defensapublica.gob.ve.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<info@mail.com>: host mx00.mail.com[74.208.5.20] said: 550 Requested action not\r\n    taken: mailbox unavailable (in reply to RCPT TO command)\r\n",
+            "content_type": "text/plain",
+            "hash": "fa27f4f4c47d006d7a8441cfc5ee4eafebf1fc5b681142ed9f001c6735aec2fe",
+            "boundary": "325B8C5C88.1619094883/correo.defensapublica.gob.ve"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; info@mail.com"
+                ],
+                "original-recipient": [
+                    "rfc822;deltamacuro@defensapublica.gob.ve"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.0.0"
+                ],
+                "remote-mta": [
+                    "dns; mx00.mail.com"
+                ],
+                "diagnostic-code": [
+                    "smtp; 550 Requested action not taken: mailbox unavailable"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<sasha@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from localhost (localhost [127.0.0.1])\tby correo.defensapublica.gob.ve (Postfix) with ESMTP id 325B8C5C88\tfor <info@mail.com>; Thu, 22 Apr 2021 08:34:42 -0400 (-04)",
+                    "from correo.defensapublica.gob.ve ([127.0.0.1])\tby localhost (correo.defensapublica.gob.ve [127.0.0.1]) (amavisd-new, port 10024)\twith ESMTP id Jtfe8phedkfE; Thu, 22 Apr 2021 08:34:41 -0400 (-04)",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby correo.defensapublica.gob.ve (Postfix) with ESMTP id D2AC6C5C78\tfor <deltamacuro@defensapublica.gob.ve>; Thu, 22 Apr 2021 08:34:39 -0400 (-04)"
+                ],
+                "x-virus-scanned": [
+                    "amavisd-new at defensapublica.gob.ve"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<F9AB2C2E-D104-4072-8AD9-64F649E8CE0B@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Thu, 22 Apr 2021 14:34:25 +0200"
+                ],
+                "from": [
+                    "sasha@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "deltamacuro@defensapublica.gob.ve"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nSasha\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "04bf30daae90260bfaf0df1ab59a8b9ac8ed74d1de14e14f94b7172c512904e1"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@correo.defensapublica.gob.ve",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-04-22T08:34:43-04:00",
+        "received_domain": [
+            "correo.defensapublica.gob.ve"
+        ],
+        "received_ip": [
+            "200.109.238.133"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

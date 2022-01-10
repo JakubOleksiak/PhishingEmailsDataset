@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "email": [
+                "pedrohills@outlook.es"
+            ],
+            "domain": [
+                "outlook.es"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\n$2 Million Has Been Donated To You,By PEDRO due to the covid-19 pandemia this is Real For More Info Contact PEDRO immediately for your clame This Email: pedrohills@outlook.es  Contact Send Your Response To: pedrohills@outlook.es     ________________________________________________________________________________________________________     Aufgrund der Covid-19-Pand&auml;mie wurden Ihnen von PEDRO 2 Millionen US-Dollar gespendet. Dies ist Real For More Info Wenden Sie sich umgehend an PEDRO. pedrohills@outlook.es  Kontakt  Senden Sie Ihre Antwort an: pedrohills@outlook.es \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "256da40c7145ff59926e0f9b4d10ad4bac26ce01986faee8e197abfedd73aea9"
+        }
+    ],
+    "header": {
+        "subject": "(DONATION) $2 Million Has Been Donated",
+        "from": "postmailing0@igm.co.id",
+        "to": [],
+        "date": "2021-05-17T14:17:32+07:00",
+        "received_domain": [
+            "mail1.igm.co.id"
+        ],
+        "received_ip": [
+            "118.97.107.102"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

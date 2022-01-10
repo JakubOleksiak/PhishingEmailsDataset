@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings of the day,\r\n\r\nI have a business proposal for you.\r\nDo get back to me for more details.\r\n\r\nRegards,\r\nMr. Abdelkareem\r\nCFO\r\nAjman Bank.\r\n",
+            "content_type": "text/plain",
+            "hash": "28183fa54fc03729592efa1b02ee9b74a182f328c9ca74fe5a56a78a36b41b91"
+        }
+    ],
+    "header": {
+        "subject": "Hallo",
+        "from": "seifeldinabdelkareem256@gmail.com",
+        "to": [],
+        "date": "2021-08-14T00:06:17+04:00",
+        "received_domain": [
+            "mail-qk1-f181.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.181",
+            "2002:a05:6214:182::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

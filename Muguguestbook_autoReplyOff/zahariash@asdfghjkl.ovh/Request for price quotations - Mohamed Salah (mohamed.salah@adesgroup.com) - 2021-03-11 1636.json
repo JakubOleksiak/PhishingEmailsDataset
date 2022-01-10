@@ -1,0 +1,94 @@
+{
+    "attachment": [
+        {
+            "filename": "image003.png",
+            "size": 6314,
+            "extension": "png",
+            "hash": {
+                "md5": "46d85e3e3caf85caf2974bf781b8615c",
+                "sha1": "aa27f5014108cc9c43c00a9557ec0d9ff32c2f10",
+                "sha256": "468dc8112f5b5d860450fd02c9a162913750b7d555f691540cddd8dc7015e713",
+                "sha512": "27a23ca2d07b7a1b9711ae076fc94ee5ba80489fbb577ea64f1e169c32170bbeb7803e0dda4c4ef54facf82a02cf780a8cb6ccc5d29ac9d8a97e18199c022cf3"
+            },
+            "content_header": {
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<1615476989604a38fdda9a1587586476@adesgroup.com>"
+                ],
+                "content-type": [
+                    "image/png; name=\"image003.png\""
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image003.png\"; size=\"6314\""
+                ]
+            }
+        },
+        {
+            "filename": "RFQ_2324.gz",
+            "size": 27,
+            "extension": "gz",
+            "hash": {
+                "md5": "4f6ba332da60b249de2ec1964b084ab6",
+                "sha1": "c10d17907d9ec29f1775cfcd2cda2478c2b96f78",
+                "sha256": "3319fc57dd9357e2ecb7657e9281aee06b19de7e49fcd368b5dbf9958acb63da",
+                "sha512": "4af9ccddcd433ddd24c747a2b8983eb9f4ad1fe6c4530d2cf23862ffed374377240099b0f0a766a0a8ba14618aaf42522d25fdf6110250a743d56fcf7fe11439"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/x-rar; name=\"RFQ_2324.gz\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"RFQ_2324.gz\""
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "mohamed.salah@adesgroup.com"
+            ],
+            "domain": [
+                "adesgroup.com"
+            ],
+            "content_header": {
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\""
+                ]
+            },
+            "content": "Dear Sir \r\n\r\nA gentle reminder \r\n\r\nKindly send a quotation for the attached items . \r\nPlease advise availability and delivery time \r\n\r\nBest Regards \r\n\r\nMohamed Salah. \r\n\r\nBuyer & Logistics specialist \r\n\r\nSupply chain Department \r\n\r\nB5, Capital Business Park, \r\n\r\nAl Sheikh Zayed, Giza, Egypt \r\n\r\nM: 01116544322 \r\n\r\nE: mohamed.salah@adesgroup.com \r\n\r\nsibility to scan or otherwise check this email and any attachments.",
+            "content_type": "text/plain",
+            "hash": "a79f73799e92a89caf04f988c0b10945b8311b0644705ff08051014204f3d91e",
+            "boundary": "----=_NextPart_001_00FD_01D718FC.314E9DE0"
+        }
+    ],
+    "header": {
+        "subject": "Message has been disinfected :Request for price quotations",
+        "from": "mohamed.salah@adesgroup.com",
+        "to": [
+            "undisclosed-recipients:"
+        ],
+        "date": "2021-03-11T07:36:29-08:00",
+        "received_email": [
+            "mohamed.salah@adesgroup.com"
+        ],
+        "received_domain": [
+            "res154.servconfig.com",
+            "se5-lax1.servconfig.com"
+        ],
+        "received_ip": [
+            "192.249.122.92",
+            "192.145.239.18"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

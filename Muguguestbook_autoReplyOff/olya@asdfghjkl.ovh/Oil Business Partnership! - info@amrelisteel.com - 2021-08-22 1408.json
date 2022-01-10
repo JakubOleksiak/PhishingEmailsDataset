@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.reem"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Saudi Aramco Crude Oil Company.\r\nP.O. Box 5000. Dhahran 31311,\r\nDhahran-Saudi Arabia.\r\n\r\nDear Friend,\r\n\r\nI have a legit and genuine lucrative business deal to discuss with you.\r\nCan i trust you to be a sincere partner to handle the business?\r\nFor more information reply back.\r\n\r\nMrs.Reem Nasser,\r\nSales/Marketing Manager\r\nSaudi Aramco Crude Oil Company.\r\n",
+            "content_type": "text/plain",
+            "hash": "dfe2025239075ec7b167bc236dc05e918f345d4466063901756f068da27ce02a"
+        }
+    ],
+    "header": {
+        "subject": "Oil Business Partnership! ",
+        "from": "info@amrelisteel.com",
+        "to": [
+            "info@amrelisteel.com"
+        ],
+        "date": "2021-08-22T05:08:31-07:00",
+        "received_domain": [
+            "mail2.adixdom.local"
+        ],
+        "received_ip": [
+            "89.175.171.168",
+            "202.55.133.108"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

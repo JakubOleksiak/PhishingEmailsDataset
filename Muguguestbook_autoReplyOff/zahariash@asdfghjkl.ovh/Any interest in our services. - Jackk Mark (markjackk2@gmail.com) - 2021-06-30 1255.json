@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi\r\n\r\nI Hope you are well.\r\n\r\nI am Jackk Mark and I am contacting you to find out if you have a need for\r\nan IT Website or mobile application development services. We are fast\r\nGrowing Website Services Company and having an in-house software design and\r\ndevelopment team, Which has expertise in the following areas:-\r\n\r\n\r\n\r\n*\u2022 Website Design (E-commerce, Personal, Corporate, Responsive)\u2022 Mobile\r\nApplication (iPhone Apps, Android, iOS, Web Based)\u2022 Digital Marketing (SEO,\r\nSMO, SEM, PPC)*\r\n\r\nWe have very competitive rates for the above services, and should you feel\r\ninterested, I can send you more details regarding this in my next email.\r\nPlease let me know if you are interested.\r\n\r\nThanks & Regards,\r\nJackk Mark\r\nBusiness Development Executive\r\n\r\nNote: - If you are interested about our portfolio, proposal & client\r\nreferences. Please back to reply.\r\n[image: beacon]\r\n",
+            "content_type": "text/plain",
+            "hash": "0c6b806cd6de45d465ca5faf3b87f45bde397938bd698c04746030f013a8ade2",
+            "boundary": "000000000000cf215b05c5f99005"
+        }
+    ],
+    "header": {
+        "subject": "Any interest in our services.",
+        "from": "markjackk2@gmail.com",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-30T03:55:49-07:00",
+        "received_domain": [
+            "mail-lj1-f177.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.177"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

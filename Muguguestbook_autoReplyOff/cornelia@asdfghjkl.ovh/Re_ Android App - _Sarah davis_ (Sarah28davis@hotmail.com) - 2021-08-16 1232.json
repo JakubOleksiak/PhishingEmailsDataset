@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi,Cornelia\r\n\r\nAre you looking for mobile App development service?\r\n\r\nWe are an app development company based in India having 7+ years of\r\nexperience.    \r\n\r\nAndroid (Phone/Tablet) Based Application\r\n\r\niPhone / iPad Based Applications\r\n\r\nGPS/Location based Applications\r\n\r\nApp Development for your idea\r\n\r\nPlease feel free to reach out to us in case of any requirements.\r\n\r\nWith regards\r\n\r\nSarah\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "811230111acb880f205176bb661e870116b36270c0c9748308a338b66edfc26c",
+            "boundary": "----=_NextPart_000_1127_01D792B8.27D6B820"
+        }
+    ],
+    "header": {
+        "subject": "Re; Android App",
+        "from": "sarah28davis@hotmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T16:02:08+05:30",
+        "received_domain": [
+            "sg2pr01mb3625.apcprd01.prod.exchangelabs.com",
+            "sg2pr01mb3061.apcprd01.prod.exchangelabs.com",
+            "pn2pr01ca0087.indprd01.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:c01:23::32",
+            "2603:1096:4:76::14",
+            "2401:4900:1f38:6993:38e7:4546:fdc3:ed39",
+            "2603:1096:0:2::14",
+            "40.92.253.40"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

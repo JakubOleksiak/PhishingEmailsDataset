@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "thirota66@gmail.com"
+            ],
+            "domain": [
+                "beneficiary.respond",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello, this is my second time of communication with you, be reminded of deposited estate funds in your lastname,you have been named as sole beneficiary.Respond for details.\r\nTakuo Hirota\r\nreply to.....  thirota66@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "c5b2fd65c836d576fabde8511c8e1883863fe52db4a57eb6cf394e4416847e3c"
+        }
+    ],
+    "header": {
+        "subject": "TREAT AS URGENT  ",
+        "from": "thirota1966@yahoo.com",
+        "to": [],
+        "date": "2021-08-16T18:41:46+08:00",
+        "received_domain": [
+            "mail0.rolandhouel.fr"
+        ],
+        "received_ip": [
+            "134.209.214.70"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "mrs.carolinehiz@aol.com"
+            ],
+            "domain": [
+                "aol.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "             Dearest One,\r\n\r\n                            I'm Mrs. Caroline Hiz, from the United States\r\nof America, a cancer patient widow of late Mr. Ken Hiz, former USA\r\nambassador in Malaysia. I would like to donate $4.5 million US dollars for\r\na charity project in your country. You have been chosen to execute the\r\ncharitable project in your country. Kindly contact me via my email address\r\nfor more details on the charitable project.\r\n\r\nContact email:       mrs.carolinehiz@aol.com\r\nRemain blessed\r\nMrs. Caroline Hiz\r\n",
+            "content_type": "text/plain",
+            "hash": "7c7534487415296c2c2605a1c6f1dbca1f85713395db26351cc289f827a1ab8f",
+            "boundary": "000000000000736d1a05c6ef2299"
+        }
+    ],
+    "header": {
+        "subject": "Dearest One,",
+        "from": "hizcaroline78@gmail.com",
+        "to": [],
+        "date": "2021-07-12T16:54:10+01:00",
+        "received_domain": [
+            "mail-ot1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.41"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

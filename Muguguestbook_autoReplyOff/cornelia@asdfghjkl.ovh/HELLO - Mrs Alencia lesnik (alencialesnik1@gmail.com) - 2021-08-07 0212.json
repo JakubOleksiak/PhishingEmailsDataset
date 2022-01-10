@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " I am Mrs Alencia lesnik and it's my pleasure to meet you, I saw your\r\nprofile and I want to discuss an interesting project with you, I am hoping\r\nto get your response to give you more details. Best regards, Mrs Alencia\r\nlesnik\r\n",
+            "content_type": "text/plain",
+            "hash": "5975b73ccabb9ea69bf66a0941984179acca6d933e9caf0fac1d7d4e9731d8ad",
+            "boundary": "00000000000065f53605c8ed038d"
+        }
+    ],
+    "header": {
+        "subject": "HELLO",
+        "from": "alencialesnik1@gmail.com",
+        "to": [],
+        "date": "2021-08-07T00:12:40+00:00",
+        "received_domain": [
+            "mail-ot1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.48"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

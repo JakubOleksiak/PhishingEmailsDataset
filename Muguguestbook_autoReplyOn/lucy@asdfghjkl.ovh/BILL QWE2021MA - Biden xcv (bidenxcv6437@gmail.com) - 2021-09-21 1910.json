@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "168.64usd"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Hello Client,*\r\n\r\n\r\n\r\n_*your plan for NORTON PC 360 has been successfully renewed & restored.*_\r\n\r\n\r\n\r\n_*the total payment will be reflected within next 24 to 48 hours on your\r\na/c statement.*_\r\n\r\n\r\n\r\n_*PRODUCT DESCRIPTION*_\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nInvoice No                         :       QWE2021MA\r\n\r\n\r\n\r\n  Product Name                  :       NORTON PC 360\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                        :       21st September 2021\r\n\r\n\r\n\r\nEnd Date                            :       365 days from the date of\r\npurchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nAmount                              :       $ 168.64USD\r\n\r\n\r\n\r\nPayment Method             :       AUTO DEBIT\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to contact our *billing\r\ndepartment* as soon as possible. *\r\n\r\n\r\n\r\nYou can Reach us on      *+1   \u2013   (866)   \u2013   (278)   \u2013   (6376)*\r\n\r\n\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\n\r\n*Billing Department*\r\n",
+            "content_type": "text/plain",
+            "hash": "f7fc5379f87efe526ed4cba1179361e06507e9b37a7c8a2c3da543ba71f46369",
+            "boundary": "0000000000000e5a5705cc847937"
+        }
+    ],
+    "header": {
+        "subject": "BILL QWE2021MA",
+        "from": "bidenxcv6437@gmail.com",
+        "to": [],
+        "date": "2021-09-21T22:40:11+05:30",
+        "received_domain": [
+            "mail-lf1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.54"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

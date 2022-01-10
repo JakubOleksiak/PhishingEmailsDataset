@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "greg.walster45@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear   Winner\r\n Your email address  attached to ticket number: 27522465896-6453, Batch\r\nnumber: 538901527-Bc68 called Reg. Number: SMLL/2021/-968091/21,  won\r\nUS$750,000.00 in an online lottery program organized by Free Lotto Inc  in\r\nconjunction with Microsoft Promotion  Team  held on 21st  August  2021.\r\n\r\nPlease contact your Fiduciary agent\r\n\r\n Greg Walster\r\n\r\nEmail:  greg.walster45@gmail.com\r\n\r\n\r\nRegards,\r\nMr  Aboulaye Konate\r\nInternational lottery (coordinator)\r\n",
+            "content_type": "text/plain",
+            "hash": "2fc606c4a96215c827e2d909976b995d28776077a32afda5f5acb89e78953fe4",
+            "boundary": "0000000000000667a905ca6a8752"
+        }
+    ],
+    "header": {
+        "subject": "REPLY",
+        "from": "abdoulayekonate2235@gmail.com",
+        "to": [],
+        "date": "2021-08-25T23:22:00-07:00",
+        "received_domain": [
+            "mail-pj1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.46"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

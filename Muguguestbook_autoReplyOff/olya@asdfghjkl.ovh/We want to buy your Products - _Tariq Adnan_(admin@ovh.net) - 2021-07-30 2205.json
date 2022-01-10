@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Dear Supplier,\r\n\r\nI am contacting you to take part in the ongoing rebuilding of our great country Iraq, after many years of conflicts by supplying your products here in Iraq.\r\n\r\nWe are determined to purchase your products in large quantities. A consideration also is that your quotation must be CIF Port of Umm Qasr.\r\n\r\nGet back to me with your products name and prices.\r\n\r\nRegards,\r\n\r\nTariq Adnan\r\n",
+            "content_type": "text/plain",
+            "hash": "96e9cd4d1b2a44d41531c104ee5aabbf592a6752d9d513ae6cdb02aa7dc2cbbb"
+        }
+    ],
+    "header": {
+        "subject": "We want to buy your Products",
+        "from": "admin@ovh.net",
+        "to": [],
+        "date": "2021-07-30T13:05:40-07:00",
+        "received_email": [
+            "admin@ovh.net"
+        ],
+        "received_domain": [
+            "ps-ufa.ru",
+            "75-233-24-185.static.servebyte.com"
+        ],
+        "received_ip": [
+            "185.24.233.75",
+            "77.94.124.138"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

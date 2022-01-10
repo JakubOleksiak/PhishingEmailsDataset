@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-2\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\nDear Sir/Madam,\r\n\r\nGood day to you. I hope this email meets you well and you are keeping safe?\r\n\r\n I'm writing you as a consultant of a company who is looking for representatives.\r\n\r\n  Due to the  global pandemic affecting  businesses and individuals around the globe, they have structured a financial package to help companies and individuals get started again.\r\n\r\nThey are in direct contact with a group of private investors with huge portfolios, who are prepared, willing and able to provide non-recourse loans for companies or individuals who are able to provide or meet the requirements.\r\n\r\n If you are interested, please send us a brief summary of your project for possible approval.\r\n\r\n Best Regards.\r\n",
+            "content_type": "text/plain",
+            "hash": "f5436a2570cc4045aac6f5c4bac8e2ead4980ada6a3b5815d2cac322f7eb3126",
+            "boundary": "_000_DBAPR10MB412187048FD91F191AE88C74ADE19DBAPR10MB4121EURP_"
+        }
+    ],
+    "header": {
+        "subject": "Very Important",
+        "from": "rihoma@zsjunacka.cz",
+        "to": [],
+        "date": "2021-07-19T22:46:39+00:00",
+        "received_domain": [
+            "eur05-vi1-obe.outbound.protection.outlook.com",
+            "db8pr10mb3848.eurprd10.prod.outlook.com",
+            "dbapr10mb4121.eurprd10.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10a6:10:160::11",
+            "2603:10a6:10:1b6::19",
+            "40.107.21.82"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

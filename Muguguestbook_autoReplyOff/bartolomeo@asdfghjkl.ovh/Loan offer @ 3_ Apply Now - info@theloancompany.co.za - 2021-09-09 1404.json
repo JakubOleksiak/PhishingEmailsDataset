@@ -1,0 +1,31 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear bartolomeo",
+            "content_type": "text/plain",
+            "hash": "84f87ebfa1706331ca86f5d84c905216e07e8794ba54dbde692c7aaa25cb62ac",
+            "boundary": "----=_NextPart_000_0012_130A8713.6EE8D101"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer @ 3% Apply Now ",
+        "from": "info@theloancompany.co.za",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-09T14:04:57+02:00",
+        "received_ip": [
+            "185.222.57.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Spanish; Castilian"
+    }
+}

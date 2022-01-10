@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Eve,\r\n\r\n \r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your site. I am a Web design / Developer that can do\r\njust about anything you can imagine at very affordable prices.\r\n\r\nLet me know what you think.\r\n\r\n \r\n\r\nWe Provide Web services at a minimum cost, May I send you quote? If\r\ninterested.\r\n\r\n \r\n\r\nThanks.!!!\r\n\r\nBella Shirley,\r\n\r\nBusiness Development Consultant        \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "e8cdeb7c17155bcc91e82449c9eeb5db2eff28d2c4a776ac6b26e217eefcb96e",
+            "boundary": "----=_NextPart_000_5CCC_01D76116.90723EA0"
+        }
+    ],
+    "header": {
+        "subject": "Qls: Web Designing",
+        "from": "bella-shirley@outlook.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-14T12:08:25+05:30",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "ty2pr02mb3149.apcprd02.prod.outlook.com",
+            "bm1pr01ca0140.indprd01.prod.outlook.com",
+            "ty2pr02mb3279.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.255.102",
+            "2603:1096:404:5b::18",
+            "2603:1096:b00:40::34",
+            "2409:4063:4e22:228e:5d26:7a03:8b0a:d426",
+            "2603:1096:404:4f::9"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

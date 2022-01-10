@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "email": [
+                "sanchezalvaros@aol.com"
+            ],
+            "domain": [
+                "aol.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Winner.\r\n\r\nYour email address has just won \u0402 850,000.00 (Eighty Hundred and Fifty Thousand Euros) in Spanish 'El Gordo' International Email Lottery Award promotions. Reference No: Sp /0-01 / 07 / 5-02 / ES. Lucky No: 9/11/99/45/10.\r\n\r\nFor more information and claim procedure contact below.\r\n\r\nGLOBAL CLAIM AGENCY\r\nMr. Alvaro Sanchez\r\nEmail: sanchezalvaros@aol.com\r\nTel: +34-602-401-805\r\n\r\nYour full name, address, age, occupation, phone numbers\r\n\r\nCongratulations!!!.\r\n",
+            "content_type": "text/plain",
+            "hash": "dc8648ca75c63853f25f5304af8936087225ddd2dca3f8dc2e0ffa2e8d5c8c0c"
+        }
+    ],
+    "header": {
+        "subject": "Congratulations!!!.",
+        "from": "app@procket.com.br",
+        "to": [],
+        "date": "2021-08-30T21:25:57+01:00",
+        "received_ip": [
+            "207.244.98.218",
+            "154.118.17.103"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

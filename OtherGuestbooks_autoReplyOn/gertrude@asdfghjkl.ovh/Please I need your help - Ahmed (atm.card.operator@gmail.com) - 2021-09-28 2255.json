@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\nMy name is Master Ahmed Q. I am 17 years old. I write to solicit for your\r\npartnership in claiming {US$8Million} in a financial bank. The Fund\r\n{US$8Million} was my late father's share from the (Over-invoiced) Gold deal\r\nwith Tuvalu Government within 2014. However, I don\u2019t want my government to\r\nknow about the funds and the 13 kilos Gold deposit. If this proposal\r\ninterests you, let me know by sending me an email and I will send to you\r\ndetailed Information on how this transaction would be successfully\r\ntransacted. So I am compelled to ask that you will stand on my behalf and\r\nreceive this fund and the gold into any account that is solely controlled\r\nby you. I will compensate you with 50% of the total amount involved as\r\ngratification for being my partner in the transfer.\r\nSincerely,\r\nAhmed\r\n",
+            "content_type": "text/plain",
+            "hash": "a17fac90cbcdafa6d50e86706b66ae4a99424a2f0a19c967ef27946fc24bf1a0",
+            "boundary": "000000000000a3dfff05cd1471fe"
+        }
+    ],
+    "header": {
+        "subject": "Please I need your help",
+        "from": "atm.card.operator@gmail.com",
+        "to": [],
+        "date": "2021-09-28T21:55:57+01:00",
+        "received_domain": [
+            "mail-ed1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.46"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

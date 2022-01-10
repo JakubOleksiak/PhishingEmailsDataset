@@ -1,0 +1,77 @@
+{
+    "attachment": [
+        {
+            "filename": "gbjdmnedijcgeonl.png",
+            "size": 22952,
+            "extension": "png",
+            "hash": {
+                "md5": "27261e4ce3b4b796b32965a0cdaa01b4",
+                "sha1": "b572c7c1e71c99ff6dbd4347bd04c8e5ba711811",
+                "sha256": "cc23a0f0e3426871123d7da6709b394660ef75e3b1a3977fd17de9e9240177a6",
+                "sha512": "9f7ce6ed50749ef6b27dbfdaf8134dd098ceb752991bf69047569f0f2ec1123bbf9dea8493d3a4fe89f97529b22757b469ee2e6fed4440f83acd9ea6dae8625b"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"gbjdmnedijcgeonl.png\""
+                ],
+                "content-description": [
+                    "gbjdmnedijcgeonl.png"
+                ],
+                "content-disposition": [
+                    "inline; filename=\"gbjdmnedijcgeonl.png\"; size=\"22952\"; creation-date=\"Fri, 21 May 2021 18:10:28 GMT\"; modification-date=\"Fri, 21 May 2021 18:10:28 GMT\""
+                ],
+                "content-id": [
+                    "<part1.B2FE45BD.6B2FC77A@amazndelivery-hub58.co>"
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "part1.b2fe45bd.6b2fc77a@amazndelivery-hub58.co",
+                "bartolomeo@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh",
+                "1697.99",
+                "0.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n[cid:part1.B2FE45BD.6B2FC77A@amazndelivery-hub58.co]\r\n\r\n\r\n\r\nThank You!\r\n\r\nYour item(s) are under processing and will be dispatched in next 24Hrs.. Below is your order confirmation. Please keep a copy for your records.\r\n\r\nKeep shopping with amazon\r\n\r\nReceipt ID: AZZN21-46571885\r\n\r\nBilled To: bartolomeo@asdfghjkl.ovh<mailto:bartolomeo@asdfghjkl.ovh>\r\n\r\nShipping To: Rob H , 1101 S Oak St, Pecos, TX 79772, USA\r\n\r\nDelivery By: May 26, Wednesday\r\n\r\n\r\n\r\n\r\n Product\r\n\r\nAmount\r\n\r\nSAMSUNG 65\" QLED Q80T TV - 4K UHD Smart TV with Alexa Built-in (QN65Q80TAFXZA, 2021 Model)\r\n\r\nElectronic Item\r\n\r\n$1697.99\r\n\r\n\r\n\r\nSubtotal:\r\n\r\n1697.99 USD\r\n\r\nTAX:\r\n\r\n0.00 USD\r\n\r\nDiscount:\r\n\r\n0.00 USD (%0.00)\r\n\r\nTotal\r\n\r\n1697.99 USD\r\n\r\nThank you again for shopping with us. We appreciate your business and look forward to serving you in the near future.\r\n\r\nNeed Help?\r\n\r\nIf you have any questions you can simply contact us at\r\n\r\nOrder Support: (205) 963-0156\r\n\r\nContact Us Privacy Policy\r\n\r\nIf you haven't placed these items, contact our Order Support immediately.\r\n\r\n(205) 963-0156\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "ce67fa4ac59c0ae8f92d6a25ae847ac8f815afcab5e1716a269acdc39c47a32d",
+            "boundary": "_000_f4d62c6f861b577662afae82ecb9f77aamazndeliveryhub58co_"
+        }
+    ],
+    "header": {
+        "subject": "AZZN21-46571885 : Your invoice for Item(s) (Samsung Q80T LED TV) is ...",
+        "from": "info@amazndelivery-hub58.co",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-21T18:10:28+00:00",
+        "received_domain": [
+            "bm1pr01mb4595.indprd01.prod.outlook.com",
+            "ind01-ma1-obe.outbound.protection.outlook.com",
+            "bmxpr01mb2424.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.107.138.59",
+            "2603:1096:b01:11::12",
+            "2603:1096:b00:2d::22"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

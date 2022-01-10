@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "BUSINESS PROPOSITION .\r\nGood Day,\r\nI work as the Accountant and Auditor Manager in a bank here in South Africa; I have a very confidential business proposition for you.\r\nThere is an unclaimed huge funds in our bank that belongs to a foreign customer whom died with his entire family of the covid-19 pandemic.\r\nI am seeking for your good collaboration to transfer the funds to you as the immediate relative for our both benefit, and also to help they needy during these trying times. \r\nKindly get back to me once you have read this mail and if you 19re interested, so I shall send to you more relevant details.\r\nPlease send your reply to my private Email address : mrnickr@kruoprrdc.ga\r\nYours Sincerely.\r\nMr.Ralph Nicholas.\r\n  \r\n  \r\n  \r\n  \r\n  \r\n  \r\n  \r\n \r\n \r\n",
+            "content_type": "text/plain",
+            "hash": "3f5d969c18769ea8cb81bce9458f35e49a2783d4f5af2e6d8e27b25fcefe0cdf",
+            "boundary": "===============1383440177=="
+        }
+    ],
+    "header": {
+        "subject": "BUSINESS PROPOSITION.",
+        "from": "ralphnick07@gmail.com",
+        "to": [
+            "ralphnick07@gmail.com"
+        ],
+        "date": "2021-09-20T22:36:44+02:00",
+        "received_domain": [
+            "mail.protect.akadem.ru"
+        ],
+        "received_ip": [
+            "89.22.167.245"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

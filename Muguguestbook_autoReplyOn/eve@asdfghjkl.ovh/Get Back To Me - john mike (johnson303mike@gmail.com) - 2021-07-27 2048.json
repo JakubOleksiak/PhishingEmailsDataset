@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "1  Through Western Union the charge of $500 only pays you the Fund 1.2\r\nmillion machines world wide with a maximum of US 5000 daily.\r\n\r\n2  Through  Bank to bank transfer will enter into your Bank account\r\nimmediately The Charge is $2000\r\n\r\nWhich One do you Choose\r\n\r\nCan You Make a Transfer Please Update me\r\n\r\nThanks  Mike\r\n",
+            "content_type": "text/plain",
+            "hash": "f064bc2d18ce85322f9fac450f99dfe5b46cf99a318a4d4bfff5d96ede192c00",
+            "boundary": "0000000000002b29e105c80ba6e5"
+        }
+    ],
+    "header": {
+        "subject": "Get Back To Me",
+        "from": "johnson303mike@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-27T11:48:54-07:00",
+        "received_domain": [
+            "mail-pj1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.51"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

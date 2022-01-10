@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hello Customer,\r\n\r\nYour MEMBERSHIP for NORTON PROTECTION has been successfully renewed &\r\nrestored.\r\n\r\n*The debited amount will be reflected within the next 24 to 48 hrs on your\r\nA/C statement. *\r\n\r\n\r\n\r\nPRODUCT DESCRIPTION\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nInvoice No.                       :        JDQX021AB014\r\n\r\nProduct Name                   :     NORTON PROTECTION\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                       :        14th SEP 2021\r\n\r\nExpiration Date              :       2 Years from the Date of Purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nAmount                                :       $399.99 USD\r\n\r\nPayment Method            :       AUTO DEBIT\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible.*\r\n\r\nYou can Reach us on   +1     \u2013     *(888) - (306) - (1173)*\r\n\r\n\r\n\r\nRegards,\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "27b2188de3f47ea9af638244e35af6ea86fe06c17a92045e3b29e4979492a5f2",
+            "boundary": "000000000000757d0a05cbf4125a"
+        }
+    ],
+    "header": {
+        "subject": "JDQX021AB014#ORDER",
+        "from": "luna225edwa@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-14T18:23:35+05:30",
+        "received_domain": [
+            "mail-ej1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.51"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

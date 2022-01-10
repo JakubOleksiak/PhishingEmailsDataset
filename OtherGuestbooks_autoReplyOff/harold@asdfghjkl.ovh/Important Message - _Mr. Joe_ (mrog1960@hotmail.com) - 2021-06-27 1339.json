@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Greetings! To You\r\nMr. Joe is my name; I work in a Bank here in Benin. And I personally handles transactions of Mr. Martin Quick who eventually died on the 5th of February 2018 from injuries sustained in road accident that happened 3 years ago.\r\n\r\nPrior to his death, Mr. Martin Quick lived and Work in Benin Republic and was doing Contracting with Benin Energy dept. He has (Four million, three hundred thousand Euros) in a fixed account with the bank with no other beneficiary.\r\n\r\nNow i write to seek your consent to present you as a oversea based partner to stand in as next of kin to the late Mr. Martin Quick. Let me know if it is ok to work with you.\r\n\r\nMy best Regards\r\nMr. Joe.\r\n",
+            "content_type": "text/plain",
+            "hash": "b6ebd87562c7fd6adb75f85c5eca5d376f94ab78db26a3d2c8dc804ff25d2d91",
+            "boundary": "_000_AM5PR0202MB2642CBA807FC46D9D4B50A77D6049AM5PR0202MB2642_"
+        }
+    ],
+    "header": {
+        "subject": "Important Message  ",
+        "from": "mrog1960@hotmail.com",
+        "to": [
+            "jk001011@hotmail.com"
+        ],
+        "date": "2021-06-27T11:39:14+00:00",
+        "received_domain": [
+            "am7eur06ft048.mail.protection.outlook.com",
+            "eur06-vi1-obe.outbound.protection.outlook.com",
+            "am7eur06ft048.eop-eur06.prod.protection.outlook.com",
+            "am5pr0202mb2642.eurprd02.prod.outlook.com",
+            "am7eur06ht122.eop-eur06.prod.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:fc36::286",
+            "40.92.17.65",
+            "2a01:111:e400:fc36::378",
+            "2a01:111:e400:fc36::45"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

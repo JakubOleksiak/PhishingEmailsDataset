@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello Subscriber,\r\n\r\n\r\n\r\nYour Annual subscription for NORTON SECURITY 360   has been renewed and\r\nupdated successfully.\r\n\r\n *The charged amount will be reflected within the next 24 to 48 hrs on your\r\nprofile of account.*\r\n\r\n\r\n\r\n*PRODUCT BILLING DETAILS*:\r\n\r\n\r\n\r\n*INVOICE NO.*\r\n\r\n#  HTL 2021CO\r\n\r\n*ITEM NAME*\r\n\r\n#     NORTON SECURITY 360\r\n\r\n*ISSUE DATE*\r\n\r\n#     2021-09-15\r\n\r\n*END DATE*\r\n\r\n#     One year from START DATE\r\n\r\n*GRAND TOTAL*\r\n\r\n#     $278.97 USD\r\n\r\n*METHOD OF PAYMENT*\r\n\r\n#     Debit from account\r\n\r\n\r\n\r\n\r\nIf you wish to stop subscription and ask for a Refund then please feel free\r\nto call our Refund & Settlement Dept*.* as soon as possible.\r\n\r\n\r\n\r\n You can\r\n\r\nReach us on *:* * +1 \u2013 **( 888 ) \u2013 ( 683 ) \u2013 (1189)*\r\n\r\n\r\n\r\n\r\n\r\nBest Regards,\r\n\r\n*Refund & Settlement Dept. *\r\n",
+            "content_type": "text/plain",
+            "hash": "dde691df5dcefb398b40171102795b0355e9ae62ee51ad60b64fbf674d3e5123",
+            "boundary": "000000000000c5328905cc0a6436"
+        }
+    ],
+    "header": {
+        "subject": "#INVOICE#HTL 2021CO",
+        "from": "poppyhalkszn@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-15T20:59:43+07:00",
+        "received_domain": [
+            "mail-ed1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.44"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

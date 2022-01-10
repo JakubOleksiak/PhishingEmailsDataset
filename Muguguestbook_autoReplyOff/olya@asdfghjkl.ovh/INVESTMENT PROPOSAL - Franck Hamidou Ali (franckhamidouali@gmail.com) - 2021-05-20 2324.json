@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " Dear Sir,\r\nMy name is Franck Hamidou Ali , a retired Investment\r\nBanker. I have a former client who has interest in a joint venture\r\ninvestment, she has funds available for this purpose. My client is a\r\nTurkish citizen, she belongs to the elite political class. For this\r\nreason, she wants to remain anonymous.\r\n\r\nWe can discuss further if you are interested in partnering with us.\r\nExpecting your feedback soon\r\n\r\nKind regards,\r\nFranck Hamidou Ali\r\n",
+            "content_type": "text/plain",
+            "hash": "793e41abfa6cf3551df98ef78ba9e8863f29b4e04d60dd5601bc34a2d0175837"
+        }
+    ],
+    "header": {
+        "subject": "INVESTMENT PROPOSAL",
+        "from": "franckhamidouali@gmail.com",
+        "to": [],
+        "date": "2021-05-20T16:24:42-05:00",
+        "received_domain": [
+            "mail-vs1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.53",
+            "2002:a67:d318::"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

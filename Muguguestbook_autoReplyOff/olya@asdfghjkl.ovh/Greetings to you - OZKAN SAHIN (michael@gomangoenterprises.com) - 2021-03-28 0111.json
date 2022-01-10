@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "ozkansahin.gbbva@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Dear Friend,\r\nI'm Ozkan Sahin, a Senior Manager in the Private Banking department with \r\na REPUTABLE BANK. I'm excited to get in touch with you and to let you \r\nknow about this LUCRATIVE BUSINESS PROPOSAL I have for you. Please reply \r\nas soon as possible if interested in the full details reply here \r\n(ozkansahin.gbbva@gmail.com)\r\n\r\nSince I cannot determine your willingness and because you may have \r\nreceived my message in your Inbox, Junk/Spam folder, I have kept this \r\nproposal brief. Your expedient response will be appreciated. Please keep \r\nit confidential\r\n\r\nThanks for your kind understanding!\r\nAwaiting your response,\r\nMr.Ozkan Sahin\r\nPersonal Banking\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "18d5a98f5c1c2022592b9df9810b821d139e5e162d364751b5c37b680ec7877d"
+        }
+    ],
+    "header": {
+        "subject": "Greetings to you",
+        "from": "michael@gomangoenterprises.com",
+        "to": [],
+        "date": "2021-03-27T19:11:45-05:00",
+        "received_domain": [
+            "emailmg.ipage.com",
+            "bosmailout08.eigbox.net",
+            "boswebmail16.eigbox.net",
+            "siva21.example.com",
+            "bosmailscan04.eigbox.net"
+        ],
+        "received_ip": [
+            "92.38.148.60",
+            "66.96.189.8"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

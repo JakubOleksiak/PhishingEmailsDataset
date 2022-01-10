@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello.\r\n\r\nThis is a personal email directed to you for your consideration alone.\r\n\r\nI request that it remain and be treated as such only.\r\n\r\nMy name is Godwin Wallace. I'm a Belgian/British Citizen and Attorney.\r\nI have an interesting business proposal for you that will be of\r\nimmense benefit to both of us, although this may be hard for you to\r\nbelieve, we stand to gain 9.7 Million Dollars between us in a matter\r\nof weeks. This is fully legal and 100% genuine. I need you to signify\r\nyour interest by replying to my email. Most importantly, I need you to\r\nkeep whatever information between us confidential even if you decide\r\nnot to go along with me. I will make more details available to you on\r\nreceipt of your positive response.\r\n\r\nRegards,\r\n\r\nGodwin Wallace.\r\n",
+            "content_type": "text/plain",
+            "hash": "38c221741933739c449c00445d5107cb9367b299df815737806fd26b31a4216c"
+        }
+    ],
+    "header": {
+        "subject": "URGENT RESPOND NEEDED .",
+        "from": "pw41483@gmail.com",
+        "to": [],
+        "date": "2021-08-24T08:35:16-07:00",
+        "received_domain": [
+            "mail-il1-f169.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.169",
+            "2002:a4f:f7d6::"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

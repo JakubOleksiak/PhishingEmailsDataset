@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "bento.npastp@webmail.co.za"
+            ],
+            "domain": [
+                "webmail.co.za"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello dear,\r\n\r\nHow are you doing today?\r\n\r\nHope you are safe from this COVID-19 as we are?\r\n\r\nI am Engr. Bento Amaral, working with the national petroleum agency of Sao\r\nTome and Principe.\r\n\r\nI have a business proposal for you, so I will appreciate your timely\r\nsuggestion and interest over this matter.\r\n\r\nPlease reply using my personal email at bento.npastp@webmail.co.za\r\n\r\nBest Regards\r\n\r\n\r\nEngr. Bento Amaral.\r\n",
+            "content_type": "text/plain",
+            "hash": "f6695a0d9b0f2221c97d5cebc44411f5361fdf25dcbc595e4a811764560984f2",
+            "boundary": "0000000000004d63b405bc3842a5"
+        }
+    ],
+    "header": {
+        "subject": "Please treat as urgent.",
+        "from": "hyrankcompanyy@gmail.com",
+        "to": [],
+        "date": "2021-02-26T09:31:28+02:00",
+        "received_domain": [
+            "mail-pg1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.182"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

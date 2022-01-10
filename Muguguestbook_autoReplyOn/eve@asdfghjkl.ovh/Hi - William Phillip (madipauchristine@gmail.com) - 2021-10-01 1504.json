@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good day,\r\n\r\nMy name is Barr. William Phillip, I am the personal attorney to your\r\nlate relative whose assets are still over here in the bank. Please\r\nreply if you are interested in the claim as his next of kin and also\r\nfor more details about the fund.\r\n\r\nRegards\r\nBarr. William Phillip\r\n",
+            "content_type": "text/plain",
+            "hash": "0f1c04260a4bbd3b6a1256aa8303f2a6b4ba87eb00fd5bd6ceb2f067aeda9e8a"
+        }
+    ],
+    "header": {
+        "subject": "Hi",
+        "from": "madipauchristine@gmail.com",
+        "to": [],
+        "date": "2021-10-01T13:04:21+00:00",
+        "received_domain": [
+            "mail-io1-f65.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6602:1548::",
+            "209.85.166.65"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

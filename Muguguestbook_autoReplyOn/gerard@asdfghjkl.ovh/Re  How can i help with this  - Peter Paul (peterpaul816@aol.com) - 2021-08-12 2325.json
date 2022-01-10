@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "email": [
+                "minnwestbank@yandex.com"
+            ],
+            "domain": [
+                "yandex.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": " \r\n\r\n\r\nDear Gerald,\r\n\r\n\r\n\r\n\r\nBelow is the paying bank contact details, you should email the bank immediately for the release of your fund.\r\n\r\n\u00a0\r\n\r\n\u00a0Minnwest Bank\r\n\r\n304 East First Avenue\r\n\r\nBeaver Creek. Minnesota USA 56116.\r\n\r\nEmail:\u00a0minnwestbank@yandex.com\r\n\r\nTel:\u00a0+1 901-402-8994\r\n\r\n\u00a0\r\n\r\nIf you can co-operate with him with your full commitment with all honesty, everything will go smoothly.\r\n\r\n\r\n\r\n\r\n\r\nKindly follow instructions that will be directed to you from the bank, Mr. Jeremy Braun is the one in possession of your fund and should be the only person you are communicating with. this proceeds Will take only 3working days.\r\n\r\n\r\n\u00a0\r\n\r\nRegards\r\n\r\nMr. Paul Peter.\r\n\r\n    On Thursday, August 12, 2021, 03:42:57 PM GMT+1, gerard@asdfghjkl.ovh <gerard@asdfghjkl.ovh> wrote:  \r\n \r\n Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nGerard\r\n\r\n  ",
+            "content_type": "text/plain",
+            "hash": "011c006480bc458e79efb187d2a8eafcb10c219caef017ece5bb2298dbd3f714",
+            "boundary": "----=_Part_37694_554824773.1628803540500"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "peterpaul816@aol.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-12T21:25:40+00:00",
+        "received_domain": [
+            "sonic306-22.consmr.mail.ne1.yahoo.com",
+            "sonic.gate.mail.ne1.yahoo.com",
+            "sonic306.consmr.mail.ne1.yahoo.com"
+        ],
+        "received_ip": [
+            "66.163.189.84"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

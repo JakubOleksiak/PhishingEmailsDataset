@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://try.ftapi.com/webui/inbox.html?deliveryUuid=253236c4-b236-482b-9f78-4ce00cde604d"
+            ],
+            "domain": [
+                "try.ftapi.com",
+                "inbox.html"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi Sir/Ma\r\n\r\nPlease confirm receipt of the below EFT made to you.\r\nView pop copy Here<https://try.ftapi.com/webui/inbox.html?deliveryUuid=253236c4-b236-482b-9f78-4ce00cde604d>\r\nKindly send us an updated statement.\r\nDankie.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c422ec2ed1845ef91e3d0009dfb4939f6fc8fc82696eece148a87d0ae6012b9e",
+            "boundary": "_000_DB7PR08MB32253095FB68877BCE5FDA4B9C019DB7PR08MB3225eurp_"
+        }
+    ],
+    "header": {
+        "subject": "REF##6/30/2021",
+        "from": "anadia@dynss.co.za",
+        "to": [],
+        "date": "2021-06-30T06:39:28+00:00",
+        "received_domain": [
+            "eur05-vi1-obe.outbound.protection.outlook.com",
+            "db9pr08mb6555.eurprd08.prod.outlook.com",
+            "db7pr08mb3225.eurprd08.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10a6:5:21::13",
+            "40.107.21.86",
+            "2603:10a6:10:257::6"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

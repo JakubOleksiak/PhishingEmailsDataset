@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "julieleach8554@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attn: You have a charity donation of $1,500,000.00 from Mrs. Julie\r\nLeach, a power-ball jackpot lottery winner of $ 310 Million. Reply to\r\njulieleach8554@gmail.com for the claim.\r\n",
+            "content_type": "text/plain",
+            "hash": "c21ce778750b481c7edb6b6c0853ce517680cecbb3ac2ec9dd6cb70f3141f3cf"
+        }
+    ],
+    "header": {
+        "subject": "Grants Donation",
+        "from": "danieljamesfr03@gmail.com",
+        "to": [],
+        "date": "2021-07-29T10:00:53+01:00",
+        "received_domain": [
+            "mail-oi1-f173.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6a10:cd9e::",
+            "209.85.167.173"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "email": [
+                "iykoh7@yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\n Please I got a risk free deal that will fetch us USD 10M, we share 50-50,\r\nIf you are interested kindly indicate by reaching me on my private email via\r\n [iykoh7@yahoo.com]\r\n Regards\r\nJames Fayose\r\n",
+            "content_type": "text/plain",
+            "hash": "bae7f031b82265ff95ac01c4238605b579bed31625ae0edecb8355241d88e73e",
+            "boundary": "00000000000009599405cc7cfdea"
+        }
+    ],
+    "header": {
+        "subject": "ARE YOU DEAD OR ALIVE??",
+        "from": "yourfund1@gmail.com",
+        "to": [],
+        "date": "2021-09-21T09:13:32+01:00",
+        "received_domain": [
+            "mail-qk1-f175.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.175"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

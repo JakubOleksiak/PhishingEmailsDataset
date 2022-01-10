@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Shalom\r\n I have a project for the sum $13,609,000.00USD that I would love to partner with you. Kindly respond back to me and I will explain in detail to you.\r\n Regards\r\nMs. Ramona Caswell\r\nChief Internal Auditor\r\nBanking Division.\r\n",
+            "content_type": "text/plain",
+            "hash": "ee726ea58fc9f0ada831dae15f2ed3b9775844bac4ec0a4382bbf5426bf3c10b",
+            "boundary": "===============2085671649=="
+        }
+    ],
+    "header": {
+        "subject": "Re:project $13,609,000.00USD! ",
+        "from": "ilin_ae@kgsha.ru",
+        "to": [
+            "ilin_ae@kgsha.ru"
+        ],
+        "date": "2021-09-08T10:05:44+04:00",
+        "received_domain": [
+            "mail.kgsha.ru",
+            "mac0957.localdomain"
+        ],
+        "received_ip": [
+            "94.206.63.149",
+            "178.249.241.198"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

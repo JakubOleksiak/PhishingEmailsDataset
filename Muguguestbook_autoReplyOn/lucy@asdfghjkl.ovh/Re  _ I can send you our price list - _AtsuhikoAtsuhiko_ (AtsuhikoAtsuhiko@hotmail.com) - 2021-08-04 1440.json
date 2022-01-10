@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "{lucy@asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi {lucy@asdfghjkl.ovh}\r\n\r\nI am a Business Development manager who works with 130+ experienced IT\r\nprofessionals.\r\n\r\nWebsite designing & development, PHP development, E-Commerce solutions &,\r\nHTML, Social Media Cover Page Design, UX / UI Design Services and SEO \r\n\r\nIf you are interested, then I can send you our price list, company\r\ninformation and an affordable quotation with the best offer.\r\n\r\nThanks & Regards,\r\n\r\nBusiness Development\r\n\r\nPS: If this is something you are interested; please respond to this email\r\nfor Portfolio and Pricelist\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "d14ab7d20e09fa337f6161bde30a58a827872c3e61a87543fcc871e93799e2ad",
+            "boundary": "----=_NextPart_000_440D_01D7895C.4E002D70"
+        }
+    ],
+    "header": {
+        "subject": "Re: Re:; I can send you our price list",
+        "from": "atsuhikoatsuhiko@hotmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T18:10:56+05:30",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "sg2pr03mb2941.apcprd03.prod.outlook.com",
+            "sg2pr03mb3706.apcprd03.prod.outlook.com",
+            "sg2pr02ca0038.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.255.41",
+            "2603:1096:4:48::15",
+            "2603:1096:3:24::18",
+            "2603:1096:3:18::26",
+            "122.161.48.159"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http:///www.federalreserve.gov"
+            ],
+            "email": [
+                "federal.reserve.feds@usa.com"
+            ],
+            "domain": [
+                "usa.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "BOARD OF GOVERNORS\r\nTHE FEDERAL RESERVE SYSTEM\r\n\r\nhttp:www.federalreserve.gov\u00a0 \u00a0\r\n\r\nmailto: federal.reserve.feds@usa.com \r\n\r\nTel: +1 (917) 722-6399\r\n\r\nFax: +1 (516) 207-1112\r\nDate: 8/17/2021\r\n\r\n\r\n\r\nDIVISION OF BANKING SUPERVISION AND REGULATION.\r\n\r\nAttention Beneficiary \r\n\r\n\r\n\r\nRe: CONFIRMING THE STATUS OF FUNDS\r\n***************************************************\r\n\r\nThe Federal Reserve Board, Division of Banking Supervision and Regulation has received the full consent \r\nof the responsible authority to retrieve and to transfer on your behalf your much-expected payment without \r\nany further delay. \r\n\r\n\r\n\r\nOur guarantee is that you are now bound to receive the funds, despite all the incessant delays, bureaucratic\r\nbottlenecks, and financial loss the pursuit of the transaction has caused you.\r\n\r\n\r\n\r\nPlease provide the information required below to enable us to complete the disbursement process of your \r\nfunds via Certified Cashier's Check.\r\n\r\n\r\n\r\n1. Your full names:\r\n\r\n2. Your office or resident address:\r\n\r\n3. Your direct telephone numbers:\r\n\r\n4. Amount due for payment:\r\n\r\n5. Name of your beneficiary bank:\r\n\r\n6. Address of the bank:\r\n\r\nWe look forward to your cooperation so as to enable us to serve you better. You are warned to discontinue \r\nany form of communication with any and all third parties to avoid further discrepancies till we conclude this \r\npayment to you.\r\n\r\n\r\n\r\nBest Regards,\r\n\r\n\r\n\r\nMr. Francis Buzad \r\n\r\nFor: Jerome Powell - \r\nChairman -\r\n-------------------------------------------------------\r\nEMAIL:- federal.reserve.feds@usa.com \r\n\r\n-------------------------------------------------------\r\n",
+            "content_type": "text/plain",
+            "hash": "4a4f7517a8a06a9489323f1c00507171853233cc45197c00f233d6333eedc73e"
+        }
+    ],
+    "header": {
+        "subject": "THE FEDERAL RESERVE BOARD  ",
+        "from": "test@hashinsta.com",
+        "to": [],
+        "date": "2021-08-17T20:08:39+02:00",
+        "received_domain": [
+            "amshoft.net",
+            "mail.hashinsta.com"
+        ],
+        "received_ip": [
+            "103.109.6.224",
+            "112.220.22.162"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

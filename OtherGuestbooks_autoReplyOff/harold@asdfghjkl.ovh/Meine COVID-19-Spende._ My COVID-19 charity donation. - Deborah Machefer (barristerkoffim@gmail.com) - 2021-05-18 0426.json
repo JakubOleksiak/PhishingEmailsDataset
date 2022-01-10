@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "6.900.000.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Meine Gr\u00fc\u00dfe an Sie und Ihre Familie, meine Liebe,\r\nIch bin Frau Deborah Machefer. Ich habe eine Spende von (6.900.000,00 USD)\r\nMILLIONEN f\u00fcr Sie. Bitte, ich m\u00f6chte, dass Sie sich bei mir melden, wenn\r\nSie mit dieser Spende helfen, den Armen zu helfen. Ich werde Ihnen weitere\r\nEinzelheiten dar\u00fcber geben, wie Sie helfen k\u00f6nnen, dieses Geld zu\r\ninvestieren, um den Armen aufgrund meines schlechten Gesundheitszustands zu\r\nhelfen. Ich werde Sie informieren, sobald ich von Ihnen h\u00f6re. Antworten Sie\r\nf\u00fcr weitere Details und Informationen.\r\nGott segne dich, w\u00e4hrend ich auf deine Antwort warte.\r\nDeine Schwester.\r\nFrau Deborah Machefer.\r\n++++++++++++++++++++++++++++++\r\nMy Greetings to you and your family my dear,\r\nI am Mrs. Deborah Machefer I have a donation of (6.900.000.00 USD) MILLION\r\nfor you. Please i will like you to get back to me if you will help on this\r\ndonation to help the poor. I will give you more details on how you can help\r\nto invest this money to help the poor because of my poor health condition\r\nwhich I will let you know as soon as I hear from you. Reply for more\r\ndetails & information.\r\nGod bless you as I wait for your reply.\r\nYour sister.\r\nMrs. Deborah Machefer.\r\n",
+            "content_type": "text/plain",
+            "hash": "041966293dd5f845b69153168b7207e293d04e74f4f29a065da9ba42369c1cab",
+            "boundary": "0000000000003b683505c2932419"
+        }
+    ],
+    "header": {
+        "subject": "Meine COVID-19-Spende./ My COVID-19 charity donation.",
+        "from": "barristerkoffim@gmail.com",
+        "to": [],
+        "date": "2021-05-18T04:26:40+02:00",
+        "received_domain": [
+            "mail-lj1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.179"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "German"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://fromsmash.com/GQHvQCbq64-ct"
+            ],
+            "domain": [
+                "fromsmash.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good day .\r\n\r\nPlease receive updated copy  EFT as of 07/07/21\r\n\r\n\r\nONLINE POP HERE <https://fromsmash.com/GQHvQCbq64-ct>\r\n\r\n\r\n\r\nThank you,\r\n",
+            "content_type": "text/plain",
+            "hash": "304dbade40eae7cf91ef871f77b5c709526e044ac0b81899412e196117956d41",
+            "boundary": "00000000000075be2c05c6fd5d65"
+        }
+    ],
+    "header": {
+        "subject": "DUE P0P",
+        "from": "njwaxuk@gmail.com",
+        "to": [],
+        "date": "2021-07-13T16:52:48+08:00",
+        "received_domain": [
+            "mail-ej1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.48"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

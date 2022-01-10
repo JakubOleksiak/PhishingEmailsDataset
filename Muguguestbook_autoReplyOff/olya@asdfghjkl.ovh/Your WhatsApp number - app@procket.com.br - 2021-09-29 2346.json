@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Dear Sir/Madam,\r\nCongratulations you have won!\r\nPlease be informed that your EMAIL ADDRESS have won a prize of\r\nGBP10,200,000.00M (Great British Pounds Sterling), equivalent to:\r\n$14,200,000.00 from WhatsApp Awareness Lottery\r\nDraw recently conducted here in the UK in conjunction with the UK,\r\nGreece, UAE and Japan Lottery Commissions.\r\nFor claims and payment, please forward the followings to: +30 699 828 5374\r\n(WhatsApp only).\r\n1: Your full name\r\n2: Full address\r\n3: Age\r\n4:Sex/Gender\r\n5: Marital status\r\n6: Profession/Job\r\n7: Winning Ticket Number\r\n8: Serial number\r\n9: Your WhatsApp number\r\n10: Have you won a lottery before?\r\n11: Amount won\r\n12: Your email address (winners email address id only)\r\nUpon receipt of the above mentioned details on our WhatsApp number\r\nonly (+30 699 828 5374) -1 to 12, we shall raise a cheque of GBP10.2\r\nMillion in your favor.\r\nYours faithfully ,\r\nMrs Anna Manierska,\r\nSecretary, WhatsApp Lottery,UK.\r\nIMPORTANT POINTS:\r\n1: Your details for payment (1 to 12) must be sent to our WhatsApp\r\nnumber +30 699 828 5374. Note, this is a WhatsApp Awareness lottery\r\nand all processes of payment must go through our WhatsApp number ONLY*\r\nNote: any reply to our email address is a WASTE .\r\n2: Winning Ticket No: WHSP/CV/0122/2020/21\r\n3: Serial No: WHPLT/CV19/20/21.\r\n4: Amount won: GBP10.2 Million\r\n5: Our contact numbers are : +30 699 828 5374 (WhatsApp only) and +44\r\n745 205 8058 call and sms.\r\n",
+            "content_type": "text/plain",
+            "hash": "af9b04af16ff39ced7473e20c78df0794f10e64fde3e498884a084a4637b1ea4"
+        }
+    ],
+    "header": {
+        "subject": "Your WhatsApp number",
+        "from": "app@procket.com.br",
+        "to": [
+            "app@procket.com.br"
+        ],
+        "date": "2021-09-29T22:46:39+01:00",
+        "received_domain": [
+            "curarsaude.com.br"
+        ],
+        "received_ip": [
+            "162.214.201.235"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello, Gerard\r\n\r\nWe can help you to develop Mobile App for your business.\r\n\r\nWe have specializing in I phone & I pad Apps, Android Apps...etc.\r\n\r\nWhy us-\r\n\r\n*         \"100 + 10\"% Money Back Guarantee\r\n\r\n*         5% Penalty enforcement in case of delay in delivery\r\n\r\n*         9 Months of Free App Marketing & Promotion\r\n\r\n*         Real time Live Code Tracking\r\n\r\n*         24*7 Live Support/Testing\r\n\r\n                and many more...\r\n\r\nLet me know your full requirements so that we can send you all details\r\naccordingly.\r\n\r\n \r\n\r\nThanks\r\n\r\nHarriet\r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "024fcf820946a2f3a67e53433ce5289bc66495f592787a32402d390dad3e054f",
+            "boundary": "----=_NextPart_000_5169_01D7895B.9266AA30"
+        }
+    ],
+    "header": {
+        "subject": "RE; Experienced IT professional",
+        "from": "harriet456perez@hotmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T18:03:21+05:30",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "si2pr02mb5145.apcprd02.prod.outlook.com",
+            "bm1pr01ca0100.indprd01.prod.outlook.com",
+            "si2pr02mb5113.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:b00::16",
+            "2603:1096:4:155::8",
+            "40.92.255.12",
+            "2401:4900:1f38:e7a:584b:14cb:a147:cdfa",
+            "2603:1096:4:159::14"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

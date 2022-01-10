@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "johnny@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "you can help me send money to me\r\n\r\nOn Tue, Jul 20, 2021 at 8:17 PM <johnny@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> John\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "a4e79dfef30093561addeee6d565e5605c518ad576935ec34b3acd5dabb71c4e",
+            "boundary": "00000000000006394a05c79d29a1"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "ikukuajunwa@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-21T23:59:59-07:00",
+        "received_domain": [
+            "mail-il1-f181.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.181"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

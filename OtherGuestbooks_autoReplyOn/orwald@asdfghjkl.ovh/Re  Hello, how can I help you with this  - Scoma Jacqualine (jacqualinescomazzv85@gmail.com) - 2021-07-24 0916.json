@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "email": [
+                "unicreditloansunicreditloans@gmail.com",
+                "orwald@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "gmail.com",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Do you need a Loan?\r\nAre you looking for Finance?\r\nAre you looking for Money to enlarge your business?\r\nI think you have come to the right place.\r\nWe offer Cash at low interest rate.\r\nInterested people should please contact us on\r\nFor immediate response to your application, Kindly\r\nreply to this emails below (Whats App)\r\nget startedt: WhatsApp: +17026082340 +32473727660\r\nunicreditloansunicreditloans@gmail.com\r\n\r\nOn Sat, Jul 24, 2021, 8:15 AM <orwald@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Orwald\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "744cc4da42dff2c7001435628e900e0cb438a848c7b28f1e91cd6ed7f615e10a",
+            "boundary": "000000000000586cef05c7d94c81"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can I help you with this?",
+        "from": "jacqualinescomazzv85@gmail.com",
+        "to": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-24T08:16:13+01:00",
+        "received_domain": [
+            "mail-oi1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.172"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

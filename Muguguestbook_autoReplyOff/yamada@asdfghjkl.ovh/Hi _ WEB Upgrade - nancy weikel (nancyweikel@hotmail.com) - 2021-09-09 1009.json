@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hey\r\nMy Name is Nancy, I am working with a web design Development Company. We design / Re-design great looking websites for different kinds of businesses. I'm contacting you to see if there are changes or enhancements that you'd like to make to your site. Have you been thinking about upgrading your site to a more cutting edge look and feel or adding a few elements to the site that will help automate some of your business? If you are interested, then I can send you our past work details, company information and a low quotation with the best Prices.\r\nLet me know what you think.\r\nI am waiting for your positive response.\r\nThank You,\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "6d9f7dfaac7cb94f712447f814a32782ee520ffb2e9b2e9c1b89168d607b9ac3",
+            "boundary": "_000_OSZP286MB11171E5E0A346826513484D9ADD59OSZP286MB1117JPNP_"
+        }
+    ],
+    "header": {
+        "subject": "Hi ; WEB Upgrade",
+        "from": "nancyweikel@hotmail.com",
+        "to": [],
+        "date": "2021-09-09T08:09:39+00:00",
+        "received_domain": [
+            "oszp286mb1117.jpnp286.prod.outlook.com",
+            "os3p286mb1059.jpnp286.prod.outlook.com",
+            "jpn01-ty1-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "104.47.93.148",
+            "2603:1096:604:130::5",
+            "2603:1096:604:10f::14"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

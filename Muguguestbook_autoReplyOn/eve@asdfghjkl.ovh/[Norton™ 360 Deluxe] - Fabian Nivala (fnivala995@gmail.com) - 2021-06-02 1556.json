@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear Customer,\r\n\r\n\r\n\r\n\r\n\r\nYour Subscription for Computer Protection has been successfully renewed &\r\nupdated.\r\n\r\nThe Debited Amount will be reflected within the Next 24 TO 48 HRS on your\r\nA/C statement.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*PRODUCT INFORMATION*\r\n\r\n\r\n\r\n\r\n\r\nInvoice NO.                             :              NSD2021R886\r\n\r\nOrder Date                              :              3rd  June 2021\r\n\r\nProduct Name                        :              Norton\u2122 360 Deluxe\r\n\r\nPrice                                        :              $399.99 USD\r\n\r\nExpiration Date                       :              2 Year from the Date\r\nof Purchase\r\n\r\nPAYMENT METHOD                  :              AUTO RENEWAL\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n* If you wish to cancel this Subscription then please feel free to Contact\r\nour Billing Department as soon as Possible*\r\n\r\n\r\n\r\n\r\n\r\nYou can Reach us on   +1 - (888) - (312) - (7341)\r\n\r\n\r\n\r\n\r\n\r\nRegards,\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "fd82ede62f171da39ba6e58f682118127128fca4cf0b8fe83ac8f8f853caa670",
+            "boundary": "00000000000097557d05c3c8d5b7"
+        }
+    ],
+    "header": {
+        "subject": "[Norton\u2122 360 Deluxe]",
+        "from": "fnivala995@gmail.com",
+        "to": [],
+        "date": "2021-06-02T19:26:52+05:30",
+        "received_domain": [
+            "mail-qk1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.196"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

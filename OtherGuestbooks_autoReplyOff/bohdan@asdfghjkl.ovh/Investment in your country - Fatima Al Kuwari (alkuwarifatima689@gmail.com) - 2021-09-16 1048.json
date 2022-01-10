@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "alkuwarifatima01@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am looking to invest in your country. If interested please respond for\r\nmore details on my email: alkuwarifatima01@gmail.com\r\n\r\nFatima Al Kuwari\r\nSyria Republic\r\n",
+            "content_type": "text/plain",
+            "hash": "7013cbd5a79febadddbb891abae432000cd57cb4f8b24a1718026b56514a839f",
+            "boundary": "00000000000025ef6505cc18e2a8"
+        }
+    ],
+    "header": {
+        "subject": "Investment in your country",
+        "from": "alkuwarifatima689@gmail.com",
+        "to": [],
+        "date": "2021-09-16T05:48:33-03:00",
+        "received_domain": [
+            "mail-ed1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.45"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "  Hello dear, My name is Mrs chung Cha Chi, from Japan. I have a little and\r\n very important discussion I would love to communicate to you about. Please,\r\n endeavour to respond as soon as you get my message. thanks\r\n",
+            "content_type": "text/plain",
+            "hash": "cbb91d049ff0ffc21717d90798034dbd2e7a0b3e72a4cd556cfb21def816b3d8",
+            "boundary": "000000000000f84f2305c8198a08"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "chungcha042@gmail.com",
+        "to": [
+            "dorothyanders5070@gmail.com",
+            "dubmatt62@gmail.com",
+            "kvzmusicltd@gmail.com",
+            "mistoflo@hotmail.com",
+            "george.m69420@gmail.com",
+            "annerichansmith@gmail.com",
+            "nadinorozcoq@hotmail.com",
+            "sambrading5@gmail.com",
+            "zahariash@asdfghjkl.ovh",
+            "bobbyjbyers1948@mail.com",
+            "bartolomeo@asdfghjkl.ovh",
+            "yamada@asdfghjkl.ovh",
+            "cornelia@asdfghjkl.ovh",
+            "olya@asdfghjkl.ovh",
+            "rut7658h@gmail.com",
+            "dmp6300@gmail.com",
+            "msgretamcdonald@gmail.com",
+            "lucy@asdfghjkl.ovh",
+            "sasha@asdfghjkl.ovh",
+            "gerard@asdfghjkl.ovh",
+            "meaningoflife6325@gmail.com",
+            "mattvanbrederode@gmail.com",
+            "eve@asdfghjkl.ovh",
+            "asayne06@gmail.com",
+            "johnny@asdfghjkl.ovh",
+            "flowingfake@protonmail.com",
+            "dawsonjonathan42@gmail.com",
+            "dawson.jonathan91@outlook.com",
+            "bmaloney3441@gmail.com",
+            "mbekejames15@gmail.com",
+            "rwilson73@gmail.com",
+            "albertsteptoe2020@gmail.com",
+            "markus.valler@gmx.at",
+            "rway8150@icloud.com",
+            "wendytaloyr44@gmail.com",
+            "drewpeltzer@gmail.com",
+            "tennesse_jim@tutanota.com",
+            "florink@mail.com"
+        ],
+        "date": "2021-07-27T14:55:02+03:00",
+        "received_domain": [
+            "mail-lf1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.50"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

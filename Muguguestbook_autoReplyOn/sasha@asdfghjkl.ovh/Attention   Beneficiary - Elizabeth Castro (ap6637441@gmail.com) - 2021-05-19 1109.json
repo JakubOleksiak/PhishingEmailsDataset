@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "elizabethcastro6453@gmail.com"
+            ],
+            "domain": [
+                "000.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Attention : Beneficiary\r\n\r\nThis is to officially inform you that we have been having a meeting for the\r\npast Seven month which ended Two days ago with Dr. Robert B. Rollick the\r\nWorld Bank President and Hon. Mrs. Christine Laggard (IMF) Director\r\nGeneral, in the meeting we treated on Scam victim problems.\r\nThe UN Compensation Commission (UNCC) on recommendations of International\r\nMonitoring Group (IMG) have agreed to compensate you with the sum of One\r\nmillion two Hundred Thousand Dollars (USD$1.200, 000.00) this also includes\r\ninternational businesses that failed due to Government problems etc?\r\n We have arranged your payment through ATM VISA CARD or direct transfer\r\ninto your bank account which is the latest instruction from World Bank\r\nGroup.\r\n\r\nContact us with your details as shown below for further instruction to\r\nemail address : elizabethcastro6453@gmail.com,\r\n\r\n1. Full Name:.........\r\n2. Country:........\r\n3. Address:..........\r\n4. Telephone:..............& Occupation.......\r\n5. Your Age...... /Sex..........\r\n\r\n\r\n\r\nThanks\r\nMrs. Elizabeth Castro\r\nCC: Hon. Mrs. Christine Lagarde\r\nCC: World Bank Group\r\nCC: Mr. Ant\u00f3nio Guterres Secretary-General\r\n",
+            "content_type": "text/plain",
+            "hash": "a248719050067201ae47c5948b80d10ffa588551096829699b7575c198f0319f",
+            "boundary": "0000000000009a7a4c05c2ab2e10"
+        }
+    ],
+    "header": {
+        "subject": "Attention : Beneficiary",
+        "from": "ap6637441@gmail.com",
+        "to": [],
+        "date": "2021-05-19T10:09:03+01:00",
+        "received_domain": [
+            "mail-io1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.47"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

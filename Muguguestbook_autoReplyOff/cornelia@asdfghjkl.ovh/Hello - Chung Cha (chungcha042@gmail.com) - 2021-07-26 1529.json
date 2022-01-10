@@ -1,0 +1,61 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "   Hello dear, My name is Mrs chung Cha Chi, from Japan. I have a little and\r\n very important discussion I would love to communicate to you about. Please,\r\n endeavour to respond as soon as you get my message. thanks\r\n",
+            "content_type": "text/plain",
+            "hash": "6ec99b720d426214aef2817b9ed3077f92af761b5acfff5904d24972fd78146b",
+            "boundary": "0000000000007f5c8f05c806bef9"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "chungcha042@gmail.com",
+        "to": [
+            "chadwolfdhssec01@gmail.com",
+            "dorothyanders5070@gmail.com",
+            "dubmatt62@gmail.com",
+            "kvzmusicltd@gmail.com",
+            "mistoflo@hotmail.com",
+            "george.m69420@gmail.com",
+            "annerichansmith@gmail.com",
+            "nadinorozcoq@hotmail.com",
+            "sambrading5@gmail.com",
+            "zahariash@asdfghjkl.ovh",
+            "bobbyjbyers1948@mail.com",
+            "bartolomeo@asdfghjkl.ovh",
+            "yamada@asdfghjkl.ovh",
+            "cornelia@asdfghjkl.ovh",
+            "olya@asdfghjkl.ovh",
+            "rut7658h@gmail.com",
+            "dmp6300@gmail.com",
+            "msgretamcdonald@gmail.com",
+            "lucy@asdfghjkl.ovh",
+            "sasha@asdfghjkl.ovh",
+            "gerard@asdfghjkl.ovh",
+            "meaningoflife6325@gmail.com",
+            "mattvanbrederode@gmail.com",
+            "eve@asdfghjkl.ovh",
+            "asayne06@gmail.com",
+            "johnny@asdfghjkl.ovh",
+            "flowingfake@protonmail.com",
+            "dawsonjonathan42@gmail.com",
+            "dawson.jonathan91@outlook.com",
+            "bmaloney3441@gmail.com",
+            "mbekejames15@gmail.com"
+        ],
+        "date": "2021-07-26T16:29:20+03:00",
+        "received_domain": [
+            "mail-lf1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.48"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Ich schreibe Ihnen diese Nachricht \u00fcber meinen verstorbenen Klienten, ein\r\nMitglied Ihrer Familie, das vor einigen Jahren gestorben ist und eine gro\u00dfe\r\nMenge Geld und Eigentum hinterlassen hat, die nicht beansprucht wurde.\r\nAntworten Sie auf diese E-Mail, um mit den Details fortzufahren.\r\n\r\nGr\u00fc\u00dfe,\r\n",
+            "content_type": "text/plain",
+            "hash": "d3ac1878f67010c42a71643cbcb1d87f59a66a504d50f922e6971116f9ea98c7",
+            "boundary": "0000000000008f7d1c05cbff1dd1"
+        }
+    ],
+    "header": {
+        "subject": "HALLO",
+        "from": "a.lawofficeandassociates@gmail.com",
+        "to": [],
+        "date": "2021-09-15T02:04:05+00:00",
+        "received_domain": [
+            "mail-pg1-f180.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.180"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "German"
+    }
+}

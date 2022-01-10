@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Hello Dear,*\r\n\r\n*An email was sent to you sometime last week with the expectation of\r\nreceiving a return email from you, but to my surprise, you never bothered\r\nto reply. Please reply for further explanation.*\r\n\r\n*Respectfully yours,*\r\n*Adams T. Eric*\r\n",
+            "content_type": "text/plain",
+            "hash": "ffac2a12048e0fe1a1615082ee6f12e7c7cd4bb4b683f72fbacf1bc6d01f6b35",
+            "boundary": "000000000000d8d56305bdf414a8"
+        }
+    ],
+    "header": {
+        "subject": "I sent you an email last week",
+        "from": "adamseric777@gmail.com",
+        "to": [],
+        "date": "2021-03-20T12:13:52-07:00",
+        "received_domain": [
+            "mail-il1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.196"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

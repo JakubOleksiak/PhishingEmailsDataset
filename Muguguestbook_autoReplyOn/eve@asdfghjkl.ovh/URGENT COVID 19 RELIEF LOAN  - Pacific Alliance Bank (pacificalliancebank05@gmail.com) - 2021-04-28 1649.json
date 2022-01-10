@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.pacificalliancebank.com"
+            ],
+            "email": [
+                "pacificalliancebanking@financier.com"
+            ],
+            "domain": [
+                "www.pacificalliancebank.com",
+                "financier.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "DRINGENDE COVID 19 RELIEF-DARLEHEN?\r\nNecesito prestamo dringlich de insbesondere\r\nhttps://www.pacificalliancebank.com\r\n\r\nBEN\u00d6TIGEN SIE EIN DRINGENDES COVID 19-RELIEF-DARLEHEN ODER SUCHEN SIE EIN\r\nDRINGENDES GESCH\u00c4FTSSTART, GESCH\u00c4FTSERWEITERUNG, PERS\u00d6NLICHE\r\nSCHULDENKONSOLIDIERUNGSFINANZIERUNG ZU EINEM G\u00dcNSTIGEN ZINSENKONTAKT?\r\npacificalliancebanking@financier.com\r\n\r\nURGENT COVID 19 RELIEF LOAN?\r\n\r\nDO YOU NEED AN URGENT COVID 19 RELIEF LOAN OR SEEKING URGENT BUSINESS\r\nSTARTUP, BUSINESS EXPANSION,PERSONAL LOAN DEBT CONSOLIDATION FUNDING AT\r\nAFFORDABLE INTEREST RATE CONTACT US VIA:\r\npacificalliancebanking@financier.com +19148638417 WHATSAPP.\r\npacificalliancebanking@financier.com\r\n",
+            "content_type": "text/plain",
+            "hash": "1888a93e72dd3ab29bec1fbd7cd1f5c2446dead77ef0df3a7ae8d62e0ea89f38",
+            "boundary": "000000000000652f4905c1097c83"
+        }
+    ],
+    "header": {
+        "subject": "URGENT COVID 19 RELIEF LOAN?",
+        "from": "pacificalliancebank05@gmail.com",
+        "to": [],
+        "date": "2021-04-28T07:49:15-07:00",
+        "received_domain": [
+            "mail-pg1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.178"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "German"
+    }
+}

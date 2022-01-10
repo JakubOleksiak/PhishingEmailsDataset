@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "domain": [
+                "4200000.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Your partnership is needed to invest in your country with a valued of\r\n4200000.00 million united state dollars if you can handle it contact for\r\nfurther details\r\n",
+            "content_type": "text/plain",
+            "hash": "9b15ed0c672da9902ab47c711a5b6c12b04bf85c915b3980552683eb00f73651"
+        }
+    ],
+    "header": {
+        "subject": "I NEED YOUR URGENT RESPONSE FOR FUNDS TRANSFER",
+        "from": "evans.ibhafidon@yahoo.com",
+        "to": [
+            "evans.ibhafidon@yahoo.com"
+        ],
+        "date": "2021-09-03T02:17:38-07:00",
+        "received_email": [
+            "evans.ibhafidon@yahoo.com"
+        ],
+        "received_domain": [
+            "v234156.serveradd.com"
+        ],
+        "received_ip": [
+            "103.15.234.156",
+            "42.111.14.131"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

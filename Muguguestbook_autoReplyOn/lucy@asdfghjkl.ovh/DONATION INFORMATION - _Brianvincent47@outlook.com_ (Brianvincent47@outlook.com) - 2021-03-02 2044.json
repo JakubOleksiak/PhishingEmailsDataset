@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "tremblaycharles21@hotmail.com"
+            ],
+            "domain": [
+                "hotmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello Mr / Mrs,\r\n\r\nHow are you ? Well I hope so, my name is Tremblay Charles, 76 years old born in Quebec of Canadian nationality and I live in Canada at the moment, I suffer from a serious disease which condemns me to certain death it is cancer of gorge, and I have a sum of 2,000,000 $ which I would like to make a donation to a trustworthy and honest person so that they can put it to good use. I lost my wife, 6 years ago, which affected me a lot and I have not been able to remarry until this day, unfortunately we had not had children.\r\n\r\nI would like to donate this amount before my death, so that my days are numbered by the fault of this disease which I do not have got medicine to be healed. I would not like to know later, if you can benefit from this donation.\r\nIf you want, you can receive this donation and use at least 35% to make a donation to an association and the rest will be yours.\r\nHere is my email address:tremblaycharles21@hotmail.com<mailto:tremblaycharles21@hotmail.com>\r\nWaiting to read you I own a webcam so you can see me and see my state of health.\r\n\r\n\r\nMr Tremblay Charles\r\n\r\n....\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "e0b1d08d4f26b198e9bf7ab8fb3c3a44b1d1a12686e12e5a1b08a2d915a8b483",
+            "boundary": "_000_PR3P189MB1068F248CA4EF493ACC69E0BC4999PR3P189MB1068EURP_"
+        }
+    ],
+    "header": {
+        "subject": "DONATION INFORMATION ",
+        "from": "brianvincent47@outlook.com",
+        "to": [],
+        "date": "2021-03-02T19:44:28+00:00",
+        "received_domain": [
+            "pr3p189mb1068.eurp189.prod.outlook.com",
+            "vi1eur04ht008.eop-eur04.prod.protection.outlook.com",
+            "vi1eur04ft024.eop-eur04.prod.protection.outlook.com",
+            "eur04-vi1-obe.outbound.protection.outlook.com",
+            "vi1eur04ft024.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7e0e::47",
+            "2a01:111:e400:7e0e::412",
+            "40.92.75.86",
+            "2a01:111:e400:7e0e::303"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

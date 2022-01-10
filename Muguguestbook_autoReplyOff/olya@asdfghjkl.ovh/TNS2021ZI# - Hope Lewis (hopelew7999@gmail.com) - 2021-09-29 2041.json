@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hi User,\r\n\r\n\r\n\r\nYour subscription for NORTON PACK has been successfully renewed & updated.\r\n\r\n\r\n\r\n*The debited amount will be reflected within the next 24 to 48 hours on\r\nyour bank account. #*\r\n\r\n\r\n\r\n                    # *PRODUCT DESCRIPTION* #\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n\r\n\r\n\r\nInvoice No.                     :      TNS2021ZI\r\n\r\n\r\n\r\nProduct Name                :     *NORTON PACK*\r\n\r\n\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\nIssue Date                       :        29th September 2021\r\n\r\n\r\n\r\nExpiration Date              :       1 Year from the Date of Issue\r\n\r\n\r\n\r\n\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n\r\n\r\n\r\nAmount                            :       *$179.25 USD*\r\n\r\n\r\n\r\nPayment Method           :       AUTO CHARGE\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\n\r\n\r\nIf you wish to claim a REFUND then please feel free to Contact our Billing\r\nDepartment as soon as Possible. #\r\n\r\n\r\n\r\nYou can reach us on    :    *+1     \u2013    (888)   \u2013    473   \u2013      0561*\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\n\r\n\r\n\r\n*Billing Department*\r\n",
+            "content_type": "text/plain",
+            "hash": "606b397e1ff3ea964561c1f3ecf9ada36e3afaae618f5d54720788288bddbfb3",
+            "boundary": "000000000000d98ca205cd26af1a"
+        }
+    ],
+    "header": {
+        "subject": "TNS2021ZI#",
+        "from": "hopelew7999@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-30T00:11:24+05:30",
+        "received_domain": [
+            "mail-oo1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.161.45"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

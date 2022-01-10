@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "mrsamaltantawy@aol.com"
+            ],
+            "domain": [
+                "aol.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Good Day,\r\n\r\nI have an urgent proposal for you and we need to discuss it in detail. Get back if interested, so we can proceed immediately.\r\nThank you for understanding.\r\n\r\nMrs. Amal Tantawy.\r\n(EGAS / GASCO)\r\nEMAIL: mrsamaltantawy@aol.com\r\n",
+            "content_type": "text/plain",
+            "hash": "bc05e8fb72c43467deb71bd564753c513a9d7ecf23820586040fa9440cda0d66",
+            "boundary": "_000_E584927FCE7A99499E894E8B0DE9E06664281945bagheeraalvkarl_"
+        }
+    ],
+    "header": {
+        "subject": "Re:  For  You (Proposal)",
+        "from": "lena.wander@alvkarleby.se",
+        "to": [],
+        "date": "2021-09-14T23:41:53+00:00",
+        "received_email": [
+            "lena.wander@alvkarleby.se"
+        ],
+        "received_domain": [
+            "21-0060-hz7.mep.pandasecurity.com",
+            "21-0075-hz7.mep.pandasecurity.com",
+            "bagheera.alvkarleby.se"
+        ],
+        "received_ip": [
+            "195.35.101.2",
+            "92.54.39.161"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

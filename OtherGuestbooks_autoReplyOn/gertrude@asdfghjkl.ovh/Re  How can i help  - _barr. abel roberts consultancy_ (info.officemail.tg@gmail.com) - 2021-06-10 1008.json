@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello Gertrude,\r\n\r\nGood morning and thanks for your swift response. With due respect, I am a\r\nBarrister. Abel Roberts a business adviser/financial consultant to your\r\nlate relative. I wish to share this private and important information to\r\nyou about the death of your relative who worked here in Lome Togo in west\r\nAfrica as a contractor. Since the death of my client a few years ago, his\r\naccount has been dormant without a claim and the bank has issued me a final\r\nwarning to present his relative before the dormant account could exceed the\r\nallowance time in the bank. At the time of his death, his account balance\r\nis US$9.6 Million and I was his financial adviser/account director till his\r\ndeath. Bank legal department has just contacted me to forward the details\r\nof the beneficiary. So I am motivated to contact you based on your\r\nsimilarity of name and country so I could register you as the living\r\nrelation to ascertain approval & release of the fund to you.\r\nFurther information shall be relayed to you upon your positive response.\r\n\r\nKind regards,\r\n--\r\nHon. Abel Roberts\r\nSenior Attorney\r\nRoberts & Co Chambers\r\n\r\n\r\n[image: Sample organization]\r\n\r\n\r\n\r\nMobile: +22899285661\r\nAddress: Togo, Lom\u00e9, Rue des Filaos Tokoin H\u00f4pital, 134 Togo, Lom\u00e9\r\n\r\n\r\n[image: linkedin] <http://this-is-a-sample-url.com/>[image: facebook]\r\n<http://this-is-a-sample-url.com/>\r\n",
+            "content_type": "text/plain",
+            "hash": "558fe0ec28e55673a4f9eb8c778d3a66734c4ebdcda783a6d94d82e83364f8e7",
+            "boundary": "00000000000051cd8c05c464e61b"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help?",
+        "from": "info.officemail.tg@gmail.com",
+        "to": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-10T08:08:28+00:00",
+        "received_domain": [
+            "mail-il1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.179"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

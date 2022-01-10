@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello there,\r\n\r\nI hope this message finds you in good spirits especially during \r\nthis challenging time of coronavirus pandemic. I hope you and \r\nyour family are well and keeping safe. Anyway, I am Dean \r\nJohnston, a broker working with Flippiebecker Wealth Services. I \r\nam contacting you because one of my high profile clients is \r\ninterested in investing abroad and has asked me to look for \r\nindividuals and companies with interesting business ideas and \r\ncompanies that he can invest in. He wants to expand his portfolio \r\nand has an interest in investing a very substantial amount \r\nabroad. I got your email contact through an online business \r\ndirectory and I thought I'd contact you to see if you are \r\ninterested in this opportunity. Do you or your company have new \r\nor existing projects that requires funding?\r\n\r\nPlease indicate your interest by replying back to this email. \r\nOnce I get your response, I will give you more details and we can \r\nplan a strategy that will be beneficial to all parties.\r\n\r\nBest Regards,\r\n\r\nDean Johnston\r\n",
+            "content_type": "text/plain",
+            "hash": "dceddfd02766ee3e6165c94d7e6d060678352238b773cf597209bb6aaf2f6353"
+        }
+    ],
+    "header": {
+        "subject": "Projects",
+        "from": "deanj033@flipiesbeckerwealths.xyz",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-22T21:22:43+00:00",
+        "received_domain": [
+            "flipiesbeckerwealths.xyz",
+            "host.flipiesbeckerwealths.xyz"
+        ],
+        "received_ip": [
+            "89.108.103.241",
+            "18.219.198.207"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

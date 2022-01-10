@@ -1,0 +1,125 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 617,
+            "hash": {
+                "md5": "d2759c28173b06651c17e118deb633b2",
+                "sha1": "5d04e2265e837b13e9a9318c83ed22614673833f",
+                "sha256": "4fdd9e6afa3727674c023b06a53cd66b3876c6ef0dbf31be3611e4725695b779",
+                "sha512": "90be8bc7089f156e4f2b2d1fdf655a25cecf7eb38b2db6f166f03d6c52aee163fa0f2e4c7887c7ac65d5856c330b1b3c60c5e2696dab2d5874795bc6d837301c"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "arno@aeh.at"
+            ],
+            "domain": [
+                "aeh.at",
+                "1624883572.p20983.fw-ae"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host mail.aeh.at.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<arno@aeh.at>: maildir delivery failed: create maildir file\r\n    /home/arno/Maildir/tmp/1624883572.P20983.fw-aeh.aeh.at: Permission denied\r\n",
+            "content_type": "text/plain",
+            "hash": "c8672c8b4a22f28e270699c6abde0f473fc1298ed3db0aadb8757977e6b6cef2",
+            "boundary": "EF568913E.1624883572/mail.aeh.at"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; arno@aeh.at"
+                ],
+                "original-recipient": [
+                    "rfc822;arno@aeh.at"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.2.0"
+                ],
+                "diagnostic-code": [
+                    "X-Postfix; maildir delivery failed: create maildir file    /home/arno/Maildir/tmp/1624883572.P20983.fw-aeh.aeh.at: Permission denied"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<lucy@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby mail.aeh.at (Postfix) with ESMTP id EF568913E\tfor <arno@aeh.at>; Mon, 28 Jun 2021 14:32:51 +0200 (MEST)"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<19E51637-9B80-466A-A6D8-622F7D65A01E@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Mon, 28 Jun 2021 13:32:17 +0200"
+                ],
+                "from": [
+                    "lucy@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "arno@aeh.at"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nLucy\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "d8024fd71b3eaeb9b2ab0cbc60e37874aed1241bb502aefb8ac555db727c73e5"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@aeh.at",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-28T14:32:52+02:00",
+        "received_domain": [
+            "mail.aeh.at"
+        ],
+        "received_ip": [
+            "85.125.168.42"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

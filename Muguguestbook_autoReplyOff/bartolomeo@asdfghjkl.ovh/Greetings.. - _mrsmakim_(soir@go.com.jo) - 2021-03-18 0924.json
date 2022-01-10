@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings\r\n\r\nPardon my mode of communication.\r\n\r\nI am Mrs. Ma Kim, the wife of Mr. Choong founder of many Korean leading\r\ncompanies but having problems with the government and executives of their\r\nconglomerate on corrupt allegations leveled on my husband, which are\r\nbasically untrue. However, I have a legitimate business offer for you\r\nregarding some secret funds deposited somewhere in Europe for a\r\nsafe-keeping, totaling the sum of One Hundred and\r\nFifty Million United States Dollars . These funds can be released to\r\nyou for any investment you wish to embark upon for a time period of ten\r\n(10) years before refunding it back to us.\r\n\r\nFurthermore, I will be ready to negotiate terms with you, if I know your\r\nfinancial capability, experience and investment preposition, projections\r\nyou wish to utilize this funds on, hence, I will direct you to the useful\r\ncontact, where these process will be concluded within matter of days.\r\nFinally, I will furnish you with more information when I receive a respond\r\nfrom you, do contact me on my private email:\r\n\r\nYours truly  Reply to:mrsmakim2067@gmail.com \r\nMrs. Ma Kim\r\n",
+            "content_type": "text/plain",
+            "hash": "b63fcf689b2d3f6672ec68140e0659e5b8fc8c4d32465d75003e0de9d1d3c3e5"
+        }
+    ],
+    "header": {
+        "subject": "Greetings..",
+        "from": "soir@go.com.jo",
+        "to": [],
+        "date": "2021-03-18T03:24:51-05:00",
+        "received_domain": [
+            "ukdc.ac.id"
+        ],
+        "received_ip": [
+            "82.151.100.178",
+            "203.134.232.91"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

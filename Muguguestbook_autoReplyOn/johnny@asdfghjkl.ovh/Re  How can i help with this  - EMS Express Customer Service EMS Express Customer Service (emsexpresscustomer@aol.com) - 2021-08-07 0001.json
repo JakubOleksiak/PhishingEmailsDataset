@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "emsexpresscustomer@aol.com"
+            ],
+            "domain": [
+                "aol.com",
+                "address.and"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Company name: EMS Express Customer Service\r\nContact Email: emsexpresscustomer@aol.com\r\nLogistic Manager:Mr.Jerry Brown\r\nPhone: +229-51740650\r\n\r\nMy Dear\u00a0 Friend,\r\n\r\nPlease i received your email and as i am talking to you right now everything about your ATM card is ready to be deliver since then, So please try and make sure that you send the needed fee US$85 Today and i will get back to you with the delivery information which is tracking numbers you will use to see where your ATM card is until you receive at hand. The $85 is only problem we have now. Try and send US$85 by Western Union or Money-Gram.\r\n\r\nYou are advice to get back to us with the security keeping fee of US$85 only to enable us deliver your package of ATM VISA CARD to your address.and also Reconfirm your address\r\n\r\nWe are waiting to receiver the security keeping fee of US$85 from you urgent to enable us registered your package and send you the tracking number.\r\n\r\nBlow is information where to send the US$85 by Western Union or Money-Gram\r\n\r\nReceiver's name : Badai Atangana\r\n\r\nCountry : Benin Republic\r\n\r\nCity : porto novo\r\n\r\nText Question : who\r\n\r\nText Answer : God\r\n\r\nAmount:US$85\r\n\r\nMTCN...................\r\n\r\nReconfirm your address\r\n\r\n(1)Your Full name:.......................\r\n(2)Your Phone number:..............\r\n(3)Your Contact address:.................\r\n\r\nLooking forward for your reply.\r\n\r\n\r\nManager.\r\nMr.Jerry Brown",
+            "content_type": "text/plain",
+            "hash": "de1e60e31454ab2f87ab6726534285f97d5b04ae09e697ecbd3e1764bb772e20",
+            "boundary": "----=_Part_35665_2010259191.1628287260979"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "emsexpresscustomer@aol.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-06T22:01:00+00:00",
+        "received_domain": [
+            "sonic302.consmr.mail.bf2.yahoo.com",
+            "sonic302-3.consmr.mail.bf2.yahoo.com",
+            "sonic.gate.mail.ne1.yahoo.com"
+        ],
+        "received_ip": [
+            "74.6.135.42"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

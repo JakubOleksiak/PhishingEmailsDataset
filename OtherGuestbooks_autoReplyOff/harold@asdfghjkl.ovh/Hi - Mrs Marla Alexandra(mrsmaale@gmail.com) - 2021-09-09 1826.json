@@ -1,0 +1,49 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org",
+                "mr.johan"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD>\r\n<body style=\"MARGIN: 0.5em\">\r\n<DIV style='FONT-SIZE: 13px; FONT-FAMILY: \"Helvetica Neue\", Helvetica, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; \r\ntext-decoration-color: initial' dir=ltr>Dear harold<BR>\r\nMy name is Mrs. Marla Alexandra I was married to the late Mr.Johan Alexandra , an Emhart Glass GmbH, GERMANY, My late husband and I were married for years without a child . As I talk to you, I was metabolized with congestive heart failure, which the doctors confirmed and told me I would not go on living. There is an inheritance left behind in a security firm by my late Husband ($5.5 million.) I believe the money in the security company would be a waste when I die, I decided to use the money for \r\nthe less privileged and the orphanage home. Please write back to me as soon as possible,if you are willingly to help me to accomplish my wish. I am waiting for your urgent answer.<BR>&nbsp;God bless Sincerely <BR>Mrs Marla Alexandra</DIV></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "7ecbeee0fa6641e9d4f26ec2028deb2ff6c885bab4d8d59e884ec8f6921cd2fa"
+        }
+    ],
+    "header": {
+        "subject": "Hi",
+        "from": "mrsmaale@gmail.com",
+        "to": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-09T18:26:36+02:00",
+        "received_email": [
+            "mrsmaale@gmail.com"
+        ],
+        "received_domain": [
+            "bizcloud-loadinng.com",
+            "159-203-86-78.cprapid.com"
+        ],
+        "received_ip": [
+            "104.223.33.133",
+            "159.203.86.78"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir/Madam\r\nMy name is Gen Rupert , serving in the military\r\nengineering unit in Ba'qubah, Iraq.\r\nI have a business proposal for you worth 15,350,000 MILLION USDOLLS.\r\nTalk to me If you are interested for more details, thank you\r\n",
+            "content_type": "text/plain",
+            "hash": "9c4dc362835d8f3f59876be0cb7b4d1aa07ec9938ad934a2392e78da08a46be7",
+            "boundary": "0000000000006c4d2905c5a20ee2"
+        }
+    ],
+    "header": {
+        "subject": "Dear Sir/Madam",
+        "from": "planetbeauty24@gmail.com",
+        "to": [],
+        "date": "2021-06-26T03:31:24+01:00",
+        "received_domain": [
+            "mail-ed1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.45"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "murray.auchincloss@aol.com"
+            ],
+            "domain": [
+                "aol.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi\r\n\r\nI want to confide in you to finalize this transaction of mutual benefits.\r\nIt may seem strange to you, but it is real. This is a transaction that has\r\nno risk at all. Due process shall be followed and it shall be carried out\r\nunder the ambit of the law.\r\n\r\nBeing the Chief Financial Officer, BP Plc. I want to trust and put in your\r\ncare \u00a384,000,000 (Eighty Four Million British Pounds Sterling), The funds\r\nwere acquired from an over-invoiced payment from a past contract executed\r\nin one of my departments. I can't successfully achieve this transaction\r\nwithout presenting you as foreign contractor who will provide a bank\r\naccount to receive the funds. Documentation for the claim of the funds will\r\nbe legally processed and documented, so I will need your full cooperation\r\nfor our mutual benefit.\r\n\r\nWe will discuss details if you are interested to work with me to secure\r\nthese funds. I will appreciate your prompt response to me via\r\nmurray.auchincloss@aol.com or my personal phone line +44 744 139 3311. Stay\r\nblessed and stay safe.\r\n\r\nBest regards,\r\n\r\nMurray Auchincloss\r\nChief financial officer\r\nBP, Plc.\r\n",
+            "content_type": "text/plain",
+            "hash": "262371282c539fed525d701b3ef0cb8a899e056c6d972e57bd388a5d767221fb",
+            "boundary": "0000000000009a822e05bde2e3aa"
+        }
+    ],
+    "header": {
+        "subject": "ATTN:",
+        "from": "emba709@gmail.com",
+        "to": [],
+        "date": "2021-03-19T13:30:46+01:00",
+        "received_domain": [
+            "mail-pg1-f181.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.181"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

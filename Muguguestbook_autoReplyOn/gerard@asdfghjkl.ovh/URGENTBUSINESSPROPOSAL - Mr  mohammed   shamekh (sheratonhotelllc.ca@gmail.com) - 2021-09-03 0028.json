@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "mohammedshamekh24@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nHi Friend I am a bank director of the UBA Bank Plc bf .I want to\r\ntransfer an abandoned sum of 27.5 millions USD to you through ATM VISA\r\nCARD .50% will be for you. No risk involved. Contact me for more\r\ndetails. Kindly reply me back to my alternative email address (\r\nmohammedshamekh24@gmail.com ) Mr  mohammed   shamekh\r\n\r\n\r\nHola amigo soy director de banco de la UBA Bank Plc bf. Quiero\r\ntransferirle una suma abandonada de 27.5 millones de d\u00f3lares a trav\u00e9s\r\nde ATM VISA CARD. El 50% ser\u00e1 para usted. Sin riesgo involucrado.\r\nP\u00f3ngase en contacto conmigo para m\u00e1s detalles. Por favor, responda a\r\nmi direcci\u00f3n de correo electr\u00f3nico alternativa\r\n(mohammedshamekh24@gmail.com) Sr. mohammed shamekh\r\n",
+            "content_type": "text/plain",
+            "hash": "26576ad8f7a7511c15cfa475526e875ea7e50a8145add5f464cfc529171d8f6f"
+        }
+    ],
+    "header": {
+        "subject": "URGENTBUSINESSPROPOSAL",
+        "from": "sheratonhotelllc.ca@gmail.com",
+        "to": [],
+        "date": "2021-09-02T15:28:51-07:00",
+        "received_domain": [
+            "mail-lf1-f45.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:651c:245::",
+            "209.85.167.45"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "attachment": [
+        {
+            "filename": "image001.png",
+            "size": 61932,
+            "extension": "png",
+            "hash": {
+                "md5": "8c890a4097f7b77fe3f59e197a96d51d",
+                "sha1": "2d75cf5750462d17dcd0bfa79ea44ef45a09921c",
+                "sha256": "6c9d02244fba3e530be942437db8a6ad2b7cc84a800b9853f4ca77353fbc2c87",
+                "sha512": "bb207ec4cd0f9ea6f4c3c316f0409414ef06f754c4e9bbcc3d08231b13909faae98808e9c5e271ece6f7955be1e0776672f52dfda11ef5ec7c012b713d3c8034"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image001.png\""
+                ],
+                "content-description": [
+                    "image001.png"
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image001.png\"; size=\"61932\"; creation-date=\"Sat, 15 May 2021 19:13:04 GMT\"; modification-date=\"Sat, 15 May 2021 19:13:04 GMT\""
+                ],
+                "content-id": [
+                    "<image001.png@01D74979.ED4CE8F0>"
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "image001.png@01d74979.ed4ce8f0"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "[cid:image001.png@01D74979.ED4CE8F0]\r\n",
+            "content_type": "text/plain",
+            "hash": "0faa636b6dfee34828c6c991ca19890a455c89d2de787ccfa432c9bc47544414",
+            "boundary": "_000_SN6PR05MB531007951604D7BB2AB82BD8C92F9SN6PR05MB5310namp_"
+        }
+    ],
+    "header": {
+        "subject": "15/5/2021",
+        "from": "a01235864@itesm.mx",
+        "to": [
+            "a01067272@itesm.mx"
+        ],
+        "date": "2021-05-15T19:13:24+00:00",
+        "received_domain": [
+            "nam10-mw2-obe.outbound.protection.outlook.com",
+            "sa0pr05mb7386.namprd05.prod.outlook.com",
+            "sn6pr05mb5310.namprd05.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.107.94.109",
+            "2603:10b6:806:b0::17",
+            "2603:10b6:805:c3::24"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Spanish; Castilian"
+    }
+}

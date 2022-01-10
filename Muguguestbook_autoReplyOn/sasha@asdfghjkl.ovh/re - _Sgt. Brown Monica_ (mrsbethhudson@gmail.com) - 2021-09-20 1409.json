@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Saludos\r\n\r\nI'm Monica Brown, From the United States, a U.S Special Force Team deployed\r\nto Afghanistan.\r\nI got interested in your Profile, I would be pleased to keep in touch with\r\nyou and probably build trust among us with time.\r\n\r\nMonica Lin Brown\r\n",
+            "content_type": "text/plain",
+            "hash": "d7cae190d8119c40da7df61767b3a3854f9fa3296ffa3dec957d4b64950a3145",
+            "boundary": "000000000000d7587d05cc6c328f"
+        }
+    ],
+    "header": {
+        "subject": "re",
+        "from": "mrsbethhudson@gmail.com",
+        "to": [],
+        "date": "2021-09-20T12:09:52+00:00",
+        "received_domain": [
+            "mail-qv1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.47"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

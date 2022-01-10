@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://click.e.change.org/f/a/7Q0OvalhIY72M85ZVDGYxw~~/AANj1QA~/RgRiE6obP4QqAWh0dHBzOi8vd3d3LmNoYW5nZS5vcmcvcC9sdW5pbWUtYmFuLWdhY2hhLWhlYXQtbm93LWM2MzM2NTM5LWQxODQtNDBmYi05OTY5LTY1ZDRkOTRjYzJlYi9zaWduYXR1cmVzL2NvbmZpcm0_Y3NfdGs9JnRva2VuPWI4YzVmYTY4LWE5MmQtNGJkOS1hYjhjLWM1ODY4NzU1NWVkZSZ1dG1fY2FtcGFpZ249NzBkNGUzNDNhYzNkNDYwMjk0ZjYzMTVlN2E0ZWQwMWQmdXRtX2NvbnRlbnQ9aW5pdGlhbF92MF8wXzImdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXBldGl0aW9uX3NpZ25lcl9jb2"
+            ],
+            "content_header": {
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi Zach,\r\n\r\nTo add your signature to \"Ban Gacha Heat NOW!\", please take a quick second to confirm your email address:\r\n\r\nConfirm your email address:\r\n\r\nhttps://click.e.change.org/f/a/7Q0OvalhIY72M85ZVDGYxw~~/AANj1QA~/RgRiE6obP4QqAWh0dHBzOi8vd3d3LmNoYW5nZS5vcmcvcC9sdW5pbWUtYmFuLWdhY2hhLWhlYXQtbm93LWM2MzM2NTM5LWQxODQtNDBmYi05OTY5LTY1ZDRkOTRjYzJlYi9zaWduYXR1cmVzL2NvbmZpcm0_Y3NfdGs9JnRva2VuPWI4YzVmYTY4LWE5MmQtNGJkOS1hYjhjLWM1ODY4NzU1NWVkZSZ1dG1fY2FtcGFpZ249NzBkNGUzNDNhYzNkNDYwMjk0ZjYzMTVlN2E0ZWQwMWQmdXRtX2NvbnRlbnQ9aW5pdGlhbF92MF8wXzImdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXBldGl0aW9uX3NpZ25lcl9jb25maXJtYXRpb24mdXRtX3Rlcm09Y3NXA3NwY0IKYC0bJTFgVt_mV1IXemFoYXJpYXNoQGFzZGZnaGprbC5vdmhYBAAAAAI~\r\n\r\nThanks for supporting and empowering everyday citizens!\r\n\r\n&mdash; The Change.org Team",
+            "content_type": "text/plain",
+            "hash": "7458b58f8d03ac1f024730fdc428e9f6f59514a9a42f2775985c01a0040847f7",
+            "boundary": "_----MeqUqB3rXCk8u+uFZk+g1A===_5D/75-07005-B1521306"
+        }
+    ],
+    "header": {
+        "subject": "Confirm your email address",
+        "from": "change@a.change.org",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-02-20T15:04:59+00:00",
+        "received_domain": [
+            "mta-216-115.sparkpostmail.com"
+        ],
+        "received_ip": [
+            "147.253.216.115"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

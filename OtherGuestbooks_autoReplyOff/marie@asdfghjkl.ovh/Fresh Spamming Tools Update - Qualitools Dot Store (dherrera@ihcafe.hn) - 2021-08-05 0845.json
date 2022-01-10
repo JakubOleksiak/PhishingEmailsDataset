@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "marie@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello ! marie@asdfghjkl.ovh\r\n\r\nWe have fresh spamming tools @ best prices in stock. \r\nVisit our site : www . qualitools . store\r\n",
+            "content_type": "text/plain",
+            "hash": "c2842ff88e34707f6dc554615927451769f03e284014613c6dc7754878d3b0f0"
+        }
+    ],
+    "header": {
+        "subject": "Fresh Spamming Tools Update",
+        "from": "dherrera@ihcafe.hn",
+        "to": [
+            "marie@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-05T06:45:28+00:00",
+        "received_domain": [
+            "ihcafe.hn",
+            "mail.ihcafe.hn",
+            "repre01.tmes.trendmicro.com",
+            "repost01.tmes.trendmicro.com"
+        ],
+        "received_ip": [
+            "18.208.22.131",
+            "45.63.7.41",
+            "190.92.73.67"
+        ],
+        "received_foremail": [
+            "marie@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

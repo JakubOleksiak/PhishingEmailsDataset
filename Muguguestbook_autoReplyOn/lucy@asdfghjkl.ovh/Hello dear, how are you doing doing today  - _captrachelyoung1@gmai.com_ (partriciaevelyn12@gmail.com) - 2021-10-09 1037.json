@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello dear, how are you doing doing today?\r\n",
+            "content_type": "text/plain",
+            "hash": "3961bc9b55e1b134ab1ad403f6f93938aa1f036e2733470ece4229906f5f4930",
+            "boundary": "0000000000009fcbca05cdd77dbb"
+        }
+    ],
+    "header": {
+        "subject": "Hello dear, how are you doing doing today?",
+        "from": "partriciaevelyn12@gmail.com",
+        "to": [],
+        "date": "2021-10-09T01:37:50-07:00",
+        "received_domain": [
+            "mail-vk1-f169.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.169"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

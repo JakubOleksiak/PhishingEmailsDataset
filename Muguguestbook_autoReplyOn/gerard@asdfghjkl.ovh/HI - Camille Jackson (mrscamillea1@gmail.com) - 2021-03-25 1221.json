@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "hello am Camille Ann Jackson  i would love to have a moment with you\r\n",
+            "content_type": "text/plain",
+            "hash": "ee314b0e2c3a1f9321431d8359cb7bd2a0bf08f0aab6a58c70c84aba7c3183ed",
+            "boundary": "000000000000e22c0805be5a9f56"
+        }
+    ],
+    "header": {
+        "subject": "HI",
+        "from": "mrscamillea1@gmail.com",
+        "to": [],
+        "date": "2021-03-25T11:21:53+00:00",
+        "received_domain": [
+            "mail-oi1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.179"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

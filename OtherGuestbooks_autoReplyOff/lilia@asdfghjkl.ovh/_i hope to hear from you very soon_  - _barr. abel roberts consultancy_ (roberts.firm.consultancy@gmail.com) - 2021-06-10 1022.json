@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHello my dear friend. I am Attorney Abel Roberts, a business\r\nadviser/financial consultant to your relative. I wish to share private and\r\nimportant information to you very urgently.\r\n\r\nRegards,\r\nAttorney. Abel Roberts\r\n",
+            "content_type": "text/plain",
+            "hash": "186296f08d61ee6299d69b77530eb2d197185f1d9f4e4470ede170199dc0c65c"
+        }
+    ],
+    "header": {
+        "subject": "\"i hope to hear from you very soon\"??",
+        "from": "roberts.firm.consultancy@gmail.com",
+        "to": [],
+        "date": "2021-06-10T08:22:41+00:00",
+        "received_domain": [
+            "mail-yb1-f175.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6918:f110:b029:2d:14c9:9631",
+            "209.85.219.175"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "mrshp22@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I want to discuss with you, very important. reply via mrshp22@gmail.com for\r\nmore\r\n-Julia\r\n",
+            "content_type": "text/plain",
+            "hash": "aeb63cacdbea9efa7f1f44dcda7f9782a906a55585ecb39c97cb19fe1f98ce29",
+            "boundary": "00000000000014e74705bdb61d83"
+        }
+    ],
+    "header": {
+        "subject": "4@",
+        "from": "mrs.hillary2020@gmail.com",
+        "to": [],
+        "date": "2021-03-17T00:05:37-07:00",
+        "received_domain": [
+            "mail-ej1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.49"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

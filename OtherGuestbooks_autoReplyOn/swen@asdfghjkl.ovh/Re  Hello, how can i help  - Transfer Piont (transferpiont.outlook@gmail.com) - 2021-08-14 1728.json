@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good to hear from you Swen, Below details will be needed before i will\r\nsend you the Application Letter that you will fill and submit to the\r\nBank for Transfer Notification of 4.3 Million US Dollars fund left\r\nbehind by my Late client Mr Donna  Robert.\r\n\r\nFull Name ........................\r\nEmail Address........................\r\nPrivate Phone Number or Whatsapp ................................\r\nCountry...........................\r\nHome Address........................\r\nAge...............................\r\nProfession.....................\r\n\r\nOn 8/14/21, swen@asdfghjkl.ovh <swen@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Swen\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "5e66c6618d5e7746384e1fe04bb8c63941d5ed30d8098904aeaef378a9211d0f"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "transferpiont.outlook@gmail.com",
+        "to": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-14T15:28:16+00:00",
+        "received_domain": [
+            "mail-ot1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.52",
+            "2002:a4a:c594::"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

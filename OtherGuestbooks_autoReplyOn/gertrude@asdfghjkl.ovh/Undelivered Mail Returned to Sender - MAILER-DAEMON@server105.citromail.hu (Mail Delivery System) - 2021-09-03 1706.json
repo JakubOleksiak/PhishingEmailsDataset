@@ -1,0 +1,144 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1261,
+            "hash": {
+                "md5": "fcfa41b675b1cbbe980c12b3d89009db",
+                "sha1": "9d4711c650a3ef46e04000b7156f5ba61e5ad615",
+                "sha256": "820200bc9383a54956a25f7f8b621a66c4b203e3526e71ab465c413aef9a59f4",
+                "sha512": "c8c907828f415ac850a023f001d5fc5ede5cb6824d706aefe07d1e59e149b44fd73e3405963347b626dee9d702126a02c341dce4f3824f18d5e06cafe23dd79d"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "anonioguterres@server33.citromail.hu",
+                "anonioguterres@citromail.hu"
+            ],
+            "domain": [
+                "server33.citromail.hu",
+                "citromail.hu"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host server105.citromail.hu.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<anonioguterres@server33.citromail.hu> (expanded from\r\n    <anonioguterres@citromail.hu>): host 192.168.0.33[192.168.0.33] said: 552\r\n    5.2.2 sorry, recipient mailbox is full  (in reply to RCPT TO command)\r\n",
+            "content_type": "text/plain",
+            "hash": "f3a917023380bd40a046a3a1d73ae9ab915adcef45f6a96d4cbfb505c794807a",
+            "boundary": "4H1Lj44w4pz1Btk.1630681584/server105.citromail.hu"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; anonioguterres@server33.citromail.hu"
+                ],
+                "original-recipient": [
+                    "rfc822;anonioguterres@citromail.hu"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.2.2"
+                ],
+                "remote-mta": [
+                    "dns; 192.168.0.33"
+                ],
+                "diagnostic-code": [
+                    "smtp; 552 5.2.2 sorry, recipient mailbox is full"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<gertrude@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\t(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))\t(No client certificate requested)\tby server105.citromail.hu (Postfix) with ESMTPS id 4H1Lj44w4pz1Btk\tfor <anonioguterres@citromail.hu>; Fri,  3 Sep 2021 17:06:16 +0200 (CEST)"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<179F44DB-3282-46A1-93E4-33B3AD1EAE58@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Fri, 03 Sep 2021 17:05:45 +0200"
+                ],
+                "from": [
+                    "gertrude@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "anonioguterres@citromail.hu"
+                ],
+                "subject": [
+                    "How can i help?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ],
+                "x-vip-scanned": [
+                    "Yes"
+                ],
+                "x-citro-scanid": [
+                    "gmVsj4nbCJWVdo+rb/+ySniSmHjX+hMqSSdZtd11IQrvhgyPzSFZfHBqe+HX6z5ffiDs0BuSa        N7UC6k1Ezn9KG+BOEyVmSzKkciD9Hh8CqKnDgvDm0H2KZc2GJuQfYHnWIN83k/9AwcAE7X7hM        sr+48H6vAGkjDed00LfZNiH8Y+E4XYmXYhOveLoJL4leUrvodQqC1WznfmowJKs8DUHh98iju        qRUZ94PEe8hzW3T1/SG5snNoXg0PpIUokW+wppR1R4jakf+aN/+4+jCGicD0FmEnFReammbl6        QqhRt6cl8agNmrUvsALliWJamHMP2tfrXTD5YZNRj3UXActBUQ=="
+                ],
+                "x-spam-scanner": [
+                    "Unknown"
+                ],
+                "x-dcc": [
+                    "Body=1 Fuz1=1 Fuz2=4"
+                ],
+                "x-country": [
+                    "PL"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nGertrude\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "68e8cfcd9fd3de270acb23da2bb57543a4d9132042d7574531b55c91aa7eece7"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@server105.citromail.hu",
+        "to": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-03T17:06:24+02:00",
+        "received_domain": [
+            "server105.citromail.hu"
+        ],
+        "received_ip": [
+            "91.83.45.50"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

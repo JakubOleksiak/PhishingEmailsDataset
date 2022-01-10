@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nHello,</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nI am Doctor Frederick Reif from the Weill Cornell Medical Associates. I am writing to you from my personal email requesting a favor from you on behalf of my patient. I know this will come as a surprise but I need your urgent attention to fulfill the wish of my dying patient.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nKindly reply back to this email for further details.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nYours sincerely,</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nDr. Frederick Reif.</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "63b13a9c36769a30441e1d6851fa0d3780eb371a1c7ca7b5592ba0d6a1f8001b"
+        }
+    ],
+    "header": {
+        "subject": "Weill Cornell Medical Associates. ( 04/04/2021 )  myc",
+        "from": "info@gardenviewlodge.com",
+        "to": [],
+        "date": "2021-04-05T06:37:33+07:00",
+        "received_domain": [
+            "mycolums.com"
+        ],
+        "received_ip": [
+            "103.233.2.198",
+            "119.15.191.120"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

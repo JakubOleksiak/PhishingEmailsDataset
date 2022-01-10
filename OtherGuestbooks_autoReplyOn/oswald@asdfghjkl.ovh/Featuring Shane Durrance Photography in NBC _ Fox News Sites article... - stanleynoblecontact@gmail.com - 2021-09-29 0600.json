@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "8bit"
+                ]
+            },
+            "content": "<p>Good Day,</p><p>I'm very excited by this... after a number of months I've been able to complete a deal with NBC and Fox affiliate news sites, to spotlight a photography business (like yours) and showcase what they do.&nbsp;</p><p>It seems you could be the right fit to spotlight, but I would have to verify some information first.</p><p>Even though it gets published nationally, this would still bring in new business locally.</p><p>Can I speak to the business owner?</p><p>Thank You</p><p>Stanley Cheung</p><p>Noble Network</p><p>You are not on an email list, but if you don't want to me to follow-up on this issue, please respond back 'stop'</p>\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/html",
+            "hash": "d936edeb24dacbae2773fa6f472989ee3fc300f93a5b3122581d912e1301c4be"
+        }
+    ],
+    "header": {
+        "subject": "Featuring Shane Durrance Photography in NBC & Fox News Sites article...",
+        "from": "stanleynoblecontact@gmail.com",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-28T21:00:17-07:00",
+        "received_domain": [
+            "mail-wr1-f50.google.com",
+            "smtp.gmail.com"
+        ],
+        "received_ip": [
+            "209.85.221.50",
+            "136.144.238.254"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

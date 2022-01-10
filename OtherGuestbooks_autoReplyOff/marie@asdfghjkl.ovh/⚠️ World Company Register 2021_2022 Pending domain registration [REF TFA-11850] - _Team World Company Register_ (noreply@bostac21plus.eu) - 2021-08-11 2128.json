@@ -1,0 +1,61 @@
+{
+    "attachment": [
+        {
+            "filename": "wbl2021info.jpg",
+            "size": 116364,
+            "extension": "jpg",
+            "hash": {
+                "md5": "edea330674eb98fa8aaf243abdddc63d",
+                "sha1": "a41ab9f06e30949be9900313e85ead67668b0a83",
+                "sha256": "9c06fd147d5450b4278f14d0c73368da5f3be916c348739f2a2e29c165433e17",
+                "sha512": "b0c277372b223653f6c48802d0f25a6eedda642b3801e5903428b9ee991d0b6b2bcfd3ae8ebb58ffe6b1ecde5d8c5ca9e36e1f8f3d3eccc8df847ce73eac828f"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"wbl2021info.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"wbl2021info.jpg\""
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "domain": [
+                "wbl2021info.jpg"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\nLadies and Gentlemen,\r\nIn order to have your domain(s) inserted in\r\nour register of World Businesses for the\r\n2021/2022 edition: please print and complete\r\nthe attached form (wbl2021info.jpg) and send it\r\nto this address:\r\nWorld-Business-List\r\nPostbus  34\r\n3700 AA Zeist\r\nHolland\r\nFax: 0031 30 310 0126\r\nor email it to the email address printed on the form. \r\nUpdates are free!\r\nThis form can also be used for your other domain(s) and/or business(es).\r\nA PDF version of the form is also available.\r\n\r\nDEADLINE: August 31st 2021!\r\n\r\nKind regards,\r\n\r\nSophie Walsh,\r\nCustomer Experience Employee.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "00e89abb6632da80de1db44cf47b8e3079a36d72428f8a81361af5bdcdcee828",
+            "boundary": "476471cb5002927d2096bdbe000ab5c0"
+        }
+    ],
+    "header": {
+        "subject": "\u26a0\ufe0f World Company Register 2021\\2022 Pending domain registration [REF:TFA-11850]",
+        "from": "noreply@bostac21plus.eu",
+        "to": [
+            "marie@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-11T21:28:51+02:00",
+        "received_domain": [
+            "mx1-eu.mtaroutes.com"
+        ],
+        "received_ip": [
+            "63.44.74.198"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

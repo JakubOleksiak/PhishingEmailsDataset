@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello My Dear,\r\nI know that this message will be a surprise to you. I was just searching through the Google Internet search when I found your email address having prayed over it. I am sending this message to you praying that it will reach you in good health. My Name is Mrs. Anita Morgan from Iondon,.I am married to Mr. Frank Morgan, A Contractor and gold merchant who owned a small gold Mine in Burkina Faso; He died of Pulmonary disease in August 2017, and our long years of marriage were not blessed with children. During his lifetime he deposited the sum of (\u20ac 5.8 Million Euros) Five million, Eight hundred thousand Euros in Societe Generale Bank in Ouagadougou, Burkina Faso in West Africa. The deposited money was from the sale of the shares, death benefits payment and entitlements of my deceased husband by his company.\r\nI am suffering from long time cancer and presently i am partially suffering from a stroke illness which has become almost impossible for me to move around, from all medical indications my condition has really deteriorated and it\u2019s pretty obvious that i may not live long, owning to the rapid growth by stage and the excruciating pain that accrues to it. I was diagnosed and my Doctor told me privately what I should expect, building my spirit for the inevitable. She says i may not last for more than six months, based on this i sincerely request for your assistance in this humanitarian work.\r\nI have decided to donate what I inherited from my late husband to you for good work of God for helping Motherless babies/Less privileged/Widows, because I am dying and diagnosed with cancer 4 years ago. If this money remains unclaimed after my death, the bank executives or the government will take the money as unclaimed funds and maybe use it for selfish and worthless ventures. I need a very honest person who can claim this money and use it for Charity and humanitarian works, that will be named after my late husband and my name. I need your positive answer to know if you will be able to execute this project, and I will give you more information on how the fund will be transferred to your bank account. I now realize that wealth without life in Christ is vanity and non-sense. \r\nBest Regards,\r\nMrs. Anita Morgan \r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "e7113b83959d29e259177f020e96dbf551a4dd8e0424b5d001630febdae621ae"
+        }
+    ],
+    "header": {
+        "subject": "Mrs. Anita Morgan ",
+        "from": "app@procket.com.br",
+        "to": [
+            "app@procket.com.br"
+        ],
+        "date": "2021-08-29T11:48:40+01:00",
+        "received_ip": [
+            "185.62.87.160",
+            "41.217.89.80"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

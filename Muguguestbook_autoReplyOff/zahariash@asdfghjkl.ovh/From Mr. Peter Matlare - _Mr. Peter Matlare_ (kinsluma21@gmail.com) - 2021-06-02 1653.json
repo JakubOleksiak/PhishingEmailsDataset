@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "petermatlare2@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings,\r\n\r\n\r\n\r\nI am Soliciting On-Behalf of my private client who is interested in\r\nHaving a serious Business investment in your country. If you have a\r\nValid business, Investment or project he can invest get back to me For\r\nmore details  On petermatlare2@gmail.com  +27737733886\r\n\r\n\r\n\r\nSincerely\r\n\r\n\r\n\r\nMr. Peter Matlare\r\n",
+            "content_type": "text/plain",
+            "hash": "994b5bb6eb70edb7a14203309c08f38cad79fe05ed2d0da1f0aa92f3d8d6c22d"
+        }
+    ],
+    "header": {
+        "subject": "From Mr. Peter Matlare",
+        "from": "kinsluma21@gmail.com",
+        "to": [],
+        "date": "2021-06-02T15:53:47+01:00",
+        "received_domain": [
+            "mail-lj1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.172",
+            "2002:ac2:434a::"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

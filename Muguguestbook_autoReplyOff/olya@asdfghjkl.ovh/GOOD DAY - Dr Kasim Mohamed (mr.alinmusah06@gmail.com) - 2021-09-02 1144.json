@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "mohamedkasim794@yahoo.com"
+            ],
+            "domain": [
+                "yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am Mr Kasim Mohamed\r\n\r\nHi Friend I am a bank director of the UBA Bank Plc bf .I want to\r\ntransfer an abandoned sum of 27.5 millions USD  to you through ATM\r\nVISA CARD .50% will be for you. No risk involved. Contact me for more\r\ndetails. Kindly reply me back to my alternative email\r\naddress(mohamedkasim794@yahoo.com) Mr kasim mohamed\r\n",
+            "content_type": "text/plain",
+            "hash": "dbb9969a950befa72ea85bda42d3da43f112e14622c33ab060e24a59ba165b55"
+        }
+    ],
+    "header": {
+        "subject": "GOOD DAY",
+        "from": "mr.alinmusah06@gmail.com",
+        "to": [],
+        "date": "2021-09-02T02:44:36-07:00",
+        "received_domain": [
+            "mail-qk1-f194.google.com"
+        ],
+        "received_ip": [
+            "2002:ac8:4510::",
+            "209.85.222.194"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "attachment": [
+        {
+            "filename": "un.png",
+            "size": 12445,
+            "extension": "png",
+            "hash": {
+                "md5": "1ab4eab391f4218a5152c227884be684",
+                "sha1": "c5f03fdd7bb05ec960b6a7726c9ae9653c13a150",
+                "sha256": "0ebdd3be85d28db89c4af46ec354e45fa1100bf5e5756150aef5f3d533483851",
+                "sha512": "b00b2a406779448a84c0b55328f87e3057c09ee959a5716a17c41df81a880c8a2aae2d342d4399464cb16eaea97c79c3c5693b3980be436c7b870f95e72ac716"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"un.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<un.png>"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear yamada",
+            "content_type": "text/plain",
+            "hash": "52fea8ce60b2da1248cf3544449340694f6014e69c07aabfba5a06ce84267200",
+            "boundary": "----=_NextPart_001_0013_0D24064E.11F6CD62"
+        }
+    ],
+    "header": {
+        "subject": "RELIEF FUNDS",
+        "from": "megawear@megamedia.co.zw",
+        "to": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T01:50:29-07:00",
+        "received_domain": [
+            "megamedia.co.zw"
+        ],
+        "received_ip": [
+            "37.0.10.100"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Somali"
+    }
+}

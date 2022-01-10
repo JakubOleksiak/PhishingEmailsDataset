@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi friend\r\n\r\ni sent you a mail with no reply or maybe you did not receive it,please\r\ni can't wait to hear from you very soon.\r\n\r\nUrgently\r\nBest regards\r\n\r\nMiss herita\r\n",
+            "content_type": "text/plain",
+            "hash": "48734760ad0a65c0535db9ca5de71b0d96773e13e0bcf989c210cb58181bc217"
+        }
+    ],
+    "header": {
+        "subject": "hello dear",
+        "from": "insurance.companylimited.sn@gmail.com",
+        "to": [],
+        "date": "2021-10-06T11:14:57+01:00",
+        "received_domain": [
+            "mail-ed1-f46.google.com"
+        ],
+        "received_ip": [
+            "2002:a54:3f8a::",
+            "209.85.208.46"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

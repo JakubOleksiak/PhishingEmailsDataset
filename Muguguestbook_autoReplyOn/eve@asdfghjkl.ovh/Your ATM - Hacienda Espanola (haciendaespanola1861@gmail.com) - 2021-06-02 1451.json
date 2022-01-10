@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "ATM CARD FROM VIEW.JPG",
+            "size": 6059,
+            "extension": "jpg",
+            "hash": {
+                "md5": "a9b50a863719afff63c5a594f2bee30f",
+                "sha1": "e2f5271a3d05ce339e6cb5ee4b7374f3a157a074",
+                "sha256": "12f807a99000f948ce4572b8238ec3b1633ef7a271df7ffbcf174771f04dbc41",
+                "sha512": "2af0cc1918d6135685edd249aee7b34a41f4614bc72b8c48fe337797767a29162badca481d20b4eb3c84c70e5954b5fb37c5d227a1618eb9697c6d0df9a298c2"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"ATM CARD FROM VIEW.JPG\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"ATM CARD FROM VIEW.JPG\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "file0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attn: Eve\r\n\r\n\r\n\r\n                                RE- YOUR ATM / MASTER CARD (Valued\r\n$450,000)FILE No: ASVFC/02016/11\r\n\r\nThis is to inform you that we have agreed to release your fund worth\r\nof ($450,000) which will come via Global ATM Smart Card being funds\r\nrelease by the government on the short listed companies  / individuals\r\nbeing part of their over due payments\r\n\r\nAttached is the ATM Card, but we will not send it to you until we\r\nconfirm that you are the true beneficiary and the address where to\r\nsend it to, including the mode you will like to use and receive the\r\ncard.\r\n\r\nContact us immediately and have your ATM and make use of it without\r\nany delay, you will be able to be cashing maximum of $3,000 daily with\r\nthe MASTER ATM CARD when activated.\r\n\r\nSend your\r\n\r\nFull Names:.......\r\nAge:................\r\nOccupation:........\r\nHome Address:.......\r\nAnd A copy of your ID,Once we receive this information, we will\r\nproceed without delay\r\nYour Cell Number: number for us to call you as soon as the card is being sent.\r\n\r\nOur serving you better and fast depends on how dedicated you are and\r\nspeedy stop to every other communications that may distract the quick\r\nrelease of this Card to you.\r\n\r\nWe await your response.\r\n\r\nSincerely\r\nMrs Guadiola Fabrigaz\r\nCordinator\r\n",
+            "content_type": "text/plain",
+            "hash": "85e51efa9983042438c36d7205c3f401c401164ab7f3893dc088d7e642a4b812",
+            "boundary": "00000000000024415105c3c7ec97"
+        }
+    ],
+    "header": {
+        "subject": "Your ATM",
+        "from": "haciendaespanola1861@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-02T13:51:50+01:00",
+        "received_domain": [
+            "mail-vs1-f52.google.com"
+        ],
+        "received_ip": [
+            "2002:ab0:b9a::",
+            "209.85.217.52"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

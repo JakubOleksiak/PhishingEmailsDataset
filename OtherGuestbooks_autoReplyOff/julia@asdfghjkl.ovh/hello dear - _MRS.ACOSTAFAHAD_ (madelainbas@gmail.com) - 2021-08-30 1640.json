@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.acosta"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello My Friend!!!\r\n\r\nIt's hard to find a good person but am glad i found you and am happy\r\nand awaits your reply.\r\n\r\nIt's Urgent.\r\nBest Regards.\r\n\r\nMrs.ACOSTA Fahad.\r\n",
+            "content_type": "text/plain",
+            "hash": "7e6028015b37593511109fb7c9ffa4cb1ff07bd6b3bfd669f8ba99fa77b518e2"
+        }
+    ],
+    "header": {
+        "subject": "hello dear",
+        "from": "madelainbas@gmail.com",
+        "to": [],
+        "date": "2021-08-30T15:40:18+01:00",
+        "received_domain": [
+            "mail-io1-f47.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6638:2105::",
+            "209.85.166.47"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

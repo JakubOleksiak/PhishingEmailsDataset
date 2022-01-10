@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "\n--\nHello Lucky Winner,\nCongratulation, Your email has been selected among those that won a prize of a brand new (BMW-X6-M-Competition-in-Alpine-White) and a Cheque of Five Hundred Thousand United State Dollars ($500,000.00) from the international balloting programs held on the 2nd section by The Dubai Duty Free Millennium Millionaire in the United Arab Emirate (UAE).\nThe selection process was carried out through random selection in our computerized email selection system (ESS) from a database of over 250,000 email addresses drawn from all the continents of the world which you were selected. However, no tickets were sold but all email addresses were assigned to different ticket numbers for representation and privacy. \nPlease advise if you are in receipt of this email for more details.\nRegards,\nColm McLoughlin\nDirector of Representative\nMillennium Millionaire",
+            "content_type": "text/plain",
+            "hash": "63a83164964e74af200e90102a595b6091e808859ae56f334cebbb32c5d37fe2",
+            "boundary": "--ALT--nrHZoOPfipARs1F3b5aqmFVxoaRdKdFx1615294999"
+        }
+    ],
+    "header": {
+        "subject": "Att: Lucky Winner",
+        "from": "dubaidutyfree@my.com",
+        "to": [],
+        "date": "2021-03-09T16:03:19+03:00",
+        "received_email": [
+            "dubaidutyfree@my.com"
+        ],
+        "received_domain": [
+            "f11.my.com",
+            "e-aj.my.com",
+            "fallback1.my.com"
+        ],
+        "received_ip": [
+            "185.30.177.35",
+            "185.30.176.34"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

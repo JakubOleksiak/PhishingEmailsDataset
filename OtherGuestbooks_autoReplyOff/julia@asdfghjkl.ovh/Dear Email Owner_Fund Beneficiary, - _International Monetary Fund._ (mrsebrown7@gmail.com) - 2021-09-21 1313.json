@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "email": [
+                "wefxx1@outlook.com"
+            ],
+            "domain": [
+                "accounts.and",
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\n\r\nDear Email Owner/Fund Beneficiary,\r\n\r\nI sent this letter to you a month ago, but I did not hear from you,\r\nI'm not sure if you got it and that is why I am sending it again.\r\nFirstly, I'm Mrs. Kristalina Georgieva,\r\nManaging Director and Chairperson of the International Monetary Fund.\r\n\r\nIndeed, We have reviewed all the obstacles and problems surrounding\r\nyour uncompleted transaction and your inability to meet up with\r\ntransfer charges levied against you for the past transfer options.\r\n\r\nView our site for your confirmation 38\u00b053'56?N 77\u00b02'39?WWe the Board\r\nof Directors, World Bank and International Monetary Fund (IMF)\r\nWashington, D.C. in conjunction with The U.S. Department of the\r\nTreasury and some other relevant Investigation Agencies here in the\r\nUnited States of America has ordered our Foreign Payment Remittance\r\nUnit, United Bank of Africa ,West Coast to issue you a VISA Card,\r\nwhere your fund $5.5 millions has been uploaded, for further\r\nwithdrawing of your fund.\r\n\r\nDuring the course of our investigation, we discovered with dismay that\r\nyour payment has been unnecessarily Delayed by corrupt officials of\r\nthe Bank who are trying to divert your funds into their private\r\naccounts.And today we notify you that your fund has been credited into\r\na VISA Card by UBA Bank and also ready to be delivered to you.\r\n\r\nNow contact UBA Bank's secretary his name is Mr. Mark Frances, Email :\r\nwefxx1@outlook.com\r\n\r\nSend him the following information for the delivery of your accredited\r\nATM VISA Card to your address.\r\n\r\n1. Your Full Name ===============\r\n2. Your Country of Origin ===========\r\n3. Your Home address ===========\r\n4. Your Occupation ===============\r\n5. Your Age ====================\r\n6. Your Gender ====================\r\n7. Your phone number ===============\r\n\r\nNote that as we agreed you will only pay for the cost of shipment of\r\nthe uploaded Visa card.\r\n\r\nSincerely,\r\nMrs. Kristalina Georgieva\r\n",
+            "content_type": "text/plain",
+            "hash": "acf6cba5ca14194897cfd86b02b7c286db855c099e2c4da1e74c54464d9d8f7a"
+        }
+    ],
+    "header": {
+        "subject": "Dear Email Owner/Fund Beneficiary,",
+        "from": "mrsebrown7@gmail.com",
+        "to": [],
+        "date": "2021-09-21T04:13:36-07:00",
+        "received_domain": [
+            "mail-wr1-f52.google.com"
+        ],
+        "received_ip": [
+            "2002:adf:b19e::",
+            "209.85.221.52"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

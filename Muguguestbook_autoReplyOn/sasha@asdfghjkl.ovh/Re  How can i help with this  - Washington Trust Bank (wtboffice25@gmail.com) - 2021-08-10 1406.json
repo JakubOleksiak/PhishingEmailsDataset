@@ -1,0 +1,64 @@
+{
+    "attachment": [
+        {
+            "filename": "WTB_ID.jpg",
+            "size": 62626,
+            "extension": "jpg",
+            "hash": {
+                "md5": "6157e65ade0e190ca1d8195eb0e511b0",
+                "sha1": "9805200cb0e2cb3c118436b9c23de9538fe43d63",
+                "sha256": "18d4a7331a8a7a79c0547df8941058dd8ce1872f7fafc9f1657787d8d31871ba",
+                "sha512": "282431e502c6753021d12e99d382fa8d3fa191a5ca968fc0a5bd0519e5e27ccb10bbe95aed13fb2a8b3e814c78b73b08db144e26e75b455f1f54f7fd12a9123b"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"WTB_ID.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"WTB_ID.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_ks60ponh0>"
+                ],
+                "x-attachment-id": [
+                    "f_ks60ponh0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "See attached my working id card ....\r\nI wish to reinstate again that we cannot transfer your $200 million without\r\nthe needed Transfer Permit Certificate(TPC ) from office of the presidency\r\nUnited states of America  to enable United States Government give you\r\nimmunity coverage protection as soon as you start withdrawing your payment\r\nfrom your own account ...Transfer Permit Certificate(TPC) is the paramount\r\ndocument that supersedes any other documents related to your\r\ntransfer....The European Union, the British Monitoring Services Authority\r\n(BMS/FBI/IMF)and the United Nation can never permit such fund to be\r\nTransfer without the needed ...Transfer Permit Certificate(TPC) from the\r\noffice of the President of the United States even your  Government can\r\nrequest to sight a copy of the Certificate which is the only document that\r\n gives go ahead order to Transfer  your $200 million as legitimate without\r\nany further ... with the certificate America Government will back your\r\ntransfer up and stand with you till you receive all your payment complet\r\n$200 million .... Get back to advise you on how you will send the fees to\r\nthem....Thank you for banking with  us...Yours In service...\r\nMr. Peter F. Stanton\r\nChairman and CEO\r\nWashington Trust Bank.\r\nPhone number  :+1 509 676 4114\r\nAddress: 717 West Sprague Avenue\r\nSpokane, WA\r\n",
+            "content_type": "text/plain",
+            "hash": "8f3f6d78dc5c149a0fd52cc74e7e56066866999502ad1a35c31c54eb72eba3b7",
+            "boundary": "000000000000ea990305c933554a"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "wtboffice25@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-10T05:06:35-07:00",
+        "received_domain": [
+            "mail-lf1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.66"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

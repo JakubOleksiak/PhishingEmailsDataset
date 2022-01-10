@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear\r\nMy Name is Fred Benson. Contact me for more information on the\r\ntransfer of ($4.5M) left by my late client. I want to present you\r\nas business partner to my late client. I will give you the details of\r\nthis transaction, as soon as I hear from you. I need the information's\r\nbelow: Full Name: Address: Personal Telephone:\r\nBest Regards,\r\nMr. Fred Benson.\r\n",
+            "content_type": "text/plain",
+            "hash": "eb450f7ddb4c7c0cb019789f164da2ff794eaf41e7b2cdecff523227a651f7db"
+        }
+    ],
+    "header": {
+        "subject": "DEAR",
+        "from": "fb5088646@gmail.com",
+        "to": [],
+        "date": "2021-08-10T17:36:09+02:00",
+        "received_domain": [
+            "mail-io1-f67.google.com"
+        ],
+        "received_ip": [
+            "2002:a92:c00a::",
+            "209.85.166.67"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

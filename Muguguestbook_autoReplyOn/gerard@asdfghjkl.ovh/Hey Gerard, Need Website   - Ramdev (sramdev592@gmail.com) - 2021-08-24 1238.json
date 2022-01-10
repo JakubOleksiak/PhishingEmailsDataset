@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Dear, Gerard*\r\n\r\n\r\n* Hope you are doing good.*\r\n\r\n*I am SEO Consultant from a leading Search Engine Optimization (SEO)\r\nCompany.*\r\n\r\n *Would you like to increase the leads/sales generated from your website or\r\nwant to become first page ranking on Google, Yahoo & Bing? We can help you\r\nto promote your website.*\r\n\r\n *Let me know if you are interested then I will send you our Packages and\r\nprice list.*\r\n\r\n*Thanks & Regards,*\r\n\r\n*Ramdev Sharma*\r\n\r\n*SEO Consultant*\r\n[image: beacon]\r\n",
+            "content_type": "text/plain",
+            "hash": "5dca206cc9bd0401c4bdf06e0e888af84e3a47df89b8f451f247a89ccaf185fe",
+            "boundary": "000000000000339b4705ca4bbd63"
+        }
+    ],
+    "header": {
+        "subject": "Hey Gerard, Need Website ?",
+        "from": "sramdev592@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-24T03:38:48-07:00",
+        "received_domain": [
+            "mail-oo1-f68.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.161.68"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Dear Sir,\r\n\r\nFinancial Assets UK leads in the financial service industry. Our mandate is from Lloyds Bank UK and we provide bank instruments like BG Bank Guarantee and Standby Letters of Credit SBLC. We are committed to serving you better with easy and affordable loans and bank guarantees with varieties of options to choose from.\r\n\r\nWe also offer MT103,Business Loan,Project funding,Import and export finance,Agric Loan,Issuance of SBLC etc\r\nPlease let us know where we can be of help to you.\r\n\r\nWe are open 6 days a week, Monday-through-Saturday.\r\n\r\nContact me for more details.\r\nSUSAN THERN\r\nEmail: susantherns@gmail.com\r\n\r\n\r\n\r\nRegards\r\n\r\n\r\nSusan Thern\r\n\r\nFinancial Assets UK\r\n3 Belsize Place Belsize Place, \r\nLondon, Nw3 5al\r\n",
+            "content_type": "text/plain",
+            "hash": "d815607bfe784f87f0346f65393696c65a533886aa43b7cbea3e8b2350e7972d"
+        }
+    ],
+    "header": {
+        "subject": "We Provide BG,SBLC.MT103, Project Funding.",
+        "from": "susanthernss@gmail.com",
+        "to": [],
+        "date": "2021-08-31T01:50:54+03:00",
+        "received_email": [
+            "susanthernss@gmail.com"
+        ],
+        "received_domain": [
+            "node.getopta.com"
+        ],
+        "received_ip": [
+            "167.71.247.242"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

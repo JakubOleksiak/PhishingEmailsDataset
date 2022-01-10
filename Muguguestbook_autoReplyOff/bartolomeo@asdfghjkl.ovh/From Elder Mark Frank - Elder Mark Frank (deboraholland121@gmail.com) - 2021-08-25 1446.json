@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "mr.markidriss@gmail.com"
+            ],
+            "domain": [
+                "country.we",
+                "beneficiary.kindly",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Beneficiary\r\n\r\nThis is to inform you about the prevailing security report going on now and\r\nthe intense nature of polity going on in my country.We have decided to\r\ncontact you about our plan to send the overdraft funds valued at US$25.3\r\nMillion  via  wire transfer as the beneficiary.Kindly send your full\r\ninformation and Reply to: mr.markidriss@gmail.com\r\nRegards\r\nElder Mark Frank\r\n",
+            "content_type": "text/plain",
+            "hash": "17363eba9c0de980d939eaccb5ab34f8aaf83cfaf01db56cf8e4971fcc5af4c7"
+        }
+    ],
+    "header": {
+        "subject": "From Elder Mark Frank",
+        "from": "deboraholland121@gmail.com",
+        "to": [],
+        "date": "2021-08-25T13:46:33+01:00",
+        "received_domain": [
+            "mail-lj1-f173.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6520:2ed3:b0:138:b0b6:a86a",
+            "209.85.208.173"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

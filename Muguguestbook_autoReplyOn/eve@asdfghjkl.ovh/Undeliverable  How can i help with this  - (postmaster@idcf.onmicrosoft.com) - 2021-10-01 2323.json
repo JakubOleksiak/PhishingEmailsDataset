@@ -1,0 +1,186 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1885,
+            "hash": {
+                "md5": "e2172176d09da3126dfcd8a98c3365d7",
+                "sha1": "b43f2f5d490bbdd4b89c9c1f6fa8b62e0c344dc4",
+                "sha256": "9b2f47c31f9812f0733c7d1e46e6021741a97fcbdce032f48ded05dabe6b239c",
+                "sha512": "b0d136f914306cf7f4727e294f90a8507719eaf1cb3b28e54de95d0008b5f9a1faea092d72ad2ccbbf98b77481bffe62e3964d51efa767c0d5c7435bb1f2473c"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "uri": [
+                "https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470]",
+                "https://go.microsoft.com/fwlink/?LinkId=525921",
+                "https://go.microsoft.com/fwlink/?LinkId=532972"
+            ],
+            "email": [
+                "test@idcfcloud.net",
+                "eve@asdfghjkl.ovh",
+                "eve@a",
+                "fe4e139a-e818-4537-86d5-16e309d9df6e@desktop-9avsair"
+            ],
+            "domain": [
+                "products.office.com",
+                "idcfcloud.net",
+                "go.microsoft.com",
+                "asdfghjkl.ovh",
+                "tyapr01mb5264.jpnprd01.prod.outlook.com",
+                "os2jpn01ft011.mail.protection.outlook.com",
+                "os2jpn01ft011.eop-jpn01.prod.protection.outlook.com",
+                "os3pr01ca0047.outlook.office365.com",
+                "os3pr01ca0047.jpnprd01.prod.outlook.com",
+                "15.20.4566.14",
+                "185.25.217.220",
+                "10.152.184.121"
+            ],
+            "ip": [
+                "2603:1096:604:dd::16",
+                "2603:1096:404:12e::11",
+                "185.25.217.220",
+                "2603:1096:604:dd:cafe::c1"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470]\r\nYour message to test@idcfcloud.net couldn't be delivered.\r\ntest wasn't found at idcfcloud.net.\r\neve     Office 365      test\r\nAction Required                 Recipient\r\nUnknown To address\r\n\r\nHow to Fix It\r\nThe address may be misspelled or may not exist. Try one or more of the following:\r\n\r\n  *   Send the message again following these steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web, select this NDR, then select the link \"To send this message again, click here.\" Then delete and retype the entire recipient address. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send.\r\n  *   Contact the recipient (by phone, for example) to check that the address exists and is correct.\r\n  *   The recipient may have set up email forwarding to an incorrect address. Ask them to check that any forwarding they've set up is working correctly.\r\n  *   Clear the recipient Auto-Complete List in Outlook or Outlook on the web by following the steps in this article: Fix email delivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=532972>, and then send the message again. Retype the entire recipient address before selecting Send.\r\n\r\nIf the problem continues, forward this message to your email admin. If you're an email admin, refer to the More Info for Email Admins section below.\r\n\r\nWas this helpful? Send feedback to Microsoft<https://go.microsoft.com/fwlink/?LinkId=525921>.\r\n________________________________\r\n\r\nMore Info for Email Admins\r\nStatus code: 550 5.1.10\r\n\r\nThis error occurs because the sender sent a message to an email address hosted by Office 365 but the address is incorrect or doesn't exist at the destination domain. The error is reported by the recipient domain's email server, but most often it must be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:\r\n\r\nThe email address exists and is correct - Confirm that the recipient address exists, is correct, and is accepting messages.\r\n\r\nSynchronize your directories - If you have a hybrid environment and are using directory synchronization make sure the recipient's email address is synced correctly in both Office 365 and in your on-premises directory.\r\n\r\nErrant forwarding rule - Check for forwarding rules that aren't behaving as expected. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Inbox Rules feature.\r\n\r\nRecipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license (Users > Active Users > select the recipient > Assigned License > Edit).\r\n\r\nMail flow settings and MX records are not correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are configured correctly.\r\n\r\nFor more information and additional tips to fix this issue, see Fix email delivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=532972>.\r\n\r\nOriginal Message Details\r\nCreated Date:   10/1/2021 9:22:17 PM\r\nSender Address: eve@asdfghjkl.ovh\r\nRecipient Address:      test@idcfcloud.net\r\nSubject:        How can i help with this?\r\n\r\nError Details\r\nReported error: 550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient test@idcfcloud.net not found by SMTP address lookup\r\nDSN generated by:       TYAPR01MB5264.jpnprd01.prod.outlook.com\r\n\r\nMessage Hops\r\nHOP     TIME (UTC)      FROM    TO      WITH    RELAY TIME\r\n1       10/1/2021\r\n9:23:43 PM      DESKTOP-9AVSAIR OS2JPN01FT011.mail.protection.outlook.com       Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    1 min, 26 sec\r\n2       10/1/2021\r\n9:23:44 PM      OS2JPN01FT011.eop-JPN01.prod.protection.outlook.com     OS3PR01CA0047.outlook.office365.com     Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    1 sec\r\n3       10/1/2021\r\n9:23:44 PM      OS3PR01CA0047.jpnprd01.prod.outlook.com TYAPR01MB5264.jpnprd01.prod.outlook.com Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    *\r\n\r\nOriginal Message Headers\r\n\r\nReceived: from OS3PR01CA0047.jpnprd01.prod.outlook.com (2603:1096:604:dd::16)\r\n by TYAPR01MB5264.jpnprd01.prod.outlook.com (2603:1096:404:12e::11) with\r\n Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4544.15; Fri, 1 Oct\r\n 2021 21:23:44 +0000\r\nReceived: from OS2JPN01FT011.eop-JPN01.prod.protection.outlook.com\r\n (2603:1096:604:dd:cafe::c1) by OS3PR01CA0047.outlook.office365.com\r\n (2603:1096:604:dd::16) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4566.14 via Frontend\r\n Transport; Fri, 1 Oct 2021 21:23:44 +0000\r\nAuthentication-Results: spf=none (sender IP is 185.25.217.220)\r\n smtp.mailfrom=asdfghjkl.ovh; idcfcloud.net; dkim=none (message not signed)\r\n header.d=none;idcfcloud.net; dmarc=none action=none\r\n header.from=asdfghjkl.ovh;\r\nReceived-SPF: None (protection.outlook.com: asdfghjkl.ovh does not designate\r\n permitted sender hosts)\r\nReceived: from DESKTOP-9AVSAIR (185.25.217.220) by\r\n OS2JPN01FT011.mail.protection.outlook.com (10.152.184.121) with Microsoft\r\n SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id\r\n 15.20.4566.14 via Frontend Transport; Fri, 1 Oct 2021 21:23:43 +0000\r\nContent-Type: text/plain; charset=\"utf-8\"\r\nMIME-Version: 1.0\r\nReturn-Path: eve@asdfghjkl.ovh\r\nMessage-ID: <FE4E139A-E818-4537-86D5-16E309D9DF6E@DESKTOP-9AVSAIR>\r\nDate: Fri, 1 Oct 2021 23:22:17 +0200\r\nFrom: eve@asdfghjkl.ovh\r\nTo: test@idcfcloud.net\r\nSubject: How can i help with this?\r\nContent-Transfer-Encoding: quoted-printable\r\nAuto-Submitted: auto-replied\r\nX-hMailServer-LoopCount: 1\r\nX-EOPAttributedMessage: 0\r\nX-EOPTenantAttributedMessage: 15db58ca-10a2-43be-a992-a5b9b8e3d826:0\r\nX-MS-PublicTrafficType: Email\r\nX-MS-Office365-Filtering-Correlation-Id: 9f611a80-6ff9-4c4b-e5b2-08d98521bf6e\r\nX-MS-TrafficTypeDiagnostic: TYAPR01MB5264:\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "3b4725878f1841f792b5d002f35223a09d7321ed97b164fbaae07d2673bc6425",
+            "boundary": "1e4c20d3-a784-4d11-9d9a-8d6a21384667"
+        },
+        {
+            "content_header": {
+                "reporting-mta": [
+                    "dns;TYAPR01MB5264.jpnprd01.prod.outlook.com"
+                ],
+                "received-from-mta": [
+                    "dns;DESKTOP-9AVSAIR"
+                ],
+                "arrival-date": [
+                    "Fri, 1 Oct 2021 21:23:44 +0000"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822;test@idcfcloud.net"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.1.10"
+                ],
+                "diagnostic-code": [
+                    "smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient test@idcfcloud.net not found by SMTP address lookup"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {},
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "received": [
+                    "from OS3PR01CA0047.jpnprd01.prod.outlook.com (2603:1096:604:dd::16) by TYAPR01MB5264.jpnprd01.prod.outlook.com (2603:1096:404:12e::11) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4544.15; Fri, 1 Oct 2021 21:23:44 +0000",
+                    "from OS2JPN01FT011.eop-JPN01.prod.protection.outlook.com (2603:1096:604:dd:cafe::c1) by OS3PR01CA0047.outlook.office365.com (2603:1096:604:dd::16) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4566.14 via Frontend Transport; Fri, 1 Oct 2021 21:23:44 +0000",
+                    "from DESKTOP-9AVSAIR (185.25.217.220) by OS2JPN01FT011.mail.protection.outlook.com (10.152.184.121) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4566.14 via Frontend Transport; Fri, 1 Oct 2021 21:23:43 +0000"
+                ],
+                "authentication-results": [
+                    "spf=none (sender IP is 185.25.217.220) smtp.mailfrom=asdfghjkl.ovh; idcfcloud.net; dkim=none (message not signed) header.d=none;idcfcloud.net; dmarc=none action=none header.from=asdfghjkl.ovh;"
+                ],
+                "received-spf": [
+                    "None (protection.outlook.com: asdfghjkl.ovh does not designate permitted sender hosts)"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "return-path": [
+                    "eve@asdfghjkl.ovh"
+                ],
+                "message-id": [
+                    "<FE4E139A-E818-4537-86D5-16E309D9DF6E@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Fri, 01 Oct 2021 23:22:17 +0200"
+                ],
+                "from": [
+                    "eve@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "test@idcfcloud.net"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ],
+                "x-eopattributedmessage": [
+                    "0"
+                ],
+                "x-eoptenantattributedmessage": [
+                    "15db58ca-10a2-43be-a992-a5b9b8e3d826:0"
+                ],
+                "x-ms-publictraffictype": [
+                    "Email"
+                ],
+                "x-ms-office365-filtering-correlation-id": [
+                    "9f611a80-6ff9-4c4b-e5b2-08d98521bf6e"
+                ],
+                "x-ms-traffictypediagnostic": [
+                    "TYAPR01MB5264:"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nEve\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "76ce2c4ebd3b59378f13ade0c96d812ab8a0b72320d8d7269fd3368c43630a3c"
+        }
+    ],
+    "header": {
+        "subject": "Undeliverable: How can i help with this?",
+        "from": "postmaster@idcf.onmicrosoft.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-01T21:23:45+00:00",
+        "received_domain": [
+            "jpn01-ty1-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "52.100.189.224"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

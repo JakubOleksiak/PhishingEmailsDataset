@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "*wwwrlnd@outlook.com",
+                "wwwrlnd@outlook.com"
+            ],
+            "domain": [
+                "w.arnold",
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Please I need your Co-operation.\r\n\r\nW.Arnold\r\n\r\n*wwwrlnd@outlook.com <wwwrlnd@outlook.com>*\r\n",
+            "content_type": "text/plain",
+            "hash": "6e88053c72e0958d95fb36e307d7237a97a6ec53455a73cb0e54f97e529ba559",
+            "boundary": "000000000000a27c3005cb0bab77"
+        }
+    ],
+    "header": {
+        "subject": "Is this your personal email?",
+        "from": "wwwrnld2@gmail.com",
+        "to": [],
+        "date": "2021-09-03T01:37:33+02:00",
+        "received_domain": [
+            "mail-pj1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.49"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

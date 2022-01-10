@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Saudi Aramco Crude Oil Company. P.O. Box 5000. Dhahran 31311, Dhahran-Saudi Arabia. \r\n Good Day, \r\n Sorry for breaking into your privacy. I have a legit and genuine lucrative business deal to discuss with you. Can i trust you to be a sincere partner to handle the business? For more information reply back. \r\n Mrs. Reem Nasser, Sales/Marketing Manager Saudi Aramco Crude Oil Company.",
+            "content_type": "text/plain",
+            "hash": "27b0f1ebdbb7ad3e4d31b8c36cd663b5977f599a3ff6d7a0025625892cd56ee9",
+            "boundary": "===============1059700986=="
+        }
+    ],
+    "header": {
+        "subject": "Oil Deal!",
+        "from": "no-reply@saudiaramco.com",
+        "to": [
+            "no-reply@saudiaramco.com"
+        ],
+        "date": "2021-09-02T05:40:43+02:00",
+        "received_domain": [
+            "mx-relay72-hz1.antispameurope.com",
+            "mail.comune.sansepolcro.ar.it",
+            "zimbra.comune.sansepolcro.ar.it"
+        ],
+        "received_ip": [
+            "94.100.133.236",
+            "23.175.48.198",
+            "159.213.92.212"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

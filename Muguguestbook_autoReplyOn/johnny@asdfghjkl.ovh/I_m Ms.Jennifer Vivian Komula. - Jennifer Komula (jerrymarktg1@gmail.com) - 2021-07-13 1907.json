@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "domain": [
+                "life.there",
+                "details.jennifer"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "It's my pleasure to contact you for a business venture which I intend\r\nto  establish in your country, though I have not met with you before\r\nbut I  believe one has to risk, confiding in someone to succeed\r\nsometimes in life.There is this huge amount of money, (US $3.500, 000)\r\nwhich I inherit  from my late father and is deposited in a finance\r\nfirm here in Lome Togo  .Now I decided to invest this money in your\r\ncountry please contact me for  more details.Jennifer Vivian Komula\r\n",
+            "content_type": "text/plain",
+            "hash": "844fca3ef881871cb8609b747ac30cc7e59518d0f8f0fb2786f0d89f4720bd58"
+        }
+    ],
+    "header": {
+        "subject": "I'm Ms.Jennifer Vivian Komula.",
+        "from": "jerrymarktg1@gmail.com",
+        "to": [],
+        "date": "2021-07-13T17:07:04+00:00",
+        "received_domain": [
+            "mail-yb1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.178",
+            "2002:a05:7010:380d:b029:c0:83f3:b26c"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

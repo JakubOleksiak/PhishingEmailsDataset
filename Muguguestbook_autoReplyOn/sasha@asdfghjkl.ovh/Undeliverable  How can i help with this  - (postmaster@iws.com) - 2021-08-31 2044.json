@@ -1,0 +1,187 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1878,
+            "hash": {
+                "md5": "f0d7163dffcb8cc84e21c7eeb9576ee4",
+                "sha1": "88b5a1a5ac59cc278c138e615fc9035e10cd8dc5",
+                "sha256": "dc060da5b8f2cb856b26eafc8d7d9faab774e2317d426fd8aecbd55b9110fe7d",
+                "sha512": "07f35be9808f3645b4f07dacdb3dbf204a74fb6cce347635b446b01bcd075e57ef808286c276d3944bc4a0eb48d1af9344d5d5ff312611f54844e554e1eb057f"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "uri": [
+                "https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470]",
+                "https://go.microsoft.com/fwlink/?LinkId=525921",
+                "https://go.microsoft.com/fwlink/?LinkId=532972"
+            ],
+            "email": [
+                "egcjekzqn@iws.com",
+                "sasha@asdfghjkl.ovh",
+                "0c35158c-0e42-4efe-b55b-f08e13fff264@desktop-9avsair"
+            ],
+            "domain": [
+                "products.office.com",
+                "iws.com",
+                "go.microsoft.com",
+                "asdfghjkl.ovh",
+                "ch0p223mb0153.namp223.prod.outlook.com",
+                "mw2nam10ft057.mail.protection.outlook.com",
+                "mw2nam10ft057.eop-nam10.prod.protection.outlook.com",
+                "mw4pr04ca0383.outlook.office365.com",
+                "mw4pr04ca0383.namprd04.prod.outlook.com",
+                "15.20.4457.21",
+                "185.25.217.220",
+                "header.from",
+                "10.13.154.229",
+                "15.20.4478.19"
+            ],
+            "ip": [
+                "2603:10b6:303:81::28",
+                "2603:10b6:610:f5::16",
+                "185.25.217.220",
+                "2603:10b6:303:81:cafe::b8"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470]\r\nYour message to egcjekzqn@iws.com couldn't be delivered.\r\negcjekzqn wasn't found at iws.com.\r\nsasha   Office 365      egcjekzqn\r\nAction Required                 Recipient\r\nUnknown To address\r\n\r\nHow to Fix It\r\nThe address may be misspelled or may not exist. Try one or more of the following:\r\n\r\n  *   Send the message again following these steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web, select this NDR, then select the link \"To send this message again, click here.\" Then delete and retype the entire recipient address. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send.\r\n  *   Contact the recipient (by phone, for example) to check that the address exists and is correct.\r\n  *   The recipient may have set up email forwarding to an incorrect address. Ask them to check that any forwarding they've set up is working correctly.\r\n  *   Clear the recipient Auto-Complete List in Outlook or Outlook on the web by following the steps in this article: Fix email delivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=532972>, and then send the message again. Retype the entire recipient address before selecting Send.\r\n\r\nIf the problem continues, forward this message to your email admin. If you're an email admin, refer to the More Info for Email Admins section below.\r\n\r\nWas this helpful? Send feedback to Microsoft<https://go.microsoft.com/fwlink/?LinkId=525921>.\r\n________________________________\r\n\r\nMore Info for Email Admins\r\nStatus code: 550 5.1.10\r\n\r\nThis error occurs because the sender sent a message to an email address hosted by Office 365 but the address is incorrect or doesn't exist at the destination domain. The error is reported by the recipient domain's email server, but most often it must be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:\r\n\r\nThe email address exists and is correct - Confirm that the recipient address exists, is correct, and is accepting messages.\r\n\r\nSynchronize your directories - If you have a hybrid environment and are using directory synchronization make sure the recipient's email address is synced correctly in both Office 365 and in your on-premises directory.\r\n\r\nErrant forwarding rule - Check for forwarding rules that aren't behaving as expected. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Inbox Rules feature.\r\n\r\nRecipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license (Users > Active Users > select the recipient > Assigned License > Edit).\r\n\r\nMail flow settings and MX records are not correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are configured correctly.\r\n\r\nFor more information and additional tips to fix this issue, see Fix email delivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=532972>.\r\n\r\nOriginal Message Details\r\nCreated Date:   8/31/2021 6:43:20 PM\r\nSender Address: sasha@asdfghjkl.ovh\r\nRecipient Address:      egcjekzqn@iws.com\r\nSubject:        How can i help with this?\r\n\r\nError Details\r\nReported error: 550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient egcjekzqn@iws.com not found by SMTP address lookup\r\nDSN generated by:       CH0P223MB0153.NAMP223.PROD.OUTLOOK.COM\r\n\r\nMessage Hops\r\nHOP     TIME (UTC)      FROM    TO      WITH    RELAY TIME\r\n1       8/31/2021\r\n6:44:20 PM      DESKTOP-9AVSAIR MW2NAM10FT057.mail.protection.outlook.com       Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    1 min\r\n2       8/31/2021\r\n6:44:22 PM      MW2NAM10FT057.eop-nam10.prod.protection.outlook.com     MW4PR04CA0383.outlook.office365.com     Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    2 sec\r\n3       8/31/2021\r\n6:44:22 PM      MW4PR04CA0383.namprd04.prod.outlook.com CH0P223MB0153.NAMP223.PROD.OUTLOOK.COM  Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    *\r\n\r\nOriginal Message Headers\r\n\r\nReceived: from MW4PR04CA0383.namprd04.prod.outlook.com (2603:10b6:303:81::28)\r\n by CH0P223MB0153.NAMP223.PROD.OUTLOOK.COM (2603:10b6:610:f5::16) with\r\n Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4478.17; Tue, 31 Aug\r\n 2021 18:44:22 +0000\r\nReceived: from MW2NAM10FT057.eop-nam10.prod.protection.outlook.com\r\n (2603:10b6:303:81:cafe::b8) by MW4PR04CA0383.outlook.office365.com\r\n (2603:10b6:303:81::28) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4457.21 via Frontend\r\n Transport; Tue, 31 Aug 2021 18:44:22 +0000\r\nAuthentication-Results: spf=none (sender IP is 185.25.217.220)\r\n smtp.mailfrom=asdfghjkl.ovh; iws.com; dkim=none (message not signed)\r\n header.d=none;iws.com; dmarc=none action=none header.from=asdfghjkl.ovh;\r\nReceived-SPF: None (protection.outlook.com: asdfghjkl.ovh does not designate\r\n permitted sender hosts)\r\nReceived: from DESKTOP-9AVSAIR (185.25.217.220) by\r\n MW2NAM10FT057.mail.protection.outlook.com (10.13.154.229) with Microsoft SMTP\r\n Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id\r\n 15.20.4478.19 via Frontend Transport; Tue, 31 Aug 2021 18:44:20 +0000\r\nContent-Type: text/plain; charset=\"utf-8\"\r\nMIME-Version: 1.0\r\nReturn-Path: sasha@asdfghjkl.ovh\r\nMessage-ID: <0C35158C-0E42-4EFE-B55B-F08E13FFF264@DESKTOP-9AVSAIR>\r\nDate: Tue, 31 Aug 2021 20:43:20 +0200\r\nFrom: sasha@asdfghjkl.ovh\r\nTo: egcjekzqn@iws.com\r\nSubject: How can i help with this?\r\nContent-Transfer-Encoding: quoted-printable\r\nAuto-Submitted: auto-replied\r\nX-hMailServer-LoopCount: 1\r\nX-EOPAttributedMessage: 0\r\nX-EOPTenantAttributedMessage: 6bf40abb-3e44-48aa-bc1d-c37f8d0d2fdc:0\r\nX-MS-PublicTrafficType: Email\r\nX-MS-Office365-Filtering-Correlation-Id: efbf95cb-846d-46da-eb43-08d96caf58c9\r\nX-MS-TrafficTypeDiagnostic: CH0P223MB0153:\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c04723d4fcb19f948332c61cc0601e1a769bd70c83641bbdb4b16a07da77c736",
+            "boundary": "2c719da3-9730-401c-968d-85fb05fddb92"
+        },
+        {
+            "content_header": {
+                "reporting-mta": [
+                    "dns;CH0P223MB0153.NAMP223.PROD.OUTLOOK.COM"
+                ],
+                "received-from-mta": [
+                    "dns;DESKTOP-9AVSAIR"
+                ],
+                "arrival-date": [
+                    "Tue, 31 Aug 2021 18:44:22 +0000"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822;egcjekzqn@iws.com"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.1.10"
+                ],
+                "diagnostic-code": [
+                    "smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient egcjekzqn@iws.com not found by SMTP address lookup"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {},
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "received": [
+                    "from MW4PR04CA0383.namprd04.prod.outlook.com (2603:10b6:303:81::28) by CH0P223MB0153.NAMP223.PROD.OUTLOOK.COM (2603:10b6:610:f5::16) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4478.17; Tue, 31 Aug 2021 18:44:22 +0000",
+                    "from MW2NAM10FT057.eop-nam10.prod.protection.outlook.com (2603:10b6:303:81:cafe::b8) by MW4PR04CA0383.outlook.office365.com (2603:10b6:303:81::28) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4457.21 via Frontend Transport; Tue, 31 Aug 2021 18:44:22 +0000",
+                    "from DESKTOP-9AVSAIR (185.25.217.220) by MW2NAM10FT057.mail.protection.outlook.com (10.13.154.229) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4478.19 via Frontend Transport; Tue, 31 Aug 2021 18:44:20 +0000"
+                ],
+                "authentication-results": [
+                    "spf=none (sender IP is 185.25.217.220) smtp.mailfrom=asdfghjkl.ovh; iws.com; dkim=none (message not signed) header.d=none;iws.com; dmarc=none action=none header.from=asdfghjkl.ovh;"
+                ],
+                "received-spf": [
+                    "None (protection.outlook.com: asdfghjkl.ovh does not designate permitted sender hosts)"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "return-path": [
+                    "sasha@asdfghjkl.ovh"
+                ],
+                "message-id": [
+                    "<0C35158C-0E42-4EFE-B55B-F08E13FFF264@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Tue, 31 Aug 2021 20:43:20 +0200"
+                ],
+                "from": [
+                    "sasha@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "egcjekzqn@iws.com"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ],
+                "x-eopattributedmessage": [
+                    "0"
+                ],
+                "x-eoptenantattributedmessage": [
+                    "6bf40abb-3e44-48aa-bc1d-c37f8d0d2fdc:0"
+                ],
+                "x-ms-publictraffictype": [
+                    "Email"
+                ],
+                "x-ms-office365-filtering-correlation-id": [
+                    "efbf95cb-846d-46da-eb43-08d96caf58c9"
+                ],
+                "x-ms-traffictypediagnostic": [
+                    "CH0P223MB0153:"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nSasha\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "04bf30daae90260bfaf0df1ab59a8b9ac8ed74d1de14e14f94b7172c512904e1"
+        }
+    ],
+    "header": {
+        "subject": "Undeliverable: How can i help with this?",
+        "from": "postmaster@iws.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-31T18:44:22+00:00",
+        "received_domain": [
+            "nam12-dm6-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "52.100.166.201"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "homefortheneedy06@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-disposition": [
+                    "inline"
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": " Do you need an urgent loan? Then worry no more contact us via homefortheneedy06@gmail.com for more information ..\r\n",
+            "content_type": "text/plain",
+            "hash": "347846c86f31e3e1e31bba5063b7985082d3d5ce55d7f55d25377ab939a3404a",
+            "boundary": "--84ea1e3717acf56937e58c037e6fe685"
+        }
+    ],
+    "header": {
+        "subject": "[** SPAM **][** SPAM **]",
+        "from": "yann-gael.huard@ac-nantes.fr",
+        "to": [],
+        "date": "2021-06-24T01:17:33+01:00",
+        "received_domain": [
+            "ac-nantes.fr",
+            "neuville.ac-nantes.fr",
+            "blosserie.ac-nantes.fr",
+            "cheville.in.ac-nantes.fr"
+        ],
+        "received_ip": [
+            "197.251.240.41",
+            "195.83.167.123"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

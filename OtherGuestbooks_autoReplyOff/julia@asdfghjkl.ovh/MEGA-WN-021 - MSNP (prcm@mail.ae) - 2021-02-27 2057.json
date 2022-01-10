@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "billfile101@outlook.com"
+            ],
+            "domain": [
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n-- \r\nThis email has won  2,000,000.00 from MICROSOFTCOMPANY/Belinda and Bill\r\nGate's Foundation.\r\nSend Names.......................\r\nAddress........................\r\nPhone .............................\r\nFor claims via: billfile101@outlook.com\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "af702452086faf7029146838b3d407741fabcbb3fe387f0fd38a51b04dfb5043"
+        }
+    ],
+    "header": {
+        "subject": "MEGA-WN-021",
+        "from": "prcm@mail.ae",
+        "to": [],
+        "date": "2021-02-27T20:57:40+01:00",
+        "received_domain": [
+            "webmail.nerim.fr",
+            "mallaury.nerim.net"
+        ],
+        "received_ip": [
+            "80.65.239.138",
+            "178.132.17.106"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

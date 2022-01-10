@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "294.64usd"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Dear Customer,*\r\n\r\n\r\n\r\n***Your plan for NORTON PC 360 has been successfully renewed & restored.***\r\n\r\n\r\n\r\n**The total payment will be reflected within next *24 to 48* hours on your\r\na/c statement.**\r\n\r\n\r\n\r\n  **PRODUCT DESCRIPTION**\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nInvoice No                         :     BHU2021AA\r\n\r\n\r\n\r\n  Product Name                  :       NORTON PC\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n  Order Date                        :       9th September 2021\r\n\r\n\r\n\r\n  End Date                            :       1 year from the date of\r\npurchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nAmount                              :       $ 294.64USD\r\n\r\n\r\n\r\n      Payment Method             :       AUTO DEBIT\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to contact our\r\nbilling department as soon as *possible. **\r\n\r\n\r\n\r\nYou can Reach us on      *+1   \u2013   (888)   \u2013   (331)   \u2013   (5129)*\r\n\r\n\r\n\r\n\r\n\r\n*Regards,*\r\n\r\n\r\n\r\n*Billing Department*\r\n",
+            "content_type": "text/plain",
+            "hash": "f27e6330be5531776f3fd4cdcb1c51115e50e0fadb3530509d240538b5f1029b",
+            "boundary": "000000000000a90f0105cb8fa906"
+        }
+    ],
+    "header": {
+        "subject": "BILL BHU2021AA",
+        "from": "annjack5472@gmail.com",
+        "to": [],
+        "date": "2021-09-09T18:36:01+05:30",
+        "received_domain": [
+            "mail-wm1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.41"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

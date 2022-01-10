@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "finaccial@citromail.hu"
+            ],
+            "domain": [
+                "only.the",
+                "citromail.hu"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am responsible for representing your outgoing pending\r\ninheritance/contract funds approved by World Monetary Institution,\r\nwhich has been delayed due to the problems on cash movement and\r\ntransfer of Huge sums of money. This is to inform you that your\r\npayment has been effected through a new secure system for making fast\r\nconfirmed payments overseas .The account is set up under your\r\nemail address only.The fund is in escrow account for your receipt via\r\nyour email address and\r\ncannot be recalled without the codes. Diplomatic Cash Ventures\r\nshould have sent you an email by now with details such as when and\r\nwhere to pick up the cash. You can pick up the cash at any of the convenient\r\nlocations in your area. If there are no convenient locations near you,\r\nso you are advised to pay $500 to enable your money to be transferred via\r\nWestern Union, Money Gram, or others within 72 hours.\r\nIf you have not received your withdrawals code yet please make the\r\npayment of $500 to enable\r\nthe programming of your information in the micro chip compartment of\r\ncentral computer and your code will be send to you ,\r\nReconfirm the following information below and send a copy to the fund\r\nrelease office via email:  finaccial@citromail.hu\r\nFull Names and Complete address: -------------------------------\r\nTel number:......................................\r\nYour receiver Email: ----------------------------------\r\nYour Transaction Number: Are 1356990745 Transaction Amount:\r\n$ 1.2 Million.\r\nRegards Mr Johnson Mike\r\nHSBC telex Transfer officer.\r\n",
+            "content_type": "text/plain",
+            "hash": "e0416ef00f6234bf4d95edc34a24ab658e43b43211f7abb575abb8e6bab57a74"
+        }
+    ],
+    "header": {
+        "subject": "waiting transfer",
+        "from": "johnson303mike@gmail.com",
+        "to": [],
+        "date": "2021-09-11T14:03:51-07:00",
+        "received_domain": [
+            "mail-pg1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.194",
+            "2002:a17:90b:1b12::"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

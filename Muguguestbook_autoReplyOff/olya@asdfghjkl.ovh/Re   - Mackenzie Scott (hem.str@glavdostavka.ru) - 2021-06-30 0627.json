@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\n\r\nHello, i'm Mackenzie Scott Ex-wife of Amazon founder and CEO, i'm donating $ 4 billion to charities, individuals, colleges across the Globe from Scott's foundation, to provide immediate support to people suffering economically from COVID-19 pandemic and you're one of the lucky winners, i have a donation grant worth $ 100,800,000.00 Dollars for you, you can contact me for more information if you're interested.\r\nBest regards, \r\nMackenzie Scott.",
+            "content_type": "text/plain",
+            "hash": "d13f3ddc37f355e16a20b249fd9a66f1dea8a2d2b6d4bb3b060fa53fd8a8130c",
+            "boundary": "=_82f857b6-3e71-46a7-8645-4f2d4f26fa78"
+        }
+    ],
+    "header": {
+        "subject": "Re:",
+        "from": "hem.str@glavdostavka.ru",
+        "to": [],
+        "date": "2021-06-30T07:27:48+03:00",
+        "received_domain": [
+            "mail.mail-gd.ru"
+        ],
+        "received_ip": [
+            "217.65.2.60"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

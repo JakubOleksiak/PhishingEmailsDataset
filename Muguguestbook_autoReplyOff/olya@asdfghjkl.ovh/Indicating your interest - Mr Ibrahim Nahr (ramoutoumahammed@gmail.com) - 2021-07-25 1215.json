@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nGreetings Friend\r\n\r\nI am writing you this letter based on the latest development at my Branch\r\nwhich I will like to bring to your personal Information (8.5.million Euro )\r\nThis is a legitimate transaction and The Sum will be shared for me  60% and\r\n40% for you.\r\n\r\nIndicating your interest I will send you the full details .\r\n\r\nWait for  your urgently respond\r\n\r\nMr  Ibrahim Nahr\r\n",
+            "content_type": "text/plain",
+            "hash": "a6fd7d43b552a434471d09c5288cd35e5e9a94e78546eb0ce4a1e73e06d1464c",
+            "boundary": "00000000000059cb4005c7efec97"
+        }
+    ],
+    "header": {
+        "subject": "Indicating your interest",
+        "from": "ramoutoumahammed@gmail.com",
+        "to": [
+            "brahimnahr@gmail.com"
+        ],
+        "date": "2021-07-25T11:15:14+01:00",
+        "received_domain": [
+            "mail-ej1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.53"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

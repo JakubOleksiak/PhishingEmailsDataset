@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "marydaly@shiftmail.com"
+            ],
+            "domain": [
+                "shiftmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello dear,\r\n\r\nSorry for bothering you. My name is Mrs Mary Daly. I am presently\r\nhospitalized with a stage 3 cancer which is about to take my life. Please\r\npray for me.\r\nI also have a very important message which I want to give you, reply to\r\nthis email quickly so I can give you the message before passing away.\r\n\r\nThanks & may the good Lord bless you.\r\n\r\nMrs Mary Daly.\r\nE: marydaly@shiftmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "3653f55f7c37ba93031591b92f9c279eb19b476eb19b7179dec667a099f901d2",
+            "boundary": "000000000000cfc2fe05ca3acf7a"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "maryamabacha47@gmail.com",
+        "to": [],
+        "date": "2021-08-23T15:21:39+01:00",
+        "received_domain": [
+            "mail-wm1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.54"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Partner\r\n\r\nWe are writing to seek your highly esteemed help/ consent in a lasting\r\nbusiness relationship of mutual benefits for investing in your company\r\n/country under a joint venture partnership. I'm willing to provide\r\ninvesting capital with terms that cedes considerable swift equity share to\r\nyou as managerial dividends.\r\n\r\nKindly get back to me for more details.\r\n\r\nRegards\r\nRomeo\r\n",
+            "content_type": "text/plain",
+            "hash": "14f81ae021838913f229188cccaecbc5e9a6f747dc666e06b187bdb82b38f1b9",
+            "boundary": "0000000000004eaac805bef66b0f"
+        }
+    ],
+    "header": {
+        "subject": "Partnership",
+        "from": "dongminhdv1@gmail.com",
+        "to": [],
+        "date": "2021-04-01T22:13:57-07:00",
+        "received_domain": [
+            "mail-il1-f195.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.195"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

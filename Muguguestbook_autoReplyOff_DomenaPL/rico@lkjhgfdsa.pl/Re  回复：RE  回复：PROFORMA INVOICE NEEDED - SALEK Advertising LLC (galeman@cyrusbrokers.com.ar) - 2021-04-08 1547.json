@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.salek.ae"
+            ],
+            "email": [
+                "info@salek.ae"
+            ],
+            "domain": [
+                "salek.ae",
+                "www.salek.ae"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML>\r\n\r\n<html><head><title></title>\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n</head>\r\n<body style=\"margin: 0.4em;\"><p><b><span style='color: black; font-family: \"Trebuchet MS\", sans-serif;'>Dear Sir,</span></b></p><p><b><span style='color: black; font-family: \"Trebuchet MS\", sans-serif;'>Pls see attached file for the revise PI.</span></b></p><p><b><span style='color: black; font-family: \"Trebuchet MS\", sans-serif;'>Kindly check &amp; send us TT copy to proceed for the production.</span></b></p><p><b><span style='color: black; font-family: \"Trebuchet MS\", sans-serif;'>\r\nThanks &amp; Best Regards,</span></b></p><b><span style='color: black; font-family: \"Trebuchet MS\", sans-serif;'><p><br></p><p>Thank you.</p><p>Best Regards,</p><p>SALEK Advertising LLC<br>Tel&nbsp; : 00971 2 4460300 | Fax : 00971 2 4460400<br>P.O.Box : 112081, Abu Dhabi, U.A.E.<br><a href=\"mailto:info@salek.ae\">info@salek.ae</a> |&nbsp; <a href=\"http://www.salek.ae\">www.salek.ae</a><br></p></span></b><span style='color: rgb(68, 69, 69); font-family: \"Trebuchet MS\", sans-serif;'><p><br></p>\r\n<div style=\"color: rgb(34, 34, 34); text-transform: none; line-height: 20px; text-indent: 0px; letter-spacing: normal; font-family: verdana; font-size: 13.33px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\"><br></div></span>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\"><br></p><p>\r\n</p>\r\n\r\n\r\n</body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "c4421c33e92386cf0eaa98222f923fee0db7f8db1bed1ca189be548758ff6f53"
+        }
+    ],
+    "header": {
+        "subject": "Message has been processed :RE: \u56de\u590d\uff1aRE: \u56de\u590d\uff1aPROFORMA INVOICE NEEDED",
+        "from": "galeman@cyrusbrokers.com.ar",
+        "to": [
+            "rico@lkjhgfdsa.pl"
+        ],
+        "date": "2021-04-08T06:47:18-07:00",
+        "received_domain": [
+            "cyrusbrokers.com.ar"
+        ],
+        "received_ip": [
+            "185.222.57.227"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

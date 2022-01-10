@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nGood Day,\r\n\r\nI am Mr. David Berryhill, Remittance Department Agent, TD BANK; this organization was set up to fight against scam and Fraudulent activities worldwide.\r\n\r\nThis Group is responsible for investigating the legitimacy of unpaid contract, inheritance and lotto winning claims by companies and individuals and directs the paying authorities (Banks) worldwide to make immediate payment of verified claims to the beneficiaries without further delay.\r\n\r\nYou are being legally contacted regarding the release of your long-awaited Fund. After a detailed review of your file, the United Nation in conjunction with the International Monetary Fund (IMF) has been authorized to release your Fund immediately.\r\n\r\nBe informed that the sum of US$1,000,000.00 USD; has been approved in your Favor via my desk. This payment will be made via wire transfer / tele banking system.\r\n\r\nBe informed that we are working in collaboration with the United Nation secretary General Ant\u00f3nio Guterres, who authorizes the immediate payment of your long-awaited fund without any further delay.\r\n\r\nYou are advised to include the followings below:\r\n\r\n(1). Your Full Name\r\n\r\n(2). Direct Telephone Numbers\r\n\r\n(3). Contact Address\r\n\r\n(4). Your Occupation, age and Marital Status\r\n\r\n(5). Bank Name and Address\r\n\r\n(6). Account Numbers\r\n\r\n(7). Routing Numbers\r\n\r\n(8). Swift Code\r\n\r\nNote that the above Fund has been cleared from terrorist or fraud related activities.\r\n\r\nThanks for Your Cooperation.\r\n\r\nRegards,\r\n\r\nDavid Berryhill\r\n\r\n(remittancedpt00@accountant.com)\r\n",
+            "content_type": "text/plain",
+            "hash": "752cd48cc5e1a7aaeaebd8d9184eb4afacf022537b3978c99f3e05d54457e758",
+            "boundary": "BRXEMrmpRBtgCAWFALGGZRKdv2K8xoJ=_J"
+        }
+    ],
+    "header": {
+        "subject": "Good Day,",
+        "from": "unknown@unknown.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-22T09:17:47-07:00",
+        "received_email": [
+            "unknown@unknown.com"
+        ],
+        "received_domain": [
+            "host.prospectreach.co",
+            "host.couponreach.co",
+            "ip129.ip-91-134-145.eu"
+        ],
+        "received_ip": [
+            "91.134.145.129",
+            "67.225.188.114"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "z.investment1234@outlook.com"
+            ],
+            "domain": [
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nMy Dear,.\r\n\r\nI represent a group of company based in Gulf Region and we are\r\ncurrently seeking means of expanding and relocating our business\r\ninterest abroad in the following sectors: energy, real estate,\r\nconstruction, stock,mining, or any other viable sector. We are ready\r\nto fund any business that is capable of generating 5% (AROI) on Joint\r\nVenture partnership bases.\r\n\r\nWe look forward to discussing this opportunity in detail with you.\r\n\r\nUrgent z.investment1234@outlook.com\r\n\r\nRegards,\r\nKhalid Al Rumaihi\r\nBusiness Development Manager.\r\nMana ma, Bahrain.\r\n",
+            "content_type": "text/plain",
+            "hash": "d121df7f3bcf4b081f22d0d40299b97f66e0d085116ab30ce3dd303eae04aa92"
+        }
+    ],
+    "header": {
+        "subject": "RE PARTNERSHIP NEEDED",
+        "from": "ricardomedranonlg@gmail.com",
+        "to": [],
+        "date": "2021-09-05T16:43:28+01:00",
+        "received_domain": [
+            "mail-pg1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.194",
+            "2002:a02:854d::"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

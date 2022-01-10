@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Congratulations !! Congratulations !! Congratulations !!,\r\n\r\nYou have been selected as a winner to receive the sum of \u00a3 950,000.00GBP as an active user in the recently completed Google Online Draw 2020. Kindly reply with the details below for more information and claims. Your winning code is GFP/875/GPWIN/EU.\r\n\r\n(1) Your Address .........\r\n(2) Mobile Number........\r\n(3) Nationality .........\r\n(4) Full Name ......\r\n(5) Profession .........\r\n(6) Gender ........\r\n(7) Do you speak English?\r\n\r\nWe congratulate you on behalf of Google Team.\r\n\r\nNote: this is the third time we have tried contacting you.\r\n\r\nCompensation Committee.\r\n\r\nMr. Larry,\r\nGoogle Online Director\r\n+44 (0) 207505786, +31686445100\r\n76 Buckingham Palace Road, WC2H 8AG London,\r\nGreat Britain.\r\n",
+            "content_type": "text/plain",
+            "hash": "a6e41b5f8f08b5acfa9632551e87527f1f717db4a25f3110a8d7c7ae76c581e4"
+        }
+    ],
+    "header": {
+        "subject": "Congratulations",
+        "from": "my@searchingc.com",
+        "to": [
+            "my@searchingc.com"
+        ],
+        "date": "2021-05-26T11:04:54+03:00",
+        "received_email": [
+            "my@searchingc.com"
+        ],
+        "received_domain": [
+            "v2154.phpnet.fr"
+        ],
+        "received_ip": [
+            "84.38.130.226",
+            "46.255.165.154"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

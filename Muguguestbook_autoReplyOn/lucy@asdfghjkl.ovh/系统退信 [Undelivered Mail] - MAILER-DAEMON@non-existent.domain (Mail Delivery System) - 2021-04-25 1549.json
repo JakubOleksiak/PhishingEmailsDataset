@@ -1,0 +1,61 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1063,
+            "hash": {
+                "md5": "423d3de4c1f8e2bfe6cd7e20af703f19",
+                "sha1": "3e29d65d0d978d4f83eaa1e3ded890ab92b6cfb1",
+                "sha256": "48eb52c79efea09cee4a9e2bbda992d3dd129de5f8dab287c163263d281d1cba",
+                "sha512": "7ee6c7fd3d63244a519f1498e86ee35e495ff9c836ee094c29637eb779d8dfe53266fbca3cccb60f4043d721b0f4a0549d617240c6cdd118d7718ad8afa47626"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "yansh@263.net"
+            ],
+            "domain": [
+                "263.net"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/html; charset=\"utf-8\""
+                ]
+            },
+            "content": "<html>\r\n<head> \r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /> \r\n<meta name=\"Keywords\" content=\"\" /> \r\n<meta name=\"Description\" content=\"\" /> \r\n<title></title> \r\n</head>\r\n<body style=\"padding:0; margin:0;font-size:14px; font-family:verdana,Arial,Helvetica,sans-serif; padding:20px;\">\r\n<h1 style=\"padding:0; margin:0;font-weight:bold; font-size:100%; font-size:20px; color:#e24e54; padding-bottom:20px; \">\u5f88\u62b1\u6b49\u7684\u901a\u77e5\u60a8\uff0c\u60a8\u53d1\u9001\u7684\u90ae\u4ef6\u88ab\u9000\u56de\u3002</h1> \r\n<div style=\"padding:0; margin:0;\"> \r\n<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-spacing:0;border:1px solid #e0e0e0; table-layout:fixed;margin-bottom:20px;\">\r\n  <tr>\r\n    <th nowrap style=\"border-right:1px solid #e0e0e0; border-bottom:1px solid #e0e0e0; padding:16px 4px;font-size:14px; text-align:right; width:130px; font-weight:bold; background:#ececec; color:#333;\"> \u65f6\u95f4\uff1a</th> \r\n    <td style=\"padding-left:10px; word-break:break-all;background:#f8f8f8;font-size:14px;padding:8px 4px;color:#000;\">2021-04-25 21:49:50</td>\r\n  </tr>\r\n  <tr>\r\n    <th nowrap style=\"border-right:1px solid #e0e0e0; padding:16px 4px;font-size:14px; text-align:right; width:130px; font-weight:bold; background:#ececec; color:#333;\"> \u6536\u4ef6\u4eba\uff1a</th> \r\n    <td style=\"padding-left:10px; word-break:break-all;background:#f8f8f8; table-layout:fixed;word-break:break-all;font-size:14px;color:#595959;\">&lt;yansh@263.net&gt;</td>\r\n  </tr>\r\n</table>\r\n<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"border:0;cellspacing:0;cellpadding:0;border-collapse:collapse; border-spacing:0;border:1px solid #e0ddb9; border-right:none; border-bottom:none; table-layout:fixed;\"> \r\n    <tr> \r\n        <th nowrap style=\"border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:17px 4px;font-size:14px; text-align:right; width:130px; font-weight:bold; background:#f2f2da; color:#3c4021;\">\u6295\u9012\u8be6\u60c5\uff1a</th> \r\n      <td valign=\"middle\" style=\"border:1px solid #e0ddb9; border-right:none; border-bottom:none; table-layout:fixed;border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:8px 10px;font-size:14px;word-break:break-all;font-size:14px;\">\u89c1\u9644\u4ef6</td> \r\n    </tr> \r\n    <tr> \r\n        <th nowrap style=\"border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:8px 4px;font-size:14px; text-align:right; width:130px; font-weight:bold; background:#f2f2da; color:#3c4021;\">\u9000\u4fe1\u89e3\u91ca\uff1a</th> \r\n        <td style=\"border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:8px 4px;font-size:14px; padding-left:10px; word-break:break-all;background:#ffffff;\"> \r\n            <div style=\"color:#cd0021; font-weight:bold; line-height:18px;\">\u6536\u4fe1\u4eba\u7684\u90ae\u4ef6\u6570\u91cf\u5df2\u8fbe\u5230\u7cfb\u7edf\u4e0a\u9650</div> \r\n            <div style=\"padding-top:4px; color:#999; line-height:18px;\">\u82f1\u6587\u8bf4\u660e:mail count limit exceeded</div> \r\n        </td> \r\n    </tr> \r\n    <tr> \r\n        <th nowrap style=\"border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:8px 4px;font-size:14px; text-align:right; width:130px; font-weight:bold; background:#f2f2da; color:#3c4021;\">\u5efa\u8bae\u89e3\u51b3\u65b9\u6848\uff1a</th> \r\n        <td style=\"border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:8px 4px;font-size:14px; padding-left:10px; word-break:break-all;background:#ffffff;\"> \r\n            <div style=\"margin-left:-20px;\"> \r\n            <ul style=\"padding-top:0px; padding-bottom:0px; margin-top:6px; margin-bottom:6px;\"> \r\n                <li style=\"padding-top:3px; padding-bottom:3px;\">\u6e29\u99a8\u63d0\u793a\uff1a\u8bf7\u7b49\u5f85\u5bf9\u65b9\u6e05\u7406\u90ae\u4ef6\u540e\u518d\u6b21\u53d1\u9001\u6216\u8005\u901a\u8fc7\u5176\u5b83\u65b9\u5f0f\u548c\u5bf9\u65b9\u8054\u7cfb\uff0c\u6216\u4e0e\u5ba2\u670d\u4e2d\u5fc3\u8054\u7cfb\u6838\u5b9e\u662f\u5426\u6709\u5176\u4ed6\u66ff\u4ee3\u65b9\u6cd5</li> \r\n            </ul> \r\n            </div>        \r\n        </td> \r\n    </tr> \r\n    <tr> \r\n        <th nowrap style=\"border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:8px 4px;font-size:14px; text-align:right; width:130px; font-weight:bold; background:#f2f2da; color:#3c4021;\">\u53c2\u8003\u4fe1\u606f\uff1a</th> \r\n        <td style=\"border-right:1px solid #e0ddb9; border-bottom:1px solid #e0ddb9; padding:8px 4px;font-size:14px; padding-left:10px; word-break:break-all;background:#ffffff;\"> \r\n            <div style=\"margin-left:-20px;\"> \r\n            <ul style=\"padding-top:0px; padding-bottom:0px; margin-top:6px; margin-bottom:6px;\"> \r\n                <li style=\"padding-top:3px; padding-bottom:3px;\">This is the mail system at host mx.non-existent.domain.</li>\r\n                <li style=\"padding-top:3px; padding-bottom:3px;\">yansh@263.net:-1036 mail count limit exceeded</li> \r\n            </ul> \r\n            </div>        \r\n        </td> \r\n    </tr> \r\n</table> \r\n</div> \r\n<span>\r\n<br>----------------<br>\r\n\u6b64\u90ae\u4ef6\u4e3a\u7cfb\u7edf\u81ea\u52a8\u53d1\u9001\uff0c\u8bf7\u4e0d\u8981\u76f4\u63a5\u56de\u590d:)<br>\r\n<br>\r\n</span>\r\n</body> \r\n</html>\r\n",
+            "content_type": "text/html",
+            "hash": "764aa4cd3bdf92fbfa9ea2f01d9c547c2e070a6805b8d6c75447922234d184b9",
+            "boundary": "D36E242C.1619358590/mx.non-existent.domain"
+        }
+    ],
+    "header": {
+        "subject": "\u7cfb\u7edf\u9000\u4fe1 [Undelivered Mail]",
+        "from": "mailer-daemon@non-existent.domain",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-04-25T21:49:50+08:00",
+        "received_domain": [
+            "mx.non-existent.domain",
+            "mx.263.net"
+        ],
+        "received_ip": [
+            "211.150.82.110"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Did you receive my previous email to you as regards my proposal?\r\n\r\n\r\nCT.\r\n",
+            "content_type": "text/plain",
+            "hash": "0e1f3fc06ed36c53953167f34f56aa3d25db4bce13aabf16c3030f72c19e617a"
+        }
+    ],
+    "header": {
+        "subject": "FROM CT",
+        "from": "hjack9948@gmail.com",
+        "to": [],
+        "date": "2021-09-01T15:18:38+01:00",
+        "received_domain": [
+            "mail-wm1-f42.google.com"
+        ],
+        "received_ip": [
+            "2002:a5d:4d84::",
+            "209.85.128.42"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

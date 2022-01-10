@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "robinrsanders000@gmail.com"
+            ],
+            "domain": [
+                "1.bank",
+                "2.account",
+                "3.bank",
+                "4.account",
+                "5.routing",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attention Fund Beneficiary\r\n\r\nI am Mrs Robin Sanders, Former U.S.A Ambassador to Nigeria. With reference\r\nto your entitlement fund and inline with the CHANGE OF\r\nBENEFICIARY APPLICATION, signed by Mrs. Glenda F. Ward with your purported\r\nauthorization. This case has been carefully examined and we\r\nhave declined Mrs. Ward's application and reported to the security\r\ndepartment for appropriate action, as the application lacks regular\r\nsignature. But Did you ever instruct Mrs Glenda F. Ward to claim your fund\r\nworth US$7.000.000? Below is the bank account information\r\nprovided by Mrs Glenda F. Ward saying that you authorized her to claim your\r\nfund that you are terminally ill.\r\n\r\n1.BANK NAME: BANK OF AMERICA\r\n2.ACCOUNT NAME: GLENDA WARD\r\n3.BANK ADDRESS: Kerrville Texas 78028 USA\r\n4.ACCOUNT #: 3202650\r\n5.ROUTING #: 114922443\r\n\r\nIf you had not authorized the change of your bank account in respect to\r\nyour outstanding entitlement Payment, therefore notify me\r\nimmediately as the notification / declaration was supported with asworn\r\naffidavit from Lagos high court ref: ilk /jj/202/k2015, dated\r\n06/12/2017 and signed by Mrs. Glenda Ward who claim and stated in the sworn\r\ndeclaration that you authorized her to claim the said fund on\r\nyour behalf to a different bank account in the U.S.A as stated above\r\nbecause you were terminally ill and the Doctor who is in charge of\r\nyour case stated that you will not stay more than one Month before passing\r\naway. This development has caused lots of discrepancies in\r\nyour payment file that is why we had to suspend your payment and prompted\r\nto contact you directly before rejuvenating your payment. You\r\nhave to be rest assured that I will do everything within my capacity to\r\nsuccessfully actualize the quick transfer of your fund to any of\r\nyour nominated bank account. Kindly get back to ( robinrsanders000@gmail.com\r\n)\r\nme as soon as possible so that I will direct you on what to do.\r\n\r\nSincerely Yours\r\nMrs Robin Sanders\r\nFmr. U.S Ambassador\r\nE-mail: robinrsanders000@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "a997c805da032146756c51cbfe3f1ca12163fdcfb0438fc6f62880454177ff40",
+            "boundary": "000000000000bd3f2505cb8b4cab"
+        }
+    ],
+    "header": {
+        "subject": "Attention Fund Beneficiary",
+        "from": "larrywillian212@gmail.com",
+        "to": [],
+        "date": "2021-09-09T08:52:58+01:00",
+        "received_domain": [
+            "mail-ot1-f43.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.43"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

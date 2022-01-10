@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\n<B>Attn: Dear Beneficiary</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>Have you received your payment which was scheduled to be remitted to you on 06-02-2021? You have to confirm back to me immediately.</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>If you have been fully paid and compensated, kindly specify the following below:</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>FULL NAME:</B></DIV>\r\n<DIV>\r\n<B>AMOUNT TRANSFERRED:</B></DIV>\r\n<DIV>\r\n<B>AMOUNT EXPECTING:</B></DIV>\r\n<DIV>\r\n<B>DIRECT MOBILE NUMBER:</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>I will be waiting to hear from you immediately.</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>Thanks.</B></DIV>\r\n<DIV>\r\n<B>Mr. Morrison Green,</B></DIV>\r\n<DIV>\r\n<B>Funds Investigator.</B></DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "91d86762d71229893ee613f00c0adfd3629412e6bdec141b3ddb730cb4440dbf"
+        }
+    ],
+    "header": {
+        "subject": "Confirm If You Have Received Your Funds.....!!!    ",
+        "from": "financial@newzhongyuan.com",
+        "to": [],
+        "date": "2021-06-04T18:07:56+02:00",
+        "received_domain": [
+            "localhost.localdomain"
+        ],
+        "received_ip": [
+            "103.28.70.233",
+            "64.41.83.161"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am Martin Peeters of Martin-Peeters Advocacy, Attorney at law from\r\nBruxelles, Belgium. I have an investment brief for you. More details\r\nwill be revealed once your interest is indicated.\r\n\r\nYours in services,\r\nMartin-Peeters Advocacy\r\n",
+            "content_type": "text/plain",
+            "hash": "ee2e1af192892d56dc4308f72de59f8a16f1a02037cef057d6d8f7d701d520c3"
+        }
+    ],
+    "header": {
+        "subject": "Date: 30.03.2020",
+        "from": "luteartisjames@gmail.com",
+        "to": [],
+        "date": "2021-03-30T22:14:32+01:00",
+        "received_domain": [
+            "mail-io1-f43.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6e02:ef4::",
+            "209.85.166.43"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

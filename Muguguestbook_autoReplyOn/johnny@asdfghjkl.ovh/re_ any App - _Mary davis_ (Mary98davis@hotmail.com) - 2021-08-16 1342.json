@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Johnny\r\n\r\nI am Application Manager working with an organisation having 120+\r\nexperienced developers.\r\n\r\nWe are expert in the following:-\r\n\r\n1. Real estate, Car Rental, Taxi App, Cleaning App,\r\n\r\n2. Shopping App, iPhone and iPad apps, Android app\r\n\r\n      Any types of Customization Games (VR, AR, Real Engine etc.).\r\n\r\n \r\n\r\nPS: - If this is something, you are interested please respond to this\r\nmessage for Portfolio and Price list or drop your Skype handle/contact\r\ndetail\r\n\r\n \r\n\r\nThanks\r\n\r\nMary\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "cbce37e57c27d3dfeea0286c0f9b15e77041681b91975dae76694f0b7ca30f18",
+            "boundary": "----=_NextPart_000_4359_01D792C2.0F044DD0"
+        }
+    ],
+    "header": {
+        "subject": "re; any App",
+        "from": "mary98davis@hotmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T17:12:21+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "kl1pr0302mb2503.apcprd03.prod.outlook.com",
+            "pn2pr01ca0080.indprd01.prod.outlook.com",
+            "kl1pr0302mb5362.apcprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.254.11",
+            "2603:1096:820:40::8",
+            "2603:1096:c01:23::25",
+            "2401:4900:1f38:6993:38e7:4546:fdc3:ed39",
+            "2603:1096:802:6::16"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

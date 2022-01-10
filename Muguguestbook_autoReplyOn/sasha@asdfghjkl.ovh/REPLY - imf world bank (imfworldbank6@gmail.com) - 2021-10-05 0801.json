@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Hello dear  How are you? With due respect, Did you receive my previous\r\nmessages or should I resend it? Again .Thank You *\r\n",
+            "content_type": "text/plain",
+            "hash": "4124fe98cbbbc0c9ab6db131b0417502037ad099514b29472b6878aa2e9c009a",
+            "boundary": "0000000000008025de05cd94c11c"
+        }
+    ],
+    "header": {
+        "subject": "REPLY",
+        "from": "imfworldbank6@gmail.com",
+        "to": [],
+        "date": "2021-10-04T23:01:18-07:00",
+        "received_domain": [
+            "mail-lf1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.45"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

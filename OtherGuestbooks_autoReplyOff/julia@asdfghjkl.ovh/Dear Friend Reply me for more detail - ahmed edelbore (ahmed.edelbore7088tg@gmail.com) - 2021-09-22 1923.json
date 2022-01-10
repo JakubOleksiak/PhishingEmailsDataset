@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.nytimes.com/2010/05/13/world/middleeast/13libya.html"
+            ],
+            "domain": [
+                "www.nytimes.com",
+                "13libya.html"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\nMy Name is Mr. Ahmed Edelbore the Chief Operating Officer of CITIZEN\r\nBANK OF AFRICA and I am in need of a reliable foreigner to carry out\r\nthis important deal.\r\n\r\nAn account was opened in my bank by one of my customer in the name of\r\nMR. THOMAS BAHIA a Dutch National from Germany who made a fixed\r\ndeposit of $1,600,000.00 (One Million, Six hundred Thousand United\r\nStates Dollars) and never show up again and I later discovered that he\r\ndied with his entire family members on a plane crash that occurred in\r\nLibya on the 12th of May 2010 and below is a link for your view..\r\n\r\nhttp://www.nytimes.com/2010/05/13/world/middleeast/13libya.html\r\n\r\nNow I want to present a foreigner as next of kin to late Thomas so we\r\ncan make the claim and you can contact me if you are interested so I\r\ncan give you more detailed information about this transaction. For the\r\nsharing of the money will be shared in the ratio of 50% for me, 50%\r\nfor you\r\n\r\nPlease, this is the right time for this deal after my studies\r\n\r\nThanks.\r\n\r\nMr. Ahmed Edelbore\r\n",
+            "content_type": "text/plain",
+            "hash": "298af3cd13f888a4e0a21d624cc8245a4097100e6c42835b901b86b15ca96a28"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend Reply me for more detail",
+        "from": "ahmed.edelbore7088tg@gmail.com",
+        "to": [],
+        "date": "2021-09-22T19:23:12+02:00",
+        "received_domain": [
+            "mail-ed1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.53",
+            "2002:a17:906:60d3::"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

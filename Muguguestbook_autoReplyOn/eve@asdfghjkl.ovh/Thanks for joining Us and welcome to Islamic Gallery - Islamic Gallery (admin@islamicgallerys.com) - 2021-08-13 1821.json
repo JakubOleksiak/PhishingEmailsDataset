@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://click.mlsend.com/link/c/YT0xNzUxNTgyNDE0MTcxMjgxNDc3JmM9YjNoMyZlPTAmYj02ODczODQ1OTImZD15NW8zZzRv.MSeSLr_T0CthKj4qG79EP_zmCVIxd",
+                "https://click.mlsend.com/link/c/YT0xNzUxNTgyNDE0MTcxMjgxNDc3JmM9YjNoMyZlPTAmYj02ODczODQ1ODMmZD1iNWw4cThk.bQJzTy11lWFQJEiYPkg0TjId8UEoyEcJYRhxhrl1iIU"
+            ],
+            "domain": [
+                "click.mlsend.com",
+                "yt0xnzuxntgynde0mtcxmjgxndc3jmm9yjnomyzlptamyj02odczodq1odmmzd1inww4cthk.bqjzty11lwfqjeiypkg0tjid8ueoyecjyrhxhrl1iiu"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\n\r\nYou have received a newsletter from Islamic Gallery.\r\n\r\nHowever, your email software can't display HTML emails. You can view the newsletter by clicking here:\r\n\r\nhttps://click.mlsend.com/link/c/YT0xNzUxNTgyNDE0MTcxMjgxNDc3JmM9YjNoMyZlPTAmYj02ODczODQ1ODMmZD1iNWw4cThk.bQJzTy11lWFQJEiYPkg0TjId8UEoyEcJYRhxhrl1iIU\r\n\r\n\r\n\r\nYou're receiving this newsletter because you have shown interest in Islamic Gallery.\r\nNot interested anymore? Click here to unsubscribe:\r\nhttps://click.mlsend.com/link/c/YT0xNzUxNTgyNDE0MTcxMjgxNDc3JmM9YjNoMyZlPTAmYj02ODczODQ1OTImZD15NW8zZzRv.MSeSLr_T0CthKj4qG79EP_zmCVIxdj_KNDUK32lpiD4\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "548513bfdc1f13079fd68759d1bd74fa5773c7ca8df7d38b419413e26ff469dc",
+            "boundary": "b1_f00f3983a3bd4ddc5770408f25041576"
+        }
+    ],
+    "header": {
+        "subject": "Thanks for joining Us and welcome to Islamic Gallery",
+        "from": "admin@islamicgallerys.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-13T19:21:35+03:00",
+        "received_domain": [
+            "mail167.on.mlsend.com"
+        ],
+        "received_ip": [
+            "185.249.220.167"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "country.if"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Day.\r\n\r\nI represent an investor seeking`to invest through you,in any lucrative\r\ninvestment in your country.If you have a solid background and\r\nidea/capacity of making good profit in any  business.\r\n\r\nWe are writing to seek your highly esteemed help/ consent in a lasting\r\nbusiness relationship of mutual benefits for investing in your company\r\n/country under a joint venture partnership. I'm willing to provide\r\ninvesting capital with terms that cedes considerable swift equity\r\nshare to you as managerial dividends.\r\n\r\nKindly get back to me for more details.\r\n\r\nBest Regards,\r\nMr Brian Roger\r\n",
+            "content_type": "text/plain",
+            "hash": "bccf2060702284d14c4b41c4a97af96ff8c0ea88a76ef84200c9c39f3f2ac8cf"
+        }
+    ],
+    "header": {
+        "subject": "Good Day,",
+        "from": "brianroger372@gmail.com",
+        "to": [],
+        "date": "2021-05-31T15:52:48+01:00",
+        "received_domain": [
+            "mail-lj1-f172.google.com"
+        ],
+        "received_ip": [
+            "2002:a2e:90a::",
+            "209.85.208.172"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

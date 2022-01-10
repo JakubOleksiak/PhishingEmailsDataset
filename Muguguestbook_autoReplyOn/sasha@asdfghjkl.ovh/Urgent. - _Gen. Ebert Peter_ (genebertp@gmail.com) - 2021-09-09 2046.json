@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\nI need your name to transfer \u00a328,5 Million pounds in Unclaimed Deposit.\r\nThe money has been in a floating account since last year, The Funds will\r\nbe moved to your account immediately.ASAP.\r\nRegards,\r\nGen. Ebert Peter.\r\n",
+            "content_type": "text/plain",
+            "hash": "3353285424f74efe6f9a8e4aada055cbecc5e4a80adf4b4ebd793803f9297e0a",
+            "boundary": "0000000000000668e505cb946b58"
+        }
+    ],
+    "header": {
+        "subject": "Urgent.",
+        "from": "genebertp@gmail.com",
+        "to": [],
+        "date": "2021-09-10T02:46:18+08:00",
+        "received_domain": [
+            "mail-ej1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.45"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

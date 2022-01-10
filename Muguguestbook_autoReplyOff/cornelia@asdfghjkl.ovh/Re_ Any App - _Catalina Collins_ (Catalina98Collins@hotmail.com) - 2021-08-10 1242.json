@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Cornelia      \r\n\r\nI am working with experienced IT professionals who are into:\r\n\r\n.         Shopping App\r\n\r\n.         Fitness App\r\n\r\n.         Restaurant App\r\n\r\n.         Food & Drink App\r\n\r\n.         E-Commerce App\r\n\r\n.         IPhone and iPad Apps\r\n\r\nPlease tell me what type of App development you need, please share your\r\nRequirement with contact details for more discussion.\r\n\r\nThanks & Regards,\r\n\r\nCatalina\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "1d979d227179ed7ce1e0742ef27262ea552c6402b807767617adfc0adbd4f50d",
+            "boundary": "----=_NextPart_000_200E_01D78E02.9A9ABD30"
+        }
+    ],
+    "header": {
+        "subject": "Re; Any App",
+        "from": "catalina98collins@hotmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-10T16:12:37+05:30",
+        "received_domain": [
+            "tyzpr06mb4415.apcprd06.prod.outlook.com",
+            "pn2pr01ca0107.indprd01.prod.outlook.com",
+            "tyzpr06mb3887.apcprd06.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.253.10",
+            "2603:1096:c01:27::22",
+            "2401:4900:1f38:4871:811b:871c:9ff9:5591",
+            "2603:1096:400:2b::6",
+            "2603:1096:400:64::11"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

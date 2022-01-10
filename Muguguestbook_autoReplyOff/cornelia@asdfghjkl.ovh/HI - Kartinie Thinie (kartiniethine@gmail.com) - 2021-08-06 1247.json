@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "kartiniethine@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHi Compliments; you have got nice profile here. Am Kartinie Thinie, Please\r\nreply to me, with your email address ok my email ( kartiniethine@gmail.com\r\n) Or send me your email address,\r\n\r\nMs Kartinie Thinie\r\n",
+            "content_type": "text/plain",
+            "hash": "31d832a0e4d12d6392fe705faa0e22a003e9f4b29637bbd16448c1e43554e49f",
+            "boundary": "000000000000992a6b05c8e1e3dd"
+        }
+    ],
+    "header": {
+        "subject": "HI",
+        "from": "kartiniethine@gmail.com",
+        "to": [],
+        "date": "2021-08-06T10:47:21+00:00",
+        "received_domain": [
+            "mail-il1-f176.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.176"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "ATTENTION\r\n\r\nYou have been compensated with the sum of 7 million dollars in this\r\nUnited Nation the payment will be issue into ATM Visa Card,\r\nand send to you from the Santander Bank of Spain we need your\r\nAddress,Passport and your whatsapp number.\r\n\r\nTHANKS\r\nMrs Chantel Hermans\r\n",
+            "content_type": "text/plain",
+            "hash": "b7add2e54194e5c51a23df871d16536aec0e5870186d23a1d987a173811f825b",
+            "boundary": "000000000000a4320a05c5bd2b32"
+        }
+    ],
+    "header": {
+        "subject": "ATTENTION",
+        "from": "tommymarson31@gmail.com",
+        "to": [],
+        "date": "2021-06-27T03:52:22-07:00",
+        "received_domain": [
+            "mail-ot1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.48"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

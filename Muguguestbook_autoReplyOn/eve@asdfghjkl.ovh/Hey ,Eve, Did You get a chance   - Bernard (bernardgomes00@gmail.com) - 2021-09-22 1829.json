@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear, Eve\r\n\r\n I am a professional *iOS & Android app developer*, based in India, with 6+\r\nyears of experience.\r\n\r\nAre you looking to upgrade or modify an existing app OR want to build a new\r\napp?\r\n\r\n Let me know your complete requirements with contact details because we\r\ncannot send you more details (Examples, Price\u2026.etc.) without knowing your\r\nrequirements.\r\n\r\nThanks & Regards,\r\nBernard Gomes\r\n\r\n\r\n*Business Development Executive. *\r\n[image: beacon]\r\n",
+            "content_type": "text/plain",
+            "hash": "689293609ee606722e2373b61281eac3345186cbfb45acc7c7122ebfd80658bd",
+            "boundary": "000000000000b8a9f805cc98048f"
+        }
+    ],
+    "header": {
+        "subject": "Hey ,Eve, Did You get a chance ?",
+        "from": "bernardgomes00@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-22T09:29:29-07:00",
+        "received_domain": [
+            "mail-ed1-f66.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.66"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

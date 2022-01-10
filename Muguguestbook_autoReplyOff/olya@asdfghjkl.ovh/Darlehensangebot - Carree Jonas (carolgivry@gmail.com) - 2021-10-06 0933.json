@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Guten Tag sehr geehrte Frau/sehr geehrter Herr;\r\nBen\u00f6tigen Sie ein pers\u00f6nliches Darlehen f\u00fcr die Verbesserung Ihres Unternehmens?\r\nSuchen Sie Investitionen f\u00fcr alle rentablen Projekte?\r\nDie L\u00f6sung ist jetzt willkommen!\r\nWir machen alle m\u00f6glichen Darlehen Dienst wie: Darlehen in Immobilie,\r\nGesellschafterdarlehen, pers\u00f6nliches Darlehen, Autodarlehen usw.\u2026\r\nUnsere Darlehen erfolgen von 10.000\u20ac bis 10.000.000\u20ac\r\nGeben Sie uns bitte an:\r\nBetrag Ihres Darlehens ....\r\nTilgungsdauer Ihres Darlehens ...\r\nDanke.\r\n",
+            "content_type": "text/plain",
+            "hash": "493e0fba48f127b234af906370114dc004d7ada8f7c1a45374239c1d1f9f53b0"
+        }
+    ],
+    "header": {
+        "subject": "Darlehensangebot",
+        "from": "carolgivry@gmail.com",
+        "to": [],
+        "date": "2021-10-06T08:33:34+01:00",
+        "received_domain": [
+            "mail-oi1-f193.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6838:2086::",
+            "209.85.167.193"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "German"
+    }
+}

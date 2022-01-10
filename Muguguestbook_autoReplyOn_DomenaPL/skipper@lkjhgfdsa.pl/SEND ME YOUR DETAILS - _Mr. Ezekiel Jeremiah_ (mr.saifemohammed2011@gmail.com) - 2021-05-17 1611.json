@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.saife"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Send me your details bellow:\r\n\r\n1. Your Full Name................\r\n2. Your Telephone No..........\r\n3. Your Receiving Country................\r\n4. Your Home Address........\r\n\r\nThanks for your anticipated co-operation.\r\nBest regards.\r\n\r\nMr.Saife Mohammed\r\n",
+            "content_type": "text/plain",
+            "hash": "4b3ac04c2a37979d2f7398a4f8cc10999f1c27ffa5dff7b1c32cfce0aae18486",
+            "boundary": "000000000000e8642a05c2872bf4"
+        }
+    ],
+    "header": {
+        "subject": "SEND ME YOUR DETAILS",
+        "from": "mr.saifemohammed2011@gmail.com",
+        "to": [
+            "skipper@lkjhgfdsa.pl"
+        ],
+        "date": "2021-05-17T14:11:01+00:00",
+        "received_domain": [
+            "mail-ua1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.53"
+        ],
+        "received_foremail": [
+            "skipper@lkjhgfdsa.pl"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

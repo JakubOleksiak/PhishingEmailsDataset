@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.jones"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Day,\r\n\r\nI am Jones Rick, I have sent you two emails but you didn't respond. I\r\neven sent another one a few days ago with more details\r\nstill no response. Please are you still using this email address? I\r\nwill resend it as soon as you confirm you never received them.\r\n\r\nBye for now.\r\n\r\nMr.Jones Rick.\r\nCo-ordinator.\r\n",
+            "content_type": "text/plain",
+            "hash": "84c3cc94eb5fb3290d448e6fe6e6838ab0a8a587bca8099952e3ecd343057f74"
+        }
+    ],
+    "header": {
+        "subject": "Message from Jones Rick",
+        "from": "spencerstona@gmail.com",
+        "to": [],
+        "date": "2021-09-11T04:27:53-07:00",
+        "received_domain": [
+            "mail-lj1-f170.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.170",
+            "2002:a17:906:6882::"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

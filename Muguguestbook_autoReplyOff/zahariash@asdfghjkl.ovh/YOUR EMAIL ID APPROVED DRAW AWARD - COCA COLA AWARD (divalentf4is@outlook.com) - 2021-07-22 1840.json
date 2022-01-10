@@ -1,0 +1,63 @@
+{
+    "attachment": [
+        {
+            "filename": "WINNING DETAILS.jpg",
+            "size": 286711,
+            "extension": "jpg",
+            "hash": {
+                "md5": "c9cae9f152d5d0cd6848cd028920288d",
+                "sha1": "0d591659f3e00ae3da9e980cb36f3f02f36a057d",
+                "sha256": "75f95c46cd6eb5e2ffabf8f3780c1f2f22213817a8011180c2a746b3f8d9bd05",
+                "sha512": "030192a3c986208407655eb30cec8a13199861618953ebf6f9d54c1d42c377650071f78e8345099b5fc469ca15d5fddae43ab3cb55e09e48bdb872b928415a4c"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"WINNING DETAILS.jpg\""
+                ],
+                "content-description": [
+                    "WINNING DETAILS.jpg"
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"WINNING DETAILS.jpg\"; size=\"286711\"; creation-date=\"Thu, 03 Jun 2021 15:57:34 GMT\"; modification-date=\"Thu, 22 Jul 2021 16:40:06 GMT\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1252\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Attention Winner,\r\n\r\nThis is to notify you on your winning in the 2021 coca cola promotion raffle draw. You have won one million British Pounds (\u00a31,000,000.00) Kindly reconfirm your details as stated below to enable us give you the details of the promotion and how to claim your winning amount\r\n\r\n(1) NAME ...................................\r\n\r\n(2) AGE:......................................\r\n\r\n(3) SEX:.......................................\r\n\r\n(4) ADDRESS:.......................................\r\n\r\n(5) EMAIL:...............................................\r\n\r\n(6) PHONE:..............................................\r\n\r\n(7) OCCUPATION:..................................\r\n\r\n(8) COMPANY\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n(9) STATE/CITY:......................................\r\n\r\n(10)COUNTRY:........................................\r\n\r\n(11) NATIONALITY:.................................\r\n\r\n(12)TICKET / BALLOT NUMBER:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n(13)AMOUNT WON:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nWe shall proceed with the immediate release of your winning amount upon your reply to this email. You are required to contact our fiduciary agent (NAME): MR.GREG SMITH Email: gregsmithukmanager1@outlook.com<mailto:gregsmithukmanager1@outlook.com>\r\n\r\n\r\n\r\nCongratulations Once again!!.\r\n\r\nYours Sincerely\r\nMrs. Linda Dominic.\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "b88ff538ffc2aa8ced3aab331f0817da7f377fc61494103feb858a797ef9379b",
+            "boundary": "_000_CWLP123MB55560967573FF8B28CC3A90A9DE49CWLP123MB5556GBRP_"
+        }
+    ],
+    "header": {
+        "subject": "YOUR EMAIL ID APPROVED DRAW AWARD",
+        "from": "divalentf4is@outlook.com",
+        "to": [],
+        "date": "2021-07-22T16:40:41+00:00",
+        "received_domain": [
+            "gbr01-lo2-obe.outbound.protection.outlook.com",
+            "cwlp123mb5290.gbrp123.prod.outlook.com",
+            "cwlp123mb5556.gbrp123.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10a6:400:167::5",
+            "2603:10a6:400:149::13",
+            "104.47.21.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

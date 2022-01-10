@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hey Zahariash\r\n\r\nI am a professional Web Design & Mobile App Developer with 11 years of\r\nexperience. If you are interested, then I can send you our past work\r\ndetails, company information and a low quotation with the best Prices.\r\n\r\nOur Specialty: \r\n\r\n.       Business App & Websites\r\n\r\n.       Website Design / Redesign\r\n\r\n.       PHP | SEO | Word press |.Net\r\n\r\nI am waiting for your positive response.\r\n\r\nThanks,\r\n\r\nSophie\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "f7fc8e2c3c3e431a60995aaf977cfe5b3d80593bca58a4af04b4b5bf80681ea8",
+            "boundary": "----=_NextPart_000_1D70_01D7B07B.EF090250"
+        }
+    ],
+    "header": {
+        "subject": "Services : WEB | Apps | Word press",
+        "from": "sophiedavine@hotmail.com",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-23T13:02:43+05:30",
+        "received_domain": [
+            "bmxpr01ca0078.indprd01.prod.outlook.com",
+            "ind01-ma1-obe.outbound.protection.outlook.com",
+            "bmxpr01mb4760.indprd01.prod.outlook.com",
+            "bmxpr01mb3782.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "122.161.48.248",
+            "104.47.100.173",
+            "2603:1096:b00:5e::23",
+            "2603:1096:b01:4::15",
+            "2603:1096:b00:54::18"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

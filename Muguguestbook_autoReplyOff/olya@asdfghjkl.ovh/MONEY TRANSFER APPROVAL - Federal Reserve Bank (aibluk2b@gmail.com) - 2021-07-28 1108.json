@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "generals.info@ny.frb.org",
+                "general.inf@aol.com"
+            ],
+            "domain": [
+                "ny.frb.org",
+                "aol.com",
+                "mrs.naureen"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHead Office\r\nFederal Reserve Bank of New York\r\n33 Liberty Street\r\nNew York, NY 10045\r\nTel: +1 (203) 774 3731\r\nE-mail: generals.info@ny.frb.org\r\nAlternative E-mail:general.inf@aol.com\r\nBank Applications\r\nMobil WhatsAPP +1 (818)925-4306\r\n\r\n        Ref: Payment Instruction from IMF.\r\n\r\nGreetings Sir/Madam.\r\n\r\nWe have received your payment instruction today from the International\r\nMonetary Fund to transfer your overdue payment at the sum of $7.5\r\nMillion USD.I hereby advice you to forward to us your Banking detail\r\nwhere you want us to transfer the money into with the sum of Fifty\r\nDollars ( US$50 )only which we shall use to obtain your fund transfer\r\nclearance certificate that will back up your fund when we transferred\r\nit to your account,This is to avoid any question/query from the\r\ninternational monetary agency in regards to the huge amount involved.\r\n\r\nThis is all we required to complete your fund transfer via Bank to\r\nBank wire transfer.\r\n\r\nSigned\r\n\r\nDr/Mrs.Naureen Hassan\r\n(Vice President)\r\nMobil WhatsAPP +1 (818)925-4306\r\n",
+            "content_type": "text/plain",
+            "hash": "f37a0ddaa11d45a8e1b7011eadd1ffc91a377df22cc42ceb949530ac18fd0014"
+        }
+    ],
+    "header": {
+        "subject": "MONEY TRANSFER APPROVAL",
+        "from": "aibluk2b@gmail.com",
+        "to": [],
+        "date": "2021-07-28T10:08:18+01:00",
+        "received_domain": [
+            "mail-ej1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.54",
+            "2002:ab3:7758::"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

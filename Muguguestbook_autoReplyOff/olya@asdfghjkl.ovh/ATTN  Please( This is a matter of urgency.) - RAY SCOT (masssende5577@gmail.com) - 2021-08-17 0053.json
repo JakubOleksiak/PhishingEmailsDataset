@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "IMPORTANT NOTICE.\r\n\r\nLatest Development Regarding the Irrevocable release of your payment.\r\n\r\nATTN: Beneficiary.\r\n\r\n\r\nThis is to inform you that we are the authorized security agency\r\nascribed by the United Nations office of the oversight service whose\r\nUnit headquarters is in Toronto Canada to deliver your consignment to\r\nyou.\r\n\r\nWith this help from the UN office of the oversight service you are\r\ntherefore required to acknowledge receipt of this mail. You are\r\nfurther advised to reconfirm your full names, your address, your cell\r\nphone number and copy of your ID.\r\n\r\nThis is to enable us cross check with the list given to us by the UN\r\nand FBI to make sure we are corresponding with the rightful owner.\r\n\r\n\r\nKindly reply for further details.\r\nThank You.\r\nRay Scot.\r\n",
+            "content_type": "text/plain",
+            "hash": "999c1eb2cb35c00e4ff8c724ae33e2304486c0c29f778999e25b442425464c38"
+        }
+    ],
+    "header": {
+        "subject": "ATTN: Please< This is a matter of urgency.>",
+        "from": "masssende5577@gmail.com",
+        "to": [],
+        "date": "2021-08-16T23:53:37+01:00",
+        "received_domain": [
+            "mail-il1-f195.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.195",
+            "2002:ac0:c68c::"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

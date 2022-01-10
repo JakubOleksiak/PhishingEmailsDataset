@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.keytradefinance.com"
+            ],
+            "email": [
+                "mrs.patricianights@gmail.com"
+            ],
+            "domain": [
+                "gmail.com",
+                "www.keytradefinance.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\n*Attn: Beneficiary*\r\n\r\n*We received an instruction from the Union Bank of Switzerland (UBS),*\r\n*Zurich to pay you the sum of Two Million, Forty Five Thousand Euros*\r\n*Only (\u20ac2,045,000.00), which is classified as your outstanding*\r\n*principle amount and 0.001% interest accrued from the principle*\r\n*amount.*\r\n\r\n*The said amount shall be paid to you by wire transfer or cheque prior*\r\n*to the signing of your payment documents for proof of your payment in*\r\n*line with the terms of our agreement with the Union Bank of*\r\n*Switzerland.*\r\n\r\n*Your attention/presence is required for the signing of the documents,*\r\n*but following the heavy impact of the spread of the coronavirus*\r\n*(COVID-19) across the globe, the management has suspended the*\r\n*invitation of concerned beneficiaries for the signing of their*\r\n*respective payment documents.*\r\n\r\n*Hence, an approval has been granted for the signing of such documents*\r\n*by proxy through the beneficiary's representatives/agents here with*\r\n*the beneficiary's written Power of Attorney. Otherwise, an attorney*\r\n*shall be appointed to act on behalf of the beneficiary, if the*\r\n*beneficiary does not have any representatives/agents here.*\r\n\r\n*Consequently, you are required to quickly provide copy of your valid*\r\n*identification and telephone number for validation of your payment*\r\n*file and confirm your preferred payment option (i.e. wire transfer or*\r\n*cheque) to enable us initiate the process of your payment, while*\r\n*awaiting the signing of your payment documents.*\r\n\r\n*For further inquiries and clarification on your payment, please*\r\n*contact your assigned transaction manager,Ms.Patricia Knights*\r\n*via her direct e-mail, mrs.patricianights@gmail.com\r\n<mrs.patricianights@gmail.com> .*\r\n\r\n*Yours truly,*\r\n\r\n*Benedicto Felipe*\r\n*Chief Credit Officer,*\r\n*Keytrade Finance, Malaga,Spain  *\r\n*www.keytradefinance.com <http://www.keytradefinance.com>*\r\n*---------------------------------------------------------------------------------*\r\n*Este mensaje est\u00e1 destinado \u00fanicamente para el uso de la persona o*\r\n*entidad a la que est\u00e1 dirigido y puede contener informaci\u00f3n*\r\n*privilegiada, confidencial y exenta de divulgaci\u00f3n seg\u00fan la ley*\r\n*aplicable. Si el lector de este mensaje no es el destinatario*\r\n*previsto, o el empleado o agente responsable de entregar el mensaje al*\r\n*destinatario previsto, se le notifica por la presente que cualquier*\r\n*divulgaci\u00f3n, distribuci\u00f3n o copia de la comunicaci\u00f3n est\u00e1*\r\n*estrictamente prohibida. Si ha recibido esta comunicaci\u00f3n por error,*\r\n*notif\u00edquenos inmediatamente por correo electr\u00f3nico, elimine el archivo*\r\n*de su computadora y destruya cualquier copia que pueda haber sido*\r\n*impresa.*\r\n",
+            "content_type": "text/plain",
+            "hash": "50bb1939a521c81b808d8c3cef232a152aff3e9fef85d884558d45f8bde8f921",
+            "boundary": "00000000000094e46b05c56dbced"
+        }
+    ],
+    "header": {
+        "subject": "Payment Advice from the Union Bank of Switzerland Reply ASAP..",
+        "from": "markpytosh01@gmail.com",
+        "to": [],
+        "date": "2021-06-23T13:06:18+01:00",
+        "received_domain": [
+            "mail-io1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.41"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

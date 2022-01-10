@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "domain": [
+                "18.4m"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Good day friend,\r\n\r\nIt is my wish to solicit your assistance in claiming the sum of (Eighteen Million, Four Hundred Thousand United States Dollars) 18.4m belonging to our late customer, he was drilling contractor with some Oil Companies here. Your assistance will be of great benefit to both of us since I cannot achieve this without your support, therefore your cooperation will be appreciated to claim this fund as the rightful next of kin after which you will be eligible for 40 percent of the fund, while 60 percent will be mine. Please get back to me for more information.\r\n\r\nYours Sincerely\r\nJohnson Liam\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c9c75c640d290eb52f5af77a7efda474ee161af1d84fb5aafd3b9c60d7ac1875",
+            "boundary": "----=_Part_1480768_1785389438.1620503760458"
+        }
+    ],
+    "header": {
+        "subject": "I need your quick response.",
+        "from": "ncufiz5xrmyi54ih@yahoo.co.jp",
+        "to": [
+            "response@response.response"
+        ],
+        "date": "2021-05-09T04:56:00+09:00",
+        "received_domain": [
+            "omp605.mail.ssk.yahoo.co.jp",
+            "t604.bullet.mail.ssk.yahoo.co.jp",
+            "sendmailws604.mail.ssk.yahoo.co.jp",
+            "nh603.bullet.mail.ssk.yahoo.co.jp",
+            "jws701107.mail.ssk.yahoo.co.jp",
+            "nh603-vm0.bullet.mail.ssk.yahoo.co.jp"
+        ],
+        "received_ip": [
+            "182.22.66.106",
+            "182.22.90.41",
+            "182.22.91.132"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

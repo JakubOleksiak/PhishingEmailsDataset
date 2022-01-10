@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML>\r\n\r\n<html><head><title></title>\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n<meta name=\"GENERATOR\" content=\"MSHTML 8.00.7601.17514\"></head>\r\n<body style=\"margin: 0.4em;\"><p>Dear Supplier,</p><p>Here is our official order.</p><p>All Quantities with articles are inside the enclosed purchase order:</p><p>1. Let us know if all quantities are available<br>2. Earliest loading date, we want to make it next month<br>3. After all please send me an additional offer for the stock available from now to end of October 2021. I will make extra orders.</p><p><br>Thanks &amp; Best Regards,&nbsp; </p><p>Tom Yuan</p><p>\r\nProduction planner (P.R.China)</p><p><br>Tel:&nbsp;&nbsp;&nbsp;&nbsp; +86 (512) 5188 0057<br>Fax:&nbsp;&nbsp;&nbsp;&nbsp; +86 (512) 8788 2359<br>Mobile:&nbsp; +86 139 1498 1284</p><p>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp; </p><p><font size=\"1\"><strong>CONFIDENTIALITY AND EXCLUSION OF LIABILITY:<br><font size=\"1\">\r\nThis e-mail transmission (and the attachments, if any, accompanying it) may contain confidential information. The information is intended only for the use of the intended recipient. If you are not the intended recipient, you are hereby notified that any forwarding, disclosure, copying, distribution, or the taking of any action in reliance on the contents of this information is strictly prohibited. Any unauthorized interception of this transmission is illegal under the law. If you have received \r\nthis transmission in error, please promptly notify the sender by reply e-mail, and then destroy all copies of the transmission. The sender took all possible precautions to keep this e-mail clear of viruses or similar. Nevertheless we exclude each liability for any kind of damage of computers or IT-systems caused by viruses or similar. We recommend you an own virus check before opening the attachments.</font></strong></font></p><p><br></p><p><br></p></body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "4f998b7f322ef6e0421fec54c5a6acb87cd4a4c4117e57c44e22605b5c77cbd5"
+        }
+    ],
+    "header": {
+        "subject": "Message has been processed :Urgent: PO//Inquiry Order//RFQ",
+        "from": "tomyuan@samasteel.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-13T17:20:03-07:00",
+        "received_domain": [
+            "live.com.au"
+        ],
+        "received_ip": [
+            "45.144.225.128"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

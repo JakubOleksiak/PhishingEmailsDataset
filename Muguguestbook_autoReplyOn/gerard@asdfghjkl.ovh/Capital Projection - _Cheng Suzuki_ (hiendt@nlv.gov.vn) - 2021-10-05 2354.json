@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "suzukicheng05@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello, my name is Cheng Suzuki, please your attention is needed, I have\r\nsomething to share with you. Kindly write me back on this email:suzukicheng05@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "7e9d54622ac2c5ed433a886e0c8badb46210cd4cf4d274de272708b20df40f18"
+        }
+    ],
+    "header": {
+        "subject": "Capital Projection ",
+        "from": "hiendt@nlv.gov.vn",
+        "to": [
+            "hiendt@nlv.gov.vn"
+        ],
+        "date": "2021-10-05T14:54:14-07:00",
+        "received_domain": [
+            "mail.nlv.gov.vn"
+        ],
+        "received_ip": [
+            "197.211.61.15",
+            "42.112.40.169"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

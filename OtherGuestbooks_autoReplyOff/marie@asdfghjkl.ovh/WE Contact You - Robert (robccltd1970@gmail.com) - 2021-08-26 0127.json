@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear,\r\n\r\n\r\nGreetings to you..\r\n\r\nDo you need a loan to fund a project or to expand your business? Are you\r\nlooking for a partner in a Joint Venture(JV)? We will help you accomplish\r\nyour dream in a matter of days. Our Lenders/Investors offer funds for all\r\nkinds of businesses at very low and business friendly rates.\r\n\r\ni wait for you response\r\n\r\nFor further details :\r\n\r\nRegards,\r\n\r\nRobert\r\nAgent\r\n",
+            "content_type": "text/plain",
+            "hash": "659e5b399e76a6c4d64b6d0682835785f802a3105547dd22a8888baf2c9ee69a",
+            "boundary": "00000000000093d4a205ca69bfe7"
+        }
+    ],
+    "header": {
+        "subject": "WE Contact You",
+        "from": "robccltd1970@gmail.com",
+        "to": [],
+        "date": "2021-08-25T23:27:12+00:00",
+        "received_domain": [
+            "mail-qk1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.182"
+        ],
+        "received_foremail": [
+            "marie@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

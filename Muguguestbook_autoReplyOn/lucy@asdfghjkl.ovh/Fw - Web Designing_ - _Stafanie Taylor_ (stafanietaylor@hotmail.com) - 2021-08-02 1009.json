@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Lucy,\r\n\r\n \r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your site. I am a Web design / Developer that can do\r\njust about anything you can imagine at very affordable prices.\r\n\r\nLet me know what you think.\r\n\r\n \r\n\r\nWe Provide Web services at a minimum cost. May I send you a quote? If\r\ninterested.\r\n\r\n \r\n\r\nKind Regards,\r\n\r\nStefanie Taylor,\r\n\r\n \r\n\r\nBusiness Development Consultant        \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "aa09dcf5775b92381c96a8dd46f428fba883503d19a97bf23e1b84189da498d1",
+            "boundary": "----=_NextPart_000_362A_01D787A4.46E79F50"
+        }
+    ],
+    "header": {
+        "subject": "Fw:- Web Designing'",
+        "from": "stafanietaylor@hotmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T13:39:52+05:30",
+        "received_domain": [
+            "kor01-ps2-obe.outbound.protection.outlook.com",
+            "ps2pr03mb3797.apcprd03.prod.outlook.com",
+            "pu1pr03mb2779.apcprd03.prod.outlook.com",
+            "pn1pr0101ca0016.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:803:18::18",
+            "122.161.53.220",
+            "2603:1096:300:33::22",
+            "2603:1096:c00:e::26",
+            "104.47.109.141"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "domain": [
+                "www.fortcoin.net"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hi Rob Hoffman, As requested, we have now deposited 30 BTC which amount to ($1,488,466.50 USD) into your bitcoin portfolio at www.fortcoin.net/signin  \r\n Customer Id: 10297683\r\nCustomer Password: hcDF895\r\n",
+            "content_type": "text/plain",
+            "hash": "477d9338cce846c56df0b9c2aa859b6a49e0152711f3ca45b763fdcac5fff3bc",
+            "boundary": "===============0302097207=="
+        }
+    ],
+    "header": {
+        "subject": "Bitcoin Payment!",
+        "from": "pope@cripto.org",
+        "to": [
+            "pope@cripto.org"
+        ],
+        "date": "2021-09-02T06:19:37+02:00",
+        "received_domain": [
+            "ms.unidata.it"
+        ],
+        "received_ip": [
+            "194.79.207.2",
+            "23.175.48.198"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

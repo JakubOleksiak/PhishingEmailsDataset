@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\nI sent this letter to you a month ago but I believe that due to the\r\ncoronavirus pandemic, I didn't receive any response from you . I want to\r\nhear from you.\r\nRegards,\r\n",
+            "content_type": "text/plain",
+            "hash": "cecb3f32245ef9708cc0f2350075ff6085c754a3e2146f15fbc2b8b7bc4ded68",
+            "boundary": "00000000000054e7e405c72c7cc3"
+        }
+    ],
+    "header": {
+        "subject": "HELLO",
+        "from": "a.lawofficeandassociates@gmail.com",
+        "to": [],
+        "date": "2021-07-15T19:05:50+02:00",
+        "received_domain": [
+            "mail-oi1-f180.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.180"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

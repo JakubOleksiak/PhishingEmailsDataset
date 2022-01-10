@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.jack"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nDear friend,\r\n\r\nI am Mr.Jack Gabriel,from West Africa am sorry to intrude into your\r\nprivacy I got your email address through internet via computerized search\r\nafter my prayers so I bring to you this transaction which I notify\r\nfrom our bank an abandon fund which belongs to our late foreign customer who\r\ndeposited the sum of 10.2 million USD but he had a treble plane crash\r\nwith his family ever since then no one has applied to claim the fund\r\nso I write to you with confidence that you can be a help so we can get\r\nthe fund out of the bank I want you to apply to the bank as his\r\nforeign business partner note that once the fund is been release to\r\nyour wish bank account in your country it will be shared among us in\r\nthe ratio of 60%40 if you are interested please kindly forward your\r\ndetails so we can move towards it.\r\n\r\nYour full name...........\r\n\r\nYour Bank Name:............\r\n\r\nYour Telephone Number:............\r\n\r\nYour Age And Sex:.......................\r\n\r\nYour marital status........\r\n\r\nYour Occupation..........\r\n\r\nYour Country city............\r\n\r\nThanks\r\nMr Jack Gabriel\r\n",
+            "content_type": "text/plain",
+            "hash": "e75e74c2786934dda520f6ad548d3fbdd45825b764719645bb8cc1104efd0b2c"
+        }
+    ],
+    "header": {
+        "subject": "Dear friend,",
+        "from": "mralidami5@gmail.com",
+        "to": [],
+        "date": "2021-03-06T13:44:42-08:00",
+        "received_domain": [
+            "mail-io1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.67",
+            "2002:a5d:964f::"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

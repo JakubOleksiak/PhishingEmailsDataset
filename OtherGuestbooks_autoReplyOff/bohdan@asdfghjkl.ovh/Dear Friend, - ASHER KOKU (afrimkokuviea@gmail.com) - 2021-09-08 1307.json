@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "kokuviea@katamail.com"
+            ],
+            "domain": [
+                "behalf.the",
+                "katamail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend,\r\nI am Barrister Elezaj Afrim Kokuvi, a solicitor at law, personal\r\nattorney to Mr J.B.,a national Of your country I want you to receive\r\nmoney on my behalf.The purpose of my contacting you is because you\r\nshare same Last name with my late client .When you reply this\r\nmessage,i will send you the full details and more information about\r\nmyself and the funds. My personal email is:kokuviea@katamail.com so\r\nsend your datas as\r\nFulnames ...........\r\nMarital status .......\r\nAge .......\r\nPhone number....\r\nFax number ....\r\nOccupation ........\r\nEmail ........\r\nBest regards,\r\nBarrister Elezaj Afrim Kokuvi\r\nPLS REPLY TO kokuviea@katamail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "5111b2de35f213f5310c64705d1dd7333a6eaf69a98a54da4850839e896f135e",
+            "boundary": "0000000000009df5d805cb79e5a6"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend,",
+        "from": "afrimkokuviea@gmail.com",
+        "to": [],
+        "date": "2021-09-08T11:07:56+00:00",
+        "received_domain": [
+            "mail-yb1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.182"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

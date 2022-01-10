@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend.\r\n\r\nI am Mrs Maria Johnson an Active Banker, I saw your email address\r\nwhile browsing through the bank DTC Screen in my office yesterday, So\r\ni decided to use this very chance to know you more. I have deal of\r\n($10.5 million Dollars) to transfer into your account, If you are\r\ninterested get back to me for more details.\r\n\r\nThanks for your co-operation.\r\n\r\nYour Faithfully\r\nMrs Maria Johnson\r\n",
+            "content_type": "text/plain",
+            "hash": "92a1844287ba307c12e4c4c4a82ff0eb82f2b59c5e507f1806ef50cb0ebb8662"
+        }
+    ],
+    "header": {
+        "subject": "From Mrs Maria Johnson!",
+        "from": "mrsmariajohnson90@gmail.com",
+        "to": [],
+        "date": "2021-08-28T18:52:45+02:00",
+        "received_domain": [
+            "mail-pf1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.177",
+            "2002:a17:90a:b948::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

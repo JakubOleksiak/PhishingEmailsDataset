@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "investor.relations@seraphicenergy.co"
+            ],
+            "domain": [
+                "seraphicenergy.co"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "BUSINESS NEGOTIATE\r\n\r\n\r\nHello.\r\n\r\n\r\nI am Mrs. JULIA FLANAGAN, Personal assistant to my late husband the CEO of SERAPHIC ENERGY USA. My husband Dr. BRIAN FLANAGAN died months ago of the COVID19 pandemic, as a result of his sudden death his business associates are trying to rip me off my late husband's assets and heirlooms which he had left for me before his painful demise.\r\n\r\nOn this note, I wish to have a deal with you regarding our family heirlooms and huge funds deposit, which l do not want my late husband's associates to know about. As it is my duty to recommend the transfer of this deposit funds to any foreign contractors or investor, I have the opportunity and onus to write you based on the urgency to transfer these funds making you eligible to receive this funds also.\r\n\r\nl ready and willing to divulge more information to you upon your positive response.\r\n\r\nPlease let me know your thoughts .\r\nYours faithfully, \r\nMrs. JULIA FLANAGAN.\r\ninvestor.relations@seraphicenergy.com\r\nhttps://seraphicenergy.com/\r\n",
+            "content_type": "text/plain",
+            "hash": "71d8f0a3d9dd05a29dbca0e5afe91d08abceeef90a36550ac24274fd392622a5"
+        }
+    ],
+    "header": {
+        "subject": "BUSINESS NEGOTIATE",
+        "from": "m.tatsukawa@docomonet.jp",
+        "to": [],
+        "date": "2021-07-26T03:04:30+09:00",
+        "received_domain": [
+            "mf-smf-ucb024c1.ocn.ad.jp",
+            "mbkd0220.ocn.ad.jp",
+            "vcwebmail.ocn.ad.jp",
+            "md-app-cb002.noc-chibaminato.ocn.ad.jp",
+            "ocn-vc-mts-105c1.ocn.ad.jp"
+        ],
+        "received_ip": [
+            "153.138.237.142",
+            "153.153.66.160",
+            "153.149.233.21",
+            "153.138.211.198",
+            "61.118.32.198"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

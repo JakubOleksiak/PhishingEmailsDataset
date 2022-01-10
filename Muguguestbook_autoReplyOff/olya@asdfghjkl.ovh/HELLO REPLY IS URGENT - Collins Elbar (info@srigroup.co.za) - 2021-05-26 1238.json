@@ -1,0 +1,30 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\nI sent you an email on last week which I do not know if you really\r\nreceived or not because I got no answer from you. maybe it went into your SPAM box because is the first time am contacting you  I am i am Kaleb Omari,\r\n. We have a late engineer with your surname that the\r\ngovernment wants to seize his money Four million five hundred thousand\r\ndollars ($4.500.000.00) because no name is identified as his next of\r\nkin. I am asking for your full cooperation to enable us to transfer\r\nthe money into your bank for us to share it 50/50 or invest it into\r\nreal estate at the same rate instead of the government to seize it for\r\ninfrastructure maintenance. I will be glad to hear from you very soon\r\nif you receive my message this time unlike before. The fund will be\r\nlegally transferred into your bank account if you accept my proposal.\r\nIf my proposal is accepted by you I will send you the legal detail\r\nprocess of getting the money into your bank account without delay.\r\nSincerely,\r\nKaleb Omari,\r\nP.P.I.R.B\r\n\r\n",
+            "content_type": "text/html",
+            "hash": "07fcc2393c5d32d611dbc3908d561caea68183fa0fc3db3e76dbd34044645115"
+        }
+    ],
+    "header": {
+        "subject": "HELLO REPLY IS URGENT",
+        "from": "info@srigroup.co.za",
+        "to": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-26T10:38:23+00:00",
+        "received_domain": [
+            "localhost.localdomain"
+        ],
+        "received_ip": [
+            "92.222.183.137"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

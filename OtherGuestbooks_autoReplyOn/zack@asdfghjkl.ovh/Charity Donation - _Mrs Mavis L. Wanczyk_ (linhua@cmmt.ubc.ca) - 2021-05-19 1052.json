@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nThis is the second time i am sending you this mail.\r\n\r\nI, Mavis Wanczyk donates $ 5 Million Dollars from part of my Powerball \r\nJackpot Lottery of $ 758 Million Dollars, respond with your details for \r\nclaims.\r\n\r\nI await your earliest response and God Bless you\r\n\r\nGood luck.\r\nMrs Mavis L. Wanczyk\r\n",
+            "content_type": "text/plain",
+            "hash": "565546c7cb961ddc6bd7d1caf6307817b957874e8bf87ac3b9c159e237fa078f"
+        }
+    ],
+    "header": {
+        "subject": "Charity Donation",
+        "from": "linhua@cmmt.ubc.ca",
+        "to": [],
+        "date": "2021-05-19T01:52:45-07:00",
+        "received_domain": [
+            "antispam.cmmt.ubc.ca",
+            "webmail.cmmt.ubc.ca"
+        ],
+        "received_ip": [
+            "137.82.44.69",
+            "137.82.44.24"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

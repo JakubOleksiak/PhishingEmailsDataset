@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nGreetings Friend\r\n\r\nPlease forgive me for writing you this letter to you  on this internet\r\nmedia  based on  development at my bank which I will like to bring to\r\nyour personal that (8.5.million Euro claims ) This is a legitimate\r\ntransaction and The money will be shared 60% for me and 40% for you .\r\nThere is no one coming to ask you about the funds  the money will be\r\ntransfer to you\r\nplease quickly  email\r\nMy best regards .\r\nMohammed Haraq\r\n",
+            "content_type": "text/plain",
+            "hash": "2119ede4c2a45eb4ce8d8159e9ec582b754e87e92f68992a3c8033a5c4694122",
+            "boundary": "000000000000ed6b1305c7f01336"
+        }
+    ],
+    "header": {
+        "subject": "Greetings Friend",
+        "from": "mrmhassa1980@gmail.com",
+        "to": [
+            "mohaadharaq@gmail.com"
+        ],
+        "date": "2021-07-25T11:26:37+01:00",
+        "received_domain": [
+            "mail-ej1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.47"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

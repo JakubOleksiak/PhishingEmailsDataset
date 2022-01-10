@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.philip"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " Hello Friend,with due respect, I am Mr.Philip Barthel. I want to know if\r\nyou\r\nactually got the previous email I sent to you?\r\n",
+            "content_type": "text/plain",
+            "hash": "9d35f0b08a8f84bd0cce21b1babab0009414bd614c0ec9e59ffb47bcf68648e7",
+            "boundary": "00000000000016f96f05c61361de"
+        }
+    ],
+    "header": {
+        "subject": "reply",
+        "from": "barristerphilipbarthel1@gmail.com",
+        "to": [],
+        "date": "2021-07-01T18:43:23+01:00",
+        "received_domain": [
+            "mail-lj1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.173"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

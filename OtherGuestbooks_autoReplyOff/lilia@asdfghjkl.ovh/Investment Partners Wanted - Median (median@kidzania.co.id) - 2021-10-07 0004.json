@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings, \r\n\r\nOur investment and loan company is seeking investment partners in North America, Asia, and will love to partner with you. As part of our investment expansion plan, we are ready to finance any project that is viable, direct investments, business startup loans, joint venture, equity funding, real estate, renewable energy, mining, which can be considered depending on the nature of your business plan. If you are interested in partnering with our group, kindly send to me your business plan for review. \r\n\r\nWe look forward to working with you. \r\n\r\nBest regards, \r\nAlhamlan Ahmad \r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a60f279fa3e23ea191a1ffdcb2086ec0ebe6625f82d5b0da0005b666ae56c69c",
+            "boundary": "=_6cd348d0-c65e-42f6-8664-19480266a36c"
+        }
+    ],
+    "header": {
+        "subject": "Investment Partners Wanted",
+        "from": "median@kidzania.co.id",
+        "to": [],
+        "date": "2021-10-06T22:04:14+00:00",
+        "received_domain": [
+            "mail.kidzania.co.id"
+        ],
+        "received_ip": [
+            "115.85.86.195"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

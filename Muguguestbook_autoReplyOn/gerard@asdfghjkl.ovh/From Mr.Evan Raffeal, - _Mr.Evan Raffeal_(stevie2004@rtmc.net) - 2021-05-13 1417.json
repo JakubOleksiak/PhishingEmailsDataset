@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "My name is Evan Raffeal Waiz, original from Germany but based in Ireland. I work as a Geologist with our company's new power and energy company in Ireland. I am 61 years old and single now, born month of September. I lost my wife early last year to health problem, she was 57 years when she died.\r\n I am seeking a relationship which i want to start with friendship. I want a matured minded friend/partner to build a happy family together. I want you to know that age, color, distance, race, or religion is not problem to me, as long as we both are matured in mind and understands each other.\r\n I love traveling, outdoors, sports, nature, meaningful music, and i am happy and jovial person to be around with. It will be my pleasure to really find a good woman as you, for us to build a lovely relationship and family.\r\n I hope to get your reply as an indication of your interest in my friendship proposal.\r\n Attached are some of my pictures, and i hope to get your photos also, with introduction of yourself.\r\n \r\nRegards.\r\nRaffeal Waiz\r\n",
+            "content_type": "text/plain",
+            "hash": "fa3f2805d06aa5609fa423b1a0f74617814ecdb50453aa233a57f4bc64d33f9e",
+            "boundary": "===============1552302295=="
+        }
+    ],
+    "header": {
+        "subject": "From Mr.Evan Raffeal,",
+        "from": "stevie2004@rtmc.net",
+        "to": [
+            "stevie2004@rtmc.net"
+        ],
+        "date": "2021-05-13T05:17:46-07:00",
+        "received_domain": [
+            "mail.pakubuwonospring.com"
+        ],
+        "received_ip": [
+            "103.87.84.132",
+            "129.205.124.143"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

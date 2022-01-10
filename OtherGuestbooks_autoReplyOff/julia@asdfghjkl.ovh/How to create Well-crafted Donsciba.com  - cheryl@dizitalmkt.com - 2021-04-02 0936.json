@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Donsciba.com,\r\n\r\nHope this email finds you well.\r\n\r\nI\u2019m a website designer with more than ten years of experience in working\r\nwith multiple platforms and technologies involving website design and\r\ndevelopment.\r\n\r\nI would like to share with you a few insights which most of the web\r\ndevelopers and web owners miss out on in early days,that impacts them\r\ngreatly afterwards.\r\n\r\nWebsite *Bounce Rate*: It\u2019s one of the major factors that contributes to\r\nwebsite performance. As per Google standard only two percent of online\r\nvisitors stay at a website or home page if they find it interesting. Hence,\r\ngrabbing attention from the first few seconds is the challenge.\r\n\r\nA website with no *call to action elements* almost makes the task half\r\ndone; we can ensure not only visitors, rather better call to action\r\nelements which will encourage phone calls and emails for the website.\r\n\r\nHow can we forget a *responsive design*, which is a mandate now for any\r\nsearch engine update? Recent update from Google made a strict policy to\r\nfive priority to websites having better mobile codes than counterparts.\r\n\r\nAgain, we can\u2019t ignore search engines. We will ensure your design is *search\r\nengine friendly and optimized* with best keywords.\r\n\r\nI\u2019m not talking about some cheap tricks. It\u2019s pure technical and\r\ninformative to make your website visible.\r\n\r\nOur expertise in cross platform and cross domain makes us stand out in a\r\ncrowd. Our skill sets are mapped to CMS like WordPress, Joomla, Magento\r\netc. web languages and custom platforms like PHP, Java & .Net. With Basic\r\nskills on HTML and bootstrap CSS is of essence.\r\n\r\nPlease reply us back for more information on prices and references to start\r\nyour new website design.\r\n\r\n\r\n\r\nRegards\r\n\r\n*Cheryl Griffin* (BDM)\r\n",
+            "content_type": "text/plain",
+            "hash": "60868a49d26af8b95d46f6b571010d930d8ccce885059d861b8962496338e4d1",
+            "boundary": "000000000000e4559605bef8688d"
+        }
+    ],
+    "header": {
+        "subject": "How to create Well-crafted Donsciba.com?",
+        "from": "cheryl@dizitalmkt.com",
+        "to": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "date": "2021-04-02T00:36:44-07:00",
+        "received_domain": [
+            "gmailapi.google.com",
+            "mail-oi1-f193.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.193"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.kabo"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend,\r\nMy name is Mr.Kabo Uago, I have an inheritance fund for you, contact\r\nme  for more details\r\n\r\nRegards,\r\nMr.Kabo Uago\r\n",
+            "content_type": "text/plain",
+            "hash": "154d5dde5fee499b2caf71eef24b1a51301cbdc274b12f0ba9266cca8cfb7991"
+        }
+    ],
+    "header": {
+        "subject": "COMPLIMENTS OF THE DAY!",
+        "from": "kabouago9110@gmail.com",
+        "to": [],
+        "date": "2021-09-08T20:23:58+00:00",
+        "received_domain": [
+            "mail-ot1-f42.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6830:43aa::",
+            "209.85.210.42"
+        ],
+        "received_foremail": [
+            "marie@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

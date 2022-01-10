@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "mean75234@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\nGreetings\r\nI know this would come to you as a surprise. i am Mrs. Mean,\r\na born again Christian I'm a widow I lost my\r\nbeloved husband 14th of April 2014.\r\nThereafter life seems to be unfair\r\nto me, suffering from Cancer.\r\n\r\nI wish to donate the sum of 3.6 million dollars to you for private charitable fund for the less privileged in your country since i have no child to inherit my wealth get back to me for more details. my private email.\r\n( mean75234@gmail.com ) reply to my mail.\r\nWarm Regards\r\nMean\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "74f2aa0d87672b3d086b388f39e714847433561cbd0af61f13a39d468624e461",
+            "boundary": "0d6c12647d49451693a0cccdda27af91"
+        }
+    ],
+    "header": {
+        "subject": "Greetings",
+        "from": "info@shimiyabeton.com",
+        "to": [],
+        "date": "2021-06-21T15:27:17+00:00",
+        "received_domain": [
+            "w2k12mx04.dc1.ca.ihglobaldns.com"
+        ],
+        "received_ip": [
+            "192.175.105.170"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

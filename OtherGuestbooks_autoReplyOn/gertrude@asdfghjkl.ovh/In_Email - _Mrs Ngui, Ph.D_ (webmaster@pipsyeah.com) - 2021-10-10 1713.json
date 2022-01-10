@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nA message was sent to you this week did you get it ?\r\n",
+            "content_type": "text/plain",
+            "hash": "2ca41d850d298a697f0ecb498d1a3174382c4ccc6e250e8ef675b1ff795b6b89",
+            "boundary": "x26Sk9hSx2x6VHGXrI0icGFRsCAq=_RgQm"
+        }
+    ],
+    "header": {
+        "subject": "In/Email",
+        "from": "webmaster@pipsyeah.com",
+        "to": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-10T15:13:40+00:00",
+        "received_email": [
+            "webmaster@pipsyeah.com"
+        ],
+        "received_domain": [
+            "ec2-34-227-195-239.compute-1.amazonaws.com",
+            "box2201.bluehost.com",
+            "cm10.websitewelcome.com",
+            "gateway32.websitewelcome.com"
+        ],
+        "received_ip": [
+            "34.227.195.239",
+            "50.87.253.170",
+            "100.42.49.4",
+            "192.185.145.178"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

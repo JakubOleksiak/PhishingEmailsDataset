@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "email": [
+                "dr.crelinaspelltemple@gmail.com",
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "gmail.com",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Simply, email Dr. Crelina and follow all her instructions\r\ndr.crelinaspelltemple@gmail.com\r\n\r\nOn Tue, Sep 21, 2021, 4:13 PM <gerard@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Gerard\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "bf4ef5badd12fe0f73b2a436ed1bf408b419813b84faa96a83eb944d36f04603",
+            "boundary": "000000000000dcf7ad05cc854b10"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "ericgibson274@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-21T19:09:07+01:00",
+        "received_domain": [
+            "mail-il1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.172"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

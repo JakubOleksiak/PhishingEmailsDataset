@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "brown.my"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings, \r\n\r\nI am Heinrich Brown.My colleagues and I are seeking your assistance to help us receive/invest our funds in your country in any lucrative business. Please if this proposal is acceptable to you, kindly respond back to me for more details. \r\n\r\nThanks and waiting to hear from you \r\n\r\nBrown \r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "498219e4d7bd933952259294421dac6eb6e50b7c1e6e9714d182db042387636a",
+            "boundary": "=_cf15d67d-7066-49bc-868b-ec7c3dc04ad6"
+        }
+    ],
+    "header": {
+        "subject": "My humble request",
+        "from": "median@kidzania.co.id",
+        "to": [],
+        "date": "2021-10-07T02:32:12+00:00",
+        "received_domain": [
+            "mail.kidzania.co.id"
+        ],
+        "received_ip": [
+            "115.85.86.195"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

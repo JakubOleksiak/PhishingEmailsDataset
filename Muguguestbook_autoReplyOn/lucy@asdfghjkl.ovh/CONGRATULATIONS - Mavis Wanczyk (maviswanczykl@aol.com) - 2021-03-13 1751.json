@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.youtube.com/watch"
+            ],
+            "email": [
+                "post.mailbox@post.cz"
+            ],
+            "domain": [
+                "www.youtube.com",
+                "post.cz"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nHello; Email-Address Owner\r\n\r\nI'm Mrs. Mavis Wanczyk, the mega winner of $758 Million in Mega Millions Jackpot, I'm donating to 5 random individuals if you get this email then your email was selected after a spin ball. I have spread most of my wealth over a number of charities and organizations. I have voluntarily decided to donate the sum of $1.5 Million USD to you as one of the selected 5, to verify my winnings please see my you tube page below.\r\n\r\nWATCH ME HERE:\u00a0https://www.youtube.com/watch? v=7kWnqvJM1mM\r\n\r\nTHIS IS YOUR DONATION CODE: [JAN2021]\r\n\r\nHope to make you and your family happy.\r\n\r\nKindly contact Mr. Andrew Baileys the Consultant manager of\u00a0delivery company, via this Email.(post.mailbox@post.cz) on how you want to receive your fund, and also send to him your informations..\r\nYOUR FULL NAMES ..........................\r\nYOUR ADDRESS: ...........................\r\nYOUR PHONE NUMBER ........................\r\nCELL PHONE NUMBER ........................\r\nAGE .............................. .......\r\nSEX: .............................. ......\r\nYOUR OCCUPATION.................... ..\r\nPOSITION HELD .........\r\n\r\n\r\n\u00a0\u00a0 Regards,\r\n\r\nMrs. Mavis L. Wanczyk\r\n",
+            "content_type": "text/plain",
+            "hash": "c302c0d69128c4b3613b0359ce8191609d2729d7a2df94dd14964cebc12cc9d6",
+            "boundary": "----=_Part_342188_1916537715.1615654275913"
+        }
+    ],
+    "header": {
+        "subject": "CONGRATULATIONS",
+        "from": "maviswanczykl@aol.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-13T16:51:15+00:00",
+        "received_domain": [
+            "sonic301-31.consmr.mail.bf2.yahoo.com",
+            "sonic.gate.mail.ne1.yahoo.com",
+            "sonic301.consmr.mail.bf2.yahoo.com"
+        ],
+        "received_ip": [
+            "74.6.129.230"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

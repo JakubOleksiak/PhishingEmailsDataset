@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "FRESH & UPDATED TOOLS EVERYDAY.\r\nFresh Accounts : Paid & Unpaid\r\nFresh Tools : Shellz , PHP Mailer , SMTP , Cpanel\r\nFresh Premium Webmail : Office365,Godaddy,Rackspace etc...\r\nCheck More tools available\r\n---> www . qualitools . store <---\r\nLogin or register now.\r\n",
+            "content_type": "text/plain",
+            "hash": "db9718f4a423a5b257b8302e9ba9b96f8e6d7f845539ceec208790f9d146cdda"
+        }
+    ],
+    "header": {
+        "subject": "Fresh Tools Update // - Webmail, SMTP, RDP, Leads & More",
+        "from": "mike@westernskyadventures.com",
+        "to": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-09T02:10:37+00:00",
+        "received_domain": [
+            "westernskyadventures.com",
+            "p3plsmtpa07-10.prod.phx3.secureserver.net"
+        ],
+        "received_ip": [
+            "45.63.7.41",
+            "173.201.192.239"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

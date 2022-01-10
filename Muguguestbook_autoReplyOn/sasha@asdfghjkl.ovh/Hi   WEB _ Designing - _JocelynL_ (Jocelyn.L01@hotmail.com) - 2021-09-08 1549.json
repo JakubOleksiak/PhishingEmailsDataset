@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hey Sasha\r\n\r\n \r\n\r\nGreetings and best wishes for the day..!!\r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your website. I am a Web design / Developer that can\r\ndo just about anything you can imagine at very affordable prices. Feel free\r\nto contact me in case of any enquiry. If interested?\r\n\r\n \r\n\r\nThanks,\r\n\r\n \r\n\r\nJocelyn\r\n\r\n \r\n\r\nBusiness Development Executive\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "73fa35721c050d7b44191c8a71c94e29a1c03e1c219f852e9cb00600755af659",
+            "boundary": "----=_NextPart_000_16A9_01D7A4E6.E6E6AEB0"
+        }
+    ],
+    "header": {
+        "subject": "Hi : WEB & Designing ",
+        "from": "jocelyn.l01@hotmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-08T19:19:53+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "ty2pr06mb3293.apcprd06.prod.outlook.com",
+            "pn1pr01ca0092.indprd01.prod.outlook.com",
+            "ty2pr06mb3615.apcprd06.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:404:108::10",
+            "40.92.254.32",
+            "122.161.52.143",
+            "2603:1096:404:105::15",
+            "2603:1096:c00:1::32"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

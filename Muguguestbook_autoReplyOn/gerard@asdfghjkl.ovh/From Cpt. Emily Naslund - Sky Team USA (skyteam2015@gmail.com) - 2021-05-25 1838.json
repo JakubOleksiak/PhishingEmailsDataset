@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\"; format=\"flowed\"; DelSp=\"Yes\""
+                ],
+                "content-disposition": [
+                    "inline"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nHello,\r\n\r\nCompliments of the season! I know this email message will definitely  \r\ncome to you as a huge surprise, but I implore you to take the time to  \r\ngo through it carefully as the decision you make will go off a long  \r\nway to determine my future and continued existence. Please keep this  \r\nmessage top secrete.\r\n\r\nI am Cpt. Emily Naslund, presently in Afghanistan. I am desperately in  \r\nneed of your assistance and I have summoned up courage to contact you.\r\n\r\nPls go through the above link and get back to me.\r\n\r\nRespectfully,\r\n\r\nCpt. Emily Naslund, a member of the United States Marine Corps.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "566e553cbf49a85be4023cc07a22ef3dd68354aab2100763750fd3fe0938e984"
+        }
+    ],
+    "header": {
+        "subject": "From Cpt. Emily Naslund",
+        "from": "skyteam2015@gmail.com",
+        "to": [],
+        "date": "2021-05-25T16:38:21+00:00",
+        "received_domain": [
+            "dtekhost01.gr",
+            "webmail.usdl.gr"
+        ],
+        "received_ip": [
+            "139.97.216.95",
+            "197.210.10.25",
+            "95.216.97.139",
+            "6::"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

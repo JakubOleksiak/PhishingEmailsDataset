@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello Dear\r\nI am Lanya   FATIH, I am a 32 years old young lady from France married to Mr. Kerem FATIH from Turkey. I am very sorry to disturb you with my present humiliating condition.\r\nI lost my husband two years ago and the family members of my husband are against me. They want me  and my kid dead just because of the inheritance sum of Eight Million Eight Hundred thousand Euros  he left in a bank here in Turkey where I am staying at present with my two kids.\r\nDue to their bad intention to eliminate me and my kids, we are in hiding. I want to seek your  help to have us move into your country, also to help me transfer this fund into your bank account  for us to fly to join you over there, l really need your assistance.\r\nI will be waiting for your reply at E-mail: lanya.fatih32@gmail.com\r\nRegards:\r\nMrs. Lanya FATIH.  \r\n",
+            "content_type": "text/plain",
+            "hash": "e4e7c85bd7d42ed85bb6ecec50948ed9643e1695170d60fdd8aa6aee8c8fb7e7"
+        }
+    ],
+    "header": {
+        "subject": "I WILL WAIT FOR YOUR REPLY",
+        "from": "horace.moore@insightbb.com",
+        "to": [],
+        "date": "2021-06-18T04:17:16-07:00",
+        "received_domain": [
+            "pontuale.synology.me"
+        ],
+        "received_ip": [
+            "2.236.50.5",
+            "185.208.180.163"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

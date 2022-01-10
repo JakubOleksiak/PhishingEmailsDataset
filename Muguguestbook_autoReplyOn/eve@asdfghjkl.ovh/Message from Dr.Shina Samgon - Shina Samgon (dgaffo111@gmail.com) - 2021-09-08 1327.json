@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend,\r\n\r\nI hope my email finds you in good health. I have very wonderful news\r\nfor you and I wait for your response so that I can break the good news\r\nto you.\r\nYou just need to get ready because something great is about to happen\r\nin your direction.\r\n\r\nBest Regards,\r\n\r\nDr. Shina Samgon.\r\nCoordinator.\r\n",
+            "content_type": "text/plain",
+            "hash": "966b6c2add6a4405cf9b744412fb7c966d5c208d37213612803cdac8f7f80d43"
+        }
+    ],
+    "header": {
+        "subject": "Message from Dr.Shina Samgon",
+        "from": "dgaffo111@gmail.com",
+        "to": [],
+        "date": "2021-09-08T04:27:43-07:00",
+        "received_domain": [
+            "mail-oi1-f170.google.com"
+        ],
+        "received_ip": [
+            "2002:aca:ad57::",
+            "209.85.167.170"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

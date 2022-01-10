@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "domain": [
+                "2.8million"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Attention:\r\n\r\nIn a recent meeting held with the FBI Director Christopher A. Wray concerning debt reconciliation, the new U.S president Joe Biden has given an order to release all the outstanding overdue contract payments, winning prizes, compensation funds etc. which the Trump administration refused to pay to their respective beneficiaries over the past 4yrs.\r\n\r\nFollowing the records on my desk, it was revealed this morning that you are among the beneficiaries that have not received their fund due to the strict policies of the past administration. Meanwhile the total amount that will be released to you is (2.8Million Dollars) which will come via Global Automatic Teller Machine Debit Master Card as instructed by the FBI headquarters. However, the below information is needed as\r\nto enable the profiling of your ATM Card and its delivery to you:\r\n\r\nYour full name:\r\nAddress:\r\nOccupation:\r\nPhone number:\r\n\r\nUnderneath is the contact information of appointed dispatch person whom you are to forward the above requested details:\r\n\r\nMr. Fred Johnson\r\nEmail: fredjohnson3600@gmail.com\r\n\r\nOnce we receive the above information, we will proceed without delay.\r\n\r\nThank you.\r\nJennifer L. Moore FBI Agent\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "e1e73f14926d5fe3a119b4d1972789fbc734adc02427550c5e2b6fbe1b03ce2f"
+        }
+    ],
+    "header": {
+        "subject": "Donation Information!! ",
+        "from": "info@lee",
+        "to": [],
+        "date": "2021-09-27T07:59:49-07:00",
+        "received_ip": [
+            "51.68.152.136",
+            "31.210.20.196"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

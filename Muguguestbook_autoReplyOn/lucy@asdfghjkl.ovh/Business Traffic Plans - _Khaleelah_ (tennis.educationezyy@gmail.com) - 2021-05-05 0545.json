@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://basedbusinesstraffic.co/unsubscribe/",
+                "https://basedbusinesstraffic.co/"
+            ],
+            "domain": [
+                "basedbusinesstraffic.co"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi!\r\n\r\nTired of keep looking for quality business traffic?\r\n\r\nyour search is over, we provide the best business traffic available on the\r\nmarket\r\n\r\ncheck our deals and offers here\r\nhttps://basedbusinesstraffic.co/\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhttp://basedbusinesstraffic.co/unsubscribe/\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "8dc2a60e85526625704803844f18ddb5f6bb5e135f5b486686d529b4db74288f"
+        }
+    ],
+    "header": {
+        "subject": "Business Traffic Plans",
+        "from": "tennis.educationezyy@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-04T21:45:44-06:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "36.66.235.189"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

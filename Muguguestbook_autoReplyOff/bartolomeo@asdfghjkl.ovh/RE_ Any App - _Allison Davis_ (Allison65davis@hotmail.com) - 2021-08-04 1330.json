@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,Bartolomeo\r\n\r\nHow about a place in Apple App Store, and Google Play Store? \r\n\r\nOur mobile app developers can build the mobile app to your requirement, in\r\nyour budget and as per your timeline.\r\n\r\nWe build all kinds of Apps \r\n\r\n.    Android Apps\r\n\r\n.    I Phone Apps \r\n\r\n.    I Pad Apps \r\n\r\n.    Mobile App layout and UX design\r\n\r\nIf you have any kind of Mobile App's requirement, then please share your\r\nfull requirements with your website URL so that I can share you more details\r\naccordingly.\r\n\r\nThanks\r\n\r\nAllison\r\n\r\nBusiness Development Manager\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "081b122136439b478296baf0cca931b5d1c71a1752d58c11fe96679d97cf5d2d",
+            "boundary": "----=_NextPart_000_149C_01D78953.37971CA0"
+        }
+    ],
+    "header": {
+        "subject": "RE; Any App",
+        "from": "allison65davis@hotmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T17:00:57+05:30",
+        "received_domain": [
+            "eur02-he1-obe.outbound.protection.outlook.com",
+            "pa4pr03mb7120.eurprd03.prod.outlook.com",
+            "pr2pr03mb5401.eurprd03.prod.outlook.com",
+            "bmxpr01ca0038.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.68.14",
+            "2401:4900:1f38:e7a:584b:14cb:a147:cdfa",
+            "2603:10a6:101:1c::16",
+            "2603:10a6:102:e9::6",
+            "2603:1096:b00:c::24"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

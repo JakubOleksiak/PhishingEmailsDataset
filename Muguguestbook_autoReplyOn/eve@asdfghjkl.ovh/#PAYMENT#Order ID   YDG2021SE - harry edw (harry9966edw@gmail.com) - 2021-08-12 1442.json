@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "domain": [
+                "today.the",
+                "147.48usd"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "*Date : 2021 / 08 / 12*\r\nOrder ID : YDG2021SE\r\n\r\n\r\nHello Dear Customer ,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Help protect your personal information with Norton 360 where you getall \u2013\r\nin one protection , including with secure VPN with bank gradeencryption and\r\ndevice security including anti \u2013 virus , safe cam for pcand more .Your\r\nNORTON PC PROTECTION 365successfully renewed today.The amount $147.48USED\r\nsuccessfullydebit from your bank account.*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n *Product Description*\r\n\r\n *Tenure*\r\n\r\n*Quantity*\r\n\r\n*Transaction ID*\r\n\r\n*Amount*\r\n\r\n\r\nNorton PC Protection\r\n\r\n\r\n 2 Years\r\n\r\n\r\n      1\r\n\r\n\r\nYDG2021SE\r\n\r\n\r\n$ 147.48USD\r\n\r\n\r\nIf you wish to claim a *REFUND* then please feel free to Contact our\r\n*Billing Department* as soon as Possible\r\n\r\n\r\n*If any concern related product please help & contact  +1-833-613-2718*\r\n\r\n  We Offer protection for up to 10 PCs , Macs , Smartphones & tablets\r\n\r\n\r\n*                     Terms & Conditions*\r\n\r\n\r\n*If you didn\u2019t authorize this charge , you have 24 hours from the date of\r\ntransactionto open dispute against this charge and claim for a refund .*\r\n\r\n*We recommend you to call our CUSTOMER CARE service Immediately , please\r\nkeep*\r\n\r\n*the order no or transaction ID for assistance .*\r\n\r\n\r\n\r\n\r\n*Thanks & Regard*\r\n*Refund & Settlement Dept.*\r\n",
+            "content_type": "text/plain",
+            "hash": "e67d45466b8472435b6a7e67c1c4f3165f82c010bb836f6e8aca23ec811b0e5b",
+            "boundary": "000000000000c1b85f05c95d589e"
+        }
+    ],
+    "header": {
+        "subject": "#PAYMENT#Order ID : YDG2021SE",
+        "from": "harry9966edw@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-08-12T19:42:39+07:00",
+        "received_domain": [
+            "mail-io1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.50"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello dear if you are really interested mail me i will introduce\r\nmyself better to you and tell you why i contact you.\r\n",
+            "content_type": "text/plain",
+            "hash": "3fc334132b5f13cb690887e918f6ef67284488bdcf13feeaa79ca9b9780b6aa6",
+            "boundary": "0000000000005bcb2b05bdcdeece"
+        }
+    ],
+    "header": {
+        "subject": "hi",
+        "from": "kaylamanthey666@gmail.com",
+        "to": [],
+        "date": "2021-03-18T11:30:36+00:00",
+        "received_domain": [
+            "mail-ot1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.54"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

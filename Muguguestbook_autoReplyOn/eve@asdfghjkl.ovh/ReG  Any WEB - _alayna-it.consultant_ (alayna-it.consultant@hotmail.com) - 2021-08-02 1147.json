@@ -1,0 +1,54 @@
+{
+    "body": [
+        {
+            "email": [
+                "eve@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, eve@asdfghjkl.ovh\r\n\r\n \r\n\r\nI am a Business Development manager who works with 130+ experienced IT\r\nprofessionals.\r\n\r\n \r\n\r\nWebsite designing & development, PHP development, E-Commerce solutions &,\r\nHTML, Social Media Cover Page Design, UX / UI Design Services and SEO\r\n\r\n \r\n\r\nIf you are interested, then I can send you our price list, company\r\ninformation and an affordable quotation with the best offer.\r\n\r\n \r\n\r\nThanks & Regards,\r\n\r\nAlayna\r\n\r\n \r\n\r\nBusiness Development\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "da7b2890c399c290edbcc84d957f0548ac3952890159248c686c5cf16ee77b3f",
+            "boundary": "----=_NextPart_000_14DE_01D787B1.B83BFFE0"
+        }
+    ],
+    "header": {
+        "subject": "ReG: Any WEB",
+        "from": "alayna-it.consultant@hotmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T15:17:12+05:30",
+        "received_domain": [
+            "slxp216mb0191.korp216.prod.outlook.com",
+            "sg2pr02ca0104.apcprd02.prod.outlook.com",
+            "sg2pr02ca0018.apcprd02.prod.outlook.com",
+            "hk2apc01ft041.mail.protection.outlook.com",
+            "hk2apc01ft041.eop-apc01.prod.protection.outlook.com",
+            "pu1pr04mb2503.apcprd04.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com",
+            "sg2pr02ca0018.outlook.office365.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7ebc::4c",
+            "40.92.253.10",
+            "2603:1096:4:92::20",
+            "2603:1096:3:17::30",
+            "2a01:111:e400:7ebc::303",
+            "2603:1096:3:17:cafe::8d",
+            "122.177.99.126",
+            "2603:1096:803:34::19"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

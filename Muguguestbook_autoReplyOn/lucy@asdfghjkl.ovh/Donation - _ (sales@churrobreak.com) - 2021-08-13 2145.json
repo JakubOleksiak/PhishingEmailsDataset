@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://en.wikipedia.org/wiki/Azim_Premj"
+            ],
+            "email": [
+                "mrazimpremji99@gmail.com"
+            ],
+            "domain": [
+                "gmail.com",
+                "en.wikipedia.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "You have a charitable donation of  \u20ac2,000,000.00 Euros from an Indian business tycoon, investor, and philanthropist. His chairman of Wipro Limited. For full details contact him now via mrazimpremji99@gmail.com  (https://en.wikipedia.org/wiki/Azim_Premj)\r\n",
+            "content_type": "text/plain",
+            "hash": "7c95f69710444d2c00cd8866a9898f4708dfad2b7e540bee8969bed51da1a979"
+        }
+    ],
+    "header": {
+        "subject": "Donation ",
+        "from": "sales@churrobreak.com",
+        "to": [
+            "sales@churrobreak.com"
+        ],
+        "date": "2021-08-13T12:45:17-07:00",
+        "received_domain": [
+            "condor2656.home"
+        ],
+        "received_ip": [
+            "209.126.103.85",
+            "37.0.10.79"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

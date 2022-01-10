@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Eve\r\n\r\nI am a professional Web Design & Mobile App Developer, with 11 years of\r\nexperience. I can upgrade, Repair and Redesign your Website. If you are\r\ninterested, then I can send you our past work details, company information\r\nand a low quotation with the best Prices.\r\n\r\nThanks & Regards,\r\n\r\nCarter Worth\r\n\r\nBusiness Development Executive\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "af5e35db8a52ac476cab620db4a11ee6fc40809612cdb355d635ec20036c84f4",
+            "boundary": "----=_NextPart_000_4FC5_01D7A4C8.E5EA7000"
+        }
+    ],
+    "header": {
+        "subject": "Re: Services Mobile & WEB",
+        "from": "carterworth13@hotmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-08T15:42:41+05:30",
+        "received_domain": [
+            "tybp286mb0141.jpnp286.prod.outlook.com",
+            "tyap286mb0891.jpnp286.prod.outlook.com",
+            "pn2pr01ca0085.indprd01.prod.outlook.com",
+            "jpn01-ty1-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:402:3a::11",
+            "2603:1096:c01:23::30",
+            "122.161.52.143",
+            "104.47.93.144",
+            "2603:1096:404:8020::15"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

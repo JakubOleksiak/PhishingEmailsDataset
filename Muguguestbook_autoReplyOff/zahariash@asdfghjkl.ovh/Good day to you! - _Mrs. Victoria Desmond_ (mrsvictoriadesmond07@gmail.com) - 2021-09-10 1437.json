@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good day\r\n\r\nI am Mrs Victoria Desmond, Manager of Bill and Exchange in (B.O.A),\r\nBurkina Faso. I would like you to indicate your interest to receive\r\nthe transfer of (10.5 Million Dollars) in your bank account. This fund\r\nbelongs to a foreign costumer who died in plane crash with the next of\r\nkin.\r\n\r\nThank you for your kind cooperation.\r\n\r\nYours sincerely\r\nMrs. Victoria Desmond\r\n",
+            "content_type": "text/plain",
+            "hash": "9d08d5a5f5fefdb63277e734b1b68d61dbcecc31e6806a3c2e33eae3eeed964b"
+        }
+    ],
+    "header": {
+        "subject": "Good day to you!",
+        "from": "mrsvictoriadesmond07@gmail.com",
+        "to": [],
+        "date": "2021-09-10T14:37:53+02:00",
+        "received_domain": [
+            "mail-pf1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.182",
+            "2002:a05:6602:2c45::"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

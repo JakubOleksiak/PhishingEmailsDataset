@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Morning\r\n\r\nI hope you are fine? please did you receive my message I sent to you\r\n",
+            "content_type": "text/plain",
+            "hash": "61c4cd5a69fc42e756a63575470a7419784af1ac331a59ab9f3d62288155fe14",
+            "boundary": "0000000000005e8cda05bcdfe6bd"
+        }
+    ],
+    "header": {
+        "subject": "Good Morning  ",
+        "from": "julrikameir16@gmail.com",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-06T15:31:41+00:00",
+        "received_domain": [
+            "mail-yb1-f175.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.175"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

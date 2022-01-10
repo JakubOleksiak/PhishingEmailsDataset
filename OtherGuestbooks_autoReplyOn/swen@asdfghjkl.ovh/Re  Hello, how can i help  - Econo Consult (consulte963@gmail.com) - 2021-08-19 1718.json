@@ -1,0 +1,70 @@
+{
+    "attachment": [
+        {
+            "filename": "CBN_FORM[1].jpg",
+            "size": 204479,
+            "extension": "jpg",
+            "hash": {
+                "md5": "7a35bc97f41045582fb7067a850d330d",
+                "sha1": "c7a6e035ffebdc5240f5735cc1dce8708e5b024d",
+                "sha256": "a1b1955e28495c84dbc856aa90a431ece7cda6c667bfcb0ddde3b738f54165fa",
+                "sha512": "e5c4e75d9cf9bbcf147df6c34e3ac2dc74e0fc71a0d464f3ebc45ae74607ec013eef0490e9f12a4a339ad0b58f5c2ff4b38f5860f2be99765d4144aa516c93c2"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"CBN_FORM[1].jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"CBN_FORM[1].jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_ksj2j41j0>"
+                ],
+                "x-attachment-id": [
+                    "f_ksj2j41j0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "swen@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " Attention: Swen,\r\n\r\nI am in receipt of your mail .\r\nKindly fill the attached form and send it back to me immediately so that I\r\nwill use it and process your payment and transfer the money to you.\r\n\r\n Faithfully,\r\n Dr. Stanley Biko\r\n International telex Director\r\n\r\nOn Wed, 18 Aug 2021 at 15:14, <swen@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Swen\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "e97b1c3fef8e1548dd566546c5b9a0b7676a6990ee05425013182f48db43f2ae",
+            "boundary": "00000000000089078005c9eb10b0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "consulte963@gmail.com",
+        "to": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-19T16:18:19+01:00",
+        "received_domain": [
+            "mail-ej1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.53"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

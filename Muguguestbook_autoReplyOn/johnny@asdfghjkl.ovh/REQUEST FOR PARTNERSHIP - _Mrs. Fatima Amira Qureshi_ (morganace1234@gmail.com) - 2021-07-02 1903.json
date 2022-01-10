@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings,\r\n\r\nI am making this contact to you in request of your  assistance to help\r\nme to handle an investment in your country because of current\r\nsituation in our country Syria. I would appreciate your kind response\r\nif you are willing to handle the project for me with your honest and\r\ntrust.\r\nSincerely,\r\nMrs. Fatima Amira Qureshi\r\n",
+            "content_type": "text/plain",
+            "hash": "9cf24111c29ae6978a88f9dbbd3d11db2bed42119ead9eb1643a4b3262e02db5"
+        }
+    ],
+    "header": {
+        "subject": "REQUEST FOR PARTNERSHIP",
+        "from": "morganace1234@gmail.com",
+        "to": [],
+        "date": "2021-07-02T18:03:35+01:00",
+        "received_domain": [
+            "mail-ej1-f47.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6512:36ca::",
+            "209.85.218.47"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

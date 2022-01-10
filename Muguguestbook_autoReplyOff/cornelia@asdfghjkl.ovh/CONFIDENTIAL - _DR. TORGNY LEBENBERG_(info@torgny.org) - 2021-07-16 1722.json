@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Dear ,\r\n\r\nI'm Dr. Torgny Lebenberg. Contacting you in regards to a Claim of  (Eighteen Million Two Hundred Thousand Dollars) $18,200 ,000.00 connecting you to my late client Henry Timothy\r\n\r\nKindly respond swiftly.\r\n\r\nDR. TORGNY LEBENBERG\r\nLEBENBERG ADVOKATBYR\u00c5 AB.\r\nAttorney at Law; LL.M.; Partner\r\nAddress: Grev Turegatan 44, 114\r\n38 Stockholm,Sweden.\r\n",
+            "content_type": "text/plain",
+            "hash": "e8a345780b7803ae6d9c0de4e6dbba33f870e7b8d79932ecf198a7b98d455f37"
+        }
+    ],
+    "header": {
+        "subject": "CONFIDENTIAL",
+        "from": "info@torgny.org",
+        "to": [
+            "info@torgny.org"
+        ],
+        "date": "2021-07-16T23:22:44+08:00",
+        "received_domain": [
+            "mxz.fitenet.ne.jp",
+            "user-pc.homenet.telecomitalia.it"
+        ],
+        "received_ip": [
+            "79.37.216.140",
+            "210.196.122.10"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

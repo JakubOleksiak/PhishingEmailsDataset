@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://4a102d0dfd.nxcli.net/acrobat/"
+            ],
+            "domain": [
+                "4a102d0dfd.nxcli.net"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "\r\nDear Client\r\n\r\nThis is your transfer details, please log in with your email and confirm.\r\n\r\n\r\nhttps://4a102d0dfd.nxcli.net/acrobat/\r\n",
+            "content_type": "text/plain",
+            "hash": "60fef6ea5e5dd577e4c2890804c556ea0bd18a386bbb0ac195eaa3c0f7ad88bc"
+        }
+    ],
+    "header": {
+        "subject": "Bank report",
+        "from": "glynn@joyceswift.ml",
+        "to": [
+            "glynn@joyceswift.ml"
+        ],
+        "date": "2021-04-09T09:10:25-07:00",
+        "received_domain": [
+            "gato.com"
+        ],
+        "received_ip": [
+            "100.120.217.31",
+            "83.142.83.25",
+            "45.156.24.92"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

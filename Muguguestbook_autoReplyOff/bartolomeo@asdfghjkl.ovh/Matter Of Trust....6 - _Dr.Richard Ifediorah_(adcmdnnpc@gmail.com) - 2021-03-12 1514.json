@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "dr.richard"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Dear Friend,\r\n\r\nWith much sincerity of heart, I write to inform you about a business proposal I have which I would like to handle with you. $85.786 million USD is involved. Be rest assured that everything is legal and risk free as I have concluded all the arrangements and the legal papers that will back the transaction up. Kindly indicate your interest so as to enable me give you more details of the proposal.\r\n\r\n\r\nWaiting for your urgent response.\r\n\r\nYours faithfully,\r\n\r\nDr.Richard Ifediorah\r\nPrivate E-mail:drrichardifediorah3@gmail.com  \r\nCellphone: +234-81-0920-6368\r\n",
+            "content_type": "text/plain",
+            "hash": "4bd684213a2129e8c6602ec2344b16317cc66e7f36cd14ba2462ba4e34e700e9"
+        }
+    ],
+    "header": {
+        "subject": "Matter Of Trust....6                                                  ",
+        "from": "adcmdnnpc@gmail.com",
+        "to": [
+            "adcmdnnpc@gmail.com"
+        ],
+        "date": "2021-03-12T06:14:05-08:00",
+        "received_email": [
+            "adcmdnnpc@gmail.com"
+        ],
+        "received_domain": [
+            "srv01.radlink.com.br"
+        ],
+        "received_ip": [
+            "178.76.211.150",
+            "189.50.192.6"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

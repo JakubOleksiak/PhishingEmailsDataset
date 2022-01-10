@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend\r\nYou have been compensated with the sum of 4.4 million dollars in this\r\nunited nation the payment will be Issue into ATM visa card and send to\r\nyou from the Santander bank of Spain we need your address passport and\r\nyour Whatsapp Number.\r\nThanks\r\nMrs. Bill Chantal\r\n",
+            "content_type": "text/plain",
+            "hash": "90fa46f68551da8f4fdaa20ff08ba5ef356a580f84cc8ca2dc0f3f07670c8543"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend",
+        "from": "naimaishaq8@gmail.com",
+        "to": [],
+        "date": "2021-09-30T21:59:10+01:00",
+        "received_domain": [
+            "mail-pf1-f170.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.170",
+            "2002:a05:6e02:1582::"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

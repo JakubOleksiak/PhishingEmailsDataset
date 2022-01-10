@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attn: Eve\r\n\r\n\r\n\r\nRE- YOUR ATM / MASTER CARD (Valued\r\n$450,000)FILE No: ASVFC/02016/11\r\n\r\nIs a government lottery won ATM card, if interested process and have one\r\n\r\nSend your\r\n\r\nFull Names:.......\r\nAge:................\r\nOccupation:........\r\nHome Address:.......\r\nAnd A copy of your ID,Once we receive this information, we will\r\nproceed without delay\r\nYour Cell Number: number for us to call you as soon as the card is being sent.\r\n\r\nWe await your response.\r\n\r\nSincerely\r\nMrs Guadiola Fabrigaz\r\nCordinator\r\n",
+            "content_type": "text/plain",
+            "hash": "4600148dcb5d0e260938310f30c479890492d0160f5cd45c2dde58dfffdc6424"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "haciendaespanola1861@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-02T14:14:38+01:00",
+        "received_domain": [
+            "mail-vs1-f46.google.com"
+        ],
+        "received_ip": [
+            "2002:ab0:b9a::",
+            "209.85.217.46"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nWe offer a Loan Amount of $ 5000 to $5,000,000.00 I want to fully assure you that you will get the funds if only you are very serious and trustworthy Because I Like serious and God fearing people If interested contact us now for more information. \r\n",
+            "content_type": "text/plain",
+            "hash": "ae31ca90aa936fee304a4953890034731635315563f6c15f36fe856b29e31dcb",
+            "boundary": "=_8d5c3ad5-50d8-4e55-aa24-bc07d4df6b52"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "achavezf@fiscaliaedomex.gob.mx",
+        "to": [],
+        "date": "2021-05-22T02:28:36-05:00",
+        "received_domain": [
+            "mail.fiscaliaedomex.gob.mx",
+            "mbox1.fiscaliaedomex.gob.mx"
+        ],
+        "received_ip": [
+            "187.174.208.146"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "info.lerynne@citromail.hu"
+            ],
+            "domain": [
+                "citromail.hu"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\n\r\nYou have been chosen to receive a donation of \u20ac2,800,000.00 from the\r\nCallum Foundation. I won the America Lottery worth $343 Million and I\r\nam donating a portion of it to five happy people and charities. This\r\ndonation is in memory of my late son who died of cancer, and in\r\nimproving the lives of many people affected by this coronavirus.\r\n\r\nPlease reply this email on my private email address\r\ninfo.lerynne@citromail.hu for more details.\r\n\r\nBest regards;\r\n\r\nMrs. Lerynne West\r\nFounder\r\nCallum Foundation\r\n",
+            "content_type": "text/plain",
+            "hash": "7d999cc3255f3af1f47a8a0678099019f9846fea85e48a24c57e4e49ffd8431b"
+        }
+    ],
+    "header": {
+        "subject": "Congratulations!!",
+        "from": "mradebayoadelabu002@gmail.com",
+        "to": [],
+        "date": "2021-08-18T23:47:33-07:00",
+        "received_domain": [
+            "mail-oi1-f169.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6a10:b790::",
+            "209.85.167.169"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

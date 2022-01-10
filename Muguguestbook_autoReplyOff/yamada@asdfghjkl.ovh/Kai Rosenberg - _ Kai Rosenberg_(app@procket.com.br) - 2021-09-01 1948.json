@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,   \r\n\r\nIt`s me  Kai Rosenberg ,the professional banker with the reserve , who was in touch  with you . Finally, I am  contacting you regarding our previous discussion ,  about the deceased, whom I happened to be his banker and financial  advisor, It's been confirmed  he  died of cancer and he has no beneficiary on  file  to receive  his $137 Million USD from investment . I am ready  for the deal as discussed ,it's a 50-50 share , are you ready ? all  you do is to get me any of your nominated banks abroad for the  transfer .\r\n\r\nsincerely.\r\n\r\n Kai Rosenberg\r\n",
+            "content_type": "text/plain",
+            "hash": "76bea130847f5a8302aeca0d9ed0680da6dac053bdc46ae494494e2530521cfc"
+        }
+    ],
+    "header": {
+        "subject": "Kai Rosenberg",
+        "from": "app@procket.com.br",
+        "to": [],
+        "date": "2021-09-01T18:48:56+01:00",
+        "received_domain": [
+            "maswb-faxmaker.mascon.com"
+        ],
+        "received_ip": [
+            "154.120.94.244",
+            "207.180.140.157"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

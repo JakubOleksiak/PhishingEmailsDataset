@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "320.40usd"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "NORTON\u2122  SECURITY\r\n\r\n\r\n\r\nINVOICE NO.- S2C3/653/71\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDEAR CUSTOMER,\r\n\r\n\r\n\r\n\r\nYour Subscription for NORTON PC PROTECTION has been successfully RENEWED &\r\nUpdated.\r\n\r\nThe Debited balance  will be refunded within the Next 24 TO 48 HRS on your\r\nA/C statement.\r\n\r\n\r\n\r\n: PRODUCT INFORMATION :\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Product*\r\n\r\n*Issue date     *\r\n\r\n*Expiration date*\r\n\r\n*Quantity*\r\n\r\n*Price*\r\n\r\nNORTON 360\r\n\r\nPC PROTECTION\r\n\r\n06-07-2021\r\n\r\n06-07-2022\r\n\r\n1\r\n\r\n320.40USD\r\n\r\n\r\n\r\n\r\n\r\n** If you wish to cancel this Subscription then please feel free to Contact\r\nour Billing Department as soon as Possible**\r\n\r\n\r\n\r\nYou can Reach us on   : +1   -  (844)  -  (380)  -  (3765) [TOLL FREE]\r\n\r\n\r\n\r\n\r\n\r\nThank you for your attention to this matter.  We greatly appreciate your\r\ncontinued business.\r\n\r\n\r\n\r\nFor questions concerning this invoice,\r\n\r\nplease contact +1 (844)  -  (380)  -  (3765)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.\r\n\r\n\r\n\r\nTHANK YOU\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*BILLING DEPARTMENT*\r\nNORTON\u2122  360\r\n",
+            "content_type": "text/plain",
+            "hash": "dd1690a299d7f6b19c33951860cde6a2844fa3f12287db40690946a4830e3fdb",
+            "boundary": "00000000000061a6d905c6771792"
+        }
+    ],
+    "header": {
+        "subject": "norton pc protection",
+        "from": "b2kbenjir332@gmail.com",
+        "to": [],
+        "date": "2021-07-06T22:11:06+05:30",
+        "received_domain": [
+            "mail-oo1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.161.47"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

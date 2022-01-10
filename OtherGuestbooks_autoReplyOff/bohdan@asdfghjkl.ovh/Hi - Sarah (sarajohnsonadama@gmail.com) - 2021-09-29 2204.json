@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi\r\nHow are you doing?\r\n",
+            "content_type": "text/plain",
+            "hash": "2bb5df0d1b75f866da593b9271b4e95397703fd0678d65d1dc2d5ce75c6b7a02",
+            "boundary": "00000000000071183905cd27d75a"
+        }
+    ],
+    "header": {
+        "subject": "Hi",
+        "from": "sarajohnsonadama@gmail.com",
+        "to": [],
+        "date": "2021-09-29T20:04:34+00:00",
+        "received_domain": [
+            "mail-yb1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.178"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

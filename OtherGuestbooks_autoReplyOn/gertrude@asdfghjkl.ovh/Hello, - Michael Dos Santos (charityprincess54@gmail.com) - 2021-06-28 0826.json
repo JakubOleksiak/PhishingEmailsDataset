@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\nGood Morning,\r\nI am writing to you in good faith, My name is Michael Dos Santos and I am a\r\nsolicitor at law, I am making this proposal in respect to the death of my\r\nlate client who died leaving a huge sum of money in a bank and after\r\nunsuccessful attempt to locate his relatives I decided to contact you.\r\nI need your assistance in retrieving the funds with the bank as I was\r\nmandated to present his next of kin or they will transfer the inheritance\r\nto the treasury.\r\nI wish to know if you are interested and willing to help me, then I will\r\nexplain in detail about the procedure.\r\nLooking forward to hearing from you.\r\nRegards.\r\n",
+            "content_type": "text/plain",
+            "hash": "d8480b05dc908661ebff22c3681104fc83f77fb96b35617af742d0fd29f913db",
+            "boundary": "0000000000004eb33b05c5cd90a1"
+        }
+    ],
+    "header": {
+        "subject": "Hello,",
+        "from": "charityprincess54@gmail.com",
+        "to": [],
+        "date": "2021-06-28T08:26:04+02:00",
+        "received_domain": [
+            "mail-ej1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.46"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

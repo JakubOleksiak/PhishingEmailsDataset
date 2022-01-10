@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "samuraiokai60@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I trust this message finds you in good health.\r\n\r\n\r\nI am Dr. Samurai Okai from Ghana. I am a retired government personal\r\nand a political figure.\r\nI am contacting you for joint business collaboration. I am seeking for\r\ninvestment projects like real estate, communication, energy and more.\r\nLet me know if you have any project that requires funding or expansion\r\nof existing business.  Email me here with your reply at.\r\n(samuraiokai60@gmail.com)\r\n\r\nLooking forward to hear from you.\r\n\r\n\r\nKind regards,\r\nDr S. Okai\r\nEmail address:  samuraiokai60@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "5c5dae6689881e0bc5723d298a5ecdea24b6ca29ce38c6735b96d024a9ba972b"
+        }
+    ],
+    "header": {
+        "subject": "Compliment of the season and greetings to you.",
+        "from": "lam754780@gmail.com",
+        "to": [],
+        "date": "2021-09-29T18:15:52+01:00",
+        "received_domain": [
+            "mail-il1-f180.google.com"
+        ],
+        "received_ip": [
+            "2002:a02:ccd1::",
+            "209.85.166.180"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Find any supermarket store near to you and buy an ITunes or steam wallet\r\nGift Card for the delivery of your ATM visa card\r\n\r\nOn Thursday, June 10, 2021, <gerard@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Gerard\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "ddc8852003b57ce42b6fc9170dad1030eab6c48ff0310912260207fe8408960f",
+            "boundary": "00000000000093c2f205c46d9f97"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "hm9214201@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-10T19:33:10+01:00",
+        "received_domain": [
+            "mail-pf1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.182",
+            "2002:a17:90a:d78a::"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

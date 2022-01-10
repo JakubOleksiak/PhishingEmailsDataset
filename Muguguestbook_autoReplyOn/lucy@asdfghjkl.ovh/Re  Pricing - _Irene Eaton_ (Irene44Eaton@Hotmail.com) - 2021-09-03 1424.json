@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "lucy@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": " \r\n\r\n \r\n\r\nHi, lucy@asdfghjkl.ovh\r\n\r\nHappy to connect.\r\n\r\nI would like to give you a brief backdrop about our company as well\r\ncore-competency areas in App developments.\r\n\r\nSpa & Massage App, Shopping App, Wedding App, Food & Drink App, Shopping\r\nApp, E-Commerce App, IPhone and iPad Apps, Mobile App.\r\n\r\nPlease tell me what type of App development you need, please share your\r\ncontact details for more discussion.\r\n\r\nThank you\r\n\r\n\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "bb8f3574c4b6ef24059b39add2b0bb62bd9da39d94f05d2510ec59a9db1662db",
+            "boundary": "----=_NextPart_000_1A78_01D7A0EC.E1C9BE20"
+        }
+    ],
+    "header": {
+        "subject": "Re:Pricing ",
+        "from": "irene44eaton@hotmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-03T17:54:06+05:30",
+        "received_domain": [
+            "os3pr01mb6101.jpnprd01.prod.outlook.com",
+            "pn2pr01ca0118.indprd01.prod.outlook.com",
+            "osbpr01mb4806.jpnprd01.prod.outlook.com",
+            "jpn01-ty1-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:c01:27::33",
+            "2603:1096:604:78::21",
+            "104.47.93.173",
+            "2603:1096:604:d5::12",
+            "122.161.52.1"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

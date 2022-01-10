@@ -1,0 +1,63 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 2487,
+            "hash": {
+                "md5": "e909c919684c7303affa0a55562181ba",
+                "sha1": "2e690fbecae0801f592cf03c2f488febfbedb02c",
+                "sha256": "8bb0dd14ebd1b4df7451504f5c92975f7a48a733c75330d3c9752df6d7670c1e",
+                "sha512": "a14a3f1429dc029046211ef4d21a08ab2b60908af5b852ae049ef7ae80585af975eaf19cc9623b417bf857a60efb0e388a9529dead4b81df6d01a0a8380bae27"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-disposition": [
+                    "inline"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "info@usa.org"
+            ],
+            "domain": [
+                "usa.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain"
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "The attached message from \"Mr. Freddy Hermann\" <info@usa.org> (<info@usa.org>)\r\nwas determined by the Spam Blocker to be spam based on a score\r\nof 19.1 where anything above 4.3 is spam.\r\n",
+            "content_type": "text/plain",
+            "hash": "b4fbcb4fd840563ea3f7472140749fcda4fe9c48288fc313f1062c9d60ec688d",
+            "boundary": "----13433988_060105_1622462299296"
+        }
+    ],
+    "header": {
+        "subject": "[SPAM] ATTN: *Dear Fund Beneficiary, YOUR ATM CARD*.",
+        "from": "info@usa.org",
+        "to": [],
+        "date": "2021-05-31T04:57:57-07:00",
+        "received_domain": [
+            "mail.mam.gov.local",
+            "mam.gov.local"
+        ],
+        "received_ip": [
+            "181.188.25.142",
+            "154.118.12.190"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

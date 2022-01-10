@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-language": [
+                    "en-US"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "My Dear,\r\n\r\nHope your week has been great!\r\n\r\nI noticed you haven't replied to my last email, it's fine, I know how \r\nbusy life can get.\r\nPlease pardon the abruptness of this letter. However strange or \r\nsurprising this message might seem to you as we have not met personally \r\nor had any dealings with you in the past. I must apologize for intruding \r\ninto your privacy\r\n\r\nGod bless you abundantly as you ponder on this and respond due to my ill \r\nhealth and short time.\r\n\r\nReply to this email account below for more updates and I humbly promise \r\nthat you will never ever regret it.\r\nLooking forward to hearing from you sometime soon.\r\n\r\nSincerely,\r\nFlora Luiz.\r\nfloraluiz99@gmail.com\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "3f5483f30650b4239fefcc0bd2000acf4e5b039f3b89e26c8debacc79fe11366"
+        }
+    ],
+    "header": {
+        "subject": "I NEED YOUR HELP PLEASE.",
+        "from": "floraluiz99@gmail.com",
+        "to": [],
+        "date": "2021-09-08T15:01:32-07:00",
+        "received_domain": [
+            "smtp.gmail.com",
+            "mail-wr1-f42.google.com"
+        ],
+        "received_ip": [
+            "197.210.54.166",
+            "209.85.221.42"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

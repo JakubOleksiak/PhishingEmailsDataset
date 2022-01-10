@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "zack@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "mrs.rizza",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " Dearest  Zack,\r\nHappy to hear from you.\r\nwhich country are you from\r\nAre you married,what do you do for your living because i need a trustworthy\r\nperson\r\nMrs.Rizza Egobia]\r\n\r\nOn Mon, Sep 13, 2021 at 9:36 AM <zack@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Zack\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "3b247264324c1ad6d7624d2d4132cdacf532b86b82f1e9dd1d1f5d31d41b10e2",
+            "boundary": "000000000000a19f0d05cc1241e0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help with this?",
+        "from": "mrs.rizza1@gmail.com",
+        "to": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-15T17:54:16-07:00",
+        "received_domain": [
+            "mail-oi1-f175.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.175"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

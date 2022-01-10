@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "email": [
+                "sasha@asdfghjkl.ovh",
+                "covid19reliefun@outlook.com"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org",
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD>\r\n<body style=\"MARGIN: 0.5em\">\r\n<P><SPAN style=\"FONT-FAMILY: comic sans ms, sans-serif\">Hello!<BR>This Email: sasha@asdfghjkl.ovh, has won Cash prize from UN COVID-19 Relief Fund.<BR>TO CLAIM YOUR PRIZE, SEND:<BR>1. Your Name<BR>2. Age<BR>3. Occupation<BR>TO: <A href=\"mailto:covid19reliefun@outlook.com\">covid19reliefun@outlook.com</A><BR></SPAN></P>\r\n<DIV><SPAN style=\"FONT-FAMILY: comic sans ms, sans-serif\">Yours Sincerely,<BR><BR><STRONG>Dr. Kassab Johnson</STRONG><BR>Award Team<BR>UN Relief Agancy<BR>Tel: +447752493617<BR></SPAN></DIV></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "a31abcc8a954a5bd6b60deeba5e9ccdca9d56004d11c2fba01b2dec84fb829f3"
+        }
+    ],
+    "header": {
+        "subject": "Covid-19 Relief Fund",
+        "from": "unreliefteam@andrewmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-19T17:56:58+02:00",
+        "received_domain": [
+            "andrewmail.com"
+        ],
+        "received_ip": [
+            "45.92.156.59"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

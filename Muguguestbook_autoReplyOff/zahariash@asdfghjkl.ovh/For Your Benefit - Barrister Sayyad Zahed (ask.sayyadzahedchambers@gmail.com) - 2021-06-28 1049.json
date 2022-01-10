@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "image.png",
+            "size": 12176,
+            "extension": "png",
+            "hash": {
+                "md5": "007ec3183315af39d228cbaa713b191d",
+                "sha1": "621b40b0f00da5929a8ebfe6f810e42a3136dd54",
+                "sha256": "d4566a7282bcac4de179664e24259a14ac0da3ad4326abab012af79761541b88",
+                "sha512": "98388fece9ffbffa2febe3f00fdacd7a09daf07469db8a8347fb6f8af52c08ff16616e58fb3e237fd0f6fed87a22f2d53a8dba1c63d51fb7dd3c401e5beebe2d"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image.png\""
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<ii_kqgdpg2z0>"
+                ],
+                "x-attachment-id": [
+                    "ii_kqgdpg2z0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "[image: image.png]\r\n",
+            "content_type": "text/plain",
+            "hash": "69cf0d6ae3104730ebebc169786326fbd83d181abb76b5417fa1bf84b94b1246",
+            "boundary": "00000000000052d6b505c5cf8f12"
+        }
+    ],
+    "header": {
+        "subject": "For Your Benefit",
+        "from": "ask.sayyadzahedchambers@gmail.com",
+        "to": [],
+        "date": "2021-06-28T09:49:03+01:00",
+        "received_domain": [
+            "mail-pj1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.46"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Tagalog"
+    }
+}

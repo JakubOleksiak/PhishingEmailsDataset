@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Hello Dear,*\r\n\r\n*An email was sent to you sometime last week with the expectation of\r\nreceiving a return email from you, but to my surprise, you never bothered\r\nto reply. Please reply for further explanation.*\r\n\r\n*Respectfully yours,*\r\n\r\n*Adams T. Eric*\r\n",
+            "content_type": "text/plain",
+            "hash": "b4ecc8fd74438a4ae9b8782f3ded3271273c4736e4ae64867cff10bee766d1fc",
+            "boundary": "00000000000032662805be210cd1"
+        }
+    ],
+    "header": {
+        "subject": "RECHECK YOUR EMAIL",
+        "from": "adamseric6666@gmail.com",
+        "to": [],
+        "date": "2021-03-22T17:52:44-07:00",
+        "received_domain": [
+            "mail-wr1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.66"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "donaldbello849@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\""
+                ]
+            },
+            "content": "Good Day To You\r\n\r\nPlease, I need your kind Assistance. I will be very glad if you can\r\nassist me to receive this sum of ( USD$ 10 Million US Dollars) into your\r\nbank account for the benefit of our both families for onward investment\r\nin any profitable Oriented business in your country, reply to me if you\r\nare ready to receive this fund.\r\n\r\nTo enable me start the process I need the following information from you\r\nby e-mail:  donaldbello849@gmail.com\r\n\r\n(1) Full Names:........................(2) Residential\r\nAddress:............................(3) Country of\r\nResidence:......................(4) Age:............... (5) Phone/Cell\r\nNumber:.....................(6) Occupation:.....................\r\n\r\nMay Almighty God Bless You!\r\n\r\nBest Regards,\r\nMr. Donald Bello",
+            "content_type": "text/plain",
+            "hash": "8d599f9fb80c576e4f9767c1b324233f9a249fdb6f2657db3e74f33cb7c81d79",
+            "boundary": "=_5a0d1887a899a06d6a68b14f6f30aa70"
+        }
+    ],
+    "header": {
+        "subject": "URGENT REPLY IS NEEDED",
+        "from": "jasa@unique76i.com",
+        "to": [],
+        "date": "2021-06-30T15:39:53+01:00",
+        "received_domain": [
+            "bosmailscan08.eigbox.net",
+            "emailmg.homestead.com",
+            "boswebmail16.eigbox.net",
+            "bosmailout02.eigbox.net"
+        ],
+        "received_ip": [
+            "196.28.249.86",
+            "66.96.184.2"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

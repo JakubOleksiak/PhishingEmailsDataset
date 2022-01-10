@@ -1,0 +1,49 @@
+{
+    "body": [
+        {
+            "email": [
+                "kunz.pch1@gmail.com"
+            ],
+            "domain": [
+                "d.james",
+                "gmail.com"
+            ],
+            "ip": [
+                "2.000.000.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "PCH LOTTERY\u00a9\nWe wish to inform you that you have won  ($2.000.000.00 USD) in our PCH (email) draws.\nYour email address was entered for the online draw on this Free Ticket Number: 095-73816066-04 and won on this Lucky Number: 09-02-07-16-12-16-27.\nTo file for claim, please contact below:\n___________________________\nKunz D.James \nPublishers Clearing House\nLottery Organization\n101 Winners Circle\nJericho, NY 11753\nE-mail: kunz.pch1@gmail.com or text 559 239 8401\n___________________________\nIn your reply email, You are to establish contact with the Following details  below\n\nName\nResidential/Office Address\nTelephone\nFax Number\nAge\nSex\n\nThanks & Regards\nBill Woodcock \nExecutive Director\nPublishers Clearing House\n101 Winners Circle\nJericho, NY 11753\nYour Personal Unique Ticket Code Is:\nLLUIQIHCGDYEOJRMKMLOZVTNIWXWUKFWTVPQFF",
+            "content_type": "text/plain",
+            "hash": "db6655e4774d6b1cbbdd1b2115dbce075bf8017a2a33f50563c9ea9123979d69"
+        }
+    ],
+    "header": {
+        "subject": "PCH LOTTERY\u00a9",
+        "from": "kakinoaya@docomonet.jp",
+        "to": [],
+        "date": "2021-06-04T02:33:48+09:00",
+        "received_domain": [
+            "md-app-cb003.noc-chibaminato.ocn.ad.jp",
+            "vcwebmail.ocn.ad.jp",
+            "mf-smf-ucb027c1.ocn.ad.jp",
+            "ocn-vc-mts-103c1.ocn.ad.jp",
+            "mbkd0138.ocn.ad.jp"
+        ],
+        "received_ip": [
+            "153.138.211.199",
+            "153.138.237.78",
+            "153.149.230.39",
+            "153.153.66.169",
+            "61.118.32.198"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

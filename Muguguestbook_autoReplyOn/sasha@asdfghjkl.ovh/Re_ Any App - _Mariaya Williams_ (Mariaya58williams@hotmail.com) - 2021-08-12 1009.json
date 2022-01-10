@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Sasha        \r\n\r\nI am working with experienced IT professionals who are into:\r\n\r\n.         Shopping App\r\n\r\n.         Fitness App\r\n\r\n.         Restaurant App\r\n\r\n.         Food & Drink App\r\n\r\n.         E-Commerce App\r\n\r\n.         IPhone and iPad Apps\r\n\r\nPlease tell me what type of App development you need, please share your\r\nRequirement with contact details for more discussion.\r\n\r\nThanks & Regards,\r\n\r\nMariaya\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a08606247781fa0cd0d7d38f2bade675f12ab5c282d191c0dedba917ef247b84",
+            "boundary": "----=_NextPart_000_1A76_01D78F80.7F26BCF0"
+        }
+    ],
+    "header": {
+        "subject": "Re; Any App",
+        "from": "mariaya58williams@hotmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-12T13:39:44+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "psbpr01mb3735.apcprd01.prod.exchangelabs.com",
+            "bm1pr01ca0092.indprd01.prod.outlook.com",
+            "psapr01mb3832.apcprd01.prod.exchangelabs.com"
+        ],
+        "received_ip": [
+            "40.92.254.53",
+            "2603:1096:b00:1::32",
+            "2603:1096:301:9::16",
+            "2401:4900:1f38:1e0b:ed6f:3bbc:1512:6b70",
+            "2603:1096:301:41::9"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "you.kindly"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello : I sent you an email but I did not hear from you. Please acknowledge\r\nif your email is still valid by replying to this message. as I have urgent\r\ninformation to share with you and it's very important that I pass this\r\ninformation onto you.Kindly get back to me. I need your cooperation and\r\npartnership in this matter.\r\n\r\nHon. Michael Bali\r\n",
+            "content_type": "text/plain",
+            "hash": "c64880d3b784518fe662c2cdcf46b2a552a0f5a4ef912f7be2fd2cf7bb90b9d4",
+            "boundary": "000000000000032f5305c9205266"
+        }
+    ],
+    "header": {
+        "subject": "Urgent",
+        "from": "michaellbali2018@gmail.com",
+        "to": [],
+        "date": "2021-08-09T13:20:06+00:00",
+        "received_domain": [
+            "mail-wm1-f42.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.42"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

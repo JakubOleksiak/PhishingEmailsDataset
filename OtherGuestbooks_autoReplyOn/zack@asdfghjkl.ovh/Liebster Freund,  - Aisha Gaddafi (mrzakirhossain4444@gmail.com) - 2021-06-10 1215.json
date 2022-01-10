@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nLiebster Freund,\r\n\r\nIm Namen Gottes, des gn\u00e4digsten, barmherzigsten.\r\n\r\nFriede sei mit dir und Barmherzigkeit sei mit dir und Segen sei mit dir.\r\nIch habe die Summe von 27,5 Millionen USD f\u00fcr Investitionen, ich\r\ninteressiere mich f\u00fcr Sie f\u00fcr die Unterst\u00fctzung von\r\nInvestitionsprojekten in Ihrem Land. Mein Name ist Aisha Gaddafi und\r\nlebe derzeit im Oman, ich bin eine Witwe und alleinerziehende Mutter\r\nmit drei Kindern, die einzige leibliche Tochter des verstorbenen\r\nlibyschen Pr\u00e4sidenten (dem verstorbenen Oberst Muammar Gaddafi) und\r\nstehe derzeit unter politischem Asylschutz der omanischen Regierung.\r\n\r\nBitte antworten Sie dringend f\u00fcr weitere Details.\r\n\r\nVielen Dank\r\nMit freundlichen Gr\u00fc\u00dfen Aisha\r\n",
+            "content_type": "text/plain",
+            "hash": "1cd487bf81c6977f58157ac2658f648137562f2f523a58915b8f045d37bc2380"
+        }
+    ],
+    "header": {
+        "subject": "Liebster Freund,?",
+        "from": "mrzakirhossain4444@gmail.com",
+        "to": [],
+        "date": "2021-06-10T03:15:00-07:00",
+        "received_domain": [
+            "mail-qt1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.160.178",
+            "2002:ad4:438a::"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "German"
+    }
+}

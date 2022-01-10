@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dearest beloved in the Lord,\r\nThanks for your ungent response,i want to know if you have contacted\r\nmy lawyer and what did he said?.\r\nThanks\r\nMay GOD guide you.\r\nMrs Ella Lee\r\n",
+            "content_type": "text/plain",
+            "hash": "79bb5df8b603218703f4a7c182df974e41e4480624091be024eff84a3daa3778"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can I help you with this?",
+        "from": "1970james3@gmail.com",
+        "to": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-10T17:13:15+02:00",
+        "received_domain": [
+            "mail-ej1-f50.google.com"
+        ],
+        "received_ip": [
+            "2002:a17:906:5056::",
+            "209.85.218.50"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

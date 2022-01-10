@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML>\r\n\r\n<html><head><title></title>\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n</head>\r\n<body style=\"margin: 0.4em;\">\r\n<p>Dear Friend, </p><p>Greetings to you my friend, my names are Hon. Dr. Philip D. Majoro from South Africa. I am a politician with government position. am pleased to contact you for your assistance to help me invest in real estate or any profitable sector in your country through you as my partner and as a citizen of your country. </p><p>\r\nI am eager to visit in person with you and of course provide more details, once you reply and promise to assist. Because I am aware that most of well connected people very rarely use this means of approach via inter-net, for a huge business of this size due to risk syndicates out there. </p><p>Waiting for your urgent respond. </p><p>Best regards, <br>Hon. Dr. Philip D. Majoro\r\n</p>\r\n\r\n\r\n</body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "aa30889f4d6ad1f10bee1b31de90847923fbe4ce2ffcad5c4b3973534b0c95b7"
+        }
+    ],
+    "header": {
+        "subject": "Reliable Partner",
+        "from": "info1@citigroupfinancials.com",
+        "to": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-27T14:22:51-07:00",
+        "received_domain": [
+            "citigroupfinancials.com"
+        ],
+        "received_ip": [
+            "185.244.39.14",
+            "45.153.241.192"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

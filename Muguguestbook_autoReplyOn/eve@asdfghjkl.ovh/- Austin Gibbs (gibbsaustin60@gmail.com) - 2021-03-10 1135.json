@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello, I have a proposal to disclose to you\r\n",
+            "content_type": "text/plain",
+            "hash": "cd7d23f6e75f79ad00ec9d7b8862f640a75991bbc48987d98346cdc014b5ea22",
+            "boundary": "000000000000a87c4f05bd2c3a2f"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "gibbsaustin60@gmail.com",
+        "to": [],
+        "date": "2021-03-10T11:35:31+01:00",
+        "received_domain": [
+            "mail-io1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.44"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Italian"
+    }
+}

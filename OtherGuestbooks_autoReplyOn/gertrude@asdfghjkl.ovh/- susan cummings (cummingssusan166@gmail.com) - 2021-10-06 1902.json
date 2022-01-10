@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\ni am waiting\r\n",
+            "content_type": "text/plain",
+            "hash": "26a12a5cee986eabe77e0dc00aa223c331e3849d0f851364b895d8ff5deaf903",
+            "boundary": "000000000000f4bf3705cdb21c91"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "cummingssusan166@gmail.com",
+        "to": [],
+        "date": "2021-10-06T10:02:25-07:00",
+        "received_domain": [
+            "mail-ua1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.45"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Swahili"
+    }
+}

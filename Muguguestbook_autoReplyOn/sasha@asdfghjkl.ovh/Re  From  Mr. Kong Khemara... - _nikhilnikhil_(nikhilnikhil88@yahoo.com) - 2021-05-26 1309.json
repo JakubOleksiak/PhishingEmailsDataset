@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "email": [
+                "nikhilnikhil88@yahoo.com"
+            ],
+            "domain": [
+                "yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nDear friend,</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n I am Mr. Kong Khemara; I work with the audit department in Standard Chartered bank here in South Africa. I need your partnership in a funds transfer process involving an unclaimed deposit by Gupta family. All efforts to trace any living relative of the(DEPOSITOR) customer, did not yield any positive result. I now decided to seek your interest to stand you as the next of kin to the customer and have the funds transferred for our mutual benefit. There are no risks whatsoever attached, this business is 100% risk free, i assure you.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nI will personally oversee the process of the transfer of funds from the my bank to your account.</DIV>\r\n<DIV>\r\nGet back to me immediately for more details. Please reply to my private email (nikhilnikhil88@yahoo.com)</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nBest Regards,</DIV>\r\n<DIV>\r\nMr. Kong Khemara</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "14442546d46b04d336f3c988a26a809caf0d42f2c115ffa4fc5f7d44b210e84e"
+        }
+    ],
+    "header": {
+        "subject": "Re:  From  Mr. Kong Khemara...",
+        "from": "nikhilnikhil88@yahoo.com",
+        "to": [],
+        "date": "2021-05-26T12:09:42+01:00",
+        "received_domain": [
+            "118-27-32-94.localdomain"
+        ],
+        "received_ip": [
+            "118.27.32.94"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

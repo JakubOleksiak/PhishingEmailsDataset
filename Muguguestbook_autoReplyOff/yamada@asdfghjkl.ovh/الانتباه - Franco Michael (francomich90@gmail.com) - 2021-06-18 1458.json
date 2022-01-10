@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "\u0623\u0643\u062a\u0628 \u0625\u0644\u064a\u0643\u0645 \u0644\u0625\u0628\u0644\u0627\u063a\u0643\u0645 \u0623\u0646 \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0642\u062f \u0641\u0627\u0632 \u0628\u062c\u0627\u0626\u0632\u0629 \u0642\u062f\u0631\u0647\u0627 4.docx",
+            "size": 13078,
+            "extension": "docx",
+            "hash": {
+                "md5": "6b63868e0695c5359331bc1c4d7e3232",
+                "sha1": "075b30031a1e92809cf5a17fbbe05c8300e406b4",
+                "sha256": "ea1d9cd7cfde787caacdc6e3406caf60531f821385fc1a1fddcda8b731cce27a",
+                "sha512": "1a54ff5049f80567866ae39f28825df5b32e1decc8327a647ac85d01e5ef3d4d6ee2420731eb3443009d00eefb53ad6d56683746a8112012420a729b55236e8f"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"\u0623\u0643\u062a\u0628 \u0625\u0644\u064a\u0643\u0645 \u0644\u0625\u0628\u0644\u0627\u063a\u0643\u0645 \u0623\u0646 \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0642\u062f \u0641\u0627\u0632 \u0628\u062c\u0627\u0626\u0632\u0629 \u0642\u062f\u0631\u0647\u0627 4.docx\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"\u0623\u0643\u062a\u0628 \u0625\u0644\u064a\u0643\u0645 \u0644\u0625\u0628\u0644\u0627\u063a\u0643\u0645 \u0623\u0646 \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0642\u062f \u0641\u0627\u0632 \u0628\u062c\u0627\u0626\u0632\u0629 \u0642\u062f\u0631\u0647\u0627 4.docx\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_kq2c8inm0>"
+                ],
+                "x-attachment-id": [
+                    "f_kq2c8inm0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+            "boundary": "000000000000c67cea05c509e1ee"
+        }
+    ],
+    "header": {
+        "subject": "\u0627\u0644\u0627\u0646\u062a\u0628\u0627\u0647",
+        "from": "francomich90@gmail.com",
+        "to": [],
+        "date": "2021-06-18T12:58:49+00:00",
+        "received_domain": [
+            "mail-ot1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.41"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "UNKNOWN"
+    }
+}

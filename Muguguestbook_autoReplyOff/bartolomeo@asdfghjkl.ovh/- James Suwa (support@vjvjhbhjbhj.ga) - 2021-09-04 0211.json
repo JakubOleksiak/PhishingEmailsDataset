@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "Sir,\r\n\r\nWe seek individuals with financial management skills and qualities \r\nthat are capable of handling investment and management funds from \r\nprivate investors. \r\n\r\nIf you have the Key skills for investment fund managers, credible \r\nprojects in need of loans, existing businesses that require expansion, \r\nwe will be glad to assist you further. \r\n\r\nRegards,\r\n\r\nJames Suwa\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "b36de360d498a2e37d987be7b74f02c848b1b006ed24128cd48a4ad41d59f418",
+            "boundary": "b1_805159c63f179d6fc43dd2e236bc1815"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "support@vjvjhbhjbhj.ga",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-04T00:11:46+00:00",
+        "received_email": [
+            "support@vjvjhbhjbhj.ga"
+        ],
+        "received_domain": [
+            "bizcloud-loadinng.com",
+            "159-203-86-78.cprapid.com"
+        ],
+        "received_ip": [
+            "159.203.86.78"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "jimmusttafa24@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello:\r\n\r\nIn our custody is the sum of \u20ac950,000.00 already loaded in ATM DEBIT CARD\r\nto be given to you as part of our yearly international lottery promotion\r\nwith the help of the IMF/WORLD BANK.\r\n\r\nFor more details please contact Mr. Jim Mustafa, our zonal coordinator\r\nofficer in charge of your payment through ATM DEBIT CARD payment system.\r\n\r\nYou are advised to forward your detailed information listed below to Mr.\r\nJim Mustafa, through his Email (jimmusttafa24@gmail.com) for the urgent\r\nprocessing of your payment.\r\n\r\n1. Name in full.\r\n2. Address.\r\n3. Nationality.\r\n4. Age.\r\n5. Occupation.\r\n6. Phone.\r\n7. Present Country.\r\n\r\nThank you for your patience,\r\nAndy Johnson\r\nIMF/WORLDBANK OFFICE\r\n",
+            "content_type": "text/plain",
+            "hash": "758d36720319a2264adf69d7b5330c36138359bd7a71b3c0395c73e0f1dff6c0",
+            "boundary": "000000000000f2769f05c71f4344"
+        }
+    ],
+    "header": {
+        "subject": "INHERITANCE,",
+        "from": "officalmemo@gmail.com",
+        "to": [],
+        "date": "2021-07-15T03:18:12+02:00",
+        "received_domain": [
+            "mail-lj1-f180.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.180"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

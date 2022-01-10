@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Dear Customer,*\r\n\r\n\r\n*Your Subscription for Computer Protection has been successfully renewed &\r\nupdated.*\r\n\r\n*The Debited Amount will be reflected within the Next 24 TO 48 HRS on your\r\nA/C statement.*\r\n\r\n\r\n\r\n*PRODUCT INFORMATION*\r\n\r\n\r\n\r\n*\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..*\r\n\r\n\r\n\r\n*Invoice NO.            :      XXAX265SD56DS65*\r\n\r\n\r\n\r\n*Product Name          :      **NORTON SECURITY*\r\n\r\n\r\n\r\n*\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026*\r\n\r\n\r\n\r\n*Order Date            :      July-26-2021 *\r\n\r\n\r\n\r\n*Expiration Date        :     1 Year from the Date of Purchase*\r\n\r\n\r\n\r\n*\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..*\r\n\r\n\r\n\r\n*Price                 :       $ 369.89 USD*\r\n\r\n\r\n\r\n*PAYMENT METHOD    :      **AUTO RENEWAL*\r\n\r\n\r\n\r\n*\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026*\r\n\r\n\r\n\r\n* * If you wish to cancel this Subscription then please feel free to\r\nContact our Billing Department as soon as Possible**\r\n\r\n\r\n\r\n*You can Reach us on   +I**   - (866) (278) (5631)*\r\n\r\n\r\n\r\n*Regards,*\r\n\r\n*Billing Department*\r\n",
+            "content_type": "text/plain",
+            "hash": "f9cad7f2a56b7fdca643703c76e018026746c54ac234afdabe251cf22e994213",
+            "boundary": "00000000000012e99805c80aab0d"
+        }
+    ],
+    "header": {
+        "subject": "NORTON 360 _ XXAX265SD56DS65",
+        "from": "wmdee03@gmail.com",
+        "to": [
+            "askmelater777@gmail.com"
+        ],
+        "date": "2021-07-26T23:40:15+05:30",
+        "received_domain": [
+            "mail-pj1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.51"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

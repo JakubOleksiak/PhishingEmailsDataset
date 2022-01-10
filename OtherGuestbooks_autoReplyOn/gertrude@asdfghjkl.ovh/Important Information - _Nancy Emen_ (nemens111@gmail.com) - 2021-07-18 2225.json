@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-type": [
+                    "text/html; charset=\"utf-8\""
+                ]
+            },
+            "content": "<html><body><span style=\"font-family:Verdana; color:#000000; font-size:10pt;\"><div><br></div><div><br></div><div><span style=\"color: #ff6600;\" mce_style=\"color: #ff6600;\"><span mce_name=\"em\" mce_style=\"font-style: italic;\" style=\"font-style: italic;\" class=\"Apple-style-span\"><br>Dear Sir/Madam,<br><br><br><br>Good day to you. I hope this email meets you well and you are keeping safe?<br><br><br><br>I'm writing you as a consultant of a company who is looking for representatives.<br><br><br><br>Due to the  global pandemic affecting  businesses and individuals around the globe, they have structured a financial package to help companies and individuals get started again. <br><br><br><br>They are in direct contact with a group of private investors with huge portfolios, who are prepared, willing and able to provide non-recourse loans for companies or individuals who are able to provide or meet the requirements.<br><br><br><br>If you are interested, please send us a brief summary of your project for possible approval.<br><br><br><br>Best Regards.&nbsp;</span></span></div></span></body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "da803efdea0797626f27207647b892d7b78cf36b49ddfdfcf94e30d838560752"
+        }
+    ],
+    "header": {
+        "subject": "Important Information",
+        "from": "nemens111@gmail.com",
+        "to": [],
+        "date": "2021-07-18T13:25:50-07:00",
+        "received_domain": [
+            "p3plwbeout11-05.prod.phx3.secureserver.net",
+            "p3plgemwbe11-05.prod.phx3.secureserver.net"
+        ],
+        "received_ip": [
+            "173.201.192.11",
+            "173.201.192.42"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

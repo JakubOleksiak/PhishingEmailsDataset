@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "domain": [
+                "response.the"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Orwald,\r\n\r\nThanks for your response.The inheritance fund amount is US$10.5 million\r\ndollars, I will like you to send me your picture and any of your valid ID\r\ncard to enable me send you the fund claim application form which you will\r\nprint and sign then re-send to our bank here where the funds was deposited\r\nby my late client before he died to enable this transaction commence\r\nofficially.\r\n\r\nMeanwhile, my spirit tells me that you could be trusted and I am willing to\r\nwork in this transaction with you. I would like you to start up the process\r\nthat is opening up communication with the bank, I shall come to your\r\ncountry as soon as the fund is approved and transferred to your designated\r\naccount for the sharing. I requested you send to me the following\r\nimmediately to enable me commence with the preliminary formalities and\r\nwhich is to write your letter of recommendation and attestation to the\r\nprobate court recommending you as the next of kin to our late customer and\r\nthe depositor of the fund with our bank.\r\n\r\nSend to me immediately the listed below;\r\n\r\n1.. Your full names:\r\n2.. Full address:\r\n3.. Age:\r\n4.. Occupation:\r\n5.. Telephone Number:\r\n6.. Passport copy or any valid ID:\r\n\r\nI will be waiting to receive this information immediately so that I can\r\ncommence with the process of the transaction immediately and be rest\r\nassured that this is a great and once in a lifetime opportunity which we\r\ncan't afford to miss. This is a beneficial business transaction that will\r\nsurely make us rich but you have to keep every detail of the business\r\nsecret between us. If you have any question about this transaction which\r\nconfuses you, please do ask me to explain it to you. Upon the receipt of\r\nthe above listed I shall send you the application Form.\r\n\r\nI will be waiting.\r\n\r\nBest Regards,\r\nBarrister Jacob Morgan\r\n",
+            "content_type": "text/plain",
+            "hash": "d36d4592f1af24349b8418bac27ae3c4b3800540612565f381e088c1fb7c3aa9",
+            "boundary": "00000000000016711505caee7b1a"
+        }
+    ],
+    "header": {
+        "subject": "Re:",
+        "from": "jacobmorganesqtg@gmail.com",
+        "to": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-01T12:48:02+00:00",
+        "received_domain": [
+            "mail-wr1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.52"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

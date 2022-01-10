@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " I am Introducing a crude oil Business to you that would be of great mutual\r\nbenefit and would like to know if you are interested so I can provide full\r\ndetails.\r\n\r\nRespectful\r\nBrad Wallwork\r\n",
+            "content_type": "text/plain",
+            "hash": "a0d1196a27b50190c9544b1b346ab23fd8820b086464a8b7326c0fc39506f7d3",
+            "boundary": "000000000000fc661805cac2c36b"
+        }
+    ],
+    "header": {
+        "subject": "Business Proposal!!!",
+        "from": "bradwallwork1958@gmail.com",
+        "to": [],
+        "date": "2021-08-30T16:38:19+01:00",
+        "received_domain": [
+            "mail-wr1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.41"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

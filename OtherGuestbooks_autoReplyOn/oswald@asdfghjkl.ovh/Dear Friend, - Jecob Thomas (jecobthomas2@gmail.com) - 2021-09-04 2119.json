@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend,\r\n\r\nI am Mr. Jecob Thomas working with the department of Audit and accounting\r\nmanager here in the Bank i want to share a good business opportunity with\r\nyou please reply me or send me your mobile number  thanks\r\n",
+            "content_type": "text/plain",
+            "hash": "d0ff3c367e692cec780725c92ac5a5a58abb3b9934530bb4c0df9955a0a0e758",
+            "boundary": "000000000000563c3305cb304dc5"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend,",
+        "from": "jecobthomas2@gmail.com",
+        "to": [],
+        "date": "2021-09-04T20:19:45+01:00",
+        "received_domain": [
+            "mail-lf1-f43.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.43"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

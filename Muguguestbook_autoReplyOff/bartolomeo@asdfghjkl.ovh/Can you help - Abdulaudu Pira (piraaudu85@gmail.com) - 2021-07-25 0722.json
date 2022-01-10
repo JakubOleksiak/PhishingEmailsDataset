@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nDear  Friend\r\n\r\nForgive me for writing you this letter , I will like to bring to your that\r\n(8.5.million Euro claims ) This is a legitimate transaction and The money\r\nwill be shared 60% for me and 40% for you .   get back to me, I will give\r\nyou full details on how the money will be transfer to you,\r\nWaiting for your reply,\r\nAudu Pira\r\n",
+            "content_type": "text/plain",
+            "hash": "20ed66968c34dcf65b9aee310253a36e185117269d6e77c50ddd78d3b2ed9c33",
+            "boundary": "000000000000506bc205c7ebd393"
+        }
+    ],
+    "header": {
+        "subject": "Can you help",
+        "from": "piraaudu85@gmail.com",
+        "to": [
+            "audup8601@gmail.com"
+        ],
+        "date": "2021-07-25T06:22:11+01:00",
+        "received_domain": [
+            "mail-io1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.46"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

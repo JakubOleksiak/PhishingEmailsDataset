@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "domain": [
+                "ms.jennifer",
+                "you.please"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "I'm\u00a0Ms.Jennifer\u00a0Vivian\u00a0Komula\u00a0an\u00a0Orphan,\u00a0I\u00a0have\u00a0business\u00a0to\u00a0share\u00a0with\r\nyou.Please\u00a0reply\u00a0for\u00a0more\u00a0details.\r\n",
+            "content_type": "text/plain",
+            "hash": "abd739280c9c3c237d242c9da8d8db5acf4370f5453b2a62b0b7fa61a646cf5f"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "joumardztg@gmail.com",
+        "to": [],
+        "date": "2021-06-17T13:24:54+00:00",
+        "received_domain": [
+            "mail-ej1-f43.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.43",
+            "2002:a17:906:271a::"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

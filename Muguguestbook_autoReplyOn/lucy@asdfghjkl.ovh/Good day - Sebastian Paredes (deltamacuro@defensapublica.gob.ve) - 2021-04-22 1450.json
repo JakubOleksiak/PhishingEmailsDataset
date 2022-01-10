@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "dbsb234@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings, I have a Business Proposal for You, with great benefits. For more details reply via my private Email; dbsb234@gmail.com \r\n\r\nThank you, \r\nSebastian Paredes. \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "8cd23e7fc8c30c7cafb593903e10c0a8c865aa0fb6ad28ac306f8356a2ec6d14",
+            "boundary": "=_0c0640e9-fc2a-40a6-b273-2f43adc0da8c"
+        }
+    ],
+    "header": {
+        "subject": "Good day",
+        "from": "deltamacuro@defensapublica.gob.ve",
+        "to": [],
+        "date": "2021-04-22T08:50:53-04:00",
+        "received_domain": [
+            "correo.defensapublica.gob.ve"
+        ],
+        "received_ip": [
+            "200.109.238.133"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

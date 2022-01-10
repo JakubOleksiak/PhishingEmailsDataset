@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "miss.vivian"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHello,\r\n\r\nMy name is Mrs. Vivian Mitchell. I want to donate my $ 6.5 million\r\nfund to a charity to help the poor.\r\n\r\nAs soon as I have read from you, I will give you more details on how\r\nto achieve this and how to transfer this fund to your bank account.\r\n\r\nThank you have a nice day,\r\nmiss.vivian\r\n",
+            "content_type": "text/plain",
+            "hash": "ce36c6e6e62794acd1f042a715780cc023d8322f56e5cda94494bb9b32c5b846"
+        }
+    ],
+    "header": {
+        "subject": "Hello,",
+        "from": "karine.duchan0366@gmail.com",
+        "to": [],
+        "date": "2021-09-11T10:09:15+01:00",
+        "received_domain": [
+            "mail-yb1-f193.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.193",
+            "2002:ac9:780d::"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

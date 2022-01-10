@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://4a102d0dfd.nxcli.net/acrobat/"
+            ],
+            "domain": [
+                "4a102d0dfd.nxcli.net"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Dear Sir,\r\n\r\nhttps://4a102d0dfd.nxcli.net/acrobat/\r\n\r\nYour payment is returning back to us after transfer.\r\n\r\nPlease check below link bank report and confirm if all details are\r\ncorrect and why payment is coming back. You are to log in with your email accounts please.\r\n\r\n\r\nThanks & Regards...\r\n\r\nBeed Trading Co.\r\n\r\nPO Box:9173,Riyadh 11413\r\nTel. 00966-11-4020328\r\nhttps://4a102d0dfd.nxcli.net/acrobat/\r\n",
+            "content_type": "text/plain",
+            "hash": "744cea106cfb160a4dfe1d2e6467e0fdd5360fe76d07628aa2960b1e15cab311"
+        }
+    ],
+    "header": {
+        "subject": "Bank Swift",
+        "from": "marvin@chandlerkuvalis.gq",
+        "to": [
+            "marvin@chandlerkuvalis.gq"
+        ],
+        "date": "2021-04-08T11:28:05-07:00",
+        "received_domain": [
+            "mara.com"
+        ],
+        "received_ip": [
+            "83.142.83.25",
+            "100.120.217.31",
+            "45.156.26.232"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

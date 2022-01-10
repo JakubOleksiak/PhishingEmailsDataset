@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "zumasteven@gmail.com",
+                "zumastevenbf@gmail.com"
+            ],
+            "domain": [
+                "10.5m",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "ATT:\r\n\r\nSeriously waiting for your response\r\n\r\nI am contacting you to assist in retrieving a fund of US$ 10.5m deposited\r\nby Mr.  Green which was deposited in the bank before it got confiscated by\r\nthe bank. if you are willing to carry on with it and receive the  fund\r\nPlease Get back to me for more details\r\n\r\n\r\nRegards\r\nSteven,\r\nzumasteven@gmail.com\r\nzumastevenbf@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "124d97842c33378097db129f7d39e8d18ea6bdf3236493539cbeb6745e1b1199",
+            "boundary": "000000000000adca1705cc33e75c"
+        }
+    ],
+    "header": {
+        "subject": "Seriously waiting for your response",
+        "from": "zumasteven@gmail.com",
+        "to": [],
+        "date": "2021-09-17T10:02:48-07:00",
+        "received_domain": [
+            "mail-oi1-f170.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.170"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

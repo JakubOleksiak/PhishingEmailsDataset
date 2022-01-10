@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " Hello\r\nI am a businessman in Turkey. I have a huge amount of money to move out for\r\nmy international project in the Philippines. But because of the COVID 19\r\npolicy in Turkey, I will need a foreign business man as a partner to\r\nreceive the money $25.000.000 (Twenty-Five Million United States Dollars)\r\non my behalf. This is the only way my Turkish government can approve the\r\nrelease and transfer of my money for this international project. You will\r\nreceive 20% as your share for assistance.\r\n\r\nGet back to me if interested. Contact me via private email ;\r\npeter.ijele.alima@gmail.com\r\n\r\nThanks\r\nMr Petr Ijele ABDOU.\r\n",
+            "content_type": "text/plain",
+            "hash": "49f70eb96025e92d81ed32f120f49cdd4000a76ddb5b388778ddd637f9b2bf1b",
+            "boundary": "0000000000005166b305c77e3426"
+        }
+    ],
+    "header": {
+        "subject": "URGENT",
+        "from": "matatafrancois1@gmail.com",
+        "to": [
+            "m04wz0ae8ds@yahoo.co.uk"
+        ],
+        "date": "2021-07-19T21:35:49+00:00",
+        "received_domain": [
+            "mail-pj1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.54"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

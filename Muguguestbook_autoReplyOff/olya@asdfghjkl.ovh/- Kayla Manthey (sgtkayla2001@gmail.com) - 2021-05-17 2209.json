@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Please, I would like to know if you received my previous message, thanks.\r\n",
+            "content_type": "text/plain",
+            "hash": "725a90c70b32ccd7befd1b7269e0d6c1100c22792902e7b94e31f882711e33c0"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "sgtkayla2001@gmail.com",
+        "to": [],
+        "date": "2021-05-17T20:09:31+00:00",
+        "received_domain": [
+            "mail-pg1-f173.google.com"
+        ],
+        "received_ip": [
+            "2002:a17:90a:a406::",
+            "209.85.215.173"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

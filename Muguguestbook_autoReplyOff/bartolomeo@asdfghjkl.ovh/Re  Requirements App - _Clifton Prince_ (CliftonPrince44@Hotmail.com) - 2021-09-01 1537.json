@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,\r\n\r\nWe are an App Development Company and we have 150+ IT professionals in our\r\nteam.\r\n\r\nWe have expertise in developing Mobile App for both (IOS and Android)\r\nPlatforms.\r\n\r\nReply to me your app requirements and I will get back with additional\r\ndetails (Price and Samples).\r\n\r\nThanks\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "09e968180774e3f9f49633caaf0d9fc81270fb64737b226a7039affc8ff70389",
+            "boundary": "----=_NextPart_000_04D0_01D79F65.2F84E1F0"
+        }
+    ],
+    "header": {
+        "subject": "Re:Requirements App",
+        "from": "cliftonprince44@hotmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-01T19:07:10+05:30",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "pn2pr01ca0141.indprd01.prod.outlook.com",
+            "tyzpr01mb3904.apcprd01.prod.exchangelabs.com",
+            "tyzpr01mb4029.apcprd01.prod.exchangelabs.com"
+        ],
+        "received_ip": [
+            "2603:1096:400:3a::5",
+            "2405:204:1104:807f:c9ae:fa5:e4d2:6083",
+            "40.92.255.54",
+            "2603:1096:400:39::14",
+            "2603:1096:c01:6::26"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

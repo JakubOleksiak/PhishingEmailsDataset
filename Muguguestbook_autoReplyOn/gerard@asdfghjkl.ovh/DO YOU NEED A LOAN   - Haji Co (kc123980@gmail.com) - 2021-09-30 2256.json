@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\n\"Are you in need of a loan to expand any of your business ? permit us to\r\nsupport your business by giving you a loan to excel in business, Haji well\r\nloan firm will offer you loans from, Business Loan, Commercial Loan,\r\nPersonal Loan, Real estate Loan, Farm Loan,  at 3% Interest Annually,  { No\r\ncollateral needed.}\r\n\r\nRegards:\r\nHaji Bin Tinkong\r\nC.E.O / Haji well loan firm\r\n",
+            "content_type": "text/plain",
+            "hash": "70e5e0a64217f160ba28d3358a6b26c134e6813a1c9f2d2b1a5b7c6f8efc76ce",
+            "boundary": "00000000000053365905cd3cb26c"
+        }
+    ],
+    "header": {
+        "subject": "DO YOU NEED A LOAN ?",
+        "from": "kc123980@gmail.com",
+        "to": [],
+        "date": "2021-10-01T02:26:18+05:30",
+        "received_domain": [
+            "mail-il1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.173"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

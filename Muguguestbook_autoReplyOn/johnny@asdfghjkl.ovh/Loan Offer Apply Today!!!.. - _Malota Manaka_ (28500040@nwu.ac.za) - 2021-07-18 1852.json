@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.nwu.ac.za/coronavirus/"
+            ],
+            "email": [
+                "aquityfastservices01@gmail.com"
+            ],
+            "domain": [
+                "gmail.com",
+                "www.nwu.ac.za"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\n\r\n\r\n\r\nHave you been searching for finance? Have you been looking for a genuine opportunity with no hassles? Look No Further!!! We guarantee you fully certified loans at 3.7% interest rate per annual. We loan Amount within the range of 5,000 USD and 500,000,000, USD Contact us today via email:  aquityfastservices01@gmail.com   Whatsapp:  +27-61-093-4198\r\n\r\nEmail: aquityfastservices01@gmail.com\r\nWhatsapp: +27-61-093-4198\r\nMr. R. McGuire.\r\nNWU CORONA VIRUS: http://www.nwu.ac.za/coronavirus/ \r\nVrywaringsklousule / Disclaimer:  http://www.nwu.ac.za/it/gov-man/disclaimer.html\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c837ee60442f8071d642a081958a6a41abe1d9e08ea3bb37eb8ef8e55d714724",
+            "boundary": "=__PartF5F46C55.7__="
+        }
+    ],
+    "header": {
+        "subject": "Loan Offer Apply Today!!!..",
+        "from": "28500040@nwu.ac.za",
+        "to": [],
+        "date": "2021-07-18T18:52:21+02:00",
+        "received_domain": [
+            "v-mail-lnx2.nwu.ac.za"
+        ],
+        "received_ip": [
+            "143.160.39.113",
+            "143.160.38.51"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

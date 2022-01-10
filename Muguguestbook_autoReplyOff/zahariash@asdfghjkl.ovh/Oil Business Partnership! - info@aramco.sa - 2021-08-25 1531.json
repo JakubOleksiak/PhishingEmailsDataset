@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Dear Friend,\r\n\r\nI have a legit and genuine lucrative business deal to discuss with you.\r\nCan i trust you to be a sincere partner to handle the business?\r\nFor more information reply back.\r\n",
+            "content_type": "text/plain",
+            "hash": "4a62471d77a5609a4bf517216080589d58bd1d4e25954fe43eddb4d448810772"
+        }
+    ],
+    "header": {
+        "subject": "Oil Business Partnership! ",
+        "from": "info@aramco.sa",
+        "to": [
+            "info@aramco.sa"
+        ],
+        "date": "2021-08-25T06:31:54-07:00",
+        "received_domain": [
+            "server1.sagar.kuber"
+        ],
+        "received_ip": [
+            "202.55.133.108",
+            "103.150.186.253"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

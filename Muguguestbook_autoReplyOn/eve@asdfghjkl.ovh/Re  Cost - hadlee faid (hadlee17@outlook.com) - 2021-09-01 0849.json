@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1252\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi,\r\n\r\n\r\n\r\nMy name is Hadlee and I was reviewing your website on behalf of your Email and noticed that the website has a good design and it looks good.\r\n\r\n\r\n\r\nBut it is not ranking on GOOGLE for Relevant Keywords.\r\n\r\n\r\n\r\nI couldn\u2019t find your website on the first page with your business keywords/ phrases.\r\n\r\n\r\n\r\nWe can help you do better in all search engines by Achieving top page Rankings.\r\n\r\n\r\n\r\nWe Provide SEO services at a minimum cost, May I send you a quote? If interested.\r\n\r\n\r\n\r\nThanks very much!!\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "bdf744388646c9fdbc5a5f6e2c1464ef22ce013332d42ad69d6168c19277b490",
+            "boundary": "_000_OS3PR01MB59740D5E64263C7E9061BD6FDBCD9OS3PR01MB5974jpnp_"
+        }
+    ],
+    "header": {
+        "subject": "RE: Cost",
+        "from": "hadlee17@outlook.com",
+        "to": [],
+        "date": "2021-09-01T06:49:36+00:00",
+        "received_domain": [
+            "os3pr01mb5974.jpnprd01.prod.outlook.com",
+            "os3pr01mb6821.jpnprd01.prod.outlook.com",
+            "jpn01-os2-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:604:d3::11",
+            "104.47.92.157",
+            "2603:1096:604:12f::12"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

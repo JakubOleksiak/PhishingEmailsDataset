@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello, I hope that COVID-19 has not affected you. Did you receive my\r\nprevious message?\r\n",
+            "content_type": "text/plain",
+            "hash": "abcc85c46deb5d5fc8ab3e286f495f8b54222a2d97840a3d802101593b4c7155",
+            "boundary": "0000000000007afcec05bf636641"
+        }
+    ],
+    "header": {
+        "subject": "``",
+        "from": "jonasboyd83@gmail.com",
+        "to": [],
+        "date": "2021-04-07T15:15:01-07:00",
+        "received_domain": [
+            "mail-lf1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.54"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "499.03"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Dear Prime Member,\r\n\r\n\r\n\r\nYour annual Support for NORTON SECURITY PC has been successfully renewed &\r\nrestored.\r\n\r\n\r\n\r\n*The charge amount will be SHOWN within the next 24 to 48 hrs on your\r\naccount record. *\r\n\r\n\r\n\r\n __PRODUCT INFORMATION_\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\n Invoice No.                       :        AC02SRDT512L05\r\n\r\n*Product Name                   :     NORTON SECURITY PC*\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\nOrder Date                       :        3RD SEP 2021\r\n\r\n\r\n\r\nExpiration Date              :       2 Years From The Date Of Purchase\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\n\r\n\r\nAmount                                :       $ 499.03   USD\r\n\r\n\r\n\r\nPayment Method            :       AUTO DEBIT\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible.*\r\n\r\n\r\n\r\n\r\n\r\n*You can Reach us on  +1     \u2013 (888) - (322) - (1828)*\r\n\r\n\r\n\r\n*Regards,*\r\n\r\n\r\n\r\n*Billing Department*\r\n",
+            "content_type": "text/plain",
+            "hash": "42ddc692155e0697e55f0c96271bd12c183aa72a5bb88a84b4e5b47bb1bef0dd",
+            "boundary": "000000000000c3c7ff05cb1a8711"
+        }
+    ],
+    "header": {
+        "subject": "AC02SRDT512L05#BILL",
+        "from": "jofaraarcher6295@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-03T22:51:20+05:30",
+        "received_domain": [
+            "mail-vs1-f42.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.42"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

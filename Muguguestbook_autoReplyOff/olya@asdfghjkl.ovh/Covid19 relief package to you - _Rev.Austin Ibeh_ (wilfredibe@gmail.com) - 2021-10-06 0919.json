@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attn:\r\n\r\nMy name is diplomat Egobia Steven.I am with your ATM CARD as\r\nprogrammed with $5.5m as assigned for covid19 relief package to you.\r\n\r\nYou are required to come and pick your ATM CARD in our office\r\naddress:34 Marina P.M.B 12866 Lagos Nigeria\r\n\r\nAttach is  the specimen of the ATM CARD,while the original copy of the\r\nATM CARD  will be handed over to you if you come over to our office to\r\npick your ATM CARD in our above listed office address.\r\n\r\n\r\nAwaiting your response\r\n\r\nRegards,\r\n\r\nDiplomat Egobia Steven\r\n",
+            "content_type": "text/plain",
+            "hash": "db259a4a04b0813be6ac27e39897043a8892c20fbc0e03185f827a8a64376d88"
+        }
+    ],
+    "header": {
+        "subject": "Covid19 relief package to you",
+        "from": "wilfredibe@gmail.com",
+        "to": [],
+        "date": "2021-10-06T08:19:03+01:00",
+        "received_domain": [
+            "mail-il1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.196",
+            "2002:a05:6a10:6702::"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

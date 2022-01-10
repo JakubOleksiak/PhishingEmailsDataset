@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "8bit"
+                ]
+            },
+            "content": "Attached AWB as assigned to deliver to you.\r\nNotification for shipment event group \"Picked up\" for 10th FEBRUARY 21.\r\nPickup Date: 2021-09-14  14:44:09\r\nDescription:FULL SET DOCUMENTS.\r\n\r\n\r\nRegards\r\n\r\nThank you for shipping with DHL Express!\r\nUSA Post DHL - The Mail & Logistics Group.\r\n2021 \u00a9 DHL International USA. All rights reserved.\r\nTerms & Conditions | Privacy system\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "308cabf0f0b2e6373c6d5bc879aa971fa7ab31fa366e5fa7db18cbb7543a903d"
+        }
+    ],
+    "header": {
+        "subject": "Message need your participation in processing :SHIPMENT DETAILS ATTACHED.",
+        "from": "dhl@dhlcourierservice.com",
+        "to": [],
+        "date": "2021-09-14T03:13:20+03:00",
+        "received_email": [
+            "dhl@dhlcourierservice.com"
+        ],
+        "received_domain": [
+            "node.getopta.com"
+        ],
+        "received_ip": [
+            "167.71.247.242"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

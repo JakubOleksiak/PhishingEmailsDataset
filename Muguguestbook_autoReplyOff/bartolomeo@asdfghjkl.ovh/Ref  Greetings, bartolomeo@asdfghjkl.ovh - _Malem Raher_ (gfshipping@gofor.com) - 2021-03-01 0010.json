@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "email": [
+                "bartolomeo@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Greetings  bartolomeo@asdfghjkl.ovh\r\n\r\nI have a business transaction worth over $7.8 Million USD.  All i need is honesty with trust. Get back to me for more details.\r\nHope to hear back from you soon.\r\n\r\nMalem Raher\r\n370 University Avenue\r\nToronto, Ontario\r\nM5G 2J5\r\nCanada.\r\n",
+            "content_type": "text/plain",
+            "hash": "32bbc1edaddbaf59e48c0ffa2413fc87eef3dc9db73ac3f0c8f3cef51657cdfd"
+        }
+    ],
+    "header": {
+        "subject": "Ref: Greetings, bartolomeo@asdfghjkl.ovh",
+        "from": "gfshipping@gofor.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-01T00:10:43+01:00",
+        "received_domain": [
+            "mail.rangeidc.cn"
+        ],
+        "received_ip": [
+            "154.118.33.217",
+            "123.58.249.175"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

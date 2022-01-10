@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML>\r\n\r\n<html><head><title></title>\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n<meta name=\"GENERATOR\" content=\"MSHTML 8.00.7601.17514\"></head>\r\n<body style=\"margin: 0.4em;\"><p class=\"MsoNormal\"><span lang=\"EN-GB\" style='color: rgb(31, 73, 125); font-family: \"Calibri\",sans-serif; font-size: 11pt;'>Dear Sir&nbsp;/ Ma,</span></p><p class=\"MsoNormal\"><span lang=\"EN-GB\" style='color: rgb(31, 73, 125); font-family: \"Calibri\",sans-serif; font-size: 11pt;'>I am enclosing the signed proforma invoice&nbsp;and PL&nbsp; kindly arrange shipment asap.\r\n</span></p><p class=\"MsoNormal\"><span lang=\"PL\" style='color: rgb(31, 73, 125); font-family: \"Arial\",sans-serif; font-size: 9pt;'>With best regards</span></p><p><i><span lang=\"PL\" style='color: rgb(31, 73, 125); font-family: \"Verdana\",sans-serif; font-size: 9pt;'>Damian We&#322;nowski</span></i><span lang=\"PL\" style='color: rgb(31, 73, 125); font-family: \"Calibri\",sans-serif; font-size: 9pt;'><u></u><u></u></span></p><p>\r\n<br></p><p class=\"MsoNormal\"><i><span lang=\"PL\" style='color: rgb(31, 73, 125); font-family: \"Verdana\",sans-serif; font-size: 9pt;'>Prezes Zarz&#261;du</span></i></p><p>\r\n<span lang=\"PL\" style='color: gray; font-family: \"Verdana\",sans-serif; font-size: 10pt;'>Gorden Sp. z o.o.</span></p><p class=\"MsoNormal\"><span lang=\"PL\" style='color: gray; font-family: \"Verdana\",sans-serif; font-size: 10pt;'>ul. Azalowa 23</span></p><p class=\"MsoNormal\"><span lang=\"PL\" style='color: gray; font-family: \"Verdana\",sans-serif; font-size: 10pt;'>86-005 Bia&#322;e B&#322;ota\r\n</span></p><p class=\"MsoNormal\"><span lang=\"PL\" style='color: gray; font-family: \"Verdana\",sans-serif; font-size: 10pt;'>&nbsp;tel.kom.: (+48)\r\n<b>602 62 11 09</b></span><span lang=\"PL\" style='color: gray; font-family: \"Calibri\",sans-serif; font-size: 10pt;'><u></u><u></u></span></p><p><br></p></body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "78d433a1e8592eb9f0dec027dca290ba5117cc07185f9a229d4c48a3db0aba03"
+        }
+    ],
+    "header": {
+        "subject": "Message has been processed :Proforma Invoice and PL",
+        "from": "export.iffphils@gmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-31T20:03:47+02:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "45.87.60.140"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

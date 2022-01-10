@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "email": [
+                "eve@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "1.account",
+                "2.bank",
+                "3.bank",
+                "4.home",
+                "5.swift",
+                "6.your",
+                "9.full",
+                "rev.chris",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "All you need to do is forward me the following details below for us to proceed\r\n1.Account Holders Name..........\r\n2.Bank Name.............\r\n3.Bank Address.........\r\n4.Home Address.........\r\n5.Swift Code..........\r\n6.Your Contact Cell Phone......\r\n7.Occupation..........\r\n8.Age.................\r\n9.Full name.....\r\n\r\nYours truly,\r\nRev.Chris Amah\r\nFirst Bank Nigeria Plc.\r\n\r\nOn 8/18/21, eve@asdfghjkl.ovh <eve@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Eve\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "48220efcbb6aa4824bd7862288ff0b003c11e888948ac7099b5a9c099fdb6c49"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "contactinfo917@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-18T07:25:13-07:00",
+        "received_domain": [
+            "mail-yb1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.172",
+            "2002:a05:6918:198f:b0:53:1c49:cbae"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

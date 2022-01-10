@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "domain": [
+                "1.your",
+                "2.your",
+                "3.your",
+                "5.your",
+                "6.your"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Beneficiary,\r\n\r\n We are so sorry for the delay in making your contract and inheritance\r\n payment to you for such a long time now.\r\n\r\n Kindly acknowledge receipt of this mail and please reconfirm to me with the\r\n below information.\r\n\r\n 1.Your real names and address:\r\n 2.Your telephone number and fax:\r\n 3.Your age/Occupation:\r\n 4:Your international passport/drivers license\r\n 5.Your receiving bank information\r\n 6.Your total payment value amount:\r\n\r\n All these I will use and secure fresh payment approvals in your names\r\n and favor through this mode payment so that it will be easy for you.\r\n\r\n Faithfully,\r\n Dr. Stanley Biko\r\n International telex Director\r\n",
+            "content_type": "text/plain",
+            "hash": "a40aa40394d88edbce4e7966896b381b60b8cefdca51758f816f9dc4692c562c",
+            "boundary": "000000000000ed6cff05c9d60b6e"
+        }
+    ],
+    "header": {
+        "subject": "For your urgent attention",
+        "from": "consulte963@gmail.com",
+        "to": [],
+        "date": "2021-08-18T15:13:46+01:00",
+        "received_domain": [
+            "mail-ed1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.44"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

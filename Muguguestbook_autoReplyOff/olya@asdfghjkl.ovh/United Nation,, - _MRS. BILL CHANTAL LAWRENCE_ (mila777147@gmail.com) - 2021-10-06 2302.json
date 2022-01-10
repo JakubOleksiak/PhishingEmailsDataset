@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "You have been compensated with the sum of 5.9 million dollars in this\r\nunited nation the payment will be issue into atm visa card and send to\r\nyou from the bank we need your address and your whatsapp number\r\n\r\nFill the followings with your details;\r\n1. Your Name:\r\n2. Country :\r\n3. Age and Sex:\r\n4. Occupation :\r\n5. Mobile Telephone:\r\n6. Delivery Address:\r\n7. Id Card Identification\r\n\r\nThanks\r\nMrs. Bill Chantal,\r\n",
+            "content_type": "text/plain",
+            "hash": "0ace0b628d4dd54508dde577f380e797e5a2766078db472a98a03a2174596a60"
+        }
+    ],
+    "header": {
+        "subject": "United Nation,,",
+        "from": "mila777147@gmail.com",
+        "to": [],
+        "date": "2021-10-06T14:02:32-07:00",
+        "received_domain": [
+            "mail-il1-f170.google.com"
+        ],
+        "received_ip": [
+            "2002:a4f:ad48::",
+            "209.85.166.170"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

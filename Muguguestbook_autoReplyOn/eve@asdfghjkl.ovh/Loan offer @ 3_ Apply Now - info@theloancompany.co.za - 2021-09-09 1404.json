@@ -1,0 +1,31 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear eve",
+            "content_type": "text/plain",
+            "hash": "dcd71e3c0ef6293dbe494b1d5079683b1d3a9799b72a2e45cb0fa5928e0df58f",
+            "boundary": "----=_NextPart_000_0012_7C587634.DB5ECFE7"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer @ 3% Apply Now ",
+        "from": "info@theloancompany.co.za",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-09T14:04:57+02:00",
+        "received_ip": [
+            "185.222.57.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Danish"
+    }
+}

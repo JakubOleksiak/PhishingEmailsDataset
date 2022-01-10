@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "15227119597@163.com"
+            ],
+            "domain": [
+                "sgt.joyce",
+                "163.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello,\r\n\r\nI am Staff Sgt.Joyce Scranton, an American soldier serving in the US military. I have some amount that I want to move out of ( SYRIA ) which might require your assistance urgently, Can I trust you? email me now, for details as this mail was sent from a discreet email account.  Email me on: 15227119597@163.com\r\n\r\nI wait your response\r\n\r\nSgt.Joyce Scranton\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "6066620e00602b5e8bb581f867436a8d1a1102a3270515e62ca0b942a4692980"
+        }
+    ],
+    "header": {
+        "subject": "Re: Well details",
+        "from": "j.venter@gardens-of-italy.com",
+        "to": [
+            "j.venter@gardens-of-italy.com"
+        ],
+        "date": "2021-08-31T02:03:43+01:00",
+        "received_domain": [
+            "mail.gardens-of-italy.com"
+        ],
+        "received_ip": [
+            "41.169.70.242"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

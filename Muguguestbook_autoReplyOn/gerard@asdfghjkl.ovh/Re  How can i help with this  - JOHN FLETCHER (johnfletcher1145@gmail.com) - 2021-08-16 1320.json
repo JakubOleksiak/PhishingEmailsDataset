@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "johnfletcher1145@gmail.com",
+                "gerard@asdfghjk"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "United Nations Liaison Office West Africa.\r\nHeadQuarter Branch, Lagos-Nigeria.\r\nFrom the Office Dr. John Fletcher.\r\n\r\nDate: 16th / August/ 2021.\r\nOur Ref: WB/IPC/UN/CPSN/2021\r\n\r\n*Attention: Mr. Gerard,*\r\n\r\nThis is to acknowledge the receipt of your email with content well noted.\r\n\r\nThis is to officially inform you that the UNITED NATIONS have agreed to\r\ncompensate them with the sum of USD$2,500,000.00. This also includes every\r\nforeign contractor that may have not received their contract payment, and\r\nto those that have had an unfinished transaction or international\r\nbusinesses that failed due to government problems etc. We found your name\r\nin our list and that is why we are contacting you to let you know that your\r\npayment compensation funds have been approved in your name.\r\n\r\nThank you for your kind understanding.\r\n\r\nBest regards.\r\n\r\nDr. John Fletcher\r\n(United Nations Liaison Office West Africa).\r\nE-mail: johnfletcher1145@gmail.com\r\n\r\nOn Mon, Aug 16, 2021 at 11:37 AM <gerard@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Gerard\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "86b553e70459ccabf86c25b9b81289842b69c0329ef64aa656aeaa324d5ae8c2",
+            "boundary": "00000000000010010405c9ab6363"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "johnfletcher1145@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T12:20:09+01:00",
+        "received_domain": [
+            "mail-vs1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.53"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

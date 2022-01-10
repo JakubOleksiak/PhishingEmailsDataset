@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+        }
+    ],
+    "header": {
+        "subject": "Hello, I want you to help me receive the sum of $7.5Million USD for investment with you in your Country and i will give you 20% of the total money if you can help me to receive the money and keep it save for the investment. Thanks and hope to hear from you. Yours Faithfully, Ibrahim Omar.",
+        "from": "mathewkofou@gmail.com",
+        "to": [],
+        "date": "2021-04-30T16:51:46+02:00",
+        "received_domain": [
+            "mail-pl1-f171.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:7300:7c05:b029:19:83a1:642b",
+            "209.85.214.171"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "UNKNOWN"
+    }
+}

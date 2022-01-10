@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "www.online.delivering@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nAttention,\r\n\r\nYour Consignment box worth of $4.700\u2019000\u201900 has been today deposited\r\nwith FedEx Express Courier Company to ship it to your home address. Now\r\ncontact FedEx  (www.online.delivering@gmail.com) & Send to them your\r\nhome address where to ship the Consignment box to you such as;\r\n\r\nYour name____________\r\nDelivery Address:____\r\nCountry______________\r\nPhone Number:________\r\nYour ID Card_________\r\n\r\nNote, All charges regards this delivery has been paid except the safe\r\nkeeping fees which is $175 only, and you will send to them before they\r\ncan dispatch the parcel to your destination. So you can call them now at\r\n+1 615 502-5024 or sms text\r\nCONTACT E-mail: www.online.delivering@gmail.com)\r\nThanks.\r\n",
+            "content_type": "text/plain",
+            "hash": "24b44d2c43b0eb65f649a7460bf89e6343f3f0dbe361e85ac9d244de18ea4021",
+            "boundary": "000000000000c5937305c9af436a"
+        }
+    ],
+    "header": {
+        "subject": "GOOD NEWS",
+        "from": "www.online.delivering@gmail.com",
+        "to": [],
+        "date": "2021-08-16T10:57:32-05:00",
+        "received_domain": [
+            "mail-pl1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.214.178"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

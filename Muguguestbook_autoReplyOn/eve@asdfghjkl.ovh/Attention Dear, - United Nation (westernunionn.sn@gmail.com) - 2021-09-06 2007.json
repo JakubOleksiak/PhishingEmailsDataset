@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Attention Dear,\r\nThis is the United Nation (UN). The United Nations Globally has approved\r\nthe sum (US$2,800,000.00) compensation as part of our responsibilities for\r\nhumanitarian Aid for fighting against CoronaVirus and you are among the\r\nlucky ones.\r\n\r\n\r\nThis compensation is for the most affected countries, communities and\r\nfamilies across the globe. Your funds were deposited in Bank in Dakar\r\nSenegal to transfer your funds to you via Internet Banking which will\r\nenable you to have full access to your funds and make your transfers online\r\nby yourself.\r\n\r\nYou have to send your full details as stated below to this email Address:(\r\nunitnationn@gmail.com )\r\n\r\n\r\nYour full names:\r\nAddress:\r\nTelephone:\r\nOccupation:\r\n\r\nYours Sincerely\r\nMr. Ant\u00f3nio Guterres\r\nSecretary-General of\r\nthe United Nations.\r\n",
+            "content_type": "text/plain",
+            "hash": "77ec14cc98abef460b810a36f47e3e69b916915a22621b8ece9418381f69a2a4",
+            "boundary": "00000000000089d79605cb57870e"
+        }
+    ],
+    "header": {
+        "subject": "Attention Dear,",
+        "from": "westernunionn.sn@gmail.com",
+        "to": [],
+        "date": "2021-09-06T18:07:29+00:00",
+        "received_domain": [
+            "mail-wm1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.51"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

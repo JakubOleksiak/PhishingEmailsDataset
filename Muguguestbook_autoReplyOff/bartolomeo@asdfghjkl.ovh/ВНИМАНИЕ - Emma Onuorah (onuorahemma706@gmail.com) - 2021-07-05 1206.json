@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "\u041e\u0431\u0440\u0430\u0449\u0430\u044e\u0441\u044c \u043a \u0432\u0430\u043c.docx",
+            "size": 12090,
+            "extension": "docx",
+            "hash": {
+                "md5": "ee11ed4a6d2f7576e9a9b904e0ab6fd4",
+                "sha1": "2b804985bab037a7892b19d66c103bf1797ae624",
+                "sha256": "20ffa7c56b1a9b45741ad2b9496bb6e2e661f16cf39537aacbeddf705d39f3b3",
+                "sha512": "718b08f393ea0ffc587dbdc0de11f452f816b9c8fdb12b5906cc64fc21b45ce9102cda5d5b75ea598fb37ee691c31d80d70bdfee447197ffa07868135d4b3d35"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"\u041e\u0431\u0440\u0430\u0449\u0430\u044e\u0441\u044c \u043a \u0432\u0430\u043c.docx\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"\u041e\u0431\u0440\u0430\u0449\u0430\u044e\u0441\u044c \u043a \u0432\u0430\u043c.docx\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_kqqgkf8r0>"
+                ],
+                "x-attachment-id": [
+                    "f_kqqgkf8r0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+            "boundary": "000000000000a80e3c05c65d7537"
+        }
+    ],
+    "header": {
+        "subject": "\u0412\u041d\u0418\u041c\u0410\u041d\u0418\u0415",
+        "from": "onuorahemma706@gmail.com",
+        "to": [],
+        "date": "2021-07-05T10:06:33+00:00",
+        "received_domain": [
+            "mail-ej1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.67"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "UNKNOWN"
+    }
+}

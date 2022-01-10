@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "email": [
+                "bartolomeo@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD>\r\n<body style=\"MARGIN: 0.5em\">\r\n<P>Dear bartolomeo@asdfghjkl.ovh,</P>\r\n<P>Kindly Accept &amp; Acknowledge my Proposal!</P>\r\n<P>I have already sent you this same letter one month ago, but I am not sure if it did get to you since I have not heard from you, I wish to notify you again that your name was mentioned as heir to the sum of $10,559,474.44 USD DOLLARS.</P>\r\n<P>In the last testament of our deceased client name now withheld. I and my team of the Heir Hunters Company in the United Kingdom are detectives assisting distant relatives of people who have died due to the COVID 19 PANDEMIC&nbsp; with or without making any official will.</P>\r\n<P><BR>As a member of a team of detectives, the race is now on for us to track down the often distant relatives in line for a windfall. Note as the heir hunters our aim is to assist people claim their lost relative fortune instead of the government or Bank MDS to use the money to enrich their treasury. </P>\r\n<P><BR>Please send an acknowledgment email to enable us to process your inheritance with all due verification process.</P>\r\n<P><BR>I look forward to hearing from you.</P>\r\n<P>Yours Faithfully,</P>\r\n<P>Colin Franklin</P>\r\n<P>Representative</P>\r\n<P>&nbsp;</P></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "97c3c884144483c6b52c409ff5caf1e13edb98fe49c8720020abefec75cf7f39"
+        }
+    ],
+    "header": {
+        "subject": "Second Notice!",
+        "from": "apeterasdh@comcast.net",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-22T07:14:28+01:00",
+        "received_domain": [
+            "comcast.net",
+            "mail.acty.network"
+        ],
+        "received_ip": [
+            "160.16.81.93",
+            "198.12.90.247"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

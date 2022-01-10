@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML>\r\n\r\n<html><head><title></title>\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n</head>\r\n<body style=\"margin: 0.4em;\"><p>To whom it may concern,</p><p>The world is facing an unprecedented challenge with communities and economies everywhere affected by the growing COVID-19 pandemic and the world is coming together to donate and combat the COVID-19 pandemic by bringing governments, organizations from across industries and sectors and individuals together to help respond to people in need.</p><p>\r\nIAR has continued to support the response in countries towards suppressing transmission, reducing exposure, protecting the vulnerable, reducing mortality and morbidity rates and increasing equitable access of diagnostics and vaccines for all.</p><p>IAR deliver vital healthcare equipment and Cash Relief Fund that help devastated populations return to self-reliance.</p><p>\r\nWe will ship medical equipment to fight Covid-19 and Cash Relief Fund to fight poverty and hunger and you'll allocate it to where it's needed most in your community.</p><p>We demand your RESPONSE to know if you can handle it and to enable us ship to you for distribution among your people and you will also help us provide lifesaving healthcare and supplies to children, families and communities that have lost everything due to covid-19.</p><p>Regards,<br>Roger Karl<br>\r\nHUMANITARIAN&nbsp; AFFAIRS OFFICER</p></body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "37c7a883ebc1458bb5364fbbabfa1d21e6678a01964dd14a7a009b29db9d6d42"
+        }
+    ],
+    "header": {
+        "subject": "To Whom It may Concern",
+        "from": "inquiry@spuredge.com",
+        "to": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-26T09:56:02-07:00",
+        "received_email": [
+            "inquiry@spuredge.com"
+        ],
+        "received_domain": [
+            "ns1.omnis.com"
+        ],
+        "received_ip": [
+            "198.16.95.10",
+            "216.38.8.188"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "mgramtransfer22@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nGOOD DAY\r\n\r\nEmail Address:(mgramtransfer22@gmail.com)\r\n\r\n    we have concluded to Send your payment through Money Gram money\r\ntransfer $4,000.00 daily until the total fund of ($2.5MILLION ) is\r\ncompletely transferred. Meanwhile, Mr Hector Giroud has Send you\r\n$4,000.00 in your name today. So contact Mr Hector Giroud, through\r\nMoney\r\nGram money transfer payment Agent to SEND you the MTCN to pick up this\r\n$4000 now:\r\n\r\nCONTACT PERSON: Mr Hector Giroud\r\nCell Phone (+229) 69641576\r\nWhatsaap Number: (+229) 69641576\r\n\r\n\r\nPlease remember to Call and ask him to give you the Reference Number,\r\nsender name, question and answer to pick up the $4000.00. Also you\r\nshould send to him your information to cross check it to avoid\r\nmistake.\r\nReceiver's Name________________\r\nAddress: ______________________\r\nCountry: ______________________\r\nPhone Number: _________________\r\nYour Occupation _______________\r\nI.D Card:______________________\r\n\r\nThough, Mr Hector Giroud has sent $4000 in your name today so contact\r\nMr Hector Giroud or you call him (+229) 69641576 as soon as you\r\nreceive\r\nthis email and tell him to give you the Reference Number, sender name\r\nand question/answer to pick the $4000 Please let us know as soon as\r\nyou\r\nreceived all your fund.\r\n\r\nBest Regards.\r\nmrs deborah mgbogi\r\n",
+            "content_type": "text/plain",
+            "hash": "c3f027ed48915941994536e4260081690a188127ca89a4a73e19440407120c40"
+        }
+    ],
+    "header": {
+        "subject": "attention",
+        "from": "biza@biza.com",
+        "to": [],
+        "date": "2021-08-09T18:29:15+09:30",
+        "received_email": [
+            "najiba@travellingbd.com"
+        ],
+        "received_domain": [
+            "outmx-259.london.gridhost.co.uk",
+            "webmail.gridhost.co.uk",
+            "p3plwbeout02-06.prod.phx3.secureserver.net"
+        ],
+        "received_ip": [
+            "95.142.156.212",
+            "95.142.156.251",
+            "72.167.218.99"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

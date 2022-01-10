@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "wsmith1145@rambler.ru"
+            ],
+            "domain": [
+                "rambler.ru"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Dear beneficiary,\r\n\r\nThis is to officially inform you that your payment compensation of USD$2.5 Million Dollars has been approved and 100% ready to be delivered to your\u00a0doorstep. \r\nTherefore you are advised to contact Dr. Walter Smith for the release of your ATM Card Payment as soon as possible with the details below:-\r\n\r\nContact Person: Dr. Walter Smith.\r\nContact E-mail: wsmith1145@rambler.ru\r\nContact\u00a0Phone:\u00a0+234-8180411853\r\n\r\nWe await your prompt response to enable us to proceed with the onward delivery of your payment to your residential address.\r\nKindly complete the details below for reference purpose;\r\n\r\nYour Full Name:\r\nYour Residential Address:\r\nYour Occupation:\r\nYour Direct Telephone Number:\r\n\r\nAs soon as we are able to read from you, we shall proceed officially with the delivery of your payment compensation funds.\r\n\r\nThanks.\r\nDr. John Fletcher.\r\n",
+            "content_type": "text/plain",
+            "hash": "c6608db15e5fd93232262572911f5da4d3739542bfd3860713e14295e59613b8"
+        }
+    ],
+    "header": {
+        "subject": "Dear BENEFICIARY..",
+        "from": "info@rambler.ru",
+        "to": [],
+        "date": "2021-09-29T13:20:30+00:00",
+        "received_domain": [
+            "mail.mgnp.co.kr"
+        ],
+        "received_ip": [
+            "221.161.232.16",
+            "197.211.58.61"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

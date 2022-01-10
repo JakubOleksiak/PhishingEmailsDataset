@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "peter_help_claim231@outlook.com"
+            ],
+            "domain": [
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "ATTN: BENEFICIARY\r\n\r\n\r\nYour Email has won you $2,000.000.00 Sponsored by Peter \r\nStuyvesant for Endeavour Foundation Lottery.\r\n\r\nContact our claim office agent at:  \r\npeter_help_claim231@outlook.com\r\nCLAIM FILE NUMBER: SPN/435/6001/04 for claim,\r\nfill the bellow information and send to the claim office agent \r\nincluding your claim file number\r\nfor claim\r\n\r\n\r\n1: CLAIM FILE NUMBER.......SPN/435/6001/04\r\n2: Full Names....................................... \r\n3: Residential Address.............................. \r\n4: Country.......................................... \r\n5: Age.............................................. \r\n6: Sex.............................................. \r\n7: Tel.............................................. \r\n8: Occupation.......................................\r\n\r\nSend complete information to redeem claim. \r\n \r\nYours Truly \r\nPeter Stuyvesant for Endeavour Foundation Lottery Cordinator.\r\n.\r\n\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "4a28df2a97a20c085bc22462acf7a3072ed5246689a819d1041bf0b9417d7562"
+        }
+    ],
+    "header": {
+        "subject": "Great News!!!",
+        "from": "stuyvesanlotto@lotto.com",
+        "to": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-05T07:12:21-07:00",
+        "received_domain": [
+            "lotto.com"
+        ],
+        "received_ip": [
+            "147.124.217.165"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

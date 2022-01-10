@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Sir, \r\n\r\nRef: IMPORTANT NOTIFICATION!!\r\n\r\nWe received a New Payment Order dated 14th of August, 2021 to transfer your inheritance/contract fund to you. We have already sent you two various notification mails regarding this New Development and it's surprising we haven't received any acknowledgement mail from you up till this time.\r\n\r\nI am sending you this mail again as a REMINDER and to have your consent regarding the Authorization Letter we received from Barrister P.K. Myong with a copy of his Korean Passport No. M22425171 and was in the Company of two of his other counsels who undoubtedly claimed to be your representatives/next of Kin.\r\n\r\nI am requesting you to personally consent to this CLAIM by Barr. P. K. Myong who equally submitted a receivers Bank Account with the National Bank of Bahrain as your legally acceptable receiving Bank details for the Fund transfer. Please re-confirm the stated Account details below as we noticed that the Account name is not your name:\r\n\r\n\r\nBank Name: National Bank of Bahrain.\r\nBank Address: Manama, Kingdom of Bahrain.\r\nAccount number: 293389616\r\nSwift Code: NBOBBHBMMTD\r\nAccount Name: Shaker Mansoor Habib Mansoor Alasfoor.\r\nAddress: Building 1077, Flat No. 11, Road 1437, Block 414 Daih.\r\n\r\n\r\nIt is our Banking rules that we must have direct email or telephone contact with the fund beneficiary first before we can finally release the fund, therefore I am officially contacting you directly on this Authorization Letter and a new Bank Account details submitted by Barr. Park Kwang Myong for the remittance of your fund.\r\n\r\nThank you for your attention and I look forward to your prompt answer.\r\n\r\nRespectfully,\r\n\r\nDr. Akinwumi  Adesina\r\nPresident,\r\nAfrican Development Bank.\r\n",
+            "content_type": "text/plain",
+            "hash": "e815c855a46a2a0160b45f899c6f4039bd5d1e5abfd32442b61139ba59ededa0"
+        }
+    ],
+    "header": {
+        "subject": "Urgent Alert...PLEASE VERIFY YOUR ACCOUNT DETAILS!!",
+        "from": "financialclearinghouse0000@gmail.com",
+        "to": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-21T18:26:40+03:00",
+        "received_domain": [
+            "ip-130-142.dataclub.eu",
+            "ntmail.icomis.com"
+        ],
+        "received_ip": [
+            "218.145.71.143",
+            "84.38.130.142"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

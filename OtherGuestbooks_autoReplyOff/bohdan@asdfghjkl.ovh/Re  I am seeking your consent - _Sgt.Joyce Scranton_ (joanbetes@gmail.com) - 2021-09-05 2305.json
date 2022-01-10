@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "15227119597@163.com"
+            ],
+            "domain": [
+                "sgt.joyce",
+                "163.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHello,\r\n\r\nI am Staff Sgt.Joyce Scranton, an American soldier serving in the US\r\nmilitary. I have some amount that I want to move out of ( SYRIA )\r\nwhich might require your assistance urgently, Can I trust you? email\r\nme now, for details as this mail was sent from a discreet email\r\naccount.  Email me on: 15227119597@163.com\r\n\r\nI wait your response\r\n\r\nSgt.Joyce Scranton\r\n",
+            "content_type": "text/plain",
+            "hash": "ba793c67d4f58709219d08ac0501fb72b06e28b3ac27de7e685eef29aeb1b6fd"
+        }
+    ],
+    "header": {
+        "subject": "Re: I am seeking your consent",
+        "from": "joanbetes@gmail.com",
+        "to": [],
+        "date": "2021-09-05T22:05:27+01:00",
+        "received_domain": [
+            "mail-lf1-f66.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6520:2f0e:b0:139:6cb9:33e7",
+            "209.85.167.66"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

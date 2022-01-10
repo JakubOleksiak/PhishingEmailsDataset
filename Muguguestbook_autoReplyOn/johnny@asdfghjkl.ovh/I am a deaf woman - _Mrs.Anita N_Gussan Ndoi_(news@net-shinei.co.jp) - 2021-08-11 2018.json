@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.anita",
+                "family.if"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings my beloved,\r\nMy name is Mrs.Anita N'Gussan Ndoi,I am a deaf woman and also a cancer\r\npatient who had decided to donate what I have to you for God's works. I\r\nwant to donate $8.5 million to you so that you will use part of the this\r\nfund to help the poor ones,while you use the rest for your family.If you\r\nare interested,Respond now for more details on how to receive this fund.\r\n\r\nRegards,\r\nMrs. Anita N'Gussan Ndoi ,greeting from the sick bed\r\n**************************************\r\nSaludos mi amado,\r\nMi nombre es Sra. Anita N'Gussan Ndoi , soy una hermana sorda ... Soy\r\nuna paciente de c?ncer que ten?a\r\nDecid? donarles lo que tengo para las obras de Dios. Quiero donar\r\n$ 8.5 millones para usted para que use parte de este fondo para ayudar\r\nlos pobres, mientras que el resto lo usas para tu familia.\r\ninteresado, responda ahora para obtener m?s detalles sobre c?mo recibir\r\neste fondo.\r\n\r\nSaludos,\r\nSe?ora  Anita N'Gussan Ndoi, saludando desde la cama de enferma\r\n",
+            "content_type": "text/plain",
+            "hash": "0d913062ecd528ea1588e6d5fcdc74a8a852c8267c837a51fd0a5d11e6cf5f90"
+        }
+    ],
+    "header": {
+        "subject": "I am a deaf woman",
+        "from": "news@net-shinei.co.jp",
+        "to": [],
+        "date": "2021-08-11T18:18:31+00:00",
+        "received_domain": [
+            "mail.net-qp.com"
+        ],
+        "received_ip": [
+            "157.205.219.41"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

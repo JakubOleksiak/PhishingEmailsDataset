@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\n<B>Dear friend,</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>With respect, I am a portfolio manager with an Investment Bank in Turkey.</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>I am communicating to you in full capacity of my official duties and obligations, and on this note, I hereby submit and solicit for a viable possible external partnership with you which I want us to discuss the details when you respond to this mail.</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>I will send you the details as soon as I receive your response that you will be able to enter into our business cooperation.</B></DIV>\r\n<DIV>\r\n<B> </B></DIV>\r\n<DIV>\r\n<B>&nbsp;</B></DIV>\r\n<DIV>\r\n<B>Your truly,</B></DIV>\r\n<DIV>\r\n<B>Kenan Zengin</B></DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "87fec06dac485bd8ef13efa0d35f57cd113b22a2c3835382055ea8c2a24aa3f0"
+        }
+    ],
+    "header": {
+        "subject": "URGENTLY RESPOND",
+        "from": "ewen@albionplacehotel.com.au",
+        "to": [],
+        "date": "2021-10-01T14:16:20+03:00",
+        "received_email": [
+            "ewen@albionplacehotel.com.au"
+        ],
+        "received_domain": [
+            "kronos.internet.net.au",
+            "geocorpfinance.com.au"
+        ],
+        "received_ip": [
+            "203.98.87.45",
+            "84.38.134.44"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

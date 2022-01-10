@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Loan offer services apply now.\r\n\r\nWe provide loan to corporate companies and individuals\r\nwith very minimal annual interest rates as low as 2.25%\r\nwithin 1 year to 20 years repayment duration period to\r\nany part of the world.\r\n\r\nKindly reply for me details.\r\n\r\nSincerely.\r\n",
+            "content_type": "text/plain",
+            "hash": "f0c9d86cac5f2c489cd8dd564b90bd420a7f987653304fa50a2e586833a465e5",
+            "boundary": "00000000000070398e05c5a67095"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer services apply now",
+        "from": "michaelu4446@gmail.com",
+        "to": [],
+        "date": "2021-06-26T08:45:12+01:00",
+        "received_domain": [
+            "mail-wm1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.67"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

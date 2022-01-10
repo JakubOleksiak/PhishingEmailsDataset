@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHow are you today? I hope everything is alright?\r\n",
+            "content_type": "text/plain",
+            "hash": "4a3280d76d3dda1c3093c8752074f747bcb3de7b3b3be56fe2f30435c27cc39d"
+        }
+    ],
+    "header": {
+        "subject": "hiiiiiiiiiiiiiiiiiiii",
+        "from": "ashouz85@gmail.com",
+        "to": [],
+        "date": "2021-05-07T20:34:50+02:00",
+        "received_domain": [
+            "mail-pg1-f196.google.com"
+        ],
+        "received_ip": [
+            "2002:a17:90b:954::",
+            "209.85.215.196"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

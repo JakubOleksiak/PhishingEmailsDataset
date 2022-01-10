@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "domain": [
+                "www.xleet.live"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Visit : xleet.live, if you need any of the below spamming tools. We offer best quality tools at best prices.\r\n\r\nSMTP\r\nWEBMAIL\r\nCPANEL\r\nSHELL\r\nRDP\r\nFULLZ\r\nEMAIL LEADS.\r\n\r\nShop: www.xleet.live\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "8f4e72c207b50e5f73ac03839609a80244502e5613e83e10445bef4b44536ef9",
+            "boundary": "_000_SJ0PR10MB452514667A6EA0E30AFA3C69DD9F9SJ0PR10MB4525namp_"
+        }
+    ],
+    "header": {
+        "subject": "* Fresh Update - Tools Added *",
+        "from": "ron@strickersauction.com",
+        "to": [],
+        "date": "2021-02-24T22:36:34+00:00",
+        "received_domain": [
+            "sj0pr10mb4525.namprd10.prod.outlook.com",
+            "nam11-bn8-obe.outbound.protection.outlook.com",
+            "byapr10mb3510.namprd10.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10b6:a03:2db::6",
+            "2603:10b6:a03:120::12",
+            "40.107.236.116"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

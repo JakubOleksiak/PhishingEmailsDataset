@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello\r\n\r\nI am Peter Wong Chairman of the Shanghai Banking Limited.I have an\r\nobligation that I would like you to complete ASAP,asking for your\r\npartnership for fund transfer.\r\n",
+            "content_type": "text/plain",
+            "hash": "f0a9707c261a81deb5517abde7af30992c5790cfa6db0754eeb861e16f5d7da3",
+            "boundary": "00000000000075821b05ca5fc658"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "santhmense@gmail.com",
+        "to": [],
+        "date": "2021-08-25T11:32:53+01:00",
+        "received_domain": [
+            "mail-yb1-f171.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.171"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

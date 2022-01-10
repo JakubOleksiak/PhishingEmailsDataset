@@ -1,0 +1,50 @@
+{
+    "body": [
+        {
+            "email": [
+                "winghangbank901@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "My Name is Chen Chung, I am a senior Staff with a public Bank here in Wing Hang Bank, Hong Kong and I have $18,991,674 USD. that I want to pull out of the country.\r\n\r\nI need a good partner, someone I can trust. It's risk free and legal.\r\n\r\nReply to my email for more information: winghangbank901@gmail.com\r\nMr. Chen Chung \r\n",
+            "content_type": "text/plain",
+            "hash": "3ef9fe25ac8f69e6e749361bbb0c0fdfe50a8e9879937e91e86d320cb2dcf385"
+        }
+    ],
+    "header": {
+        "subject": "$18,991,674 USD.",
+        "from": "k-maruyama@just.co.jp",
+        "to": [
+            "k-maruyama@just.co.jp"
+        ],
+        "date": "2021-08-29T19:30:41+02:00",
+        "received_domain": [
+            "cmn-spm-mts-003c1.ocn.ad.jp",
+            "c15sfxpp.mwprem.net",
+            "oogw0203.ocn.ad.jp",
+            "mgw-vc-mts-006c1.ocn.ad.jp",
+            "sgs-vcgw104.ocn.ad.jp"
+        ],
+        "received_ip": [
+            "153.153.62.4",
+            "153.138.238.213",
+            "60.43.157.118",
+            "153.153.67.136",
+            "153.149.234.198"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

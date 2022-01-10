@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Good Day!\r\n\r\n  Your email has won $1,000,000.00 by Alice Walton 2021 COVID-19 humanitarian program. Contact us for more details on how you are to claim your donation funds\r\n\r\nThanks And God Bless\r\nAlice Walton Foundation\r\n",
+            "content_type": "text/plain",
+            "hash": "ec279fd668302514db05d6c8d57496a8e675bfc323c7a7c73e31db88bc063cd4"
+        }
+    ],
+    "header": {
+        "subject": "$1,000,000.00 USD HAS BEEN DONATED TO YOUR NAME",
+        "from": "alejandro@asedagro.com",
+        "to": [
+            "alejandro@asedagro.com"
+        ],
+        "date": "2021-10-09T15:38:12+02:00",
+        "received_domain": [
+            "cloud01.dnsprimario.com",
+            "mail06sa2.dnsprimario.com",
+            "172.16"
+        ],
+        "received_ip": [
+            "37.49.225.143",
+            "86.109.170.174"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

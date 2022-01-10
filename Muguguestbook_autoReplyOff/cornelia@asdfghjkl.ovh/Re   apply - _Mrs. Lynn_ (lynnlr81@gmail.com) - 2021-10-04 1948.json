@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "domain": [
+                "www.strattonfinance.com.au"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Are you interested in starting up a business or do you have financial difficulties that requires capital....what about you over there looking to solve that personal need? look no further as we are here to offer loans on clear and understandable terms and conditions at a 3% interest rate. From $5,000.00 to $25,000,000.00 we offer Business Loans, Personal Loans, Student Loans, Car Loans And Loans To Pay Off Bills, Contact us now via email: All you need to do is fill out the short form below to get started\r\n\r\n\r\nApplicant's Name:......................\r\nApplicant's Contact Address:...........\r\nCity, State and ZipCode:...............\r\nState & Country:.......................\r\nPhone Number :.............\r\nLoan Amount Needed:.....................\r\nDuration:...............................\r\nPurpose For Loan:........................\r\n\r\nThanks for your understanding and for choosing this firm,\r\n\r\nMrs Lynn Lewis\r\nwww.strattonfinance.com.au\r\n\r\n-- \r\nThis email has been checked for viruses by Avast antivirus software.\r\nhttps://www.avast.com/antivirus\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "916ddb5eaa4abac7cde7a85f6930377372414a36984a3ae83a11f3b68b580f62"
+        }
+    ],
+    "header": {
+        "subject": "Re::apply",
+        "from": "lynnlr81@gmail.com",
+        "to": [
+            "stratonfinnanc@gmail.com"
+        ],
+        "date": "2021-10-04T12:48:58-05:00",
+        "received_domain": [
+            "mail-lf1-f67.google.com",
+            "smtp.gmail.com"
+        ],
+        "received_ip": [
+            "41.216.201.249",
+            "209.85.167.67"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

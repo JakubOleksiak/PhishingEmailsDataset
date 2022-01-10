@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "domain": [
+                "email.please"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "John,\r\n\r\ni received your email.Please read my email carefully.\r\n\r\nyou will be receiving your long awaited fund of $10.5M but the\r\ncondition is that you will travel to 2 countries to sign your final\r\nrelease documents and you will not be spending a dime from your\r\npocket.\r\nsend me your following details\r\n\r\nYour Full Names.\r\nYour Full Address.\r\nYour Mobile Tel. No./Whats app Tel. No.\r\nYour Occupation.\r\nValid Copy of Your International Passport.\r\nName of Your Nearest International Airport in Your City.\r\n\r\nKindly get back to me to my private email\": optimistdavid73@aol.com\r\n\r\ni will be attending to you there.\r\n\r\nHave a great day ahead.\r\n\r\nBest Regards\r\nMr.Optimist David\r\nOn 19/08/2021, johnny@asdfghjkl.ovh <johnny@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> John\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "694b2a847adec7eb6e440fb449b1d1b4a2e2ff62ee270a96a9080699f995b370"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "optimistclark123@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-19T12:45:13-07:00",
+        "received_domain": [
+            "mail-lj1-f177.google.com"
+        ],
+        "received_ip": [
+            "2002:a19:c508::",
+            "209.85.208.177"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

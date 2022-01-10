@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,\r\n\r\nHope you are doing well!\r\n\r\n \r\n\r\nWe have got your information through your website while searching for new\r\nclients online.\r\n\r\n \r\n\r\nWe will increase your sales through our SEO and marketing services. \r\n\r\n \r\n\r\nI can give you a few proposals of different strategies that I've done that\r\nhave had a major effect on my customer's sales. I'd be happy to help out. \r\n\r\n \r\n\r\nLooking forward to hear you soon.\r\n\r\n \r\n\r\nKind Regards\r\n\r\nCasper\r\n\r\nOnline marketing expert.\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "4cf462490cb1bb95e5cba3947ad35b9212f15ea85aa8da50f320e037e9a4c551",
+            "boundary": "----=_NextPart_000_0A4C_01D77DA0.08E60290"
+        }
+    ],
+    "header": {
+        "subject": "Search Engine Marketing Specialist",
+        "from": "camachosthanier@gmail.com",
+        "to": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-20T19:46:32+05:30",
+        "received_domain": [
+            "mail-pl1-f175.google.com",
+            "smtp.gmail.com"
+        ],
+        "received_ip": [
+            "209.85.214.175",
+            "2409:4053:684:1b4b:d01:5d76:b613:9320"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

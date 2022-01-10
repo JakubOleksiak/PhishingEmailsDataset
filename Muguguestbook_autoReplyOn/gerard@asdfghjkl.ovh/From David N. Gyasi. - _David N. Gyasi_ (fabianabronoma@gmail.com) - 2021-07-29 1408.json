@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\n\r\nGood day.\r\n\r\n\r\nI have an important information for you, please confirm if this e-mail\r\naddress is still valid so that i can send to you the full details of the\r\ninformation.\r\n\r\nThat needs your urgent attention.\r\n\r\nDavid  N. Gyasi\r\n",
+            "content_type": "text/plain",
+            "hash": "e94f61df8b3b6bc947656c4b92d0a88d7708f980d3d3fa4ef39b77175bd84735",
+            "boundary": "0000000000003af4a505c841f71f"
+        }
+    ],
+    "header": {
+        "subject": "From David N. Gyasi.",
+        "from": "fabianabronoma@gmail.com",
+        "to": [],
+        "date": "2021-07-29T12:08:35+00:00",
+        "received_domain": [
+            "mail-oi1-f170.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.170"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Lucy\r\n\r\nMy name is Anne Paul and I was reviewing your website and noticed that the\r\nwebsite has a good design and it looks good.\r\n\r\nBut it is not ranking on GOOGLE for Relevant Keywords.\r\n\r\nI couldn't find your website on the first page with your business keywords/\r\nphrases.\r\n\r\nWe can help you do better in all search engines by Achieving top page\r\nRankings.\r\n\r\nWe Provide SEO services at a minimum cost.\r\n\r\nThanks very much!!\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a812130eb2bb0eef4349469ef8645916f2f93795ea1050d537192b5f5ee2a89b",
+            "boundary": "----=_NextPart_000_4B1A_01D78EF1.4C49DA90"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices",
+        "from": "anne11paul@hotmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-11T20:36:41+05:30",
+        "received_domain": [
+            "pn1pr01ca0107.indprd01.prod.outlook.com",
+            "pu1apc01ft009.mail.protection.outlook.com",
+            "pu1pr01ca0036.apcprd01.prod.exchangelabs.com",
+            "pu1apc01ft009.eop-apc01.prod.protection.outlook.com",
+            "ps2pr04mb3800.apcprd04.prod.outlook.com",
+            "pu1pr01ca0036.outlook.office365.com",
+            "pn3pr01mb5686.indprd01.prod.outlook.com",
+            "kor01-sl2-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7ebe::52",
+            "2603:1096:300:6d::16",
+            "2a01:111:e400:7ebe::103",
+            "104.47.108.185",
+            "2603:1096:803:16::24",
+            "2409:4053:2203:9c46:91c1:c2b6:d2d0:adaa",
+            "2603:1096:c00::23",
+            "2603:1096:803:16:cafe::b7"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

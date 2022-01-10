@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Good Day,\r\n\r\nMy name is Mr. Henry Lau, i am the credit officer in Hang Seng Bank, Hong Kong. I have a business proposal of $28,800,000, for you from my bank. There were no beneficiaries stated concerning these funds which means no one would ever come forward to claim it. I want us to work together so as to have the sum transferred out of my bank into your account.\r\n\r\nPlease endeavor to observe utmost discretion in all matters concerning this issue. Once the funds have been transferred to your nominated bank account we shall then share in the ratio of 50% for me, 50% for you.\r\n\r\nShould you be interested Please treat this business with utmost confidentiality and get back to me through my private emails with the following,\r\n\r\n1 Full names,\r\n2 Private phone number,\r\n3 Current residential address,\r\n\r\nFinally after that I shall provide you with more details of this operation.\r\n\r\nRegards,\r\nMr. Henry Lau\r\n\r\nHere is my direct email to contact me: ( lauh3nry@yandex.com )\r\n",
+            "content_type": "text/plain",
+            "hash": "f72b8f85205a9df14a39197d08f29d59ce34725a45733303cdd6a8e1d028a8ee",
+            "boundary": "_000_SN6PR06MB46371AE79CABB67EA42D9C0EAFED9SN6PR06MB4637namp_"
+        }
+    ],
+    "header": {
+        "subject": "Atten: Dear Friend, ",
+        "from": "drnormancox@outlook.com",
+        "to": [],
+        "date": "2021-07-31T00:50:44+00:00",
+        "received_domain": [
+            "nam11-dm6-obe.outbound.protection.outlook.com",
+            "bn8nam11ht076.eop-nam11.prod.protection.outlook.com",
+            "sn6pr06mb4637.namprd06.prod.outlook.com",
+            "bn8nam11ft039.eop-nam11.prod.protection.outlook.com",
+            "bn8nam11ft039.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:fc4b::44",
+            "40.92.19.21",
+            "2a01:111:e400:fc4b::198",
+            "2a01:111:e400:fc4b::51",
+            "2a01:111:e400:fc4b::425"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

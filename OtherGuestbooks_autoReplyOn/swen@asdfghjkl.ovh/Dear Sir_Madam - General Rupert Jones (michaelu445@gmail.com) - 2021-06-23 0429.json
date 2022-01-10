@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir/Madam\r\nMy name is General Rupert Jones, serving in the Engineering military unit\r\nin Ba'qubah in Iraq.\r\nWe found some money here in Baqubah in Iraq,We are looking for a foreign\r\npartner to help us move this money out of iraq,for investment ,please  If\r\nyou are interested kindly contact me for more details\r\nThanks.\r\n",
+            "content_type": "text/plain",
+            "hash": "7c4fac62379f9fd0113533044b7a281247b829090ecc242e9e4b6e123786d1a4",
+            "boundary": "00000000000078087705c565ac5e"
+        }
+    ],
+    "header": {
+        "subject": "Dear Sir/Madam",
+        "from": "michaelu445@gmail.com",
+        "to": [],
+        "date": "2021-06-23T03:29:06+01:00",
+        "received_domain": [
+            "mail-ej1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.45"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

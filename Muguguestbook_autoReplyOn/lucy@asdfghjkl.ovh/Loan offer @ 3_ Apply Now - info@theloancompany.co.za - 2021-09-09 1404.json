@@ -1,0 +1,31 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear lucy",
+            "content_type": "text/plain",
+            "hash": "4d1e4b6036b57bef74b5cffb1c6954e25dae92212a4e82c03ceb09ec761de13c",
+            "boundary": "----=_NextPart_000_0012_5ED9D88A.5E814A47"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer @ 3% Apply Now ",
+        "from": "info@theloancompany.co.za",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-09T14:04:57+02:00",
+        "received_ip": [
+            "185.222.57.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Romanian; Moldavian; Moldovan"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "miss.rihab"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nHow are you?I am miss.Rihab Manyang i will like to be your friend\r\nplease write me back on my email for more details, Thanks.\r\n",
+            "content_type": "text/plain",
+            "hash": "7821db8926012bb18f6427c47e859f264c8da5152bd2beb542ebad4a4ca4c514"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "angellaben454@gmail.com",
+        "to": [],
+        "date": "2021-10-07T19:54:46+01:00",
+        "received_domain": [
+            "mail-pf1-f176.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6a10:d114::",
+            "209.85.210.176"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

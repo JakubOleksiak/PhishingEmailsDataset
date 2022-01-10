@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "cban1990@outlook.com"
+            ],
+            "domain": [
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "CENTRAL BANK OF NIGERIA,\r\nINTERNATIONAL REMITTANCE DEPARTMENT,\r\nCORPORATE HEAD QUARTERS\r\nTINUBU SQUARE,LAGOS NIGERIA,\r\nOur Ref: CBN/IRD/CBX/021/05,\r\nIMMEDIATE CONTRACT PAYMENT,\r\nEMAIL: cban1990@outlook.com\r\n\r\n\r\nAttention: Beneficiary\r\n\r\nRe:Transfer of the sum of $27,000,000.00 ( Twenty Seven Million,United\r\nStates Dollars only )via Our Ref: CBN/IRD/CBX/021/05.\r\n\r\nThis is to inform you that your fund has finally been approved by the\r\nsenate to be released to you Which you have two options to receive it.\r\n\r\n1: Through ATM CARD\r\n\r\nYour full name:\r\nYour full address:\r\nYour phone number:\r\n\r\n\r\n2: Through bank to bank transfer.\r\n\r\nYour bank name:\r\nYour bank address:\r\nYour account number:\r\nYour swift code:\r\nYour Routing number\r\nYour beneficiary name:\r\nYour current telephone number\r\nYour valid ID card\r\n\r\n\r\nYou should choose any of these option and get back to us urgently so\r\nthat the preparation will begin.\r\n\r\nThanks for your co-operation.\r\n\r\n\r\nYOURS SINCERELY,\r\n\r\n\r\nDR. GODWIN EMEFIELE\r\nGOVERNOR CENTRAL BANK OF NIGERIA (CBN)\r\n",
+            "content_type": "text/plain",
+            "hash": "64523e69d0b817663f2ca4f7591e7d9820bfbc1f95d9488da32ad46adf4fd40b"
+        }
+    ],
+    "header": {
+        "subject": "Your payment of $27 million",
+        "from": "hungarymfa@gmail.com",
+        "to": [],
+        "date": "2021-05-23T05:33:31-07:00",
+        "received_domain": [
+            "mail-qt1-f174.google.com"
+        ],
+        "received_ip": [
+            "209.85.160.174",
+            "2002:a05:6214:caa::"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

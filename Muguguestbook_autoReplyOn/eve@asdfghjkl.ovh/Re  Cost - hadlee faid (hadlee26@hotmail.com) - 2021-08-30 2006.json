@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi there,\r\n\r\n\r\n\r\nI was checking your website on behalf of your email and saw you have a good design and it looks great, but it's not ranking on Google and other major search engines. Do you want more targeted visitors on your website?\r\n\r\n\r\n\r\nWe can place your website on Google 1st page. Yahoo, Facebook, LinkedIn, YouTube, Instagram, Pinterest etc.\r\n\r\n\r\n\r\nMay I send you quote? If interested.\r\n\r\n\r\n\r\nRegards,\r\n\r\nSEO Consultant\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "7002fa391d88ac43c7f8daf3e794d21464de8a52ed42d5b6854e94f653238dc1",
+            "boundary": "_000_PSAPR03MB558994D46609C70BCF51FAACCACB9PSAPR03MB5589apcp_"
+        }
+    ],
+    "header": {
+        "subject": "RE: Cost",
+        "from": "hadlee26@hotmail.com",
+        "to": [],
+        "date": "2021-08-30T18:06:36+00:00",
+        "received_domain": [
+            "puzpr03mb5906.apcprd03.prod.outlook.com",
+            "psapr03mb5589.apcprd03.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.253.101",
+            "2603:1096:301:62::14",
+            "2603:1096:301:b1::8"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

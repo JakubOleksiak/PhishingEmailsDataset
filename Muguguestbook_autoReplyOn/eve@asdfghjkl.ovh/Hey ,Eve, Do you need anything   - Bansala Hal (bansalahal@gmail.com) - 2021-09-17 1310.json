@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear ,Eve\r\nI hope you are good.\r\nMy Name is Bansala Hal, I am working with an App Development Company based\r\nin India.\r\n\r\nWe are doing all kind of Mobile App development Like:-\r\n\r\n\u00b7         *Web Apps*\r\n\r\n\u00b7         *Android Apps*\r\n\r\n\u00b7         *IOS Apps*\r\n\r\n\u00b7         *React Native apps*\r\n\r\n\u00b7         *Hybrid Apps*\r\n\r\n\u00b7         *Gaming Apps*\r\n\r\nLet me know if you are looking for any app development work so that I will\r\nshare your latest work & prices accordingly.\r\n\r\nThanks & Regards\r\nBansala Hal\r\nI am waiting for your positive response.\r\n\r\n[image: beacon]\r\n",
+            "content_type": "text/plain",
+            "hash": "07afeb0b0f0d90944d4219ccfcce545952f808daf7cf089543a7efc1452d2603",
+            "boundary": "0000000000001b570a05cc2efcb6"
+        }
+    ],
+    "header": {
+        "subject": "Hey ,Eve, Do you need anything ?",
+        "from": "bansalahal@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-17T07:10:53-04:00",
+        "received_domain": [
+            "mail-ed1-f66.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.66"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

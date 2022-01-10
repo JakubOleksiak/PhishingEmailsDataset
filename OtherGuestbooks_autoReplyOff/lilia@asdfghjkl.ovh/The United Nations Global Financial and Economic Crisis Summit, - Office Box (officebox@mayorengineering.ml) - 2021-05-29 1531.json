@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "conference2021@post.com"
+            ],
+            "domain": [
+                "america.the",
+                "above.to",
+                "post.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\n\r\n\r\n\r\nDear Conference Invitee,\r\nThe Research Expert Group of The United Nations Global Financial and Economic Crisis Summit, invites you to the International Sustainable Development Goals conference on Environmental, Cultural, Economic & Social Sustainability 14-19 August, 2021 in Chicago, United States of America.The forthcoming United Nations Global Financial and Economic Crisis conference is the premier interdisciplinary forum for Non-Governmental Organizations (NGOs), Community Based Organizations (CBOs), Entrepreneurs, Economists, social scientists, Academicians & Researchers from any professional discipline who share an interest in\u2014and concern for sustainability in an holistic perspective where environmental, Educational, cultural, Global Financial and Economic Crisis and social concerns intersect. The United Nations Global Financial and Economic Crisis Conference is sponsored by the United Nations Commission on Global Financial and Economic Crisis. Conference sponsorship covers only the following:\r\na. Free flight tickets (Air travel expenses) for all qualified participants, from participants country of departure to America and back to participants country of destinationb. Free medical throughout the duration of the conferencec. Free transportation for movement of participants from to tourist sites within America cityd. Free tour to attractive sites within and outside conference host city (AMERICA).\r\nNOTE: United Nations Global Financial and Economic Crisis, will not assume any other responsibility than those listed above.To register for this event, kindly write an acceptance letter to this invitation and indicate your interest to participate. Inquiry regarding registration form, accommodation, flight ticket and travel visa should be addressed to the conference secretary via e-mail: (conference2021@post.com)\r\nLet's meet in United state of America to assert a new change for a stronger society.\r\nAnnouncer!Dr,Keith Sheldon,Communication and Public Affairs(The United Nations Global Financial and Economic Crisis)",
+            "content_type": "text/plain",
+            "hash": "8d87c9d73c5ce299c3c1c785dc5d515c41cee5cc9549a03aa68bfc5e5d364608",
+            "boundary": "=_ea6cf6fc-67ea-4d7c-80ae-fe5cfbeaee95"
+        }
+    ],
+    "header": {
+        "subject": "The United Nations Global Financial and Economic Crisis Summit,",
+        "from": "officebox@mayorengineering.ml",
+        "to": [],
+        "date": "2021-05-29T13:31:20+00:00",
+        "received_domain": [
+            "mayorengineering.ml"
+        ],
+        "received_ip": [
+            "174.138.9.191"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

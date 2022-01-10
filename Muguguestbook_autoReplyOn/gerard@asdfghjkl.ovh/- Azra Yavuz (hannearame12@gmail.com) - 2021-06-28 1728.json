@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "hi\r\n",
+            "content_type": "text/plain",
+            "hash": "44723dd4d0e0d46a3c7fa8aca254b61c27b6b5789f96177e82c80700409f1535",
+            "boundary": "00000000000050338705c5d52651"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "hannearame12@gmail.com",
+        "to": [],
+        "date": "2021-06-28T16:28:52+01:00",
+        "received_domain": [
+            "mail-ed1-f42.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.42"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Swahili"
+    }
+}

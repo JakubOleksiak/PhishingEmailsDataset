@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.youtube.com/watch?v=7kWnqvJM1mM"
+            ],
+            "domain": [
+                "www.youtube.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,\r\n\r\nI'm Mrs. Mavis Wanczyk, the mega winner of $758 Million in Mega Millions\r\nJackpot, I am donating to 5 random individuals if you get this email \r\nthen\r\nyour email was selected after a spin ball. I have spread most of my \r\nwealth over a\r\nnumber of charities and organizations. I have voluntarily decided to \r\ndonate the sum of\r\n$2 Million USD to you as one of the selected 5,\r\nto verify my winnings via YouTube page below.\r\n\r\nWATCH ME HERE: https://www.youtube.com/watch?v=7kWnqvJM1mM\r\n\r\nTHIS IS YOUR DONATION CODE: FE207162\r\n\r\nReply with the DONATION CODE to this email: mrsmaviswac010@gmail.com\r\n\r\nHope to make you and your family happy.\r\n\r\nRegards,\r\nMrs. Mavis L. Wanczyk.\r\n",
+            "content_type": "text/plain",
+            "hash": "97462492469dff2f79cb4ae5378996569f72b6341c127a5c03a8e8d217ca7ea9"
+        }
+    ],
+    "header": {
+        "subject": "THIS IS YOUR DONATION CODE: FE207162",
+        "from": "info@aeeec.com",
+        "to": [],
+        "date": "2021-06-09T18:02:23+05:30",
+        "received_email": [
+            "info@aeeec.com"
+        ],
+        "received_domain": [
+            "wordpress01.hostingraja.org"
+        ],
+        "received_ip": [
+            "103.93.17.74"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

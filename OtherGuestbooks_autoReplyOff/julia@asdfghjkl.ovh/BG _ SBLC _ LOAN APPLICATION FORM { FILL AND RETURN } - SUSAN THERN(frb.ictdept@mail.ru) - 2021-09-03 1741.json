@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "email": [
+                "julia@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.9600.19699\"></HEAD>\r\n<BODY style=\"MARGIN: 0.5em\">\r\n<P>TO: julia@asdfghjkl.ovh <BR><BR>LOAN APPLICATION FORM FILL AND RETURN.</P>\r\n<P>*First name:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. . ..<BR>*Last name:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. . &#8230;<BR>*Age:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.<BR>*Sex&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.<BR>*Address:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230; &#8230;&#8230;&#8230;..<BR>\r\n*State:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.. &#8230;&#8230;&#8230;..<BR>*Country:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230; &#8230;&#8230;&#8230;..<BR>*Business name(If Any):&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.<BR>*Loan Amount needed:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.<BR>*Purpose of loan:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.<BR>*Loan Duration:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.. &#8230;&#8230;&#8230;..<BR>\r\n*Date of birth (yyyy-mm-dd):&#8230;&#8230;&#8230;&#8230;..<BR>*Gender:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. &#8230;&#8230;&#8230;..<BR>*Marital status:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.. ..<BR>*Next Of Kin:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.. ..<BR>*Monthly Income:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.. ..<BR>*Phone:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.. . . &#8230;&#8230;.<BR>\r\n* Fax:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. . . &#8230;&#8230;.<BR>*postal code:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.<BR>*Mobile/cellular:&#8230;&#8230;&#8230;&#8230;.. . &#8230;&#8230;..<BR>*Internet at home&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.<BR>*E-mail:&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. &#8230;&#8230;&#8230;..<BR>*Have you apply for a loan before&#8230;<BR>*How do you hear about us&#8230;..<BR>\r\n*Do you have online banking&#8230;.<BR>*E_mail Address&#8230;<BR>*Next Of Kin&#8230;..</P>\r\n<P>In acknowledgment of these details, We shall send you our terms along with repayment schedule and If you agree to the terms and conditions ,you stand to get your loan within 24hours. This depends on your seriousness and urgency in obtaining the loan.</P>\r\n<P><BR>Yours Sincerely</P>\r\n<P>Susan Thern<BR>Financial Assets UK<BR>3 Belsize Place Belsize Place, <BR>London, Nw3 5algoodluck1</P></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "19c37de72562ab3fcdb335dca480e63db5dba70b538b4af0fe57fdaef851ba35"
+        }
+    ],
+    "header": {
+        "subject": "BG / SBLC / LOAN APPLICATION FORM { FILL AND RETURN }",
+        "from": "frb.ictdept@mail.ru",
+        "to": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-03T18:41:52+03:00",
+        "received_domain": [
+            "mail.ru"
+        ],
+        "received_ip": [
+            "46.183.220.62"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

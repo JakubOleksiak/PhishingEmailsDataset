@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "000.000.00",
+                "outbreak.contact"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nYou have won a prize money of \u00a34 000.000.00 (Four Million Pounds) for \r\nthe 2020 Edition UK Lottery Compensation for Corona Virus \r\nOutbreak.Contact me for more information.\r\n\r\nMr. Jack Jordan\r\nClaims Manager\r\nTel: +44 704 573 6923\r\n",
+            "content_type": "text/plain",
+            "hash": "682556ee4b45b8b69f1f426fac89ae1a9eb901a8fb8369c2546f9e488c0dcb02"
+        }
+    ],
+    "header": {
+        "subject": "You have won",
+        "from": "puvr@m-real.net",
+        "to": [],
+        "date": "2021-03-15T14:06:23+01:00",
+        "received_email": [
+            "puvr@m-real.net"
+        ],
+        "received_domain": [
+            "mail.m-real.net",
+            "webmail.m-real.net"
+        ],
+        "received_ip": [
+            "77.76.140.5",
+            "77.76.140.200"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

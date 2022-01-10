@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "email": [
+                "mryusuf.mahmud@secretary.net"
+            ],
+            "domain": [
+                "secretary.net"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear Good Friend,\r\n\r\n         RE: SINCERE COMPENSATION/GRATIFICATION OF USD $ 2.820,000.00\r\n\r\nYou might find it so difficult to remember me. Though, it is indeed a very long time. I am much delighted and privileged to contact you again after couple of years now. It takes fate, courage and God fears to remember old friends and at the same time to show gratification to them, despite circumstances that made things not worked out as we plan.\r\n\r\nI, take this liberty to inform you that the transaction we were pursing together finally worked out by God's infinite mercy and I decided to contact you just to let you know I have conscience as a human being, due to your tremendous effort and contribution to make things work out in retrospect.\r\n\r\nMeanwhile, I must inform you that, I am presently in Canada for numerous business negotiations and establishment. I just arrived yesterday night.\r\n\r\nNow, with my sincere heart, I have raised and signed an International Cashier's Bank Draft, to the tune of USD $ 2.820,000.00 ( TWO MILLION EIGHT HUNDRED AND TWENTY THOUSAND UNITED STATES DOLLARS) only in your name as COMPENSATION to your dedication and effort, though things did not work out for you.\r\n\r\nPlease, contact my Personal Assistant Mr. Yusuf Mahmud (PA) via E-mail: ( mryusuf.mahmud@secretary.net ) you are to forward to him, the following:\r\n\r\n1. FULL NAME :\r\n2. PHONE AND FAX NUMBER :\r\n3. ADDRESS FOR DELIVERY :\r\n4. YOUR AGE AND CURRENT OCCUPATION :\r\n\r\nHe, will advise you further about the shipment of the ICBD to you.\r\n\r\nDo contact him immediately because the ICBD has only validity period of 18 banking days.\r\n\r\nSo, your early response to that effect will be appreciated so that he can dispatch the international bank draft to you accordingly.\r\n\r\nYours Sincerely\r\nDr. Zehra Asya.\r\n",
+            "content_type": "text/plain",
+            "hash": "85cc4e0ba635581c3fbab388a369641b7778b46db429481adcd0f3a60cc6d899",
+            "boundary": "_000_DB6PR01MB38145A65624AB13EDC7410C29C6C9DB6PR01MB3814eurp_"
+        }
+    ],
+    "header": {
+        "subject": "SINCERE COMPENSATION/GRATIFICATION",
+        "from": "zehra.asya00@outlook.com",
+        "to": [],
+        "date": "2021-03-15T09:53:03+00:00",
+        "received_domain": [
+            "eur06-am7-obe.outbound.protection.outlook.com",
+            "db8eur06ht197.eop-eur06.prod.protection.outlook.com",
+            "db6pr01mb3814.eurprd01.prod.exchangelabs.com",
+            "db8eur06ft045.mail.protection.outlook.com",
+            "db8eur06ft045.eop-eur06.prod.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:fc35::256",
+            "2a01:111:e400:fc35::146",
+            "2a01:111:e400:fc35::46",
+            "40.92.16.63",
+            "2a01:111:e400:fc35::4f"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

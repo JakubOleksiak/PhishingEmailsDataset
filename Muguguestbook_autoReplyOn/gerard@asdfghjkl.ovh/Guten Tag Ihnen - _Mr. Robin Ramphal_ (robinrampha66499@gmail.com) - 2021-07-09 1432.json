@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Guten Tag Ihnen\r\n\r\nHallo, mein Name ist Robin Ramphal, Wirtschaftspr\u00fcfer bei der Standard\r\nChartered Bank, Basinghall Ave, London, Vereinigtes K\u00f6nigreich. Ihre\r\nInformationen habe ich unter anderem bei der Suche nach einem ausl\u00e4ndischen\r\nPartner erhalten. Ich bitte um Verzeihung, wenn mein Ansatz so beleidigend\r\nist, dass ich nie beabsichtigt habe, auf diese Weise in Ihre Privatsph\u00e4re\r\neinzudringen, und ich glaube auch, dass dies der beste und sicherste Weg\r\nist, Ihnen meine Botschaft zu \u00fcbermitteln. Ich habe Ihnen diesen Vorschlag\r\nschon einmal geschickt. Ich hoffe, Sie erreichen dies bei guter Gesundheit.\r\n\r\nAls Wirtschaftspr\u00fcfer der Bank habe ich Zugriff auf viele Dokumente,\r\nw\u00e4hrend ich einige der vertraulichen Akten der Bank handhabe. Im\r\nletztj\u00e4hrigen Jahresbericht 2019 habe ich festgestellt, dass mein B\u00fcro, in\r\ndem ich als Wirtschaftspr\u00fcfer arbeite, Einlagen in H\u00f6he von USD (4,5\r\nMillionen US-Dollar) hatte. Dieses Geld lege ich auf ein sogenanntes\r\nTreuhandkonto ohne Beg\u00fcnstigte.\r\n\r\nAls F\u00fchrungskraft dieser Bank kann ich mit diesem Geld nicht direkt in\r\nVerbindung gebracht werden. Mein Ziel bei der Kontaktaufnahme ist es, mir\r\nzu helfen, dieses Geld auf Ihr Bankkonto zu \u00fcberweisen und 40% des\r\nGesamtbetrags als Provision zu erhalten. Es gibt praktisch keine Risiken,\r\nes handelt sich um eine Bank-zu-Bank-\u00dcberweisung und ich brauche von Ihnen\r\nals Erstzahler des Geldes, das die Einzahlung in meiner Filiale get\u00e4tigt\r\nhat, nur eine Forderung an meine Zentrale Die Bestellung kann gesendet\r\nwerden per \u00dcberweisung auf Ihr angegebenes Bankkonto.\r\n\r\nSenden Sie unten Ihre Kontaktdaten, damit ich Ihnen relevantere\r\nInformationen zur Verf\u00fcgung stellen kann, die Ihnen helfen, die Transaktion\r\nzu verstehen.\r\n\r\nVollst\u00e4ndiger Name...\r\nTelefonnummer ...\r\n\r\nVielen Dank im Voraus und m\u00f6ge Gott Sie und Ihre Familie segnen\r\nMit freundlichen Gr\u00fc\u00dfen\r\nHerr Robin Ramphal\r\n",
+            "content_type": "text/plain",
+            "hash": "44d336762825d6147eaf372e61efa08480e74fd1eb34d798ce92b83b15bd386e",
+            "boundary": "00000000000086ef9305c6aff78e"
+        }
+    ],
+    "header": {
+        "subject": "Guten Tag Ihnen",
+        "from": "robinrampha66499@gmail.com",
+        "to": [],
+        "date": "2021-07-09T05:32:26-07:00",
+        "received_domain": [
+            "mail-pl1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.214.196"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "German"
+    }
+}

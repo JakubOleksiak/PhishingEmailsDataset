@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "johnny@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Thank you for getting back to you.\r\nPlease state your full name so i can make sure i do not divulge\r\nimportant information to the wrong person.\r\n\r\nOn 14/08/2021, johnny@asdfghjkl.ovh <johnny@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> John\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "c1255d0ae3ebd4e1441359fa03425bc0469d35834d3a7d3bebcd55a387140c4e"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "seifeldinabdelkareem256@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T18:22:21+04:00",
+        "received_domain": [
+            "mail-ed1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.51",
+            "2002:a17:906:5248::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

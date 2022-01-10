@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://click.mlsend2.com/link/c/YT0xNzUzODE4OTk4MTMyMTg1MTYzJmM9ZjdnMSZlPTAmYj02ODk4MDEzODkmZD1tMno1dzZ1.Zjnw5IouDJXM9jeyJ2Y2PVOC58K3xNKk7PdUK_FEY1I",
+                "https://click.mlsend2.com/link/c/YT0xNzUzODE4OTk4MTMyMTg1MTYzJmM9ZjdnMSZlPTAmYj02ODk4MDEzODAmZD16MnUwYzB5.cr10e04LX0eNVmv_LnSttah6Hld5rvO-Qcd1H_LQmlk"
+            ],
+            "domain": [
+                "click.mlsend2.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\n\r\nYou have received a newsletter from Wayel.\r\n\r\nHowever, your email software can't display HTML emails. You can view the newsletter by clicking here:\r\n\r\nhttps://click.mlsend2.com/link/c/YT0xNzUzODE4OTk4MTMyMTg1MTYzJmM9ZjdnMSZlPTAmYj02ODk4MDEzODAmZD16MnUwYzB5.cr10e04LX0eNVmv_LnSttah6Hld5rvO-Qcd1H_LQmlk\r\n\r\n\r\n\r\nYou're receiving this newsletter because you have shown interest in Wayel.\r\nNot interested anymore? Click here to unsubscribe:\r\nhttps://click.mlsend2.com/link/c/YT0xNzUzODE4OTk4MTMyMTg1MTYzJmM9ZjdnMSZlPTAmYj02ODk4MDEzODkmZD1tMno1dzZ1.Zjnw5IouDJXM9jeyJ2Y2PVOC58K3xNKk7PdUK_FEY1I\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "22674bfb747266fc9e06ee2e5e18b99b98089525934d8c340b9c9b3ccd70f44b",
+            "boundary": "b1_bb2d4c05fccc25b22a7317e0bb2c64db"
+        }
+    ],
+    "header": {
+        "subject": "\u26a1 Rapid Breakout Commissions?",
+        "from": "wayel@360onlinemoney.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T21:25:16+03:00",
+        "received_domain": [
+            "mail224.on.mlsend2.com"
+        ],
+        "received_ip": [
+            "185.249.220.224"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Hello Consumer,*\r\n\r\n\r\n\r\nYour yearly membership for NORTON 360 has been successfully renewed &\r\nrestored.\r\n\r\n\r\n\r\nThe paid sum will be reflected within next 24 to 48 hours on you\u2019re a/c\r\nrecord.\r\n\r\n\r\n\r\nPRODUCT DESCRIPTION\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nInvoice Unit No               :       TXZQWFRPZT2021\r\n\r\n\r\n\r\n Product Name                :       NORTON 360\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nStart Date                        :       15th September 2021\r\n\r\n\r\n\r\nEnd Date                          :       1 year from the date of purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nAmount                            :       $256.07USD\r\n\r\n\r\n\r\nMethod Of Payment       :       AUTO REPAY\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to contact our\r\nbilling department as soon as possible. *\r\n\r\n\r\n\r\nYou can Reach us on   *+1   \u2013    (888)   \u2013    (683)   \u2013    (1189)*\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "26d35af021e5467b7e55666f544c52a2a9e74af81b85e6ffdad2673efcb32571",
+            "boundary": "0000000000003d73b905cc08ab5c"
+        }
+    ],
+    "header": {
+        "subject": "BILL TXZQWFRPZT2021*",
+        "from": "freyathovtuc@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-15T18:57:57+05:30",
+        "received_domain": [
+            "mail-pf1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.177"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

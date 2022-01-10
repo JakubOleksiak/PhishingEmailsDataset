@@ -1,0 +1,231 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 3918,
+            "hash": {
+                "md5": "f906d7546ff5571854df337ff1c1a96e",
+                "sha1": "548303a8475ff09155d6d07618a3de0545a035d7",
+                "sha256": "07c99133a88b06330e49af076d79b6e6e7d8c220d3e76195dbb41ef25efc889c",
+                "sha512": "72b37147ac9b2adeae2b7110be0ab9b8d8bb7ca1b343ce64a506c46f366bbbbd2ac0e548f82fdce207742e3959103157e999b5f2290c76699aed6f65d1b43bf3"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "uri": [
+                "https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470]",
+                "https://go.microsoft.com/fwlink/?LinkId=525921",
+                "https://go.microsoft.com/fwlink/?LinkId=532972"
+            ],
+            "email": [
+                "ericbarnes999191@wb.com",
+                "gerard@asdfghjkl.ovh",
+                "smtp.mailfrom=gerard@asdfghjkl.ovh",
+                "d3adcbba-ad86-463a-ab77-d69fda269b88@desktop-9avsair",
+                "s999191@wb.com"
+            ],
+            "domain": [
+                "products.office.com",
+                "wb.com",
+                "go.microsoft.com",
+                "asdfghjkl.ovh",
+                "ph0pr02mb7432.namprd02.prod.outlook.com",
+                "mx0b-00241e02.pphosted.com",
+                "pps.filterd",
+                "dm6nam04ft055.mail.protection.outlook.com",
+                "dm6pr13ca0010.outlook.office365.com",
+                "dm6pr13ca0010.namprd13.prod.outlook.com",
+                "dm6nam04ft055.eop-nam04.prod.protection.outlook.com",
+                "15.20.4287.13",
+                "205.220.172.51",
+                "10.13.158.102",
+                "15.20.4264.18",
+                "m0182913.ppops.net",
+                "host-185-25-217-220.jmdi.pl",
+                "8.12.0-2104190000"
+            ],
+            "ip": [
+                "2603:10b6:5:bc::2",
+                "2603:10b6:510:1b::20",
+                "2603:10b6:5:bc:cafe::22",
+                "2603:10b6:5:bc::23",
+                "205.220.172.51",
+                "8.16.0.43",
+                "185.25.217.220"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470]\r\nYour message to ericbarnes999191@wb.com couldn't be delivered.\r\nericbarnes999191 wasn't found at wb.com.\r\ngerard  Office 365      ericbarnes999191\r\nAction Required                 Recipient\r\nUnknown To address\r\n\r\nHow to Fix It\r\nThe address may be misspelled or may not exist. Try one or more of the following:\r\n\r\n  *   Send the message again following these steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web, select this NDR, then select the link \"To send this message again, click here.\" Then delete and retype the entire recipient address. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send.\r\n  *   Contact the recipient (by phone, for example) to check that the address exists and is correct.\r\n  *   The recipient may have set up email forwarding to an incorrect address. Ask them to check that any forwarding they've set up is working correctly.\r\n  *   Clear the recipient Auto-Complete List in Outlook or Outlook on the web by following the steps in this article: Fix email delivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=532972>, and then send the message again. Retype the entire recipient address before selecting Send.\r\n\r\nIf the problem continues, forward this message to your email admin. If you're an email admin, refer to the More Info for Email Admins section below.\r\n\r\nWas this helpful? Send feedback to Microsoft<https://go.microsoft.com/fwlink/?LinkId=525921>.\r\n________________________________\r\n\r\nMore Info for Email Admins\r\nStatus code: 550 5.1.10\r\n\r\nThis error occurs because the sender sent a message to an email address hosted by Office 365 but the address is incorrect or doesn't exist at the destination domain. The error is reported by the recipient domain's email server, but most often it must be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:\r\n\r\nThe email address exists and is correct - Confirm that the recipient address exists, is correct, and is accepting messages.\r\n\r\nSynchronize your directories - If you have a hybrid environment and are using directory synchronization make sure the recipient's email address is synced correctly in both Office 365 and in your on-premises directory.\r\n\r\nErrant forwarding rule - Check for forwarding rules that aren't behaving as expected. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Inbox Rules feature.\r\n\r\nRecipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license (Users > Active Users > select the recipient > Assigned License > Edit).\r\n\r\nMail flow settings and MX records are not correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are configured correctly.\r\n\r\nFor more information and additional tips to fix this issue, see Fix email delivery issues for error code 5.1.10 in Office 365<https://go.microsoft.com/fwlink/?LinkId=532972>.\r\n\r\nOriginal Message Details\r\nCreated Date:   6/26/2021 2:36:02 PM\r\nSender Address: gerard@asdfghjkl.ovh\r\nRecipient Address:      ericbarnes999191@wb.com\r\nSubject:        How can i help with this?\r\n\r\nError Details\r\nReported error: 550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient ericbarnes999191@wb.com not found by SMTP address lookup\r\nDSN generated by:       PH0PR02MB7432.namprd02.prod.outlook.com\r\n\r\nMessage Hops\r\nHOP     TIME (UTC)      FROM    TO      WITH    RELAY TIME\r\n1       6/26/2021\r\n2:36:05 PM      desktop-9avsair mx0b-00241e02.pphosted.com      ESMTP   3 sec\r\n2       6/26/2021\r\n2:36:05 PM      pps.filterd     mx0b-00241e02.pphosted.com      SMTP    *\r\n3       6/26/2021\r\n2:36:06 PM      mx0b-00241e02.pphosted.com      DM6NAM04FT055.mail.protection.outlook.com       Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    1 sec\r\n4       6/26/2021\r\n2:36:07 PM      DM6NAM04FT055.eop-NAM04.prod.protection.outlook.com     DM6PR13CA0010.outlook.office365.com     Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    1 sec\r\n5       6/26/2021\r\n2:36:07 PM      DM6PR13CA0010.namprd13.prod.outlook.com PH0PR02MB7432.namprd02.prod.outlook.com Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)    *\r\n\r\nOriginal Message Headers\r\n\r\nReceived: from DM6PR13CA0010.namprd13.prod.outlook.com (2603:10b6:5:bc::23) by\r\n PH0PR02MB7432.namprd02.prod.outlook.com (2603:10b6:510:1b::20) with Microsoft\r\n SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id\r\n 15.20.4264.20; Sat, 26 Jun 2021 14:36:07 +0000\r\nReceived: from DM6NAM04FT055.eop-NAM04.prod.protection.outlook.com\r\n (2603:10b6:5:bc:cafe::22) by DM6PR13CA0010.outlook.office365.com\r\n (2603:10b6:5:bc::23) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4287.13 via Frontend\r\n Transport; Sat, 26 Jun 2021 14:36:07 +0000\r\nAuthentication-Results: spf=temperror (sender IP is 205.220.172.51)\r\n smtp.mailfrom=asdfghjkl.ovh; wb.com; dkim=none (message not signed)\r\n header.d=none;wb.com; dmarc=none action=none header.from=asdfghjkl.ovh;\r\nReceived-SPF: TempError (protection.outlook.com: error in processing during\r\n lookup of asdfghjkl.ovh: DNS Timeout)\r\nReceived: from mx0b-00241e02.pphosted.com (205.220.172.51) by\r\n DM6NAM04FT055.mail.protection.outlook.com (10.13.158.102) with Microsoft SMTP\r\n Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id\r\n 15.20.4264.18 via Frontend Transport; Sat, 26 Jun 2021 14:36:06 +0000\r\nReceived: from pps.filterd (m0182913.ppops.net [127.0.0.1])\r\n        by mx0b-00241e02.pphosted.com (8.16.0.43/8.16.0.43) with SMTP id 15QEVUeK030000\r\n        for <ericbarnes999191@wb.com>; Sat, 26 Jun 2021 14:36:05 GMT\r\nAuthentication-Results-Original: ppops.net;     spf=none\r\n smtp.mailfrom=gerard@asdfghjkl.ovh;    dmarc=none\r\nReceived: from desktop-9avsair (host-185-25-217-220.jmdi.pl [185.25.217.220])\r\n        by mx0b-00241e02.pphosted.com with ESMTP id 39dvm63bjh-1\r\n        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128 verify=NOT)\r\n        for <ericbarnes999191@wb.com>; Sat, 26 Jun 2021 14:36:05 +0000\r\nContent-Type: text/plain; charset=\"utf-8\"\r\nMIME-Version: 1.0\r\nMessage-ID: <D3ADCBBA-AD86-463A-AB77-D69FDA269B88@DESKTOP-9AVSAIR>\r\nDate: Sat, 26 Jun 2021 16:36:02 +0200\r\nFrom: gerard@asdfghjkl.ovh\r\nTo: ericbarnes999191@wb.com\r\nSubject: How can i help with this?\r\nContent-Transfer-Encoding: quoted-printable\r\nAuto-Submitted: auto-replied\r\nX-hMailServer-LoopCount: 1\r\nX-Proofpoint-ORIG-GUID: Mv1WeovuEXXbYDEK4lfh_xS7qIYgHp0G\r\nX-CLX-Response: 1TFkXBx0ZEQpZRBdrE1kBH2BDR11iRBEKWFgXZGJnHRt9QBh8aHgRCnhOF24 dEh1BW0weTxlZEQp5TBdvRk9EXH9yRnkTQhEKQ0gXGBgRCkNZFwcbGBEKQ0kXGgQaGhoRCllNF2 dmchEKWUkXGHEbBhl3BgcfHwYaBhoGBxsaBhpxGhAadwYaBhoGGgYHGxoGGgYacRoQGncGGhEKW\r\n V4XaGN5EQpJRhdeQ0dPXUtYRE9YSUVYWkVYS15PdRh1QkVZXk9OEQpDThdnXBt9T0VcX29yckhz bm9hHkZMQnVSeR1bY3NNYloabREKWFwXHwQaBBgZGAUbGgQbGxoEHxoEGx4bEBseGh8aEQpeWRd zbmQFXREKTVwXBxgbEQpMWhd4aUNraxEKRVkXTWsRCkxfF3oFBQUFBQUFBQUYEQpNThdvEQpMRh\r\n dja2trEQpCTxdoZ2BLZXpDWBtSHBEKQ1oXGxIfBBgfBBgbHQQYGBoRCkJFF2RiZx0bfUAYfGh4E QpCThduHRIdQVtMHk8ZWREKQkwXZGJnHRt9QBh8aHgRCkJsF2RiZx0bfUAYfGh4EQpCQBdofUle e34aR1xaaBEKQlgXZ29kWF5NHkNpWGwRCk1eFwcbEQp5QxdhRU9teBlkGE5ETxEKcGgXY0MYa2d\r\n +WFhnWE4QBxkaEQptfhcHGxEKWE0XSxEg\r\nX-CLX-Shades: MLX\r\nX-Proofpoint-GUID: Mv1WeovuEXXbYDEK4lfh_xS7qIYgHp0G\r\nX-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.391,18.0.790\r\n definitions=2021-06-26_08:2021-06-25,2021-06-26 signatures=0\r\nX-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=2 priorityscore=1501\r\n suspectscore=0 spamscore=2 clxscore=-73 lowpriorityscore=0 phishscore=0\r\n impostorscore=0 bulkscore=0 mlxscore=2 mlxlogscore=167 malwarescore=0\r\n adultscore=0 classifier=spam adjust=0 reason=mlx scancount=1\r\n engine=8.12.0-2104190000 definitions=main-2106260100\r\nReturn-Path: gerard@asdfghjkl.ovh\r\nX-EOPAttributedMessage: 0\r\nX-EOPTenantAttributedMessage: 268aeb03-c10a-48f7-b2c6-5dd950fe8c5c:0\r\nX-Matching-Connectors: 132691917661926824;();(98c2e86a-325a-4b92-63d0-08d92b80afc4)\r\nX-MS-PublicTrafficType: Email\r\nX-MS-Office365-Filtering-Correlation-Id: 5eeca2cd-5878-45d0-36ed-08d938afbb42\r\nX-MS-TrafficTypeDiagnostic: PH0PR02MB7432:\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c059fbbadf0875ebd7fac9fa9e0cf8d3bde80b6e3cd66791166f53cc7f3f45e6",
+            "boundary": "75672adf-a561-4ad0-97b8-d60543cdbd07"
+        },
+        {
+            "content_header": {
+                "reporting-mta": [
+                    "dns;PH0PR02MB7432.namprd02.prod.outlook.com"
+                ],
+                "received-from-mta": [
+                    "dns;mx0b-00241e02.pphosted.com"
+                ],
+                "arrival-date": [
+                    "Sat, 26 Jun 2021 14:36:07 +0000"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822;ericbarnes999191@wb.com"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.1.10"
+                ],
+                "diagnostic-code": [
+                    "smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient ericbarnes999191@wb.com not found by SMTP address lookup"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {},
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "received": [
+                    "from DM6PR13CA0010.namprd13.prod.outlook.com (2603:10b6:5:bc::23) by PH0PR02MB7432.namprd02.prod.outlook.com (2603:10b6:510:1b::20) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.20; Sat, 26 Jun 2021 14:36:07 +0000",
+                    "from DM6NAM04FT055.eop-NAM04.prod.protection.outlook.com (2603:10b6:5:bc:cafe::22) by DM6PR13CA0010.outlook.office365.com (2603:10b6:5:bc::23) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4287.13 via Frontend Transport; Sat, 26 Jun 2021 14:36:07 +0000",
+                    "from mx0b-00241e02.pphosted.com (205.220.172.51) by DM6NAM04FT055.mail.protection.outlook.com (10.13.158.102) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.18 via Frontend Transport; Sat, 26 Jun 2021 14:36:06 +0000",
+                    "from pps.filterd (m0182913.ppops.net [127.0.0.1])\tby mx0b-00241e02.pphosted.com (8.16.0.43/8.16.0.43) with SMTP id 15QEVUeK030000\tfor <ericbarnes999191@wb.com>; Sat, 26 Jun 2021 14:36:05 GMT",
+                    "from desktop-9avsair (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby mx0b-00241e02.pphosted.com with ESMTP id 39dvm63bjh-1\t(version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128 verify=NOT)\tfor <ericbarnes999191@wb.com>; Sat, 26 Jun 2021 14:36:05 +0000"
+                ],
+                "authentication-results": [
+                    "spf=temperror (sender IP is 205.220.172.51) smtp.mailfrom=asdfghjkl.ovh; wb.com; dkim=none (message not signed) header.d=none;wb.com; dmarc=none action=none header.from=asdfghjkl.ovh;"
+                ],
+                "received-spf": [
+                    "TempError (protection.outlook.com: error in processing during lookup of asdfghjkl.ovh: DNS Timeout)"
+                ],
+                "authentication-results-original": [
+                    "ppops.net;\tspf=none smtp.mailfrom=gerard@asdfghjkl.ovh;\tdmarc=none"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<D3ADCBBA-AD86-463A-AB77-D69FDA269B88@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Sat, 26 Jun 2021 16:36:02 +0200"
+                ],
+                "from": [
+                    "gerard@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "ericbarnes999191@wb.com"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ],
+                "x-proofpoint-orig-guid": [
+                    "Mv1WeovuEXXbYDEK4lfh_xS7qIYgHp0G"
+                ],
+                "x-clx-response": [
+                    "1TFkXBx0ZEQpZRBdrE1kBH2BDR11iRBEKWFgXZGJnHRt9QBh8aHgRCnhOF24 dEh1BW0weTxlZEQp5TBdvRk9EXH9yRnkTQhEKQ0gXGBgRCkNZFwcbGBEKQ0kXGgQaGhoRCllNF2 dmchEKWUkXGHEbBhl3BgcfHwYaBhoGBxsaBhpxGhAadwYaBhoGGgYHGxoGGgYacRoQGncGGhEKW V4XaGN5EQpJRhdeQ0dPXUtYRE9YSUVYWkVYS15PdRh1QkVZXk9OEQpDThdnXBt9T0VcX29yckhz bm9hHkZMQnVSeR1bY3NNYloabREKWFwXHwQaBBgZGAUbGgQbGxoEHxoEGx4bEBseGh8aEQpeWRd zbmQFXREKTVwXBxgbEQpMWhd4aUNraxEKRVkXTWsRCkxfF3oFBQUFBQUFBQUYEQpNThdvEQpMRh dja2trEQpCTxdoZ2BLZXpDWBtSHBEKQ1oXGxIfBBgfBBgbHQQYGBoRCkJFF2RiZx0bfUAYfGh4E QpCThduHRIdQVtMHk8ZWREKQkwXZGJnHRt9QBh8aHgRCkJsF2RiZx0bfUAYfGh4EQpCQBdofUle e34aR1xaaBEKQlgXZ29kWF5NHkNpWGwRCk1eFwcbEQp5QxdhRU9teBlkGE5ETxEKcGgXY0MYa2d +WFhnWE4QBxkaEQptfhcHGxEKWE0XSxEg"
+                ],
+                "x-clx-shades": [
+                    "MLX"
+                ],
+                "x-proofpoint-guid": [
+                    "Mv1WeovuEXXbYDEK4lfh_xS7qIYgHp0G"
+                ],
+                "x-proofpoint-virus-version": [
+                    "vendor=fsecure engine=2.50.10434:6.0.391,18.0.790 definitions=2021-06-26_08:2021-06-25,2021-06-26 signatures=0"
+                ],
+                "x-proofpoint-spam-details": [
+                    "rule=outbound_notspam policy=outbound score=2 priorityscore=1501 suspectscore=0 spamscore=2 clxscore=-73 lowpriorityscore=0 phishscore=0 impostorscore=0 bulkscore=0 mlxscore=2 mlxlogscore=167 malwarescore=0 adultscore=0 classifier=spam adjust=0 reason=mlx scancount=1 engine=8.12.0-2104190000 definitions=main-2106260100"
+                ],
+                "return-path": [
+                    "gerard@asdfghjkl.ovh"
+                ],
+                "x-eopattributedmessage": [
+                    "0"
+                ],
+                "x-eoptenantattributedmessage": [
+                    "268aeb03-c10a-48f7-b2c6-5dd950fe8c5c:0"
+                ],
+                "x-matching-connectors": [
+                    "132691917661926824;();(98c2e86a-325a-4b92-63d0-08d92b80afc4)"
+                ],
+                "x-ms-publictraffictype": [
+                    "Email"
+                ],
+                "x-ms-office365-filtering-correlation-id": [
+                    "5eeca2cd-5878-45d0-36ed-08d938afbb42"
+                ],
+                "x-ms-traffictypediagnostic": [
+                    "PH0PR02MB7432:"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nGerard\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "396995f246304bdc86acb9cedee549811902da984e09b206ddf33cc632644d9f"
+        }
+    ],
+    "header": {
+        "subject": "Undeliverable: How can i help with this?",
+        "from": "postmaster@warnerbros.onmicrosoft.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-26T14:36:07+00:00",
+        "received_domain": [
+            "mx0a-00241e03.pphosted.com",
+            "pps.filterd",
+            "nam12-mw2-obe.outbound.protection.outlook.com",
+            "mx0a-00241e02.pphosted.com"
+        ],
+        "received_ip": [
+            "8.16.0.43",
+            "205.220.160.51",
+            "205.220.162.91",
+            "104.47.66.48"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

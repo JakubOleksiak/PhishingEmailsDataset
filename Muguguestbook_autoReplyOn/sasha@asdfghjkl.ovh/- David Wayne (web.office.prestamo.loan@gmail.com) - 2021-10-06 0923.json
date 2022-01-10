@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nLoan Offer!! Do you need a loan? if yes, reply for more\r\ninformation....... We offer private, commercial and personal loans at\r\ninterest rates as low as 3%. We give out loans ranging from $ 2000 to\r\n$ 100 million.\r\n\r\nIf you are in need of a loan, you are hereby advised to contact the\r\ngenuine, trusted and efficient loan lending firm for your efficient\r\nloan. We are well recognized by both individuals and the government\r\nfor our great efficiency.\r\n\r\nSERVICES RENDERED INCLUDE:\r\n*Business Loans\r\n*Personal Loans\r\n*Debt Consolidation\r\n*House Loans\r\n*International Loans\r\n*Etc....\r\n========================\r\nAPPLICATION INFORMATION\r\nName:\r\nAmount:\r\nDuration:\r\nCountry:\r\nPhone Number:\r\n---------------------\r\nwe offer loan at low interest rate of 3%\r\ncontact us today if you are interesting in receive the loan\r\n",
+            "content_type": "text/plain",
+            "hash": "ab57d48938bd056d668913ff251beaaef02d83e1cc73a8dfacf20557dcf82999"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "web.office.prestamo.loan@gmail.com",
+        "to": [],
+        "date": "2021-10-06T02:23:17-05:00",
+        "received_domain": [
+            "mail-io1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.66",
+            "2002:a05:6602:3c8::"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

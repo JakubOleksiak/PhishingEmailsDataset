@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "499.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Purchase Order*\r\n\r\n*NORTON LIFE-LOCKTM*\r\n\r\n*Date:July 16, 2021*\r\n\r\n*TEXAS, UNITED STATE*\r\n\r\n\r\n\r\n*Phone:+1(505)-(595)-(0395), Fax: 222-333-5588 DATE: 16 JULY 2021*\r\n\r\n*Customer ID: Cust-445587*\r\n\r\n*INVOICE: ZO-555999*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*DEAR CUSTOMER,*\r\n\r\n*Thanks for purchasing with us.*\r\n\r\n*Your subscription for NORTON total security has been renewed and updated.\r\nYou have been charged 499.00 USD for the subscription.*\r\n\r\n*You will get the activation key shortly.*\r\n\r\n*This product is valid for 2 years from the date of subscription.*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Item #*\r\n\r\n*Product Name/Description*\r\n\r\n*Qty*\r\n\r\n*Unit Price*\r\n\r\n*Total*\r\n\r\n*1.*\r\n\r\n*NORTON TOTAL SECURITY (64/32 BIT)*\r\n\r\n*1*\r\n\r\n*499.99USD*\r\n\r\n*499.99USD*\r\n\r\n\r\n\r\n*SUPPORT IN 5 DEVICES*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n* Notes & Description:*\r\n\r\n*ORDER CAN BE CANCELLED WITHIN 48 HOURS.*\r\n\r\n*Sub Total:*\r\n\r\n*499.99USD*\r\n\r\n*Grand Total:*\r\n\r\n*499.99USD*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Date*\r\n\r\n\r\n\r\n*Authorized Signature*\r\n\r\n*JULY 16, 2021*\r\n\r\n*NORTON LIFE-LOCK*\r\n\r\n\r\n\r\n\r\n\r\nIf you have any questions, concerns or queries regarding this PO, please\r\nfeel free to  call us on +I  (505)  (595)  (0395)[TOLL-FREE]\r\n\r\n\r\n\r\n\r\n\r\n*THANK YOU,*\r\n\r\n*NORTON LIFE-LOCK*\r\n\r\n*TEXAS, UNITED STATES*\r\n\r\n\r\n\r\n*Phone:111-222-333, Fax: 222-333-5588 *\r\n",
+            "content_type": "text/plain",
+            "hash": "7d4c92510ca7acebf3d3cb91dd6e15a7bef292ec9ffd6447c3ca816a69967652",
+            "boundary": "00000000000013837f05c752c327"
+        }
+    ],
+    "header": {
+        "subject": "Thanks for the purchase",
+        "from": "ximenahyareli@gmail.com",
+        "to": [],
+        "cc": [
+            "pk8870257@gmail.com"
+        ],
+        "date": "2021-07-16T23:29:00+05:30",
+        "received_domain": [
+            "mail-io1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.52"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

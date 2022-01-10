@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "domain": [
+                "kin.before",
+                "un.please",
+                "back.do"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello\r\n\r\nI am Miss AICHA EME, My father EME DANIEL was a gold miner . My father\r\nand mother died tragically because they were killed by colleagues and\r\nassociates working with my father because my father refused to show\r\nthem where he had deposited the sum of $US 6,000,000 dollars .\r\n\r\nMy late father used my name as his only child to deposit the fund as\r\nthe next of kin.Before his death my father had given me the necessary\r\ndocuments covering the deposit of the fund. The fund is deposited in a\r\nsecurity company in Ivory Coast .The company do not know the real\r\ncontents of the consignment as my late father told them that the\r\ncontents is family valuables for security reasons . Also I have the\r\nkey to the trunk box containg the fund as well as the documents .\r\n\r\nHaving been able to get in touch with the company after the events\r\nthat take place here in IVORY COAST the company now arranged and send\r\nthe consignment to one of their agency in Europe for strict security\r\nreasons.\r\n\r\nI send this message to solicit your help so you can help me to\r\nretrieve . I live in a refugee camp been taken care of by the\r\nUN.Please sir do try your best to listen to my supplication as an\r\norphan for God will reward you back.Do get nack to me as you get this\r\nmessage so that I can give you all the information and documents\r\nconcerning the consignment.I propose to offer you 15% of the total\r\namount and 5% for the expenses that you will incur in the recovery of\r\nthe fund.\r\n\r\nPlease consider this matter as strictly confidential .\r\n\r\nThanks and remain blessed.\r\n\r\nTruly Yours,\r\n\r\nMiss Aicha Eme\r\n",
+            "content_type": "text/plain",
+            "hash": "06ab44cc57e20972522b39ede64fb2caa26b445f46ad5e5af3d3345ae9ccc165"
+        }
+    ],
+    "header": {
+        "subject": "I have been waiting for your reply.",
+        "from": "aichaeme5@gmail.com",
+        "to": [],
+        "date": "2021-10-05T14:19:20+00:00",
+        "received_domain": [
+            "mail-yb1-f169.google.com"
+        ],
+        "received_ip": [
+            "2002:ac9:3e0a::",
+            "209.85.219.169"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

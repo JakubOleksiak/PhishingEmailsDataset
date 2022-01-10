@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\n\r\nI'm Ms. Mmamie Shimirah, I have business of $10.2m \r\nwhich is my inheritance from my late father. \r\nIf can you be able to handle it with me reply urgently \r\nfor more information \r\n",
+            "content_type": "text/plain",
+            "hash": "dd5edbe7ae67f1f106897847e98969706f159c3fa4d6dada80e6d5546e5e9316",
+            "boundary": "----=_Part_24811196_1721218435.1615320167628"
+        }
+    ],
+    "header": {
+        "subject": "cc",
+        "from": "vicky@jetband.com.ar",
+        "to": [],
+        "date": "2021-03-09T17:02:47-03:00",
+        "received_domain": [
+            "vzmta03.fibertel.com.ar",
+            "vzmbox06-fc.int.fibertel.com.ar",
+            "avas-mr21.fibertel.com.ar",
+            "vzmta03-fc.int.fibertel.com.ar"
+        ],
+        "received_ip": [
+            "201.212.7.86",
+            "24.232.0.140"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

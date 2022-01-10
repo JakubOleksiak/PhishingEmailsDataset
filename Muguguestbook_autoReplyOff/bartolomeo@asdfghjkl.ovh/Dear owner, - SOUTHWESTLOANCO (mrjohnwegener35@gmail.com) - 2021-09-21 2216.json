@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "southwestloanco59@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nGood day,\r\n          Do you need a loan ? We offer any kind of loan to repay in\r\n6months with just 2% interest\r\n\r\nKindly Reply with below information\r\n\r\nNAME...............\r\nADDRESS..........\r\nOCCUPATION....\r\nAGE...................\r\nPHONE..............\r\nAMOUNT NEEDED......\r\n\r\nRegards\r\n\r\nContact  Mr Gary Edward +13182955380\r\n\r\nRemittance Department southwestloanco59@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "eae060aa389de006b8daab6b7998865c688354a08f9f5e8f3d8c165037cc5cea"
+        }
+    ],
+    "header": {
+        "subject": "Dear owner,",
+        "from": "mrjohnwegener35@gmail.com",
+        "to": [],
+        "date": "2021-09-21T13:16:30-07:00",
+        "received_domain": [
+            "mail-lf1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.49",
+            "2002:a05:651c:883::"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

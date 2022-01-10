@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://bulkwebtraffic.io/"
+            ],
+            "domain": [
+                "bulkwebtraffic.io"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi there\r\nReceive local traffic to increase local audience and leads through your\r\nwebsite\r\n\r\nmore details and plans can be found here\r\nhttps://bulkwebtraffic.io/\r\n\r\n\r\nthanks and regards\r\nPeter Wallace\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "973734c88542212267d9c08e277023f304ede2184bb462c67b89952ec1fbe281"
+        }
+    ],
+    "header": {
+        "subject": "Cheap Country Targeted website traffic",
+        "from": "bakoesetgt@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-27T05:25:28+07:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "116.110.80.255"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

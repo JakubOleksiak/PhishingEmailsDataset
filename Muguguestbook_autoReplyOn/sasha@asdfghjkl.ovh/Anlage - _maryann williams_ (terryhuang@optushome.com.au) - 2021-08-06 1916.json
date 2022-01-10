@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\n\nLieber Herr,\n\nIch brauche deine Unterst\u00fctzung f\u00fcr den Umzug\nund investieren Sie in Ihr Land.\nIch bitte dich um Hilfe, weil ich\nkeine Ahnung vom Gesch\u00e4ft haben\nund die Regeln, die dich leiten\nLand f\u00fcr sicheres\nHelfen Sie mir mit Ehrlichkeit?\n\nBitte kontaktieren Sie mich f\u00fcr weitere Informationen!\n\nMit bestem Gru\u00df\nMaryann.\n\n-------------------------\nEmail sent using Optus Webmail\r\n",
+            "content_type": "text/plain",
+            "hash": "6e7971fa9a7f44e662151cd5ce2895989135cdd08753ea90d6f07aad6eee7c70",
+            "boundary": "=_d4ff83d33d777d9dc69099d133538f2f"
+        }
+    ],
+    "header": {
+        "subject": "Anlage",
+        "from": "terryhuang@optushome.com.au",
+        "to": [
+            "terryhuang@optushome.com.au"
+        ],
+        "date": "2021-08-07T03:16:11+10:00",
+        "received_email": [
+            "terryhuang@optushome.com.au"
+        ],
+        "received_domain": [
+            "mail106.syd.optusnet.com.au"
+        ],
+        "received_ip": [
+            "211.29.132.170",
+            "211.29.132.42"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "German"
+    }
+}

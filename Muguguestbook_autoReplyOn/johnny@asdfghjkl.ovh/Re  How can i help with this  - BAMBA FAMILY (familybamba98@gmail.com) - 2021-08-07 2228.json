@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "BANK OF AFRICA DEPOSIT CERT.jpg",
+            "size": 2457995,
+            "extension": "jpg",
+            "hash": {
+                "md5": "27d4f71f03f862ff1becef01b5d39ff6",
+                "sha1": "a3ac222dad51dd37dea1f15a10c533ea8983d953",
+                "sha256": "bb0df07e69b58118340c90b9791fe8953a177fd398969ca1f22e6ff9b42c5dbb",
+                "sha512": "b6d7b03482489aa78022828bdbfc88386469863042e798d5348fd4b6ccda51bad9b09c9dfea67b364a7f39286c2065b0622a54faeaab01572611f1eac66ce035"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"BANK OF AFRICA DEPOSIT CERT.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"BANK OF AFRICA DEPOSIT CERT.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "file0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear John\r\n\r\nHow are you and i hope all is well with you and your family first i\r\nwant to inform you that my fathers funds is been deposited in the bank\r\nof African Benin republic before his death and now the funds was\r\ndeposited in his names and i need you to help me put claims over the\r\nfunds as i have all the legal deposit documents from my dad ,\r\n\r\n\r\nbut my challenge is to finance my family  lawyer  who will help me\r\nprocess the needed funds release documents including the change of\r\nownership certificate from the high court which requires some amount\r\nof fees and i also want you to know that i need a partner who will\r\nsupport me in pay off the lawyer and the bank fees and i also promise\r\nto offer %30 of the total amount to any one who will help me in\r\nclaiming the funds ,\r\n\r\n\r\nand you must have a good account that can be able to receive my funds\r\nin safe conditions before my arrival in your country for an investment\r\nproject ,\r\n\r\n\r\nPlease if you are willing to help me please send to me your requested\r\ndetails as stated below\r\n\r\nYOUR(1) Full Name:============\r\nYOUR(2) Occupation:===========\r\nYOUR(3) Age:================\r\nYOUR(4) Telephone Number:===========\r\nYOUR(5) Address:==============\r\nYOUR(6) Country;============\r\nYOUR(7) Identity card;============\r\n\r\n\r\nImmediately i get your details i will send you the Bank details as\r\nwell for you to contact them on my behalf as i will be here given you\r\nall important info\r\n\r\n\r\ni  have attache to you a copy of the legal documents as a prof and i\r\nwill send you more details including my identity card  when i hear\r\nfrom you with your details as required ,\r\n\r\n\r\n\r\nMr Collins Bamba Issiaka\r\nMy Whatsapp Number\r\nMOBILE +229-53-27-64-83\r\n",
+            "content_type": "text/plain",
+            "hash": "e009f3d54210b916d32ecc3bd1bf28fd8066943abaa01dbd6e11bdc213c61690",
+            "boundary": "000000000000412f8a05c8fe007c"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "familybamba98@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-07T21:28:53+01:00",
+        "received_domain": [
+            "mail-oi1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.173",
+            "2002:ac9:278f::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

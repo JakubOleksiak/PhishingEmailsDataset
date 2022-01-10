@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\n\n\nDear Gerard,\n\n\nGood evening to you, the only way to help me is to contact bank.\n\n\n----- 06.08.2021, saat 19:47, gerard@asdfghjkl.ovh al\u0131nt\u0131s\u0131 ----- \nHello,\nhow can I help you with this?\n\n\nSincerely\nGerard\n\n\n--\n",
+            "content_type": "text/plain",
+            "hash": "ef37b1c305716a33ae09f7c3976a4f09b315bbacd09068e6aa9920e8fb77d0f4",
+            "boundary": "----=_20210809233458_67067"
+        }
+    ],
+    "header": {
+        "subject": "RE: How can i help with this?",
+        "from": "officer.director@mail.com.tr",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-09T23:34:58+04:00",
+        "received_domain": [
+            "mx2.mail.bg",
+            "mail.com.tr"
+        ],
+        "received_ip": [
+            "193.201.172.118"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

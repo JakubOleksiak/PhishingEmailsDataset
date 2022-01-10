@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir,\r\n\r\nWe work with Venture Capitalist, Angel Investors, Personal Investors and\r\nPeer to Peer Lenders whose investment fund were pooled together through\r\nHedge Fund Service for Project and Business finance purposes.\r\n\r\nIf you have any viable project that requires funding, we are ready and\r\nwilling to work on the project if it is technically sound, financially\r\nrewarding, economically feasible and commercially viable.\r\n\r\nOur office is open 9:00 am to 6:00 pm six days a week. We look forward to\r\nworking with you.\r\n\r\n\r\nThank you.\r\n\r\nWilliam James\r\nInternational Financial Advisor\r\nFinancial Freedom Sagl\r\nvia Lucino 3,\r\n6932 Breganzona,\r\nSwitzerland.\r\n",
+            "content_type": "text/plain",
+            "hash": "d632b00cd764bd08b4d3607e6769f8f05ecb66e0fff394f235e35898565c5b07",
+            "boundary": "00000000000046ae4b05ca6adcd0"
+        }
+    ],
+    "header": {
+        "subject": "Project Development Fund",
+        "from": "bergclaire37@gmail.com",
+        "to": [],
+        "date": "2021-08-26T00:44:47+01:00",
+        "received_domain": [
+            "mail-wr1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.41"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

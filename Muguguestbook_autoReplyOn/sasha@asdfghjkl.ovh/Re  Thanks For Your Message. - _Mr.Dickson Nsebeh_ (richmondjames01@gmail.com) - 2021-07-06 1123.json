@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.dickson"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir,\r\nGood day to you and your family.\r\n\r\nI am Mr.Dickson Nsebeh, a bank Assistant Manager, with due respect i\r\nwant to partner with you to invest the sum of ($7.2 Million Dollars)\r\nin your company because my retirement is approaching. PLEASE,  If you\r\nwill accept my request to invest this sum for the future of my\r\nchildren?, Please kindly get back to me for more details and how to\r\ntransfer this sum to your bank account within 7 to 9 days.\r\n\r\nYou percentage will be discussed after hearing from you.\r\n\r\nYour Full Name\r\nYour Home Address\r\nYour Position in Your Company\r\nYour Cellular Phone Number\r\nYour Country of Origin\r\n\r\nI hope to hear from you as soon as possible.\r\n\r\nRegards,\r\nMr.Dickson Nsebeh.\r\n",
+            "content_type": "text/plain",
+            "hash": "67f71237e7b84d430eaa81f1b1f4e1379482c3d5a961d0f2bae413119f715d40"
+        }
+    ],
+    "header": {
+        "subject": "Re: Thanks For Your Message.",
+        "from": "richmondjames01@gmail.com",
+        "to": [],
+        "date": "2021-07-06T02:23:11-07:00",
+        "received_domain": [
+            "mail-oo1-f53.google.com"
+        ],
+        "received_ip": [
+            "2002:a67:3254::",
+            "209.85.161.53"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

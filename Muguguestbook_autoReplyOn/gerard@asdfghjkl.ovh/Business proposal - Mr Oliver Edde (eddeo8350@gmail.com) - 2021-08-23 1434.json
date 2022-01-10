@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "email%3aalgerad645@gmail.com",
+                "eddeo8350@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello, My name is Mr Oliver Edde, Account/Finance manager in (Premier Oil\r\nPLC).\r\nI have a business proposal that will be beneficial to you and me.\r\nplease contact me for more details of the business to you. thanks.\r\n\r\nForward your response to this email: <email%3Aalgerad645@gmail.com>\r\neddeo8350@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "bc88239bd5966f2ec41ee9b84b94ae939db36f4cf9b4c79764cc27214ad7343f",
+            "boundary": "00000000000001e38105ca393ea0"
+        }
+    ],
+    "header": {
+        "subject": "Business proposal",
+        "from": "eddeo8350@gmail.com",
+        "to": [],
+        "date": "2021-08-23T13:34:25+01:00",
+        "received_domain": [
+            "mail-ot1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.49"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

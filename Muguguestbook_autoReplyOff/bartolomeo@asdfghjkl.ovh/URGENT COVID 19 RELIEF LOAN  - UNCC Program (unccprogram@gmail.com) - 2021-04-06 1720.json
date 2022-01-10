@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.pacificalliancebank.com"
+            ],
+            "email": [
+                "pacificalliancebanking@financier.com"
+            ],
+            "domain": [
+                "www.pacificalliancebank.com",
+                "financier.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": " URGENT COVID 19 RELIEF LOAN?\r\nNecesito prestamo urgente de particular\r\nhttps://www.pacificalliancebank.com\r\n\r\nDO YOU NEED AN URGENT COVID 19 RELIEF LOAN OR SEEKING URGENT BUSINESS\r\nSTARTUP, BUSINESS EXPANSION,PERSONAL LOAN DEBT CONSOLIDATION FUNDING AT\r\nAFFORDABLE INTEREST RATE CONTACT US VIA:\r\npacificalliancebanking@financier.com +19148638417 WHATSAPP.\r\npacificalliancebanking@financier.com\r\n\r\n\u00bfNECESITA UN PR\u00c9STAMO DE ALIVIO URGENTE DE COVID 19 O BUSCA UN EMPLEO\r\nURGENTE, EXPANSI\u00d3N DE NEGOCIO, FINANCIACI\u00d3N DE CONSOLIDACI\u00d3N DE DEUDA DE\r\nPR\u00c9STAMO PERSONAL A UNA TASA DE INTER\u00c9S ASEQUIBLE CONT\u00c1CTENOS A TRAV\u00c9S DE:\r\npacificalliancebanking@financier.com +19148638417 WHATSAPP.\r\n",
+            "content_type": "text/plain",
+            "hash": "f685cc932fa9e7f163a8560525f6d0d43bc11ef0a85cc75fe2be5205e7c1ba9c",
+            "boundary": "000000000000b56c5505bf4f5af5"
+        }
+    ],
+    "header": {
+        "subject": "URGENT COVID 19 RELIEF LOAN?",
+        "from": "unccprogram@gmail.com",
+        "to": [],
+        "date": "2021-04-06T08:20:05-07:00",
+        "received_domain": [
+            "mail-ej1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.45"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Spanish; Castilian"
+    }
+}

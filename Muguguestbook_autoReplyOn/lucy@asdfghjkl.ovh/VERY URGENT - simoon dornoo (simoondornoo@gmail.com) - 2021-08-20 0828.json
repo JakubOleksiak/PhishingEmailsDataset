@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "alhassanhall444@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\nMy name is Alhassan, I am writing to know if you are still using this\r\ne-mail address. I am interested in discussing mutual business\r\ncooperation with you.I will enclose the proposal for your reference as\r\nsoon as I receive your response.\r\n\r\nRegards,\r\nAlhassan\r\nEmail:alhassanhall444@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "d8694bbb0b367fcebe6aa59ec1cb90cbb1189e6dff0d6cadbe613f4b54ac8fb1"
+        }
+    ],
+    "header": {
+        "subject": "VERY URGENT",
+        "from": "simoondornoo@gmail.com",
+        "to": [],
+        "date": "2021-08-20T07:28:09+01:00",
+        "received_domain": [
+            "mail-io1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.49",
+            "2002:a05:6602:2bc7::"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear cornelia",
+            "content_type": "text/plain",
+            "hash": "1a7e3a14c3133a205de7ebd9373c597e878ccc520e735e36eb12c6c08bfbd580",
+            "boundary": "----=_NextPart_000_0012_A9C559F2.484A793A"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer @ 3% Apply Now ",
+        "from": "info@theloancompany.co.za",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-28T19:22:53+02:00",
+        "received_domain": [
+            "hosted-by.rootlayer.net"
+        ],
+        "received_ip": [
+            "185.222.57.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Italian"
+    }
+}

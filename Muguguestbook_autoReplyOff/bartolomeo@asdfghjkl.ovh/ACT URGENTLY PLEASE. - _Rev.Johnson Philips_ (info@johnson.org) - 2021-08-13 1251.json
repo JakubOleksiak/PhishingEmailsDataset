@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "domain": [
+                "rev.johnson",
+                "safe.the",
+                "fund.your",
+                "account.please"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "From; Rev.Johnson Philips\r\nSenior Manager,\r\nFirst Bank Plc.\r\nInternational Foreign Remittance\r\n57/58,Breadfruit,street,\r\nMarina Lagos Nigeria.\r\n\r\n\r\nATTENTION BENEFICIARY\r\n\r\nDEAR SIR,\r\n\r\nI am Rev.Johnson Philips the Senior Manager,FIRST Bank PLC,my Boss,\r\nMr. Jacobs Okosun, the Managing Director/CEO of this bank is now on\r\ncompulsory leave and all power have been vested on me to make all\r\ninternational payments.Also, due to\r\nreported cases of corrupt practices in Nigeria Banks including the\r\nCentral Bank of Nigeria , the Federal Government has revoked/cancelled\r\nall power vested on those banks and has appointed our bank (First Bank\r\nof Nigeria Plc) to make all foreign payments.\r\n\r\nBe informed that the Federal Government have approved the release of\r\nyour payment Fund of $35.5M (Thirty Five Million Five Hundred Thousand\r\nDollars)of your total funds, which has been in this bank for many\r\nyears unclaimed because my boss Mr. Jacob Okosun , elaboration with\r\nthe Governor of Central Bank of Nigeria (CBN) have refused to tell you\r\nthe truth on how to claim your fund this is because he has been using\r\nthe interest accumulated from your fund every year to enrich himself\r\nwithout your knowledge,I want to help you pull out this fund to your\r\nbank account using the easiest and the quickest method, which have not\r\nbeen made known to you before.\r\n\r\nBy this method, you will open a domiciliary account with this bank\r\n(First Bank of Nigeria Plc),your fund would be lodged into this\r\ndomiciliary account and your fund will be paid in directly to any bank\r\nof your choice.\r\n\r\nAfter the transfer, you will confirm the fund in your bank account\r\nwithin 5hours the same day. No Cost of Transfer (COT) and no stoppage\r\nfrom any Government departments as the transfer will be done within\r\nthe bank alone and it is very safe.The method which was introduced to\r\nyou before is the Telegraphic Transfer (TT) for which confirmation was\r\n48hrs, because of the time factor, petitions could come from various\r\norganizations stopping your payment and asking you to pay huge fee\r\nwhich would be difficult for you to pay so that they can benefit from\r\nthe huge interest your fund generates while still in the Bank.\r\n\r\nThis method is not safe for you because it is not done within the bank\r\nalone as information of the payment would be sent to the Central\r\nControl Unit (CCU) of the Federal Ministry of Finance and office of\r\nthe Accountant General of the Federation.\r\n\r\nAs a good Christian, I have nothing to gain by keeping your fund, I\r\nwant to assist you receive your fund before my boss resumes office.\r\nYou have to follow up and work with me now, so keep this very\r\nconfidential because of fraudsters and impostors who go about\r\npresenting various bank accounts in order to divert another\r\nbeneficiary's fund.your present/valid account co-ordinates and amount\r\nto be claimed so that I do not transfer your fund to the wrong Bank\r\nAccount.Please re-state the below;\r\n\r\n(1) Your Valid Direct Tel/ Mobile/Fax Number.\r\n(2) Your Full Name:\r\n(3) Current Resident Address.\r\n(4) Your Private E-mail Address.\r\n(5) Your Occupation:\r\n(6) Your Age and Sex:\r\n(7) Your Nationality:\r\n8) Your I/D Card attached.\r\n\r\n\r\nAwaiting your quick Response.\r\n\r\nYours truly,\r\n\r\nRev.Johnson Philips.\r\nSenior Manager,\r\nFirst Bank Plc.\r\nInternational Remittance Department\r\nEmail;johnsonphilips2012@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "f4b2512341ca91cce8e7d13d1463247ee44acbfb0faf828ab18cfa3f6a27a1b4"
+        }
+    ],
+    "header": {
+        "subject": "ACT URGENTLY PLEASE.",
+        "from": "info@johnson.org",
+        "to": [
+            "info@johnson.org"
+        ],
+        "date": "2021-08-13T11:51:06+01:00",
+        "received_domain": [
+            "mail.mahk.top"
+        ],
+        "received_ip": [
+            "180.163.38.114",
+            "197.242.98.239"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

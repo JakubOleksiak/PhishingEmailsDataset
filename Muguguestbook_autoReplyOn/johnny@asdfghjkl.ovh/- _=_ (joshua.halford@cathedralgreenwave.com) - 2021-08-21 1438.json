@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-type": [
+                    "text/html; charset=\"utf-8\""
+                ]
+            },
+            "content": "<html><body><span style=\"font-family:Verdana; color:#000000; font-size:10pt;\"><div>Attn: Dear<br>My name is col. Hussein Harmush. I have expressed interest in establishing a strategic partnership Alliance with you For Mutual Benefit.<br>Kindly respond back to the my email for more details.<br>col. Hussein Harmush.<br>Philippines Refugee Camp<br mce_bogus=\"1\"></div></span></body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "8f9cce2aa91c1aab55ed625bd90280f88681f67c997555805fb061ac6ca53742"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "joshua.halford@cathedralgreenwave.com",
+        "to": [],
+        "date": "2021-08-21T05:38:36-07:00",
+        "received_domain": [
+            "p3plgemwbe10-01.prod.phx3.secureserver.net",
+            "p3plwbeout10-06.prod.phx3.secureserver.net"
+        ],
+        "received_ip": [
+            "97.74.135.150",
+            "97.74.135.192"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

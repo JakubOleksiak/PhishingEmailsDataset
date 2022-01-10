@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "chrisleechueng@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello,\r\n Compliments of the day. My Name is Ann Lee, I am a senior Staff with a public Bank here in Wing Hang Bank, Hong Kong, , I am contacting you regarding a confidential business Proposal that will be of great mutual benefit to both of us ,If you are interested Kindly Contact me on my private email address for more details: chrisleechueng@gmail.com I look forward to hearing from you soon.\r\n Regards,\r\n Chris Cheng\r\n",
+            "content_type": "text/plain",
+            "hash": "641c2af44b71ec497ba12cd0b915e60fc42f229326dd7695f6b382a49d390a1c",
+            "boundary": "===============0360706072=="
+        }
+    ],
+    "header": {
+        "subject": "Good Day",
+        "from": "test@antclick.com",
+        "to": [
+            "test@antclick.com"
+        ],
+        "date": "2021-09-10T17:25:59-05:00",
+        "received_domain": [
+            "mail.mails.antclick.com"
+        ],
+        "received_ip": [
+            "197.185.108.112",
+            "27.154.60.2"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

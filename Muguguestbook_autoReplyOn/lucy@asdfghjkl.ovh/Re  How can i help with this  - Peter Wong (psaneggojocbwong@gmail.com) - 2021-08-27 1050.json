@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "lucy@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Fill and sign the agreement letter and send t back to me so i can instruct\r\nmy lawyer to proceed with the funds release docuemtn on your behalf to\r\nenable my Bank approved the funds for transfer and have it share as it will\r\nbe agree on in the agreement letter if interested to complete this\r\ntransaction with me\r\n\r\nOn Thu, 26 Aug 2021 at 12:58, <lucy@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Lucy\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "8668dc8e5a5429ce627a832b58909f36a0eb836fe5451dbed727328b57645326",
+            "boundary": "0000000000000d99b305ca86955a"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "psaneggojocbwong@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-27T09:50:46+01:00",
+        "received_domain": [
+            "mail-yb1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.194"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

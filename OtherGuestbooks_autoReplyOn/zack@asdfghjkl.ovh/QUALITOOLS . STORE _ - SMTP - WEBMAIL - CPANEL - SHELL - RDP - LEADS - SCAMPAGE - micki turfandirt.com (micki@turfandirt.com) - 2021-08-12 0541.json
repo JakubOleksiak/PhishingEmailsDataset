@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Welcome to Qualitools (qualitools . store),\r\n\r\n- We upload fresh & top quality tools in store every day.\r\n- Our Support team are always ready to assist you 24/7.\r\n- Valid Checker's available, so you can check if tools work before buy.\r\n\r\nTOOLS IN STOCK:\r\n- SMTP - Inbox/Unlimited\r\n- RDP - Admin/Last long\r\n- Zimbra - Inbox/Unlimited\r\n- Godaddy Workspace - Fresh\r\n- CPanel Roundcube/Horde/Squirrelmail\r\n- Office365 - B2B Logs\r\n- cPanel - Https - Deliver - Bulletproof\r\n- Shell = Https - Upload - Unzip - Deliver\r\n- Fresh Email Leads (Corporate & Personal)\r\n- All New/Static Scam Pages + FUD Letter\r\n\r\nWe accept new sellers, you can apply by open a ticket.\r\n\r\nEasy Sign up, Join Us NOW ! : https:// qualitools . store\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "9c98676e85bcc20913df6cb1deae64c4ef0d6b6ca977d5e199daa0972d343039",
+            "boundary": "_000_SN6PR1501MB204821F1F073F2359C44D198C1F99SN6PR1501MB2048_"
+        }
+    ],
+    "header": {
+        "subject": "QUALITOOLS . STORE // - SMTP - WEBMAIL - CPANEL - SHELL - RDP - LEADS - SCAMPAGE",
+        "from": "micki@turfandirt.com",
+        "to": [],
+        "date": "2021-08-12T03:41:02+00:00",
+        "received_domain": [
+            "nam02-sn1-obe.outbound.protection.outlook.com",
+            "sa1pr15mb4531.namprd15.prod.outlook.com",
+            "sn6pr1501mb2048.namprd15.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10b6:805:3::27",
+            "40.107.96.45",
+            "2603:10b6:806:19a::9"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

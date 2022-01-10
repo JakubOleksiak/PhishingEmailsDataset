@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://forms.gle/RACZUmR8Nj4JNJWs5"
+            ],
+            "domain": [
+                "m.donald",
+                "forms.gle"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "MY NAME IS DAVID SHERRILL,60YRS AND A FATHER OF 2 WONDERFUL KIDS,A\r\nSUCCESSFUL ENTERPRENEUR,INVESTOR,I ALSO OWN A SMALL SHIPPING BUSINESS\r\nNAME M.DONALD MOVING SERVICE, i would like to know if you'll be\r\nwilling to work remotely as my mailing//receiving and PA in your area.\r\napply by clicking the link ====>  YOUR LINK\r\nhttps://forms.gle/RACZUmR8Nj4JNJWs5\r\n",
+            "content_type": "text/plain",
+            "hash": "9d96bd4da5d7140f5e00bb87ae0742f9d72389b46aee942acb944523796753ef"
+        }
+    ],
+    "header": {
+        "subject": "FROM DAVID SHERRILL",
+        "from": "captivaaaan@gmail.com",
+        "to": [],
+        "date": "2021-08-31T16:17:59+02:00",
+        "received_domain": [
+            "mail-qk1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.179",
+            "2002:ad4:57d3::"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

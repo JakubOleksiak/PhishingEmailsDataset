@@ -1,0 +1,68 @@
+{
+    "attachment": [
+        {
+            "filename": "image.png",
+            "size": 116641,
+            "extension": "png",
+            "hash": {
+                "md5": "4d0006a1a850adf99f1465006a6f6e50",
+                "sha1": "fec077d3e278ab91d3d6d7fcc8ff9c8d451126ba",
+                "sha256": "5d1ca9b703b50ed71b0fb5e6c00db5b1b61fdfcfd362aa843e69dead79f397be",
+                "sha512": "38a7c0e93f689a8562986d4116d8ddfbeeaaeb620a996cb4cf720858db2dfaac2958fb1f20389c02d8ec5072eb6c14ea9a4d7d93ec65a4fb8b64de646bd32fbe"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"image.png\""
+                ],
+                "content-description": [
+                    "image.png"
+                ],
+                "content-disposition": [
+                    "inline; filename=\"image.png\"; size=\"116641\"; creation-date=\"Thu, 29 Jul 2021 11:50:34 GMT\"; modification-date=\"Thu, 29 Jul 2021 11:50:49 GMT\""
+                ],
+                "content-id": [
+                    "<05d5a87b-cb2c-4fbc-b2e0-e0317fb402a3>"
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear Friend.\r\n\r\n\r\nI am Mr. Godwin Emefiele, the current executive governor of the Central Bank of Nigeria (CBN).\r\n\r\nI am pleased to inform you that an unpaid contract payment file worth Seventy-Seven Million Five Hundred Thousand United States Dollars ($77.500.000.00) was discovered during the second quarter of auditing exercise in 2017.\r\n\r\nWith my position as the Central Bank Governor, it was easy for me to move the funds to a secure bank account in Europe which will be disclosed to you upon your confirmation of your interest on the transaction as my foreign partner.\r\n\r\nThe transaction, will be a bank-to-bank wire transfer to any nominated bank account of your choice.\r\n\r\nKindly supply me with your details as listed below as to enable me prepare the documents require for the transaction on your name for immediate release of the funds via the Europe bank to any nominated bank account of your choice.\r\n\r\n\r\nYour Formal Name\r\nYour Direct Contact Address\r\nYour Bank Name & Address\r\nAccount Number,\r\nRouting Number,\r\nSwift Code\r\nYour Private Telephone Numbers.\r\nForm of Identification\r\n\r\nI will personally furnish you with steps assigned for this payment inline\r\nwith the European banking system.\r\n\r\nAs to know whom you are dealing with, view the website below for verification.\r\n\r\nWebsite cenbank.org<http://cenbank.org>\r\n\r\n\r\n[cid:05d5a87b-cb2c-4fbc-b2e0-e0317fb402a3]\r\n\r\n\r\n\r\n\r\n\r\nSincerely\r\nMr. Godwin Emefiele.\r\nExecutive Governor Central Bank (CBN).\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "8916dc9d50bd80d818cb6b51d5056226ec4ea7660d843cb22fa854c9e242aa61",
+            "boundary": "_000_AM0PR03MB485066EC034518FF510BB4C082EB9AM0PR03MB4850eurp_"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend ",
+        "from": "godwin_emefiele1221@hotmail.com",
+        "to": [
+            "godwin_emefiele1221@hotmail.com"
+        ],
+        "date": "2021-07-29T11:52:14+00:00",
+        "received_domain": [
+            "am0pr03mb4850.eurprd03.prod.outlook.com",
+            "am0pr03mb5521.eurprd03.prod.outlook.com",
+            "eur05-am6-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10a6:208:169::26",
+            "2603:10a6:208:105::30",
+            "40.92.91.46"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

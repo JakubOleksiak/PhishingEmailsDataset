@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nA message was sent to you this week did you get it ?\r\n",
+            "content_type": "text/plain",
+            "hash": "2ca41d850d298a697f0ecb498d1a3174382c4ccc6e250e8ef675b1ff795b6b89",
+            "boundary": "x26Sk9hSx2x6VHGXrI0icGFRsCAq=_RgQm"
+        }
+    ],
+    "header": {
+        "subject": "In/Email",
+        "from": "smtpfox-j62ni@jasareklameneonboxjakarta.com",
+        "to": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-10T10:57:21+00:00",
+        "received_email": [
+            "smtpfox-j62ni@jasareklameneonboxjakarta.com"
+        ],
+        "received_domain": [
+            "gproxy6-pub.mail.unifiedlayer.com",
+            "gproxy6.mail.unifiedlayer.com",
+            "md-67.webhostbox.net",
+            "ec2-34-227-195-239.compute-1.amazonaws.com",
+            "162-215-240-246.unifiedlayer.com",
+            "cmgw13.mail.unifiedlayer.com"
+        ],
+        "received_ip": [
+            "199.79.63.167",
+            "34.227.195.239",
+            "67.222.39.168"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

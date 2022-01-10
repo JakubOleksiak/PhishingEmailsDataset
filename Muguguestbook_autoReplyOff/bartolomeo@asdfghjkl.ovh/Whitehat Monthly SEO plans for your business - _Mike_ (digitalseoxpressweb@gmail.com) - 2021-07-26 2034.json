@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi there\r\nI have just checked your site for the ranking keywords and found that you\r\ncould use a nice boost in the SEO trend and the organic visibility\r\n\r\nIf interested in getting more out of your online business, kindly hit reply\r\n\r\nthanks and regards\r\nMike\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "bf26254d61c0a386b8e6da75011ce2bc01a7f216d9aeb18de373120afbe84e74"
+        }
+    ],
+    "header": {
+        "subject": "Whitehat Monthly SEO plans for your business",
+        "from": "digitalseoxpressweb@gmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-27T01:34:16+07:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "178.70.118.185"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

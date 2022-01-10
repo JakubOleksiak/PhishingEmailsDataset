@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.karim"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Business Proposal\r\n\r\nDear Friend,\r\nMy names are:Mr.Karim Ahmed,I have a business proposal for\r\nyou, get back to me if you are interested for more details.\r\n\r\nRegards.\r\nMr.Karim Ahmed\r\n",
+            "content_type": "text/plain",
+            "hash": "f0d8235c62d951ac89ab34c6475f3c599d9d574bdcccdfc4679b9e6e9675c212"
+        }
+    ],
+    "header": {
+        "subject": "Business Proposal",
+        "from": "mrkarimahmed9@gmail.com",
+        "to": [],
+        "date": "2021-05-19T12:24:41+00:00",
+        "received_domain": [
+            "mail-yb1-f172.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:7010:3c8:b029:ae:adb9:ee5c",
+            "209.85.219.172"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

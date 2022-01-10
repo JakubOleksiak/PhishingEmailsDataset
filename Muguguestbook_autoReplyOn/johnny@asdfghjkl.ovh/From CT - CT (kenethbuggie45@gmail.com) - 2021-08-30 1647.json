@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Did you receive my previous email to you as regards ?\r\n\r\n\r\nCT.\r\n",
+            "content_type": "text/plain",
+            "hash": "20cab6f3aedcee202cef4191306f081540421dba425bceb0146c12d12919a754"
+        }
+    ],
+    "header": {
+        "subject": "From CT",
+        "from": "kenethbuggie45@gmail.com",
+        "to": [],
+        "date": "2021-08-30T15:47:43+01:00",
+        "received_domain": [
+            "mail-qv1-f48.google.com"
+        ],
+        "received_ip": [
+            "2002:ac8:6614::",
+            "209.85.219.48"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

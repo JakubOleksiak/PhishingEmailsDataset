@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello, How are you? .\r\n",
+            "content_type": "text/plain",
+            "hash": "0da9a1d8b8e178893ebc60527816c3efea5d4530f2d36bafe1a34c9cece6136d",
+            "boundary": "00000000000073859f05be61ed57"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "helenjohnlove@gmail.com",
+        "to": [],
+        "date": "2021-03-25T21:04:33+01:00",
+        "received_domain": [
+            "mail-lj1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.182"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Welsh"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.creative-digital.co/product/unique-domains-links/",
+                "https://www.creative-digital.co/unsubscribe/"
+            ],
+            "domain": [
+                "www.creative-digital.co"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi!\r\n\r\nWhen you get 1000 unique domains you get links from only unique domains\r\nwith unique ips\r\nhttps://www.creative-digital.co/product/unique-domains-links/\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhttps://www.creative-digital.co/unsubscribe/\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "765201b2812c789c6100ef4800f33ec103c9cfa6d676ea702ddb7b70c763b9b0"
+        }
+    ],
+    "header": {
+        "subject": "unique domains links",
+        "from": "bantinnganhname@gmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-04-25T06:17:01-10:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "39.43.112.244"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "French"
+    }
+}

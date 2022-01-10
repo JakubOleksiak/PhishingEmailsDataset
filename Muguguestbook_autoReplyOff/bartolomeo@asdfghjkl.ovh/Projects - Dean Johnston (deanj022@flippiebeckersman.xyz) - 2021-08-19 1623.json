@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello there,\r\n\r\nI hope this message finds you in good spirits especially during \r\nthis challenging time of coronavirus pandemic. I hope you and \r\nyour family are well and keeping safe. Anyway, I am Dean \r\nJohnston, a broker working with Flippiebecker Wealth. I am \r\ncontacting you because one of my high profile clients is \r\ninterested in investing abroad and has asked me to look for \r\nindividuals and companies with interesting business ideas and \r\ncompanies that he can invest in. He wants to expand his portfolio \r\nand has an interest in investing a very substantial amount \r\nabroad. I got your email contact through an online business \r\ndirectory and I thought I'd contact you to see if you are \r\ninterested in this opportunity. Do you or your company have new \r\nor existing projects that requires funding?\r\n\r\nPlease indicate your interest by replying back to this email. \r\nOnce I get your response, I will give you more details and we can \r\nplan a strategy that will be beneficial to all parties.\r\n\r\nBest Regards,\r\nD Johnston\r\nFlippiebecker Wealth Services\r\n",
+            "content_type": "text/plain",
+            "hash": "1fc45293443fce3eb067eede93431d2aff6ca5ac7e3a8b2b7fd6138b38c01265"
+        }
+    ],
+    "header": {
+        "subject": "Projects",
+        "from": "deanj022@flippiebeckersman.xyz",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-19T14:23:45+00:00",
+        "received_domain": [
+            "flippiebeckersman.xyz",
+            "host.flippiebeckersman.xyz"
+        ],
+        "received_ip": [
+            "107.21.82.122",
+            "185.31.162.127"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

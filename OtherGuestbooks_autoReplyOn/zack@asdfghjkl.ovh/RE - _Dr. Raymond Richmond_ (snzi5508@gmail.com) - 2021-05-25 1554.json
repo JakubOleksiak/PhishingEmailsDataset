@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "sandrine_nzi2010@yahoo.co.jp"
+            ],
+            "domain": [
+                "yahoo.co.jp"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good day\r\nI sent you very important message two days ago but till now I never\r\nreceive any response from you, I will resend the message if you do not\r\nreceive it.\r\nContact me very urgent Ms Sandrine  Nzi on (sandrine_nzi2010@yahoo.co.jp)\r\nThanks for understanding\r\nMs Sandrine  Nzi.\r\n",
+            "content_type": "text/plain",
+            "hash": "cfd0206def6232ccbf04a4079cb6ba25f6899dd2b1964e83598601e4f342e9b7"
+        }
+    ],
+    "header": {
+        "subject": "RE",
+        "from": "snzi5508@gmail.com",
+        "to": [],
+        "date": "2021-05-25T13:54:21+00:00",
+        "received_domain": [
+            "mail-il1-f193.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6a10:fc92::",
+            "209.85.166.193"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

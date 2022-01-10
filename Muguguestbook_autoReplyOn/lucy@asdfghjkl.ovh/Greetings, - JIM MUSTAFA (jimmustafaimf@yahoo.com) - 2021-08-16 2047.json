@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": " Greetings,\r\n\r\nI acknowledged your mail date on 16/08/2021 but before I go on I will like to clarify you on this exercise actually this exercise is yearly international lottery promotions in which you are one of our lucky winners and the criteria for winning were based on email balloting all over the world.\r\n\r\nThis exercise has been powered by European Union (EU),The Payment is \u20ac950,000.00, for those \r\ntheir email Id's appear on our Computer Database which you are one of our lucky winners.\r\n\r\nSo you are to provide the info below for payment info:\r\n\r\n1. Name in full.\r\n2. Address.\r\n3. Nationality.\r\n4. Age.\r\n5. Occupation.\r\n6. Phone.\r\n7. Present Country.\r\n\r\nI look forward to your urgent reply.\r\n\r\nMr Jim Mustafa.\r\nIMF/WORLD BANK\r\n\r\n     On Monday, August 16, 2021, 06:44:24 PM GMT+2, <lucy@asdfghjkl.ovh> wrote:  \r\n \r\n Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nLucy\r\n\r\n  ",
+            "content_type": "text/plain",
+            "hash": "12c378b8fafb8b1e7a2231d450cec6a6c38fa452bead6fc4646d747d8c6bcc29",
+            "boundary": "----=_Part_1106402_1040543558.1629139678179"
+        }
+    ],
+    "header": {
+        "subject": "Greetings,",
+        "from": "jimmustafaimf@yahoo.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T18:47:58+00:00",
+        "received_domain": [
+            "sonic308.consmr.mail.ne1.yahoo.com",
+            "sonic.gate.mail.ne1.yahoo.com",
+            "sonic308-9.consmr.mail.ne1.yahoo.com"
+        ],
+        "received_ip": [
+            "66.163.187.32"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

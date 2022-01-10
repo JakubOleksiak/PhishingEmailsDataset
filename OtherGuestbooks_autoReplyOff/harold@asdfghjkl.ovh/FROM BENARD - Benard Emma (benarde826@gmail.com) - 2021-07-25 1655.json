@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "exhibition.my",
+                "liberia.before",
+                "africa.my",
+                "company.you"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "My name is  benard\r\nthe only son of Late Mr,C.Michael, my daddy and mummy died in the September\r\n11 attack at the world trade centrer during the their\r\nexhibition.My father was the former C.E.O of Avon ix Diamond merchants Inc.\r\nLiberia.Before their deaths, my father notified I & my late mom that he had\r\ndeposited USED $6 (SIX MILLION U.S D)/ 150KG of\r\nGold bar in two trunk boxes with a deposit company in Accra Ghana,West\r\nAfrica.My father said he got the\r\nmoney from sales of Diamond, pure Liberia Gold an mining projects as well.I\r\nunderstood my does not want\r\nto deposit this funds in the bank so that he can easily claim them to start\r\ninvestments & a new life in America,Europe,Asia. But unfortunately my\r\nparents are no more.Presently, i am living in Ghana where I\"m\r\ntaking asylum as a refugee .I am seeking for your assistance for the\r\ninvestment of the money and to\r\nbe my nominated beneficiary to claim the boxes from the deposit company.you\r\nshall open an\r\naccount for me since i have not handled such an amount of money before. I\r\nintend to buy a house,Hotel\r\nor invest abroad as to my father's wishes and also further my education in\r\nyour country.I have every\r\nproof to the deposits with the security company.\r\nThank\r\nBenard\r\nbenardemma111@yahoo.co.uk\r\n",
+            "content_type": "text/plain",
+            "hash": "6f5dd37a5f2448fc167c308762a83683383088e6a26b4a382ef57e9adb75cf47",
+            "boundary": "0000000000003b1ff405c7f3d456"
+        }
+    ],
+    "header": {
+        "subject": "FROM BENARD",
+        "from": "benarde826@gmail.com",
+        "to": [
+            "benarde826@gmail.com"
+        ],
+        "date": "2021-07-25T07:55:21-07:00",
+        "received_domain": [
+            "mail-vs1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.67"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

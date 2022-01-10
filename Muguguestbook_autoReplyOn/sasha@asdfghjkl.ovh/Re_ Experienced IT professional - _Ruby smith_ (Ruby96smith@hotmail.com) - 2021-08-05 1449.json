@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "{sasha@asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi {sasha@asdfghjkl.ovh}\r\n\r\nI am Application Manager working with an organisation having 120+\r\nexperienced developers.\r\n\r\nWe are expert in the following:-\r\n\r\n1. Real estate, Car Rental, Taxi App, Cleaning App,\r\n\r\n2. Shopping App, iPhone and iPad apps, Android app\r\n\r\n      Any types of Customization Games (VR, AR, Real Engine etc.).\r\n\r\n \r\n\r\nPS: - If this is something, you are interested please respond to this\r\nmessage for Portfolio and Price list or drop your Skype handle/contact\r\ndetail\r\n\r\n \r\n\r\nThanks\r\n\r\nRuby\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "296051ddda938f4f7b36f72676a44ab87cae4eb84ccb1233a6e074f9a094586c",
+            "boundary": "----=_NextPart_000_7FEA_01D78A26.C8DD84F0"
+        }
+    ],
+    "header": {
+        "subject": "Re; Experienced IT professional",
+        "from": "ruby96smith@hotmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-05T18:19:02+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "ps1pr0302mb2603.apcprd03.prod.outlook.com",
+            "ps1pr0302mb2539.apcprd03.prod.outlook.com",
+            "bm1pr01ca0147.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:803:b::15",
+            "40.92.254.16",
+            "2603:1096:803:6::12",
+            "2401:4900:1f38:3e0a:e09a:b7f7:5849:ff8",
+            "2603:1096:b00:68::17"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

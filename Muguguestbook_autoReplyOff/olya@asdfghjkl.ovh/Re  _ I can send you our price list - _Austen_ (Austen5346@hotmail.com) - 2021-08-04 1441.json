@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "email": [
+                "{olya@asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi {olya@asdfghjkl.ovh}\r\n\r\nI am a Business Development manager who works with 130+ experienced IT\r\nprofessionals.\r\n\r\nWebsite designing & development, PHP development, E-Commerce solutions &,\r\nHTML, Social Media Cover Page Design, UX / UI Design Services and SEO \r\n\r\nIf you are interested, then I can send you our price list, company\r\ninformation and an affordable quotation with the best offer.\r\n\r\nThanks & Regards,\r\n\r\nBusiness Development\r\n\r\nPS: If this is something you are interested; please respond to this email\r\nfor Portfolio and Pricelist\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "41dc1729b061380bae3ee73ab4965a1669a27e942c6ac3836845fefb1a7819e5",
+            "boundary": "----=_NextPart_000_860C_01D7895E.9FF2A750"
+        }
+    ],
+    "header": {
+        "subject": "Re: Re:; I can send you our price list",
+        "from": "austen5346@hotmail.com",
+        "to": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T18:11:03+05:30",
+        "received_domain": [
+            "dm6nam12ht169.eop-nam12.prod.protection.outlook.com",
+            "dm6nam12ft029.eop-nam12.prod.protection.outlook.com",
+            "sg2pr02ca0045.apcprd02.prod.outlook.com",
+            "ph0pr06mb8046.namprd06.prod.outlook.com",
+            "nam12-dm6-obe.outbound.protection.outlook.com",
+            "dm6nam12ft029.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:fc64::50",
+            "122.161.48.159",
+            "40.92.22.90",
+            "2a01:111:e400:fc64::51",
+            "2603:1096:3:18::33",
+            "2a01:111:e400:fc64::133",
+            "2a01:111:e400:fc64::312"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

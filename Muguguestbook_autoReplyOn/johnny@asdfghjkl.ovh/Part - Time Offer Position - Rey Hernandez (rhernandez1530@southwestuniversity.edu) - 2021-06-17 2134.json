@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "sirkaelkenshin@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "We wish to contract you to represent our company in North America, you get paid monthly with additional commission included. Note that this is a remote job that takes less than 2 hours of your time daily. Kindly contact the human resources manager for more comprehensive details with the e-mail below,\r\n\r\n\r\n\r\nEmail: sirkaelkenshin@gmail.com<mailto:sirkaelkenshin@gmail.com>\r\n\r\n\r\n\r\nThank you and stay safe!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "e7aa74e2c7e312770c4c2ce5e411b0bb33faeacc0fbe160a2499455bc0526282",
+            "boundary": "_000_DM6PR16MB31476073577B5BF416992C26D40E9DM6PR16MB3147namp_"
+        }
+    ],
+    "header": {
+        "subject": "Part - Time Offer Position",
+        "from": "rhernandez1530@southwestuniversity.edu",
+        "to": [
+            "aholmes6477@southwestuniversity.edu"
+        ],
+        "cc": [
+            "aholmes6477@southwestuniversity.edu"
+        ],
+        "date": "2021-06-17T19:34:39+00:00",
+        "received_domain": [
+            "dm6pr16mb3625.namprd16.prod.outlook.com",
+            "dm6pr16mb3147.namprd16.prod.outlook.com",
+            "nam10-bn7-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10b6:5:1cc::23",
+            "40.107.92.129",
+            "2603:10b6:5:193::16"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

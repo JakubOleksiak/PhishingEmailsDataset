@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": " Hello,\r\n\r\nDid you read my e-mail ?\r\n\r\nEric.\r\n",
+            "content_type": "text/plain",
+            "hash": "cc1880d1066a767fbc94621043ddb978f17351afbf114f38c3404f3512b78dcf",
+            "boundary": "_000_PA4PR09MB4544BCA11D42E24C9CE3472F81999PA4PR09MB4544eurp_"
+        }
+    ],
+    "header": {
+        "subject": "Hello,",
+        "from": "ericadodo30122@hotmail.com",
+        "to": [],
+        "date": "2021-03-02T13:14:48+00:00",
+        "received_domain": [
+            "ve1eur01ht219.eop-eur01.prod.protection.outlook.com",
+            "pa4pr09mb4544.eurprd09.prod.outlook.com",
+            "eur01-ve1-obe.outbound.protection.outlook.com",
+            "ve1eur01ft007.mail.protection.outlook.com",
+            "ve1eur01ft007.eop-eur01.prod.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7e19::44",
+            "2a01:111:e400:7e19::4e",
+            "40.92.66.63",
+            "2a01:111:e400:7e19::493",
+            "2a01:111:e400:7e19::88"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Welsh"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.patricia"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dear!!!\r\n\r\nGet back to me soon i have some information for you.\r\nis urgent.\r\n\r\nbest regard\r\n\r\nMrs.Patricia Fahad.\r\n",
+            "content_type": "text/plain",
+            "hash": "e6bfbac24ce7eae81c1dea8043a1bba4532e3d08034751a5bca982cd8641ed81"
+        }
+    ],
+    "header": {
+        "subject": "Hi Dear!!!",
+        "from": "ryanrobert709@gmail.com",
+        "to": [],
+        "date": "2021-10-07T05:48:15-07:00",
+        "received_domain": [
+            "mail-vk1-f171.google.com"
+        ],
+        "received_ip": [
+            "2002:a59:1556:0:b0:236:14c8:785f",
+            "209.85.221.171"
+        ],
+        "received_foremail": [
+            "marie@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

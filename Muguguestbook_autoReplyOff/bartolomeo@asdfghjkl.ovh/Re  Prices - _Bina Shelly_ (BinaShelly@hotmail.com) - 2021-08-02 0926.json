@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Bartolomeo,\r\n\r\n \r\n\r\nMy name is Bina Shelly, and I am working with a Digital Marketing Company.\r\n\r\nWe are providing Web Design and Mobile App Service at affordable prices.\r\n\r\nIn CMS website package, we will do following:\r\n\r\n \r\n\r\n.         Mobile Apps Development\r\n\r\n.         Website Design / Redesign\r\n\r\n.         PHP | Word press |.Net\r\n\r\n.         E-Commerce & SEO | SMO| PPC\r\n\r\nMay I send you a quote and Company Information, if interested?\r\n\r\nI am waiting for your positive response.\r\n\r\n               \r\n\r\nKind Regards,\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "85ba810fec0df201d08ffd9a00aa260399017cd471e37b5b1f5d514226491fbd",
+            "boundary": "----=_NextPart_000_120D_01D7879E.EEE24DF0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices",
+        "from": "binashelly@hotmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T12:56:51+05:30",
+        "received_domain": [
+            "psapr02mb4678.apcprd02.prod.outlook.com",
+            "psapr02mb4614.apcprd02.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com",
+            "bm1pr01ca0110.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "122.161.53.220",
+            "40.92.253.37",
+            "2603:1096:b00::26",
+            "2603:1096:301:4d::7",
+            "2603:1096:301:41::8"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

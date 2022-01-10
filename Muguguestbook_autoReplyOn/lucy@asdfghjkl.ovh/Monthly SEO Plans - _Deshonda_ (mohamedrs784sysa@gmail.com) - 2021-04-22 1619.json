@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://conversion-seo.co/seo-packages/",
+                "http://conversion-seo.co/unsubscribe/"
+            ],
+            "domain": [
+                "conversion-seo.co"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "\r\nJust checked your website and it could really use a boost\r\n\r\nIf you ever need Google updates free whitehat SEO plans, we are the right\r\nteam for you\r\n\r\nResults oriented monthly plans to make your SEO trend climb like never\r\nbefore\r\n\r\n\r\nhttps://conversion-seo.co/seo-packages/\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhttp://conversion-seo.co/unsubscribe/\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "f073f630618a76a693f0e84498164795e8cf67865589d712d58fc5784fd96f11"
+        }
+    ],
+    "header": {
+        "subject": "Monthly SEO Plans",
+        "from": "mohamedrs784sysa@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-04-22T10:19:36-04:00",
+        "received_domain": [
+            "gmail.com"
+        ],
+        "received_ip": [
+            "42.60.105.150"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

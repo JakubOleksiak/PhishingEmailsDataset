@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "tbe701407@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Im Bertha Tilly a bank auditor. I have contacted you to receive my\r\nlate clients funds into your bank account if possible to my email address:\r\ntbe701407@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "6ae27efd3476a039d97192464e89cd1cd970394964c86c24727a681681c1dcb3",
+            "boundary": "000000000000703da405c37aa9ee"
+        }
+    ],
+    "header": {
+        "subject": "DEAR",
+        "from": "gerogeoliver06@gmail.com",
+        "to": [],
+        "date": "2021-05-29T09:40:58-07:00",
+        "received_domain": [
+            "mail-ot1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.51"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

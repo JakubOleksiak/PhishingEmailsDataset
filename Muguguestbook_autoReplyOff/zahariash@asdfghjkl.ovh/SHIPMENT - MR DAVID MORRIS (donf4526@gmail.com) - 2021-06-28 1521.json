@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am MR DAVID MORRIS, Inspection Unit Manager United Nations Inspection\r\nAgency in Harts-field Jackson International Airport Atlanta, Georgia.\r\nDuring our investigation, I discovered An abandoned shipment through a\r\nDiplomat from the United Kingdom which was transferred from JF Kennedy\r\nAirport to our facility here in Atlanta, The two consignment boxes are\r\nworth $8 million. And I assure you that the consignment is in your name,\r\nand you are advised to provide all details for claim, after custom\r\nclearance charges are perfected .\r\n\r\nSincerely,\r\n\r\n\r\nMR DAVID MORRIS\r\n\r\n\r\nCONTACT..........mrdavidmorris620@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "a9ec064ece3d27d81fd7eeecc3a8766a41fcf2eb160e2c7de1c44682b1668d81",
+            "boundary": "0000000000005ae5d005c5d35d6a"
+        }
+    ],
+    "header": {
+        "subject": "SHIPMENT",
+        "from": "donf4526@gmail.com",
+        "to": [],
+        "date": "2021-06-28T06:21:06-07:00",
+        "received_domain": [
+            "mail-wm1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.50"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

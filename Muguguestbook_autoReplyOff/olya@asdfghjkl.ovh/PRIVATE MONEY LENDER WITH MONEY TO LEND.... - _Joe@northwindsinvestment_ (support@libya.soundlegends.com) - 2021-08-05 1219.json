@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello, Sir/Madam,\r\n\r\nWe are a nationwide private lender, offering many financing options, including bridge financing, private lending, commercial real estate financing, permanent financing, mezzanine financing, construction loans, acquisition financing and, investment residential real estate financing. And we fund up to 100% of the project/deal. Brokers are welcome and protected.\r\n\r\nSincerely\r\n\r\nJoe\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c74bc1c83994e9289decc34cd443d59311087976af3c19ab92b6d46be89cfe40"
+        }
+    ],
+    "header": {
+        "subject": "PRIVATE MONEY LENDER WITH MONEY TO LEND....",
+        "from": "support@libya.soundlegends.com",
+        "to": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-05T10:19:19+00:00",
+        "received_email": [
+            "support@libya.soundlegends.com"
+        ],
+        "received_domain": [
+            "ns1004823.ip-92-204-133.us"
+        ],
+        "received_ip": [
+            "92.204.133.166"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

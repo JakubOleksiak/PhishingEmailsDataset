@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "reiffredrick02@aol.com"
+            ],
+            "domain": [
+                "aol.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Please be advised that I am away from work and connot attend to this mailbox. Please contact me on my personal email, reiffredrick02@aol.com\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "f4c1b52a686b93982197e63ce009365b4bc37889c60794e03a90802b1e0e99ce"
+        }
+    ],
+    "header": {
+        "subject": "Thank you for your message",
+        "from": "fredrick.reif@baitino.co",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-09T13:41:16-07:00",
+        "received_domain": [
+            "mail.baitino.co"
+        ],
+        "received_ip": [
+            "77.78.103.73"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

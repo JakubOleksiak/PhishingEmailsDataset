@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "ATTN: Beneficiary\u00a0\r\nIN FURTHERANCE TO THE FINAL RELEASE OF YOUR FUND WHICH HAS BEEN DORMANT IN OUR VAULT FOR A WHILE, HOWEVER FOR THE FINAL APPROVALS FROM OUR DIRECTOR SUBSEQUENT TO OUR PERUSAL/ VERIFICATION, I AM GLAD TO INFORM YOU THAT THE UNITED NATION (U.N) HAS AUTOMATICALLY GRANTED YOU AN UNCONDITIONAL APPROVAL AS THE BENEFICIARY/ INHERITANCE TOWARDS YOUR FUND.\u00a0\r\nACCORDING TO INVESTIGATION THE PROCESS TO RELEASE YOUR FUND HAS BEGAN AND AS A MATTER OF FACT ALL THE DOCUMENTATION REQUIRED FOR THE RELEASE OF THIS FUND HAS BEEN PRESENTED AND SIGNED BY THE UNITED NATION (U.N), AND IT HAS BEEN APPROVED THIS DAY BEEN MAY 19/07/2021.\r\nKINDLY SPECIFY THE OPTIONS OF YOUR CHOICE IN RECEIVING YOUR FUND EIGHTERTHROUGH AUTOMATED TELLER MACHINE (ATM), BANK DRAFT, OR BANK TO BANK WIRE TRANSFER.\u00a0\r\nExpecting to here from you soonest.\u00a0Yours faithfully,\u00a0\r\nMr.Paul Peters",
+            "content_type": "text/plain",
+            "hash": "1280c0ab6580bc8aeb1188b50941bfe88a13a113bd35430c4424178276dba7c3",
+            "boundary": "----=_Part_210196_631291426.1628779371879"
+        }
+    ],
+    "header": {
+        "subject": "Expecting to here from you soonest.",
+        "from": "peterpaul816@aol.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "cc": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-12T14:42:51+00:00",
+        "received_domain": [
+            "sonic316.consmr.mail.ne1.yahoo.com",
+            "sonic316-20.consmr.mail.ne1.yahoo.com",
+            "sonic.gate.mail.ne1.yahoo.com"
+        ],
+        "received_ip": [
+            "66.163.187.146"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

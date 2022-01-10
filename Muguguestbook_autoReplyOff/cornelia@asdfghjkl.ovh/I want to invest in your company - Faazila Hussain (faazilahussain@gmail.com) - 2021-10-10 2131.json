@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greeting's\r\n\r\nCan you help us to invest in your company ? I want you to be sincere and\r\nhelp me and my son to invest some good amount of money in your business as\r\na joint partnership.\r\n\r\nI will be glad to hear from you soon.\r\n\r\nRegards\r\nMrs Faazila\r\n",
+            "content_type": "text/plain",
+            "hash": "bd40bed0e41ecf94325ed40a6ebb0fb7337d0876ac6797a4e88cea7893d228c5",
+            "boundary": "000000000000decd8305ce04a918"
+        }
+    ],
+    "header": {
+        "subject": "I want to invest in your company",
+        "from": "faazilahussain@gmail.com",
+        "to": [],
+        "date": "2021-10-10T22:31:23+03:00",
+        "received_domain": [
+            "mail-pf1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.177"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "unicreditloansunicreditloans@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Do you need a Loan?\r\nAre you looking for Finance?\r\nAre you looking for Money to enlarge your business?\r\nI think you have come to the right place.\r\nWe offer Cash at low interest rate.\r\nInterested people should please contact us on\r\nFor immediate response to your application, Kindly\r\nreply to this emails below (Whats App)\r\nget startedt: WhatsApp: +17026082340 +32473727660\r\nunicreditloansunicreditloans@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "c50012ca41db0bdf55d0e3bf7a174c2a84c8107124e85bf766fc3a2927c0c784",
+            "boundary": "000000000000220c4d05c7d94729"
+        }
+    ],
+    "header": {
+        "subject": "Loans",
+        "from": "jacqualinescomazzv85@gmail.com",
+        "to": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-24T08:14:47+01:00",
+        "received_domain": [
+            "mail-ot1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.51"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

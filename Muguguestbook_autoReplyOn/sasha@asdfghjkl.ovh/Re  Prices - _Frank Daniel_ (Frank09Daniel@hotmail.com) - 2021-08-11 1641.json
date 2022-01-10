@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Sasha\r\n\r\nMy name is Frank Daniel and I was reviewing your website and noticed that\r\nthe website has a good design and it looks good.\r\n\r\nBut it is not ranking on GOOGLE for Relevant Keywords.\r\n\r\nI couldn't find your website on the first page with your business keywords/\r\nphrases.\r\n\r\nWe can help you do better in all search engines by Achieving top page\r\nRankings.\r\n\r\nWe Provide SEO services at a minimum cost.\r\n\r\nThanks very much!!\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "85d9f83f7793adcbe70e4deb507dcea47c86127be7badeed565996b6203210e3",
+            "boundary": "----=_NextPart_000_0614_01D78EED.38D3B1B0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices",
+        "from": "frank09daniel@hotmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-11T20:11:24+05:30",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "bm1pr0101ca0010.indprd01.prod.outlook.com",
+            "si2pr02mb5210.apcprd02.prod.outlook.com",
+            "si2pr02mb4969.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:4:15d::14",
+            "40.92.255.29",
+            "2409:4053:2203:9c46:91c1:c2b6:d2d0:adaa",
+            "2603:1096:4:13a::14",
+            "2603:1096:b00:18::20"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nGreetings Friend\r\n\r\nForgive me for writing you this letter , I will like to bring to your that\r\n(8.5.million Euro claims ) This is a legitimate transaction and The money\r\nwill be shared 60% for me and 40% for you .   get back to me, I will give\r\nyou full details on how the money will be transfer to you,\r\nWaiting for your reply,\r\n\r\nZamora Surasak\r\nAudits & Accounts Manager\r\n",
+            "content_type": "text/plain",
+            "hash": "7dd780d51a7cea2a4a3f5c35906fbb2430bad2d27a94e5d40a96a6c72bb67b52",
+            "boundary": "0000000000005965fb05c7efa576"
+        }
+    ],
+    "header": {
+        "subject": "CAN I TRUST YOU?",
+        "from": "szamora9005@gmail.com",
+        "to": [
+            "mrzamorasa2@gmail.com"
+        ],
+        "date": "2021-07-25T10:53:50+01:00",
+        "received_domain": [
+            "mail-ej1-f42.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.42"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

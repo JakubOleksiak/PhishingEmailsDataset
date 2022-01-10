@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.nbpif.com/",
+                "https://www.google.com/url?q=http://www.nbpif.com/&amp;source=gmail&amp;ust=1623161552841000&amp;usg=AFQjCNG5M9r-QGRgthyZRV1M0bvuT7Qlnw",
+                "http://www.w3.org/TR/html4/loose.dtd"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org",
+                "no.4036041334",
+                "www.nbpif.com",
+                "www.google.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.9600.19003\"></HEAD>\r\n<body style=\"MARGIN: 0.5em\">\r\n<P><SPAN style=\"COLOR: rgb(0,51,102)\">Good morning</SPAN></P>\r\n<P><SPAN style=\"COLOR: rgb(0,51,102)\">Dear Sir,</SPAN></P>\r\n<P><SPAN style=\"COLOR: rgb(0,51,102)\">Please find attached our Purchase Order (P.O.) No.4036041334 Dated :04.06.2021 for supply of goods on the terms and conditions specified therein and as per agreement / deal slip / terms agreed between us.&nbsp;</SPAN></P>\r\n<P><SPAN style=\"COLOR: rgb(0,51,102)\">We request you to kindly let us have your invoice with complete correspondence address including email address &amp; contact nos. along with your detailed requirement for shipment.<BR><BR>Awaiting your early feedback,</SPAN></P>\r\n<P><SPAN style=\"COLOR: rgb(0,51,102)\">Best Regards</SPAN></P>\r\n<P><B>David He&nbsp;</B></P>\r\n<P><SPAN style=\"COLOR: rgb(0,0,128)\"><B>Passion&nbsp;Shipping&nbsp;CO.,LTD&nbsp;</B></SPAN></P>\r\n<P><SPAN style=\"COLOR: rgb(255,0,0)\"><B>NVOCC NO: MOC-NV04143, A WCA,WIFFA,CIFFA MEMBER.</B></SPAN></P>\r\n<P><B><SPAN style=\"COLOR: rgb(0,204,255)\">WCA ID : 69471</SPAN>&nbsp;</B></P>\r\n<P><A href=\"http://www.nbpif.com/\" rel=noreferrer target=_blank data-saferedirecturl=\"https://www.google.com/url?q=http://www.nbpif.com/&amp;source=gmail&amp;ust=1623161552841000&amp;usg=AFQjCNG5M9r-QGRgthyZRV1M0bvuT7Qlnw\">www.nbpif.com</A>&nbsp;<BR><B>SKYPE:he33306211988</B>&nbsp;<BR><B>WHATSAPP:+86-18257411827&nbsp;</B><BR>Tel: +86-574-27831582&nbsp;<BR>Fax:+86-574-278388717/<WBR>27838000&nbsp;<BR>E-Mail:&nbsp;<A href=\"mailto:davidhe@nbpif.com\" rel=noreferrer target=_blank>\r\n davidhe@nbpif.com</A>&nbsp;<BR>Add:Room 316.323-325,Yinyi Bund Mansion NO.132 Renmin Road Ningbo China&nbsp;</P></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "b8315cba7b307284d58111f723e1a9123d224fdcb0aaa477d3bbe8356c5ecc38"
+        }
+    ],
+    "header": {
+        "subject": "Message has been processed :Purchase Order (P.O.) No.4036041334",
+        "from": "info@echvierri.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-10T18:48:20+02:00",
+        "received_domain": [
+            "echvierri.com"
+        ],
+        "received_ip": [
+            "45.87.62.37"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

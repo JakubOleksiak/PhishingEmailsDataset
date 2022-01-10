@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "-- \r\n*Dobr\u00fd den, jsou zde nevy\u017e\u00e1dan\u00e9 d\u011bdick\u00e9 fondy Odk\u00e1zan\u00e9 na va\u0161e jm\u00e9no od\r\nm\u00e9ho zesnul\u00e9ho klienta, kter\u00fd m\u00e1 s v\u00e1mi stejn\u00e9 p\u0159\u00edjmen\u00ed a st\u00e1tn\u00ed\r\np\u0159\u00edslu\u0161nost. Kontaktujte m\u011b pro v\u00edce informac\u00ed.*\r\n",
+            "content_type": "text/plain",
+            "hash": "9c97c4748466cfb59decedc05c38d64d6779b3b105ab79b54bb95533cb35706b",
+            "boundary": "0000000000007488b005bd707ddd"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "erickodjoeq69@gmail.com",
+        "to": [],
+        "date": "2021-03-13T20:03:16+00:00",
+        "received_domain": [
+            "mail-yb1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.179"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Czech"
+    }
+}

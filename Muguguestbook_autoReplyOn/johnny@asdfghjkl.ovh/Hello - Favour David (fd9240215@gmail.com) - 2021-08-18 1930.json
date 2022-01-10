@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\nI came across your email address through the google sites and I have a\r\ngreat feeling over it. Apologies for my surprising email to you.I want to\r\nchat with you. My age is 23 years old . I am an interesting and kind girl.\r\nI can write that I am a romantic person. I dream of finding a decent person\r\nwith whom I can share a wonderful panpal life! I am looking for a reliable\r\nperson to share our feelings as brother or sister from another mother. If\r\nyou might think we are suitable for each other, I look forward to hearing\r\nfrom you. Friendship doesn't think about distance,age or color. Friendship\r\nis hearing each other's voice from the heart. A friend is a gift of love\r\nfrom God and someone who cares as much as you do. I'm Miss Favour,I want to\r\nbe your friend. I'll be glad to read from you and I will reply with my\r\npicture as we get to know better.\r\nBest regards\r\nMiss Favour.\r\n",
+            "content_type": "text/plain",
+            "hash": "1f603bfd26c3daef6a34a7453679ebff9f1c66b5478b35b41abc8654a97ae868",
+            "boundary": "0000000000006e64ef05c9d8cc38"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "fd9240215@gmail.com",
+        "to": [],
+        "date": "2021-08-18T18:30:29+01:00",
+        "received_domain": [
+            "mail-io1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.49"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

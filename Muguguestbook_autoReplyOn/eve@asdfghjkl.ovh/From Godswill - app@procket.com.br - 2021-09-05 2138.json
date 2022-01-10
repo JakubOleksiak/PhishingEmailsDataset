@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "This funds are already in Canada,\r\nMy name is God'swill Kietha and i\r\nam the  only child of Chief James Kietha a rich and famous man who\r\ndied Febuary 17th  2020, \r\nI am 17 years old,after his death we\r\ndiscovered he had large sum of money now we have been able to have\r\naccess to this bank but i cannot collect this money until when i am\r\n21years old but can get someone who will be able to receive this money\r\nfor investment and help us to build our lives again,\r\nThis is strictly bank to bank transaction I will be very glad if you can accept this\r\noffer as we will work together to acheive success\r\n Please kindly\r\nrespond for further details\r\nLooking forward to hearing from you\r\nRegards\r\nGodswill\r\n",
+            "content_type": "text/plain",
+            "hash": "e440f2263593dc568fcb639d57f1e4270859f617a284f9c0836f13472a3500d0"
+        }
+    ],
+    "header": {
+        "subject": "From Godswill",
+        "from": "app@procket.com.br",
+        "to": [
+            "app@procket.com.br"
+        ],
+        "date": "2021-09-05T20:38:32+01:00",
+        "received_domain": [
+            "mailhostsvr.jo.zain.com"
+        ],
+        "received_ip": [
+            "188.247.86.1",
+            "154.118.9.139"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

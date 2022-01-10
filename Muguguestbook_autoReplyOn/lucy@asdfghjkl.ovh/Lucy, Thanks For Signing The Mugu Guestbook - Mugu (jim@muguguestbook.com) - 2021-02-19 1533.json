@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://muguguestbook.com/do?remove=T6lkzYXWtPK",
+                "https://muguguestbook.com"
+            ],
+            "domain": [
+                "muguguestbook.com"
+            ],
+            "ip": [
+                "83.9.154.50"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi Lucy,\r\n\r\nThis is to confirm that you've just posted a message at https://muguguestbook.com\r\n\r\n... from IP address 83.9.154.50\r\n\r\n--------------------\r\nZa Narnie!\r\n--------------------\r\n\r\nYou will soon start receiving crappy offers for loans, gold investments, abandoned trunks full of cash, lost inheritances etc.\r\n\r\nYou can click this link to remove the post at any time:\r\n\r\nhttps://muguguestbook.com/do?remove=T6lkzYXWtPK\r\n\r\nOr just reply to this email to contact a human.\r\n\r\n** HOT TIP **\r\nPosting here has given you a good start but if you reply to as many of those offers as possible then you'll find more and more arriving over time.\r\n\r\n** FAQ: HOW LONG TILL THE FIRST OFFER? **\r\nI get asked this all the time. Sorry, this site does not send them out so I have no idea. I've heard that people start getting them within hours sometimes but it depends on how diligent our esteemed friends are feeling today. Anyway, if you're asking this question then I understand your eagerness to get started but you're in the wrong frame of mind. When entering into these transactions you will be constantly pestered, hassled and hurried but you must proceed as slowly and patiently as humanly possible, so start now as you mean to go on. This is a marathon, not a sprint.\r\n",
+            "content_type": "text/plain",
+            "hash": "1f0f1addd7d7765a8d1862f67eaf4720e0193f71201e37f37437d7c1087ec119"
+        }
+    ],
+    "header": {
+        "subject": "Lucy, Thanks For Signing The Mugu Guestbook",
+        "from": "jim@muguguestbook.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-02-19T14:33:50+00:00",
+        "received_email": [
+            "jim@muguguestbook.com"
+        ],
+        "received_domain": [
+            "deadlock.com"
+        ],
+        "received_ip": [
+            "208.73.202.134"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

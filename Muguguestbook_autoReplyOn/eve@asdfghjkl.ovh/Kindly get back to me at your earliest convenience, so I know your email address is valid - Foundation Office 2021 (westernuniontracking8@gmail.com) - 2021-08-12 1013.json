@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nMy name is Amancio Ortega, a philanthropist and the founder of The\r\nAtlantic Philanthropies, one of the largest private foundations in the\r\nworld. I believe strongly in \u2018giving while living.\u2019 I had one idea that\r\nnever changed in my mind ? that you should use your wealth to help people\r\nand I have decided to give USD$37.9Million to randomly selected individuals\r\nworldwide. you should count yourself as the lucky individual. Your email\r\naddress was chosen online while searching at random. Kindly get back to me\r\nat your earliest convenience, so I know your email address is valid.\r\nRegards,\r\nAmancio Ortega\r\n",
+            "content_type": "text/plain",
+            "hash": "987408d61badbeb8136143bee00aad776a1c4799c6bdcf9a3681a4a6d23aad73",
+            "boundary": "00000000000086858605c95850c4"
+        }
+    ],
+    "header": {
+        "subject": "Kindly get back to me at your earliest convenience, so I know your email address is valid",
+        "from": "westernuniontracking8@gmail.com",
+        "to": [],
+        "date": "2021-08-12T03:13:25-05:00",
+        "received_domain": [
+            "mail-qk1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.172"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

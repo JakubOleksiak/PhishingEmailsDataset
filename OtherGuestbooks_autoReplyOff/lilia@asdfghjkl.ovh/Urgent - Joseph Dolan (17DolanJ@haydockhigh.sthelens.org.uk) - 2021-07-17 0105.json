@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\nDear Sir/Madam,\r\n\r\nGood day to you. I hope this email meets you well and you are keeping safe?\r\n\r\n I'm writing you as a consultant of a company who is looking for representatives.\r\n\r\n  Due to the  global pandemic affecting  businesses and individuals around the globe, they have structured a financial package to help companies and individuals get started again.\r\n\r\nThey are in direct contact with a group of private investors with huge portfolios, who are prepared, willing and able to provide non-recourse loans for companies or individuals who are able to provide or meet the requirements.\r\n\r\n If you are interested, please send us a brief summary of your project for possible approval.\r\n\r\n Best Regards.\r\n________________________________________ This e-mail and any file transmitted with it are confidential, subject to copyright and intended solely for the use of the individual or entity to whom they are addressed. It may contain privileged information. Any unauthorised review, use, disclosure, distribution or publication is prohibited. If you have received this e-mail in error please contact the sender by reply e-mail and destroy and delete the message and all copies from your computer. The information contained in this email may be subject to public disclosure under the Freedom of Information Act 2000 or other legal duty. Any views or opinions expressed within this email are those of the author and may not necessarily reflect those of the school. No contractual arrangement is intended to arise from this communication.\r\n",
+            "content_type": "text/plain",
+            "hash": "aa80d09dae2eabfa8c88132233f8bfc475d42d97b0a6df01f1577ef8e07eae5f",
+            "boundary": "_000_LNXP123MB2618AC6D2D4AC9340CE58834D7119LNXP123MB2618GBRP_"
+        }
+    ],
+    "header": {
+        "subject": "Urgent",
+        "from": "17dolanj@haydockhigh.sthelens.org.uk",
+        "to": [],
+        "date": "2021-07-16T23:05:36+00:00",
+        "received_domain": [
+            "gbr01-cwl-obe.outbound.protection.outlook.com",
+            "loyp123mb3421.gbrp123.prod.outlook.com",
+            "lnxp123mb2618.gbrp123.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10a6:600:dd::21",
+            "2603:10a6:600:119::10",
+            "40.107.11.138"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "million.the"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Mr.Ibrahim Ayuba.\r\nPrincipal Accountant\r\nFederal Ministry of Aviation\r\n\r\nDear Friend,\r\n\r\nI hope this mail will reach you in the best of health and business conditions and receive the most desired attention from you even as we have not had any previous correspondence before.I am constrained by insufficient information about you to express in full the main objectives of this proposal. However, kindly get back to me immediately for details should be given you if you agree to its content.\r\n\r\nMy colleagues and I would like to solicit your kindness in assisting us to execute the transfer of some fund from our country to your country for safe keeping. The total amount of fund is $23.8 Million.The source of this fund will be disclosed to you as soon as your positive response is received to this effect.\r\n\r\nI am a principal accountant to the Nigerian Ministry of Aviation, and the Chairman to the Federal Tenders' Board in charge of contract award and monitoring in Nigeria. Basically, you would be required to nominate a suitable bank account that will conveniently accommodate the total fund. Account could be a fresh or an already existing one, and could be individual or corporate account.\r\n\r\nOn completion of the transaction, you shall have a benefit of 30% of the fund for your envisaged efforts and assistance rendered. 10% shall be used to settle any expenses both you and I shall make at the course of this transaction. Details of this proposal will be sent to you as soon as your response is received.Meanwhile send us the following information:\r\n\r\nYour full names and home address\r\nYour direct phone/fax numbers\r\nYour company name and address if any\r\nYour bank details\r\n\r\nThis proposal is strictly confidential, free from any form of risk and does not depend on any particular field of trade to prosecute. It however requires your adequate participation and support to enable its accomplishment on schedule.Thanks in anticipation.\r\n\r\n\r\nBest regards.\r\nMr.Ibrahim Ayuba.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "eb7d04749d8c6c51c3ed36bd969f8886b65eddd36b0d2cb9bf04d1539049d4c6"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend, your cooperation is needed from Federal Ministry of Aviation. ",
+        "from": "info@moa.org",
+        "to": [
+            "info@moa.org"
+        ],
+        "date": "2021-04-23T03:23:41+01:00",
+        "received_domain": [
+            "seishincatalog.jp"
+        ],
+        "received_ip": [
+            "41.217.53.46",
+            "133.125.63.238"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

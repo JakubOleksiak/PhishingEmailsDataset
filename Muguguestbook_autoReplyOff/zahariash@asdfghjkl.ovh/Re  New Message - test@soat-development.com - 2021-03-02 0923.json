@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello,\r\n\r\nDid you get my email ?\r\n\r\nThank you.\r\n",
+            "content_type": "text/plain",
+            "hash": "2bdf9600dfba84f7e119af79928ae7d032936a4894832da8041b2efed2836eee"
+        }
+    ],
+    "header": {
+        "subject": "Re: New Message",
+        "from": "test@soat-development.com",
+        "to": [
+            "test@soat-development.com"
+        ],
+        "date": "2021-03-02T17:23:03+09:00",
+        "received_domain": [
+            "desktop-99ga5kk.zuku.co.ke",
+            "soat-development.com"
+        ],
+        "received_ip": [
+            "45.117.210.137",
+            "197.237.209.88"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Welsh"
+    }
+}

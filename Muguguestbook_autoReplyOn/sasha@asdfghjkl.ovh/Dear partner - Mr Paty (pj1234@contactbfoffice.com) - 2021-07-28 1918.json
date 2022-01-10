@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-transfer-encoding": [
+                    "7bit"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\""
+                ]
+            },
+            "content": "Dear partner \r\n\r\nMy name is Mr. Paty Jerry. I am working with one of the prime banks in\r\nBurkina Faso. Here in this bank existed a dormant account for many\r\nyears, which belonged to one of our late foreign customers. The amount\r\nin this account stands at $25,500,000.00 (Twenty Five Million Five\r\nHundred Thousand US Dollars).\r\n\r\nI want a foreign account where the bank will transfer this fund. I know\r\nyou would be surprised to read this message, especially from someone\r\nrelatively unknown to you. But, do not worry yourself so much.\r\n\r\nThis is a genuine, risk free and legal business transaction. Reply back\r\nto me urgently, if you are interested.\r\n\r\nAll details shall be sent to you once I hear from you.\r\n\r\nBest regards,\r\nMr. Paty Jerry\r\nEmail:Patyjerry77@yandex.com",
+            "content_type": "text/plain",
+            "hash": "6a704133a46e23fa28bfd611ef8d3779ffb52a93d94a4572ce4d570d1d34cdc6",
+            "boundary": "=_e8dca8b1f5cb8f2d1f6e694bd23a5968"
+        }
+    ],
+    "header": {
+        "subject": "Dear partner",
+        "from": "pj1234@contactbfoffice.com",
+        "to": [],
+        "date": "2021-07-28T10:18:01-07:00",
+        "received_domain": [
+            "emailmg.homestead.com",
+            "bosmailscan01.eigbox.net",
+            "bosmailout02.eigbox.net",
+            "boswebmail08.eigbox.net"
+        ],
+        "received_ip": [
+            "66.96.185.2",
+            "41.203.239.125"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello dear if you are really interested mail me i will introduce\r\nmyself better to you and tell you why i contact you.\r\n",
+            "content_type": "text/plain",
+            "hash": "3fc334132b5f13cb690887e918f6ef67284488bdcf13feeaa79ca9b9780b6aa6"
+        }
+    ],
+    "header": {
+        "subject": "HI",
+        "from": "mrscamillea11@gmail.com",
+        "to": [],
+        "date": "2021-03-23T09:00:44+00:00",
+        "received_domain": [
+            "mail-yb1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.196",
+            "2002:a25:ac0a::"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

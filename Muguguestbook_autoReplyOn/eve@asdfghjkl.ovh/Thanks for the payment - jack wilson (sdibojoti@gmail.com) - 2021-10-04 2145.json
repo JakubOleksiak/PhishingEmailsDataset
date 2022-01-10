@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "*PAYMENT SUCCESSFUL*\r\n\r\nHello elissa loretz,\r\n\r\nWe\u2019re sending this email to confirm that your payment for NordVPN is\r\nsuccessful.\r\n\r\n\r\n*INVOICE: ZXAA221AMOUNT: $389.00*\r\n\r\n\r\n\r\n\r\n\r\n*ID*\r\n\r\n*DESCRIPTION*\r\n\r\n*Qty*\r\n\r\n*Price*\r\n\r\n*  TOTAL*\r\n\r\n1\r\n\r\n*Nord VPN*\r\n\r\n1\r\n\r\n*$389.00*\r\n\r\n*$389.00*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThe Transaction will take a while to appear on your Statement.\r\n\r\n\r\n*NOTE: IF you have not place this order and would like to cancel before\r\ndispatch please reachus on *+1 (916) \u2013 (888) \u2013 (7951)\r\n\r\n\r\n*This message is confidential and/or contains legally privileged\r\ninformation. It is intended forthis address only.*\r\n\r\n*Terms & Conditions:*\r\n\r\nAny amendments or addition or alterations to the Order shall only be\r\neffective if the Purchaser\r\nConfirms it through email or calling out support Number.\r\n\r\n\r\n\r\nHelpline no : +1 (916) \u2013 (888) \u2013 (7951)\r\n\r\n\r\n\r\nThank You\r\nJack Wilson\r\nSenior Manager,\r\n\r\n*Pay Pal*\r\n\r\nNote: Please do not reply to this email. Emails sent to this address will\r\nnot be answered.\r\n\r\nWe are available from 10am to 11pm EST.\r\n",
+            "content_type": "text/plain",
+            "hash": "5d5adf34c5b6be7e7db2576cabaa1818b9715552a27f3da6a7a0d10025017d0a",
+            "boundary": "0000000000002b20f305cd8c274c"
+        }
+    ],
+    "header": {
+        "subject": "Thanks for the payment",
+        "from": "sdibojoti@gmail.com",
+        "to": [],
+        "date": "2021-10-05T01:15:04+05:30",
+        "received_domain": [
+            "mail-ua1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.66"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

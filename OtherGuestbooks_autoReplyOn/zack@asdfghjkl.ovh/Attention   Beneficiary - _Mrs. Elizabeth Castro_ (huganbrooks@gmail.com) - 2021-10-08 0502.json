@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "elizabethcastro6453@gmail.com"
+            ],
+            "domain": [
+                "000.00"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Attention : Beneficiary\r\n\r\nThis is to officially inform you that we have been having a meeting for the\r\npast Seven month which ended Two days ago with Dr. Robert B. Rollick the\r\nWorld Bank President and Hon. Mrs. Christine Laggard (IMF) Director\r\nGeneral, in the meeting we treated on Scam victim problems.\r\nThe UN Compensation Commission (UNCC) on recommendations of International\r\nMonitoring Group (IMG) have agreed to compensate you with the sum of One\r\nmillion two Hundred Thousand Dollars (USD$1.200, 000.00) this also includes\r\ninternational businesses that failed due to Government problems etc?\r\nWe have arranged your payment through ATM VISA CARD or direct transfer\r\ninto your bank account which is the latest instruction from World Bank\r\nGroup.\r\n\r\nContact us with your details as shown below for further instruction to\r\nemail address : elizabethcastro6453@gmail.com,\r\n\r\n1. Full Name:.........\r\n2. Country:........\r\n3. Address:..........\r\n4. Telephone:..............& Occupation.......\r\n5. Your Age...... /Sex..........\r\n\r\n\r\nThanks\r\nMrs. Elizabeth Castro\r\nCC: Hon. Mrs. Christine Lagarde\r\nCC: World Bank Group\r\nCC: Mr. Ant\u00f3nio Guterres Secretary-General\r\n",
+            "content_type": "text/plain",
+            "hash": "8c4da7dfb20476adb94cd7b09ebf1e1d103611565a8d78f66c7f4878b9816b2a",
+            "boundary": "000000000000583e6405cdce9ca7"
+        }
+    ],
+    "header": {
+        "subject": "Attention : Beneficiary",
+        "from": "huganbrooks@gmail.com",
+        "to": [],
+        "date": "2021-10-08T04:02:22+01:00",
+        "received_domain": [
+            "mail-qk1-f176.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.176"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

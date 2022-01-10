@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "country.if"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Good Day.\r\n\r\nI represent an investor seeking`to invest through you,in any lucrative\r\ninvestment in your country.If you have a solid background and\r\nidea/capacity of making good profit in any  business.\r\n\r\nWe are writing to seek your highly esteemed help/ consent in a lasting\r\nbusiness relationship of mutual benefits for investing in your company\r\n/country under a joint venture partnership. I'm willing to provide\r\ninvesting capital with terms that cedes considerable swift equity\r\nshare to you as managerial dividends.\r\n\r\nKindly get back to me for more details.\r\n\r\nBest Regards,\r\nMr Andrew Smith\r\n",
+            "content_type": "text/plain",
+            "hash": "b9ef2ba5fbbf2c93c5ac34862484b342592a37c894aa708c5a8216fc686e5f71"
+        }
+    ],
+    "header": {
+        "subject": "Good Day,",
+        "from": "smithandrewbr@gmail.com",
+        "to": [],
+        "date": "2021-05-31T21:06:30+01:00",
+        "received_domain": [
+            "mail-lf1-f45.google.com"
+        ],
+        "received_ip": [
+            "2002:a19:fc06::",
+            "209.85.167.45"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

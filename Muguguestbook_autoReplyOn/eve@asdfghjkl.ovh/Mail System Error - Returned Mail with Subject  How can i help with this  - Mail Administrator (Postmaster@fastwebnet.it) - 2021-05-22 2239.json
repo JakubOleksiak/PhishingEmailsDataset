@@ -1,0 +1,126 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1931,
+            "hash": {
+                "md5": "2e45ae3f4e514baf1461bc6550cfc82a",
+                "sha1": "22c1adc31909291755b604ca34934b3bcd0bba2d",
+                "sha256": "ba7f81319ee7c4e51d77cf36827eafad7e9609c195e60570b5517e93cf8e08e2",
+                "sha512": "85cf29083eaeaa69c65996830b53fabe5791cd08576db058c940e07f7785db1ce484399af95ad695b450abf312749741cab80d12d6b1e046dc635ba9838e5c04"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "info@fastwebnet.it",
+                "postmaster@fastwebnet.it"
+            ],
+            "domain": [
+                "fastwebnet.it"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain"
+                ]
+            },
+            "content": "This Message was undeliverable due to the following reason:\r\n\r\nThe user(s) account is temporarily over quota.\r\n\r\n<info@fastwebnet.it>\r\n\r\nPlease reply to <Postmaster@fastwebnet.it>\r\nif you feel this message to be in error.\r\n",
+            "content_type": "text/plain",
+            "hash": "9540c17390071eadcb3b71c51a27eaac2bb96fc2e17a8cd907e9d379e55ec447",
+            "boundary": "===========================_ _= 7338950(1240)1621715951"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "RFC822; <info@fastwebnet.it>"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "4.2.4"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "received": [
+                    "from mcpmx011msr.fastwebnet.it ([10.31.174.239]) by 192.168.72.81          (InterMail vM.9.07.03.00 201-2473-138-3) with ESMTP          id <20210522203911.ISXE1240.192.168.72.81@mcpmx011msr.fastwebnet.it>          for <info@fastwebnet.it>; Sat, 22 May 2021 20:39:11 +0000",
+                    "from DESKTOP-9AVSAIR (185.25.217.220) by mcpmx011msr.fastwebnet.it (5.8.715.01)        id 608124A701E14576 for info@fastwebnet.it; Sat, 22 May 2021 22:39:11 +0200"
+                ],
+                "received-spf": [
+                    "none (mcpmx011msr.fastwebnet.it: domain asdfghjkl.ovh does not designate permitted sender hosts) identity=mailfrom; receiver=mcpmx011msr.fastwebnet.it; client-ip=185.25.217.220; envelope-from=eve@asdfghjkl.ovh; helo=DESKTOP-9AVSAIR;"
+                ],
+                "x-razorgate-vade": [
+                    "gggruggvucftvghtrhhoucdtuddrgeduledrvdejhedgudehfecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfhtefuvfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurheptgggkfffhffvuffgsehtqhhmtddttdejnecuhfhrohhmpegvvhgvsegrshgufhhghhhjkhhlrdhovhhhnecuggftrfgrthhtvghrnheptdffiefguedvieehtdeugeeigffghfeugfdvkeelvdeifeekuedugeelgfevjeeinecukfhppedukeehrddvhedrvddujedrvddvtdenucevlhhushhtvghrufhiiigvpedtnecurfgrrhgrmhephhgvlhhopeffgffumffvqffrqdelteggufetkfftpdhinhgvthepudekhedrvdehrddvudejrddvvddtpdhmrghilhhfrhhomhepvghvvgesrghsughfghhhjhhklhdrohhvhhdprhgtphhtthhopehinhhfohesfhgrshhtfigvsghnvghtrdhith"
+                ],
+                "x-razorgate-vade-verdict": [
+                    "clean 0"
+                ],
+                "x-razorgate-vade-classification": [
+                    "clean"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<F5F3E380-E6EA-4E96-B254-3BDF129262DD@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Sat, 22 May 2021 22:38:39 +0200"
+                ],
+                "from": [
+                    "eve@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "info@fastwebnet.it"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nEve\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "76ce2c4ebd3b59378f13ade0c96d812ab8a0b72320d8d7269fd3368c43630a3c"
+        }
+    ],
+    "header": {
+        "subject": "Mail System Error - Returned Mail with Subject: How can i help with this?",
+        "from": "postmaster@fastwebnet.it",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-22T20:39:11+00:00",
+        "received_domain": [
+            "mcpmr011msr.fastwebnet.it"
+        ],
+        "received_ip": [
+            "85.18.95.64"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

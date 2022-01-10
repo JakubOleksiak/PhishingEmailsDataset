@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Congratulations!!\r\n\r\nWe have tried contacting you severally, you have been chosen for our Humanitarian project and will now get a donation of 1 million Euros . Get back to me at ASAP if you receive this email for more details and processing of claims .\r\n\r\nBest Regards,\r\nThe Connollys\r\nCopyright \u00a9?2021 The Connolly Charity. \r\nAll Rights Reserved.\r\n",
+            "content_type": "text/plain",
+            "hash": "0997c2abe0b120704eef7895101e078d2d298463c63877279914eb4f3741d518"
+        }
+    ],
+    "header": {
+        "subject": "YOU HAVE A GIFT",
+        "from": "maja@reprotrust.com.mk",
+        "to": [
+            "maja@reprotrust.com.mk"
+        ],
+        "date": "2021-03-23T15:56:17+01:00",
+        "received_domain": [
+            "repro-dc.reprotrust.com.mk"
+        ],
+        "received_ip": [
+            "154.120.125.54",
+            "80.77.147.33"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

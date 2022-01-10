@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi ,\r\nMy Name is Roselyn Morris, I am a professional Web designer/Developer; I can upgrade, Repair and Redesign your Website. Would you be interested in: -\r\nWe Provides SEO services at a minimum cost, May I send you quote? If interested\r\nThanks\r\nRegards\r\nRoselyn Morris,\r\nBusiness Development Consultant\r\n",
+            "content_type": "text/plain",
+            "hash": "fc93af2f7b01e2f0f2db19d3c31ed50d8a54d1cf2fc0f8642c36abc95d11236a",
+            "boundary": "_000_TYZPR06MB4174F5010F993DCE913E97A997799TYZPR06MB4174apcp_"
+        }
+    ],
+    "header": {
+        "subject": "Re: Web designer/Developer",
+        "from": "roselynmorris123@hotmail.com",
+        "to": [],
+        "date": "2021-04-03T10:47:06+00:00",
+        "received_domain": [
+            "tyzpr06mb4174.apcprd06.prod.outlook.com",
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "ty2pr06mb3392.apcprd06.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:404:96::11",
+            "2603:1096:400:20::7",
+            "40.92.255.49"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

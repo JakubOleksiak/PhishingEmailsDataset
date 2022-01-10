@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Greetings! To You\r\nMr. Joe is my name; I work in a Bank here in Benin. And I personally handles transactions of Mr. Martin Quick who eventually died on the 5th of February 2018 from injuries sustained in road accident that happened 3 years ago.\r\n\r\nPrior to his death, Mr. Martin Quick lived and Work in Benin Republic and was doing Contracting with Benin Energy dept. He has (Four million, three hundred thousand Euros) in a fixed account with the bank with no other beneficiary.\r\n\r\nNow i write to seek your consent to present you as a oversea based partner to stand in as next of kin to the late Mr. Martin Quick. Let me know if it is ok to work with you.\r\n\r\nMy best Regards\r\nMr. Joe.\r\n",
+            "content_type": "text/plain",
+            "hash": "b6ebd87562c7fd6adb75f85c5eca5d376f94ab78db26a3d2c8dc804ff25d2d91",
+            "boundary": "_000_AM6PR03MB46945F86CDD9B151C28B810BB4049AM6PR03MB4694eurp_"
+        }
+    ],
+    "header": {
+        "subject": "Important Message",
+        "from": "jclmaky@hotmail.com",
+        "to": [
+            "jk001011@hotmail.com"
+        ],
+        "date": "2021-06-27T13:42:55+00:00",
+        "received_domain": [
+            "eur05-am6-obe.outbound.protection.outlook.com",
+            "am7pr03mb6327.eurprd03.prod.outlook.com",
+            "am6pr03mb4694.eurprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10a6:20b:137::23",
+            "40.92.91.106",
+            "2603:10a6:20b:8::31"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

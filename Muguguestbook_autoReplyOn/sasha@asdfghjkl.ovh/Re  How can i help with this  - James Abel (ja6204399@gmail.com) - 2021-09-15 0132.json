@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "domain": [
+                "www.centturioncapital.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Sasha,\r\n\r\nThank you for your prompt response. I am a fiduciary agent to an asset\r\nmanagement and finance firm based in London,  united kingdom.\r\n(www.centturioncapital.com )\r\n\r\n We are seeking a long term investment partnership with an impressive\r\nROI on investor share value.\r\n\r\nIf interested, do send me the following to enable me forward to the\r\nmanagement for a detailed review.\r\n\r\n1. Name in full\r\n2. Name of registered\r\n    company and your\r\n    position in the company.\r\n3. Amount of financing\r\n    requesting for.\r\n4. Country of origin\r\n5. Mobile telephone number.\r\n\r\nRegards,\r\n\r\nJames\r\n\r\n\r\n\r\nOn 9/14/21, James Abel <kennedyantonio33@gmail.com> wrote:\r\n> ---------- Forwarded message ----------\r\n> From: sasha@asdfghjkl.ovh\r\n> Date: Tue, 14 Sep 2021 17:14:21 +0200\r\n> Subject: How can i help with this?\r\n> To: kennedyantonio33@gmail.com\r\n>\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Sasha\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "fd833aabdf5112a15835b741e49fcf29d9f8bd29332910d8e93812460a133504"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "ja6204399@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-15T07:32:02+08:00",
+        "received_domain": [
+            "mail-ed1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.50",
+            "2002:a05:651c:2126::"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

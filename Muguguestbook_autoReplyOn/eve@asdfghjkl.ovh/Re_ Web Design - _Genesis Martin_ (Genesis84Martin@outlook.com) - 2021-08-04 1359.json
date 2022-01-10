@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Eve\r\n\r\n \r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your site. I am a Web design / Developer that can do\r\njust about anything you can imagine at very affordable prices. May I send\r\nyou a quote? If interested\r\n\r\n \r\n\r\n.         IPhone and Android Apps\r\n\r\n.         Website Redesign\r\n\r\n.         Web Development\r\n\r\n.         E-Commerce & Graphic Design\r\n\r\nThanks\r\n\r\nGenesis\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "4898b18366a09d6ddd2aaff67a487a3b79120149ff87d7f4fb380cf219b3c65b",
+            "boundary": "----=_NextPart_000_3D5F_01D78957.4E269370"
+        }
+    ],
+    "header": {
+        "subject": "Re; Web Design",
+        "from": "genesis84martin@outlook.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T17:29:46+05:30",
+        "received_domain": [
+            "psxp216ca0072.korp216.prod.outlook.com",
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "psxp216ca0072.outlook.office365.com",
+            "pn2pr01ca0060.indprd01.prod.outlook.com",
+            "pu1apc01ft003.eop-apc01.prod.protection.outlook.com",
+            "pu1apc01ft003.mail.protection.outlook.com",
+            "tycpr01mb6653.jpnprd01.prod.outlook.com",
+            "hk2pr01mb3395.apcprd01.prod.exchangelabs.com"
+        ],
+        "received_ip": [
+            "2603:1096:300:6::34",
+            "2603:1096:202:26::10",
+            "2a01:111:e400:7ebe::95",
+            "2401:4900:1f38:e7a:584b:14cb:a147:cdfa",
+            "2a01:111:e400:7ebe::48",
+            "2603:1096:c01:22::35",
+            "2603:1096:300:6:cafe::ed",
+            "40.92.255.42"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "attachment": [
+        {
+            "filename": "GRACE MUGABE.docx",
+            "size": 13343,
+            "extension": "docx",
+            "hash": {
+                "md5": "e52cc9959ee0ab829fb07c3fea821812",
+                "sha1": "001c952266d56b787c69482dc35c9e4e44ff6007",
+                "sha256": "57463e06e6e718cac7e48efc5fc6955523d60227c4a7c1392ce55c0d9735ab8a",
+                "sha512": "107aa123f9dff88ae4fc1570c02eaec92424b2d3498b5f267fa0c2fecdbd50a4c47bfcd1cb77bedd66d52b424e49b7f9cc9366b61b19c2b3e54010c7a7ab7562"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"GRACE MUGABE.docx\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"GRACE MUGABE.docx\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "file0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "FIND ATTACHED COPY OF MY PRESENTATION\r\nIF IT SUIT YOU TO WORT WITH, LETS PARTNER\r\n\r\nFROM GRACE MUGABE\r\nHARARE\r\nZIMBABWE\r\n",
+            "content_type": "text/plain",
+            "hash": "b48bd19bb13a89ce1968e7cc5301f5002c0af297cdba880e4f52d9d5f20ca912",
+            "boundary": "000000000000094c3d05c294e0ac"
+        }
+    ],
+    "header": {
+        "subject": "FROM MRS. GRACE MUGABE",
+        "from": "jomoyofamily@gmail.com",
+        "to": [],
+        "date": "2021-05-17T23:32:32-07:00",
+        "received_domain": [
+            "mail-ot1-f42.google.com"
+        ],
+        "received_ip": [
+            "2002:ab0:63d4::",
+            "209.85.210.42"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

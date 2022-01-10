@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "barralexand101@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "hello\r\n\r\nOn Fri, Sep 24, 2021 at 5:37 PM Terry Herschberger <barralexand101@gmail.com>\r\nwrote:\r\n\r\n> Hello\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "1de782663fb67dc0dbf301a3d43960ba91bf29f21c2f0692a34fca394b85519c",
+            "boundary": "00000000000083065c05cd409080"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "barralexand101@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-01T02:34:18+01:00",
+        "received_domain": [
+            "mail-pg1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.172"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/1999/xhtml",
+                "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+            ],
+            "domain": [
+                "www.w3.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\"><head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"/>\r\n </head><body style=\"font-family: arial,helvetica,sans-serif; font-size: 13pt\"><p>Hello,</p><p>Is it convenient for me to write you through this email? .</p><p>Because i have an urgent deal that will benefit you so much, because of your SURNAME.</p><p>Kindly get back to me for more details.</p><p>Regards<br>Johan Boomsma</p></body></html>\r\n",
+            "content_type": "text/html",
+            "hash": "5d0fdaf9a4ccceb900b55d84fa6597cf9ac8344504785c62eb2b4229a9de1d9b"
+        }
+    ],
+    "header": {
+        "subject": "It is very urgent!",
+        "from": "mimi-top@orange.fr",
+        "to": [],
+        "date": "2021-03-16T08:18:40+01:00",
+        "received_domain": [
+            "opme11oxm14aub.bagnolet.francetelecom.fr",
+            "smtp.smtpout.orange.fr"
+        ],
+        "received_ip": [
+            "80.12.242.133"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

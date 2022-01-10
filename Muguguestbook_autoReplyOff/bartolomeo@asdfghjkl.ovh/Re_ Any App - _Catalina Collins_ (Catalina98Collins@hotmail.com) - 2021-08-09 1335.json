@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi,Bartolomeo      \r\n\r\nI am working with experienced IT professionals who are into:\r\n\r\n.         Shopping App\r\n\r\n.         Fitness App\r\n\r\n.         Restaurant App\r\n\r\n.         Food & Drink App\r\n\r\n.         E-Commerce App\r\n\r\n.         IPhone and iPad Apps\r\n\r\nPlease tell me what type of App development you need, please share your\r\nRequirement with contact details for more discussion.\r\n\r\nThanks & Regards,\r\n\r\ncatalina\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "11c47d9c4bd011baf701bee473a76cdbd2b22032b93fffab36bdb434b6591f82",
+            "boundary": "----=_NextPart_000_2658_01D78D41.D6065990"
+        }
+    ],
+    "header": {
+        "subject": "Re; Any App",
+        "from": "catalina98collins@hotmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-09T17:05:59+05:30",
+        "received_domain": [
+            "tyzpr06mb4415.apcprd06.prod.outlook.com",
+            "bmxpr01ca0071.indprd01.prod.outlook.com",
+            "jpn01-os2-obe.outbound.protection.outlook.com",
+            "tyapr06mb2318.apcprd06.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:b00:2c::35",
+            "2603:1096:404:24::19",
+            "2401:4900:1f38:5e87:c97:12e1:6a2b:1a44",
+            "2603:1096:400:64::11",
+            "104.47.92.147"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

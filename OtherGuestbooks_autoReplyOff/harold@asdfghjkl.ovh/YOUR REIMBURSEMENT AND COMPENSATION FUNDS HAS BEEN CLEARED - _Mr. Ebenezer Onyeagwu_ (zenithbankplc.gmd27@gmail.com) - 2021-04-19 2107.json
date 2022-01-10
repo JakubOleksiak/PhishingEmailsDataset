@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir / Madam,\r\n\r\nYour long outstanding funds totaling Ten Million and Five Hundred Thousand United States Dollars Only($10,500,000.00) held by various Banks, Courier and Security Companies has been cleared. You are hereby advised to stop further communication with any Person or Persons, Bank or Banks, Organization or Organizations with respect to your transaction as your fund will be transferred to you directly from our source. I hope this is clear. Any action contrary to this instruction is at your own risk.\r\n\r\nReconfirm your details, such as your\r\n\r\n1. Name:\r\n2. Address:\r\n3. Occupation:\r\n 4. Telephone Number:\r\n\r\nfor your funds claim.\r\n\r\nBest Regards,\r\n\r\nMr. Ebenezer Onyeagwu\r\nGroup Managing Director / CEO\r\nEmail: zenithbankplc.gmd@gmail.com\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "63876fa35cb90f425bcdd7755e084876532ca1f55124b99b564df38bd0e74d3b"
+        }
+    ],
+    "header": {
+        "subject": "YOUR REIMBURSEMENT AND COMPENSATION FUNDS HAS BEEN CLEARED",
+        "from": "zenithbankplc.gmd27@gmail.com",
+        "to": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "date": "2021-04-19T21:07:20+02:00",
+        "received_email": [
+            "zenithbankplc.gmd27@gmail.com"
+        ],
+        "received_domain": [
+            "splinter.esm.one"
+        ],
+        "received_ip": [
+            "148.251.179.194"
+        ],
+        "received_foremail": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "payments.ref"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nUNITED NATIONS 2021</DIV>\r\n<DIV>\r\nCOVID 19 RELIEF COMPENSATIONS</DIV>\r\n<DIV>\r\nPAYMENTS.REF/PAYMENTS CODE: 06654.</DIV>\r\n<DIV>\r\nAMOUNT $5,000,000.00 USD</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nAttn: Dear Sir/Madam</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nThis is just for reference purpose. This message was sent to you yesterday. This is a good and lasting solution from the IMF Remittance Department in conjunction with the United Nation on Covid-19 Economic Devastation Relief Package. They have made a provision for you to claim your relief Fund without much stress with the introduction of VISA debit cards to access your funds directly. Please reconfirm to us your full name, telephone number, Copy of your government issued identification and your current home address&nbsp; where to deliver this Debit card to you because your fund has been credited into your Debit card. You are only liable to apply for Certificate of Order with $500 only and all process will follow immediately. The processing will take 2 working days before your ATM Card can be dispatch to your Address. Once you Send the required fee today delivery will be done in 2 working days.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nNow be informed that this is the only fee you are adviced to pay and receive your Debit card. Please if you are not interested in receiving your debit card, please do not reply.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nRegards</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nMr. Jadiel F. Oliveira</DIV>\r\n<DIV>\r\nFunds &amp; Audit Dept.</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "5a8ac98445bc833fe3f72f7f2fd197ee181c185c6762867327b904068ad51027"
+        }
+    ],
+    "header": {
+        "subject": "COVID-19 RELIEF FUND DONATION",
+        "from": "admin@ptcl.net",
+        "to": [],
+        "date": "2021-08-26T17:40:11+01:00",
+        "received_domain": [
+            "isbsmtp.ptcl.net"
+        ],
+        "received_ip": [
+            "103.28.153.2",
+            "59.103.253.4"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "james.price84@shiftmail.com"
+            ],
+            "domain": [
+                "shiftmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": " You are receiving this notice via email because your email address is\r\namong the selected recipients/beneficiaries of $150,000.00 Dollars UN\r\nCOVID19 relief fund for individuals/organizations.\r\n\r\nContact James A Price of the Federal Reserve Bank of St. Louis to claim.\r\n\r\nRelief fund\r\n\r\nContact Name: James A Price\r\nSVP Payments and Funds Transactions\r\nFederal Reserve Bank of St. Louis\r\nPhone: (314) 900-8511\r\nEmail: james.price84@shiftmail.com\r\n\r\n\r\nThank you,\r\nRub\u00e9n Sarmiento\r\nPresident UN Funds Management Committee\r\nMember United Nations General Assembly\r\n",
+            "content_type": "text/plain",
+            "hash": "5a2ccd2540002dfe10fe1c70a85329df6b2c11b140da73d33c13751ede44d2bb",
+            "boundary": "000000000000a79a6805cbf4526b"
+        }
+    ],
+    "header": {
+        "subject": "Relief fund",
+        "from": "mw319693@gmail.com",
+        "to": [],
+        "date": "2021-09-14T06:11:21-07:00",
+        "received_domain": [
+            "mail-yb1-f174.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.174"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

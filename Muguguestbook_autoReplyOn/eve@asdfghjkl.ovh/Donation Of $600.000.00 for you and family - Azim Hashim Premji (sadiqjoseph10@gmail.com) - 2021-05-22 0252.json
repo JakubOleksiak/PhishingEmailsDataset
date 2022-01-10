@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "-- \r\nDonation Of $600.000.00 for you and family!\r\n\r\nCongratulations from the Azim Premji Philanthropies Foundation-India,\r\nwhere life changing opportunities and cash are given-out on a daily\r\nbasis! Our foundation/founder has indeed been a great Philanthropist\r\nto this generation and is truly committed to \u201cgiving while\r\nliving,\u201d.However, We are pleased to inform you that you are one (1) of\r\nthe lucky people to benefit and receive $600,000.00 USD from our\r\nfoundation\u2019s ongoing goodwill project, grant/donations program.\r\n\r\nIs this message sent to a valid e-mail account? Your email account was\r\nrandomly selected to receive a cash donation of $600,000.00 USD from\r\nthe Philanthropist. If this is a valid e-mail account, then click\r\nreply to contact us directly for comprehensive information.\r\n\r\nFor more details visit ( https://en.wikipedia.org/wiki/Azim_Premji )\r\nor Google Azim Premji.\r\n\r\nSincerely,\r\n\r\nDileep Ranjekar,\r\nCEO, Azim Premji Foundation\r\n",
+            "content_type": "text/plain",
+            "hash": "c6fc6f3f7ca2947d8e14e69b8c7a7a881bfe9466851542c11ffc69762e6dc428"
+        }
+    ],
+    "header": {
+        "subject": "Donation Of $600.000.00 for you and family",
+        "from": "sadiqjoseph10@gmail.com",
+        "to": [],
+        "date": "2021-05-21T17:52:24-07:00",
+        "received_domain": [
+            "mail-yb1-f176.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6838:7863::",
+            "209.85.219.176"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

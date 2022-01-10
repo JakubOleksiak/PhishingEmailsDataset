@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Olya,\r\n\r\nAre you looking for a reliable, creative and experienced team for Web Design\r\n& Mobile Apps development? We specialize in:-\r\n\r\n.       Business App & Websites\r\n\r\n.       Website Design / Redesign\r\n\r\n.       PHP | SEO | Word press |.Net\r\n\r\nLet me know what you think.\r\n\r\nFeel free to contact me in case of any enquiry. If interested?\r\n\r\nThank you,\r\n\r\nJack \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "54c02d179a896f82a0985bfa4c092157c8aa933ad9e3a4533e3af2742ae87b9d",
+            "boundary": "----=_NextPart_000_1799_01D7A4E2.7746C5D0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Development Services #",
+        "from": "jack.butler09@hotmail.com",
+        "to": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-08T18:46:20+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "pn3pr01ca0117.indprd01.prod.outlook.com",
+            "sl2pr03mb4121.apcprd03.prod.outlook.com",
+            "sl2pr03mb4204.apcprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:100:53::15",
+            "40.92.254.80",
+            "122.161.52.143",
+            "2603:1096:100:4a::9",
+            "2603:1096:c01:96::21"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

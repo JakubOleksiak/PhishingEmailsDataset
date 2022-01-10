@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "habibrania15@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Apply For Loan At 3% Interest Rate. Contact Us Now at habibrania15@gmail.com",
+            "content_type": "text/plain",
+            "hash": "1f5bdb6b03e9f76d4fb0686e79e9200cb9b32058e08f5adc9e57746e7dba2a2f",
+            "boundary": "=_3d08f9a4-a4e3-4273-a1a6-c85f73bbb3f7"
+        }
+    ],
+    "header": {
+        "subject": "Loan at 3%",
+        "from": "supman@nrz.co.zw",
+        "to": [],
+        "date": "2021-08-07T13:08:51+02:00",
+        "received_domain": [
+            "alvin.ai.co.zw",
+            "mail.nrz.co.zw"
+        ],
+        "received_ip": [
+            "41.221.159.50",
+            "41.78.76.214"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

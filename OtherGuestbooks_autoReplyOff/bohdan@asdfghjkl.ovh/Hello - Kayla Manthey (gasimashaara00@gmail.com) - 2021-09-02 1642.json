@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings, My name is Kayla Manthey, please reply me back?\r\n",
+            "content_type": "text/plain",
+            "hash": "139eedb9b762e0a6fe1e82021477f81ca183d04806a6eac94f5a9e93baccb544"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "gasimashaara00@gmail.com",
+        "to": [],
+        "date": "2021-09-02T14:42:21+00:00",
+        "received_domain": [
+            "mail-qk1-f171.google.com"
+        ],
+        "received_ip": [
+            "2002:ac8:5491::",
+            "209.85.222.171"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

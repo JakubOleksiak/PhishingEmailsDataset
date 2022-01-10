@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello dear my names is  miss Rita, i want to be friend with you and\r\nalso have some important to relate with you, reply me\r\n\r\nThanks\r\nMiss Rita\r\n",
+            "content_type": "text/plain",
+            "hash": "195acaa941d79aba8537cc2df4a125cfb4edacebb9a6a87e2012d6d93ada16df"
+        }
+    ],
+    "header": {
+        "subject": "hi",
+        "from": "george1khalid@gmail.com",
+        "to": [],
+        "date": "2021-09-20T16:14:12+02:00",
+        "received_domain": [
+            "mail-lf1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.44",
+            "2002:ac2:4102::"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

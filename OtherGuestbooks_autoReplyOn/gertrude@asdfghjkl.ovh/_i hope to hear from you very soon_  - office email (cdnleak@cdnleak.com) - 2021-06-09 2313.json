@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\nMy dear friend. I am Attorney Abel Roberts, a business adviser/financial consultant to your relative. I wish to share private and important information to you very urgently.\r\n\r\nRegards,\r\nAttorney. Abel Roberts\r\n",
+            "content_type": "text/plain",
+            "hash": "c949e6ae4091e035a3708cc2143d762d7a8e2201f2d53a1b70c31f9611fb40fd",
+            "boundary": "_000_CO6PR18MB3956C80C49B0FB555E5B13BDB5369CO6PR18MB3956namp_"
+        }
+    ],
+    "header": {
+        "subject": "\"i hope to hear from you very soon\"??",
+        "from": "cdnleak@cdnleak.com",
+        "to": [],
+        "date": "2021-06-09T21:13:09+00:00",
+        "received_domain": [
+            "mw3pr18mb3465.namprd18.prod.outlook.com",
+            "nam02-dm3-obe.outbound.protection.outlook.com",
+            "co6pr18mb3956.namprd18.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10b6:5:344::8",
+            "52.100.158.236",
+            "2603:10b6:303:5f::17"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

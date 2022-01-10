@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Did you receive my previous email to you as regards ?\r\n",
+            "content_type": "text/plain",
+            "hash": "b49253d148f7a691a8c6e91addae5baf6778f3b14720d553a921d4ff8b2dc97e"
+        }
+    ],
+    "header": {
+        "subject": "Re:Urgent",
+        "from": "morganace1234@gmail.com",
+        "to": [],
+        "date": "2021-08-11T16:12:55+01:00",
+        "received_domain": [
+            "mail-lf1-f47.google.com"
+        ],
+        "received_ip": [
+            "2002:ac2:4307::",
+            "209.85.167.47"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

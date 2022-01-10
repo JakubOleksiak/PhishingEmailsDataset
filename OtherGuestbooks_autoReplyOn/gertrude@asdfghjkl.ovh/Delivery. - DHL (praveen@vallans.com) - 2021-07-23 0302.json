@@ -1,0 +1,53 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.w3.org/TR/html4/loose.dtd",
+                "https://macaheltur.com/dd/Airway-bill.zip"
+            ],
+            "domain": [
+                "4.01",
+                "www.w3.org",
+                "macaheltur.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n\r\n<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD>\r\n<body style=\"MARGIN: 0.5em\">\r\n<DIV style=\"FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-stretch: normal\">\r\n<SPAN style=\"FONT-SIZE: 14px\">Dear Customer,<BR></SPAN><BR style=\"FONT-SIZE: 14px\"><SPAN style=\"FONT-SIZE: 14px\">Our courier company was not able to deliver your parcel sent on</SPAN><BR style=\"FONT-SIZE: 14px\"><SPAN style=\"FONT-SIZE: 14px\">the 17th of&nbsp;July 2021 in time because the recipient's address is</SPAN><BR style=\"FONT-SIZE: 14px\"><SPAN style=\"FONT-SIZE: 14px\">not correct.</SPAN><BR style=\"FONT-SIZE: 5px\"></DIV>\r\n<DIV style=\"FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-stretch: normal\">\r\n<SPAN style=\"FONT-SIZE: 14px\"><BR></SPAN></DIV>\r\n<DIV style=\"FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-stretch: normal\">\r\n<B style=\"BACKGROUND-COLOR: rgb(255,255,0)\"><A style=\"COLOR: rgb(17,85,204)\" href=\"https://macaheltur.com/dd/Airway-bill.zip\">CLICK HERE TO VIEW</A></B></DIV>\r\n<DIV style=\"FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-stretch: normal\"><B><BR></B></DIV>\r\n<DIV style=\"FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-stretch: normal\">\r\n<SPAN style=\"FONT-SIZE: 14px\">Kindly&nbsp;Fill the Airway-&nbsp;invoice copy Attached and send back to us<BR>Ensure you provide your telephone number to enable delivery of your parcel.</SPAN><BR style=\"FONT-SIZE: 14px\"><BR style=\"FONT-SIZE: 14px\"><SPAN style=\"FONT-SIZE: 14px\">Thank you</SPAN><BR style=\"FONT-SIZE: 14px\"><BR style=\"FONT-SIZE: 14px\"><SPAN style=\"FONT-SIZE: 14px\">DHL Express services.</SPAN><BR style=\"FONT-SIZE: 14px\"><SPAN style=\"FONT-SIZE: 14px\">\r\nCustomer service 1-800-CALL-DHL</SPAN><BR style=\"FONT-SIZE: 14px\"><SPAN style=\"FONT-SIZE: 14px\">DHL International Ltd. All Rights Reserved</SPAN></DIV></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "b54f340182dd5db4a03181ea688246d29b9fbf569324f201e1aa720ed4e8758c"
+        }
+    ],
+    "header": {
+        "subject": "Delivery.",
+        "from": "praveen@vallans.com",
+        "to": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-23T03:02:17+02:00",
+        "received_email": [
+            "praveen@vallans.com"
+        ],
+        "received_domain": [
+            "gproxy8.mail.unifiedlayer.com",
+            "cmgw13.mail.unifiedlayer.com",
+            "md-in-54.webhostbox.net",
+            "gproxy8-pub.mail.unifiedlayer.com"
+        ],
+        "received_ip": [
+            "69.61.59.218",
+            "103.211.216.137",
+            "67.222.33.93"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

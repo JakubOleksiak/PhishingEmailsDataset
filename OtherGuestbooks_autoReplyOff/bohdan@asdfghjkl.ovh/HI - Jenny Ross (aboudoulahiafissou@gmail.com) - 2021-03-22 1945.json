@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings to you Dear, I saw your email on linkedin, Is it valid? Please\r\nthere's something important and dominant I will love to inform you, please\r\nkindly show interest by responding to this mail.\r\n\r\n\r\n\r\n\r\nThanks\r\n\r\n\r\n\r\n\r\nJenny\r\n",
+            "content_type": "text/plain",
+            "hash": "a0a50af113d1e9e28aba5cdfb68652acf9b9a5143a757a4d59053e2cd07dd4b3",
+            "boundary": "000000000000e38b7405be247967"
+        }
+    ],
+    "header": {
+        "subject": "HI",
+        "from": "aboudoulahiafissou@gmail.com",
+        "to": [],
+        "date": "2021-03-22T18:45:45+00:00",
+        "received_domain": [
+            "mail-yb1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.173"
+        ],
+        "received_foremail": [
+            "bohdan@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

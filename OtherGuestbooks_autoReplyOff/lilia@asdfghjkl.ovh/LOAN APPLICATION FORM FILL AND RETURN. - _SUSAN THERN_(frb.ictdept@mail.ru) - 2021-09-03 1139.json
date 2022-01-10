@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "LOAN APPLICATION FORM FILL AND RETURN.\r\n\r\n*First name:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. . ..\r\n*Last name:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. . \u2026\r\n*Age:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n*Sex\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n*Address:\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026..\r\n*State:\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026..\r\n*Country:\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026..\r\n*Business name(If Any):\u2026\u2026\u2026\u2026\u2026\u2026.\r\n*Loan Amount needed:\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n*Purpose of loan:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n*Loan Duration:\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026..\r\n*Date of birth (yyyy-mm-dd):\u2026\u2026\u2026\u2026..\r\n*Gender:\u2026\u2026\u2026\u2026\u2026\u2026\u2026. \u2026\u2026\u2026..\r\n*Marital status:\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. ..\r\n*Next Of Kin:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. ..\r\n*Monthly Income:\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. ..\r\n*Phone:\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. . . \u2026\u2026.\r\n* Fax:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. . . \u2026\u2026.\r\n*postal code:\u2026\u2026\u2026\u2026\u2026\u2026.\r\n*Mobile/cellular:\u2026\u2026\u2026\u2026.. . \u2026\u2026..\r\n*Internet at home\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\r\n*E-mail:\u2026\u2026\u2026\u2026\u2026\u2026\u2026. \u2026\u2026\u2026..\r\n*Have you apply for a loan before\u2026\r\n*How do you hear about us\u2026..\r\n*Do you have online banking\u2026.\r\n*E_mail Address\u2026\r\n*Next Of Kin\u2026..\r\n\r\nIn acknowledgment of these details, We shall send you our terms along with repayment schedule and If you agree to the terms and conditions ,you stand to get your loan within 24hours. This depends on your seriousness and urgency in obtaining the loan.\r\n\r\n\r\nYours Sincerely\r\n\r\nSusan Thern\r\nFinancial Assets UK\r\n3 Belsize Place Belsize Place, \r\nLondon, Nw3 5algoodluck1\r\n",
+            "content_type": "text/plain",
+            "hash": "dc0696e5fe1ca003bf1af366cf42833b13032f7d8263a8b5f02e38ebeaf2cbc3"
+        }
+    ],
+    "header": {
+        "subject": "LOAN APPLICATION FORM FILL AND RETURN.",
+        "from": "frb.ictdept@mail.ru",
+        "to": [],
+        "date": "2021-09-03T12:39:27+03:00",
+        "received_email": [
+            "frb.ictdept@mail.ru"
+        ],
+        "received_domain": [
+            "node.getopta.com"
+        ],
+        "received_ip": [
+            "167.71.247.242"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

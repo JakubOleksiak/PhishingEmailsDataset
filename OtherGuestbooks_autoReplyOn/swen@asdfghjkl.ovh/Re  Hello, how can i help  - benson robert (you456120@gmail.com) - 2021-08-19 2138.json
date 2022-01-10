@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "swen@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "dr.ahmed",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Please read the message i sent to you very well and contact Dr.Ahmed\r\nBello Umar for your fund release\r\n\r\nOn 8/18/21, swen@asdfghjkl.ovh <swen@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Swen\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "e81c2a1c855e7bcbebd3731f8858cb67a9582c7eb7e642e994ec466ebba4f9de"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "you456120@gmail.com",
+        "to": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-19T12:38:43-07:00",
+        "received_domain": [
+            "mail-yb1-f176.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:7108:6882::",
+            "209.85.219.176"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

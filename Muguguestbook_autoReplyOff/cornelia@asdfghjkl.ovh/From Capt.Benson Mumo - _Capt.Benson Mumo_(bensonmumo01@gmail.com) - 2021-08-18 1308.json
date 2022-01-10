@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "domain": [
+                "capt.benson"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "For your kind attention.\r\n\r\nI apologize if the content of my email is contrary to your moral\r\nethics but I find it advantageous to offer you my partnership in\r\nbusiness. I am Capt.Benson Mumo, an officer in the US ARMY presently\r\nserving in the Military with the 82nd Airborne Division Peacekeeping\r\nForce here in the US Military Base in Syria. I need your help in\r\nassisting me with the safekeeping of Two Military Trunk Boxes.\r\n\r\nI hope you can be trusted? If you can be trusted, I will explain\r\nfurther when I get a response from you for further clarification.\r\nNevertheless, please ensure to reply via my private email:\r\n(bensonmumo01@gmail.com).\r\n\r\nThanks for your understanding and cooperation, God bless you and America!!!\r\n\r\nBest Regards,\r\nCapt.Benson Mumo\r\nUS ARMY. (PRESENTLY IN SYRIA).\r\n",
+            "content_type": "text/plain",
+            "hash": "560943bee26e29327653036d331baf90dae1efe8f967582847c935798614167c"
+        }
+    ],
+    "header": {
+        "subject": "From Capt.Benson Mumo",
+        "from": "bensonmumo01@gmail.com",
+        "to": [],
+        "date": "2021-08-18T12:08:50+01:00",
+        "received_domain": [
+            "aspera-linux.localdomain"
+        ],
+        "received_ip": [
+            "82.112.188.54"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

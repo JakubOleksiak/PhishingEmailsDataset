@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Eve,\r\n\r\n \r\n\r\nMy name is Katherine, and I am working with a Digital Marketing Company.\r\n\r\nWe are providing Web Design and Mobile App Service at affordable prices.\r\n\r\nIn CMS website package, we will do following:\r\n\r\n \r\n\r\n.         Mobile Apps Development\r\n\r\n.         Website Design / Redesign\r\n\r\n.         PHP | Word press |.Net\r\n\r\n.         E-Commerce & SEO | SMO| PPC\r\n\r\nMay I send you a quote and Company Information, if interested?\r\n\r\nI am waiting for your positive response.\r\n\r\n               \r\n\r\nKind Regards,\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "94185b3f2835cd42d473bd9d3cb25146666a0e4bf27948a62fcd68c7255bb8fb",
+            "boundary": "----=_NextPart_000_2DFB_01D787A4.05528780"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices",
+        "from": "katherinebruntt@hotmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T13:39:51+05:30",
+        "received_domain": [
+            "kl1pr03mb4728.apcprd03.prod.outlook.com",
+            "pn1pr0101ca0019.indprd01.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com",
+            "kl1pr03mb5618.apcprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "122.161.53.220",
+            "2603:1096:820:19::15",
+            "2603:1096:c00:e::29",
+            "2603:1096:820:3b::5",
+            "40.92.253.67"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

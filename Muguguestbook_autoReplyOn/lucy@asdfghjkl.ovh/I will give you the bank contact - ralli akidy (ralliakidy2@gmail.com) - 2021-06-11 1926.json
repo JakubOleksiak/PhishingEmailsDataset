@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "lucy@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Ok my dearest\r\n\r\nWhat you have to do now is that I will send you the bank contact for you to\r\ncontact them and also the bank manager will tell you what to do next\r\n\r\nWe are only need your account number, the bank will transfer the money to\r\nyour account, then if you receive the money, i will now come over to your\r\ncountry\r\n\r\nThanks\r\n\r\nI will give you the bank contact now\r\n\r\nOn Friday, 11 June 2021, <lucy@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Lucy\r\n>\r\n>\r\n\r\n--\r\n",
+            "content_type": "text/plain",
+            "hash": "5c9b2be6c541ea9d7a5e422e2c1528661102a99ceddd481cfe01b600254869cc",
+            "boundary": "00000000000090ef3105c480cee2"
+        }
+    ],
+    "header": {
+        "subject": "I will give you the bank contact",
+        "from": "ralliakidy2@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-11T19:26:23+02:00",
+        "received_domain": [
+            "mail-il1-f176.google.com"
+        ],
+        "received_ip": [
+            "2002:a02:6383::",
+            "209.85.166.176"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

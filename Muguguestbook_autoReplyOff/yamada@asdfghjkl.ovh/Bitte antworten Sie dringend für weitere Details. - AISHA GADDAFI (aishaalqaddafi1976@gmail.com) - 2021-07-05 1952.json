@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Lieber Freund,\r\n\r\nFriede sei mit dir,\r\n\r\nIch freue mich, dieses Medium zu nutzen, um eine gegenseitige Kommunikation\r\nmit Ihnen zu er\u00f6ffnen und Sie um Ihre Erlaubnis und Zustimmung zu bitten,\r\nmit Ihnen zusammenzuarbeiten, um in Ihrem Land zu investieren.\r\n\r\nMein Name ist Aisha Gaddafi und lebe derzeit im Oman, ich bin eine Witwe\r\nund alleinerziehende Mutter mit drei Kindern, die einzige leibliche Tochter\r\ndes verstorbenen libyschen Pr\u00e4sidenten (dem verstorbenen Oberst Muammar\r\nGaddafi) und stehe derzeit unter politischem Asylschutz der omanischen\r\nRegierung.\r\n\r\nIch habe Mittel im Wert von 27.500.000,00 US-Dollar \"Twenty Seven Million\r\nFive Hundred Thousand United State Dollars\", die ich Ihnen f\u00fcr die\r\nUnterst\u00fctzung von Investitionsprojekten in Ihrem Land anvertrauen m\u00f6chte.\r\n\r\nBitte antworten Sie dringend f\u00fcr weitere Details.\r\n\r\nmeine E-Mail-Adresse unten: mrsaishagaddafi1976@gmail.com\r\nVielen Dank\r\nMit freundlichen Gr\u00fc\u00dfen Aisha\r\n",
+            "content_type": "text/plain",
+            "hash": "5133620fbec5b8d9c90bc59319841eec3d7976d83da0dadd85e8b9f5a2633824",
+            "boundary": "0000000000006320fb05c663f890"
+        }
+    ],
+    "header": {
+        "subject": "Bitte antworten Sie dringend f\u00fcr weitere Details.",
+        "from": "aishaalqaddafi1976@gmail.com",
+        "to": [],
+        "date": "2021-07-05T18:52:21+01:00",
+        "received_domain": [
+            "mail-ed1-f68.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.68"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "German"
+    }
+}

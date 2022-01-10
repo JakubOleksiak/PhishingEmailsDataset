@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "revtimothyjohnson06@gmail.com"
+            ],
+            "domain": [
+                "charges.you",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I am Rev Timothy Johnson, director of the cash processing unit, The\r\nunion has approved the sum of ($1.500, 000) but due to ongoing fraud,\r\nwe have taken $5,000 from your funds for handling charges.You will\r\nreceive the sum of $1,495,000.00 instead of $1.5M.You are requested to\r\nforward your full name,home address, Occupation and\r\n\r\nyour direct phone number to me at ( revtimothyjohnson06@gmail.com )for\r\nimmediate payment,you will receive your fund within three working days\r\nafter confirmation.\r\nThanks\r\nRev Timothy Johnson\r\n",
+            "content_type": "text/plain",
+            "hash": "1a5a6221198471f5a52ed267d1e748d9581e382bc1dff4a0d545e5e6d4ab658d"
+        }
+    ],
+    "header": {
+        "subject": "HI",
+        "from": "jw474478@gmail.com",
+        "to": [],
+        "date": "2021-09-15T22:45:07-07:00",
+        "received_domain": [
+            "mail-qt1-f182.google.com"
+        ],
+        "received_ip": [
+            "209.85.160.182",
+            "2002:a6b:2b51::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

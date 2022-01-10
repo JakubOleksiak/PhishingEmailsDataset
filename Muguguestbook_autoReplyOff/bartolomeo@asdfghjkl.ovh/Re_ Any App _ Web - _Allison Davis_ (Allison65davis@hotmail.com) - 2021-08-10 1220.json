@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Bartolomeo\r\n\r\nI am Application Manager working with an organisation having 120+\r\nexperienced developers.\r\n\r\nWe are expert in the following:-\r\n\r\n1. Real estate, Car Rental, Taxi App, Cleaning App,\r\n\r\n2. Shopping App, iPhone and iPad apps, Android app\r\n\r\n      Any types of Customization Games (VR, AR, Real Engine etc.).\r\n\r\n \r\n\r\nPS: - If this is something, you are interested please respond to this\r\nmessage for Portfolio and Price list or drop your Skype handle/contact\r\ndetail\r\n\r\n \r\n\r\nThanks\r\n\r\nAllison\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "456533bb20cd44758528b0460250ec6690d05b8ea926c773559d9b59f7395d80",
+            "boundary": "----=_NextPart_000_1EBF_01D78E00.6E9FF580"
+        }
+    ],
+    "header": {
+        "subject": "Re; Any App & Web",
+        "from": "allison65davis@hotmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-10T15:50:05+05:30",
+        "received_domain": [
+            "eur05-vi1-obe.outbound.protection.outlook.com",
+            "am6pr03mb5394.eurprd03.prod.outlook.com",
+            "am6pr03mb6343.eurprd03.prod.outlook.com",
+            "pn1pr01ca0090.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:c00:1::30",
+            "2603:10a6:20b:c1::19",
+            "2603:10a6:20b:d9::33",
+            "2401:4900:1f38:4871:811b:871c:9ff9:5591",
+            "40.92.90.49"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

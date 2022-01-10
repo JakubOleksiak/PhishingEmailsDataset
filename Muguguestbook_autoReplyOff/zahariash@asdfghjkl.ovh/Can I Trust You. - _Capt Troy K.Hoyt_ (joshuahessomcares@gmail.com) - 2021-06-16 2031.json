@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "capttroyhoyt6666@gmail.com"
+            ],
+            "domain": [
+                "k.hoyt",
+                "boxes.if",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings\r\n\r\nI am Captain Troy K.Hoyt An officer in the U.S. serving in the Military\r\nwith the 82nd Air Borne Division Peace keeping force in Afghanistan.\r\n\r\nI really need your help in assisting me with the safe keeping of two\r\nmilitary Trunk Boxes.If you can be trusted,I will explain further when\r\ni get a response from you?\r\n\r\nPlease Reply via my private\r\nE-mail Address:(capttroyhoyt6666@gmail.com)\r\n\r\nGod Bless You And America.\r\nCaptain Troy K.Hoyt\r\n",
+            "content_type": "text/plain",
+            "hash": "f5b2224d26ea4b548b6d5ef93340a023cf58aeb8ebbbef7392037503b580ca1d"
+        }
+    ],
+    "header": {
+        "subject": "Can I Trust You.",
+        "from": "joshuahessomcares@gmail.com",
+        "to": [],
+        "date": "2021-06-16T11:31:04-07:00",
+        "received_domain": [
+            "mail-ej1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.45",
+            "2002:a05:6402:440e::"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

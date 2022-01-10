@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hello,\r\n\r\n# Your 12 MONTHS SUBSCRIPTION for NORTON 360 ANTIVIRUS has been\r\nsuccessfully renewed and updated. #\r\n\r\nThe charged amount will be reflected within the next 24 hrs to 48 hrs on\r\nyour account statement.\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nReceipt Number             :        #4611QDS#\r\n\r\nProduct Name                 :        NORTON 360 ANTIVIRUSES\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nPrice                                   :       $746.25 USD\r\n\r\nPAYMENT METHOD        :      AUTO RENEWED\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                        :       15 SEPT 2021\r\n\r\nExpiration Date                :       24 months from the Date of Purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\n* If you wish to Cancel this Subscription then please feel free to contact\r\nour billing department as soon as Possible *\r\n\r\nYou can Reach us on   +1 (888) (683) - (1189)\r\n\r\n\r\n\r\nRegards,\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "51afc87c784aa89b1c916f7baffc894fa31237b3118ff53754ca8405b5b76a6e",
+            "boundary": "000000000000cc74a005cc0a4b10"
+        }
+    ],
+    "header": {
+        "subject": "Norton antivirus no. #4611QDS#",
+        "from": "sajsfh2346@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-15T20:54:21+05:30",
+        "received_domain": [
+            "mail-ed1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.48"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

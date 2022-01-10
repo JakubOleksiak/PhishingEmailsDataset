@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear sasha",
+            "content_type": "text/plain",
+            "hash": "2b0f8c888dd7b5e1cdd5ea662595a9a11176ff50919d1531940f134ac847dc8a",
+            "boundary": "----=_NextPart_000_0012_97BAD584.A0D00C8D"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer @ 3% Apply Now ",
+        "from": "info@theloancompany.co.za",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-14T16:21:42+02:00",
+        "received_domain": [
+            "hosted-by.rootlayer.net"
+        ],
+        "received_ip": [
+            "185.222.57.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Somali"
+    }
+}

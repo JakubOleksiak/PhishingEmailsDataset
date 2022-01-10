@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.yiu"
+            ],
+            "content_header": {
+                "content-transfer-encoding": [
+                    "8bit"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Lieber Freund,\r\n\r\nIch bin Barrister Agbor Nkongho, ich sende diesen kurzen Brief, um Sie\r\num Ihre Unterst\u00fctzung zu bitten. Ich bin ein Clint Mr.Yiu Kwong aus\r\nChina. Er war Goldh\u00e4ndler hier in Burkina Faso; er starb vor sechs\r\nJahren, als er in seinem Land China freundlicherweise eine\r\nTransplantation durchf\u00fchrte.\r\n\r\nDie Summe von 5,5 Millionen US-Dollar hat er hier in Burkina Faso in\r\neiner der Sagenbanken hinterlegt. Ich habe alles versucht, um mit seinen\r\nFreunden oder Familienmitgliedern in Kontakt zu treten, aber keine\r\nM\u00f6glichkeit.\r\n\r\nIch m\u00f6chte, dass Sie sich bei der Bank als seinen Gesch\u00e4ftspartner\r\nbewerben, damit die Bank Mr.Yiu Kwong-Gelder auf Ihr Bankkonto\r\n\u00fcberweisen kann. Ich werde Ihnen die Richtlinien geben, wie Sie die Bank\r\nkontaktieren k\u00f6nnen, und wir m\u00fcssen dies vertrauensvoll tun, da ich\r\nnicht m\u00f6chte, dass die Bank das Geld als nicht beanspruchtes Guthaben\r\nauf das Schatzkonto der Regierung \u00fcberweist, daher brauche ich Ihre\r\nAntwort.\r\n\r\nHerzliche Gr\u00fc\u00dfe,\r\nBar. Agbor Nkongho.",
+            "content_type": "text/plain",
+            "hash": "8f59d1c9e3ba50386318c46b95df571d3c326afe2494dd894fd31aee56b70e52",
+            "boundary": "=_65eaf952f99bb65b936fdd4e42c70b1e"
+        }
+    ],
+    "header": {
+        "subject": "HALLO FREUND",
+        "from": "info@vip01.biz",
+        "to": [],
+        "date": "2021-06-11T08:37:34-07:00",
+        "received_domain": [
+            "emailmg.homestead.com",
+            "boswebmail15.eigbox.net",
+            "bosmailscan02.eigbox.net",
+            "bosmailout03.eigbox.net"
+        ],
+        "received_ip": [
+            "193.176.86.42",
+            "66.96.186.3"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "German"
+    }
+}

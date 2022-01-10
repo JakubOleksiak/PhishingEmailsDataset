@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "email": [
+                "thirota06@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings,\r\n\r\nBe notified of deposited estate in your family lastname, you have been named as sole beneficiary.\r\nRespond for details.\r\nMr. Takuo hirota\r\nEmail: Thirota06@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "14562796d8bf8434f31b5d87f74a62ccad094117df445b700a36b2f157e2b6e1"
+        }
+    ],
+    "header": {
+        "subject": "Proposal!!!",
+        "from": "thirota06@gmail.com",
+        "to": [],
+        "date": "2021-08-21T16:20:23+08:00",
+        "received_domain": [
+            "mail0.cyborgit.net"
+        ],
+        "received_ip": [
+            "137.184.58.129"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

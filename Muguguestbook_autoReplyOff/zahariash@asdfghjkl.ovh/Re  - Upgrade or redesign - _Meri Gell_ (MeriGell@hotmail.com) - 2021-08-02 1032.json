@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Zahariash,\r\n\r\nI hope you are good..!\r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your website. I am a Web design / Developer that can\r\ndo just about anything you can imagine at very affordable prices. May I send\r\nyou a quote? If interested.\r\n\r\n \r\n\r\nKind Regards..!!\r\n\r\nMeri,\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "cf020719bb8b99f77496178d2c8f0c3b4025924ccfad434ffff58431347a7b37",
+            "boundary": "----=_NextPart_000_5489_01D787A8.41331040"
+        }
+    ],
+    "header": {
+        "subject": "Re:- Upgrade or redesign",
+        "from": "merigell@hotmail.com",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T14:02:47+05:30",
+        "received_domain": [
+            "sg2pr02ca0116.outlook.office365.com",
+            "sl2p216mb1061.korp216.prod.outlook.com",
+            "sg2apc01ft042.mail.protection.outlook.com",
+            "pn1pr0101ca0065.indprd01.prod.outlook.com",
+            "sg2pr02ca0116.apcprd02.prod.outlook.com",
+            "sg2apc01ft042.eop-apc01.prod.protection.outlook.com",
+            "ty2pr02mb3293.apcprd02.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:4:92:cafe::f5",
+            "122.161.50.97",
+            "2603:1096:404:66::13",
+            "2a01:111:e400:7ebd::274",
+            "2a01:111:e400:7ebd::4f",
+            "2603:1096:4:92::32",
+            "40.92.253.87",
+            "2603:1096:c00:d::27"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

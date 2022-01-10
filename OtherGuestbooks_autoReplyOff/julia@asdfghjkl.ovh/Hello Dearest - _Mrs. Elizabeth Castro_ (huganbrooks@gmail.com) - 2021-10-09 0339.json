@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://www.ynetnews.com/articles/0"
+            ],
+            "domain": [
+                "www.ynetnews.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dearest,\r\n\r\nGreetings my dear, i hope this email finds you well.\r\nLet me start by introducing myself to you, I am Mrs. Elizabeth Castro,\r\nmanager in auditing department with United Bank for Africa (UBA) Burkina\r\nFaso.\r\nI have a business deal that will be of immense benefit to both of\r\nus if only you will incline to the proposal and keep it confidential,\r\nI discovered a dormant account amounting to USD$11.3million dollar\r\nwhich belong to a deceased customer of this bank. Late Moises Saba Masri,\r\na billionaire Business Mogul a Jew from Mexico who was a victim of a\r\nhelicopter crash.\r\nSee site: ( http://www.ynetnews.com/articles/0,7340,L-3832556,00.html ).\r\nI cannot do this transaction all alone without employing a foreigner\r\nwho will stand as the deceased next of kin, as bank procedure demands.\r\n\r\nI shall give you further details about him upon receiving your response.\r\nPlease keep this proposal as a top secret and delete if you are not\r\ninterested.\r\n\r\nThanks as i await your timely response to my private email address;\r\n( elizabethcastro6453@gmail.com )\r\n\r\nMy Pleasure\r\nMrs. Elizabeth Castro.\r\n",
+            "content_type": "text/plain",
+            "hash": "3fac05d562831107ec3aa98d27d367ef984e1e03f19448585a3a7b657a1eb484",
+            "boundary": "0000000000002362b005cde192f7"
+        }
+    ],
+    "header": {
+        "subject": "Hello Dearest",
+        "from": "huganbrooks@gmail.com",
+        "to": [],
+        "date": "2021-10-09T02:39:34+01:00",
+        "received_domain": [
+            "mail-qk1-f176.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.176"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "email": [
+                "azizalwan132307@outlook.com"
+            ],
+            "domain": [
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Greetings to you in the Name Almighty Allah. My name is Mrs. Aziz. I have an amount of money lying down with Barclays Bank in New York which is ($ 8.2 million united dollars) Can I trust you? Kindly write back so I can declare further details to you. And also reply as soon as possible,\r\n\r\nRegards,\r\n\r\nMrs. Aziz Alwan\r\nEmail: azizalwan132307@outlook.com\r\n",
+            "content_type": "text/plain",
+            "hash": "d34aea8ec78ce162551d730eec7e73ffd670475221811488e0c7fd631473c761"
+        }
+    ],
+    "header": {
+        "subject": "Greetings ",
+        "from": "info@usa.org",
+        "to": [],
+        "date": "2021-09-21T17:38:54+01:00",
+        "received_domain": [
+            "hikvisionos.localdomain"
+        ],
+        "received_ip": [
+            "118.188.20.179"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

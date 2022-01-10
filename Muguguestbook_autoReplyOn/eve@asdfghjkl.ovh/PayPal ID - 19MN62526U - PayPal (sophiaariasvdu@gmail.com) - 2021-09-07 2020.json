@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "299.99"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "*Pay**Pal **Wallet*\r\n\r\n Receipt number: 19MN62526U\r\n\r\nHello.\r\n\r\n\r\nYou have successfully sent a money transfer for $ 299.99 for your PayPal\r\naccount to Google Pay ending with (xxx0054).\r\nHere is your Invoice. We appreciate your order.\r\n\r\nID\r\n\r\nDESCRIPTION\r\n\r\nQty\r\n\r\nPrice\r\n\r\n  TOTAL\r\n\r\n1\r\n\r\nMONEY TRANSFER\r\n\r\n1\r\n\r\n$299.00\r\n\r\n$299.00\r\n\r\nSUBTOTAL\r\n\r\n$299.00\r\n\r\nTHANK YOU FOR YOUR BUSINESS!\r\n\r\nTAX RATE\r\n\r\n0%\r\n\r\n\r\n\r\nSignature\r\n\r\n\r\n\r\n\r\n\r\nThe Transaction will take a while to appear on your Statement.\r\n\r\nNOTE: IF you have not place this order and would like to cancel before\r\ndispatch please reach\r\nus on *+1 (833) (463) \u2013 (6300)*\r\n\r\nThis message in confidential and/or contain legally privileged information.\r\nIt is intended for\r\nthis address only.\r\n\r\n*Terms & Conditions:*\r\n\r\nAny amendments or addition or alterations to the Order shall only effective\r\nif the Purchaser\r\nConfirms it through email or calling out support Number *+1 (833) \u2013 (463) \u2013\r\n(6300)*\r\n\r\n\r\nThank You.\r\n*Pay**Pal* *Wallet*\r\n",
+            "content_type": "text/plain",
+            "hash": "e901d80ef60e3c343345d4a0811436e3dc125edb4852fdfb62c19bbf8a0e23c5",
+            "boundary": "0000000000009ad55b05cb6bd439"
+        }
+    ],
+    "header": {
+        "subject": "PayPal ID - 19MN62526U",
+        "from": "sophiaariasvdu@gmail.com",
+        "to": [
+            "wakeupsid000@gmail.com"
+        ],
+        "date": "2021-09-07T23:50:56+05:30",
+        "received_domain": [
+            "mail-io1-f53.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.53"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "mr.salimomar1965@yahoo.com"
+            ],
+            "domain": [
+                "end.please",
+                "yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings\r\nPlease, what is the current situation of the coronavirus pandemic in your\r\ncountry and state? Is the Government still putting its citizens on\r\nlock-down? I would like to have a private business discussion with you\r\nwhich would be of a great mutual benefit to both of us at the end.Please\r\nhope to hear from you soon,\r\nRegards\r\nSalim Omar\r\nmr.salimomar1965@yahoo.com\r\n",
+            "content_type": "text/plain",
+            "hash": "a2885bea3ccd43d5e2652cfb90588ea959bcbab787c6136ee81379bf88355bbb",
+            "boundary": "0000000000009e8edb05cbe127c0"
+        }
+    ],
+    "header": {
+        "subject": "Greetings",
+        "from": "kudibarry8@gmail.com",
+        "to": [],
+        "date": "2021-09-13T15:18:51+01:00",
+        "received_domain": [
+            "mail-io1-f44.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.44"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

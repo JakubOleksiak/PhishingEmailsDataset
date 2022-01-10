@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "mrs.chantal778@gmail.com"
+            ],
+            "domain": [
+                "gmail.com",
+                "mrs.chantal"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "You have been compensated with the sum of $7.7 million dollars in the\r\nUnited Nations, the payment will be issued on the ATM visa card and\r\nwill be sent from the Santander bank.\r\n\r\nwe need your address and your whatsapp\r\nthis is my email address (mrs.chantal778@gmail.com)\r\n\r\nThanks\r\n\r\nMrs.Chantal\r\n",
+            "content_type": "text/plain",
+            "hash": "04905afe0350740bbd61034a83dca8213bfe873886a28ca9aeaf807efea6454c"
+        }
+    ],
+    "header": {
+        "subject": "business proposal",
+        "from": "mrschantal737@gmail.com",
+        "to": [],
+        "date": "2021-07-21T00:08:28-07:00",
+        "received_domain": [
+            "mail-lf1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.46",
+            "2002:ac2:4ed9::"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

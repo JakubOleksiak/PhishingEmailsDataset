@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "{cornelia@asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi {cornelia@asdfghjkl.ovh}\r\n\r\nI am a Business Development manager who works with 130+ experienced IT\r\nprofessionals.\r\n\r\nWebsite designing & development, PHP development, E-Commerce solutions &,\r\nHTML, Social Media Cover Page Design, UX / UI Design Services and SEO \r\n\r\nIf you are interested, then I can send you our price list, company\r\ninformation and an affordable quotation with the best offer.\r\n\r\nThanks & Regards,\r\n\r\nBusiness Development\r\n\r\nPS: If this is something you are interested; please respond to this email\r\nfor Portfolio and Pricelist\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "0d4572cc41d04d6fa7e05bef94a0d1a964aa1ed6bd52ae6f87233b2372fefeeb",
+            "boundary": "----=_NextPart_000_2441_01D78956.7ED8F720"
+        }
+    ],
+    "header": {
+        "subject": "Re: Re:; I can send you our price list",
+        "from": "angelou746768@hotmail.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T17:21:03+05:30",
+        "received_domain": [
+            "nam11-bn8-obe.outbound.protection.outlook.com",
+            "ph0pr03mb6463.namprd03.prod.outlook.com",
+            "sg2pr01ca0163.apcprd01.prod.exchangelabs.com",
+            "ph0pr03mb6624.namprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10b6:510:b3::9",
+            "40.92.20.24",
+            "2603:1096:4:28::19",
+            "122.161.48.159",
+            "2603:10b6:510:b6::5"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

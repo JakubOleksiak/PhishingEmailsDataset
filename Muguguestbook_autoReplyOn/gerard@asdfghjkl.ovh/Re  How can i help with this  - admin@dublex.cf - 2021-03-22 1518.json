@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"US-ASCII\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,\r\nPlease fill the form provided with the previous email and get back to us \r\nso we can proceed.\r\n\r\nOn 2021-03-22 15:07, gerard@asdfghjkl.ovh wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n> \r\n> Sincerely\r\n> Gerard\r\n",
+            "content_type": "text/plain",
+            "hash": "4607b135434d5b258200dc9eb10eea9d16d29af1e1f90bcffc115f1edd3cb8e5"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "admin@dublex.cf",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-22T15:18:11+01:00",
+        "received_domain": [
+            "webmail.dublex.cf",
+            "taffy.dublex.io"
+        ],
+        "received_ip": [
+            "77.68.27.27"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

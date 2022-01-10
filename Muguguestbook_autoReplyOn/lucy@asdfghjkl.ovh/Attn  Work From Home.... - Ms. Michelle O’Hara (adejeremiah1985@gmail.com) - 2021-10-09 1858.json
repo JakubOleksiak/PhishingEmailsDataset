@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello Good day,\r\n\r\nI am Ms. Michelle O\u2019Hara, Director of human resources/Chief Talent Officer\r\nfor SAIC TECHNOLOGY COMPANY\r\n\r\nWe hereby want to inform you that SAIC TECHNOLOGY COMPANY is looking for a\r\nresponsible Administrative Assistant/Secretaries (talented) who could work\r\nfrom online/Home.\r\n\r\nDuties of the Administrative Assistant include providing support to our\r\nmanagers and employees, assisting in daily office needs and managing our\r\ncompany as general administrative activities.\r\n\r\nWhile employed at this Company, you can engage in any other employment,\r\nconsulting or other business activity whether full-time or part-time with\r\nyour previous job.\r\n\r\nPAYMENT RANGE: $25.55 per hour and training $15.55 per hour.\r\n\r\nKindly reply back with (YES I AM) if interested.\r\n\r\nBest Regards,\r\n\r\nMs. Michelle O\u2019Hara\r\nHR/Chief Talent Officer\r\nSAIC TECHNOLOGY COMPANY\r\n",
+            "content_type": "text/plain",
+            "hash": "e48457b9ae970655d04983e43aad10d40d5988504767b87953c1999d692a5d29",
+            "boundary": "00000000000052f99805cdee6f18"
+        }
+    ],
+    "header": {
+        "subject": "Attn: Work From Home....",
+        "from": "adejeremiah1985@gmail.com",
+        "to": [],
+        "date": "2021-10-09T09:58:41-07:00",
+        "received_domain": [
+            "mail-ua1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.47"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

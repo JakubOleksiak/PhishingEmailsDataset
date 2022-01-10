@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "YOUR CASHOUT DETAILS .docx",
+            "size": 149092,
+            "extension": "docx",
+            "hash": {
+                "md5": "80e72944fad48810eeec5a05f0c8fe30",
+                "sha1": "9ca7984c8a5b711885bf3501a47fff32a6c95adf",
+                "sha256": "01081931b57a62996f05a1f9e9d7f653542e35da31204990163d9e4f8bc8bd69",
+                "sha512": "f439c0a3282a69ede6b51df9d580ffb9856112bfeec3d20d028038647a63768384b5a4d6c74fe7fb39592383e0b9d8f0c5d6f5884a9efa8c177ca12d00bb2466"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"YOUR CASHOUT DETAILS .docx\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"YOUR CASHOUT DETAILS .docx\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_knys92y50>"
+                ],
+                "x-attachment-id": [
+                    "f_knys92y50"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dear\r\n\r\nVirtual Lottery Notification team is hereby announced to you that For your\r\ninstant payout, open attachment all the information you need is there, then\r\nquickly contact Ms Victoria Cohen for your payment processing.\r\n\r\nNotification Team.\r\n",
+            "content_type": "text/plain",
+            "hash": "a367bdfa64b58b1615b4e3309eeadf8063730a8050c1b896b384ccdfbd32aeca",
+            "boundary": "0000000000003f3f7f05c0e272be"
+        }
+    ],
+    "header": {
+        "subject": "RE: PAYOUT NOTIFICATION",
+        "from": "mjonesconsultantltd@gmail.com",
+        "to": [],
+        "date": "2021-04-26T18:14:28+02:00",
+        "received_domain": [
+            "mail-yb1-f181.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.181"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

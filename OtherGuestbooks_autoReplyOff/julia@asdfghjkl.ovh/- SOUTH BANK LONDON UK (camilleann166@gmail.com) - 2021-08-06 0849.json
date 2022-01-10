@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "  Greetings, I want to inform you that I am lawyer Camille Jackson, I am\r\ncontacting you regarding the abandoned inheritance in our bank South Bank\r\nLondon  \u00a3 9,580,000.00 GBP no trace of his family member, I am his manager\r\naccount, please respond to this mail; as soon as possible if you wish to\r\ncontinue with more information on this case.\r\n\r\nAlways yours\r\nCamille Jackson (Lawyer)\r\n",
+            "content_type": "text/plain",
+            "hash": "44f45a95b15e12ffbc66896e808c6f441c3a4a96e6e755a915af591ffdac7b10",
+            "boundary": "00000000000050c83905c8de6f94"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "camilleann166@gmail.com",
+        "to": [],
+        "date": "2021-08-06T06:49:15+00:00",
+        "received_domain": [
+            "mail-io1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.54"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

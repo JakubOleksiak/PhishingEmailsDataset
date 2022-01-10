@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nI write to solicit for your cooperation in a transaction of $7.9 Million US\r\nDollars and need your urgent reply for more details.\r\n\r\nKind regards\r\n",
+            "content_type": "text/plain",
+            "hash": "ea530f8240bd17b0152716836dadd10e09a5ff9595759ae01c2c614248563d48",
+            "boundary": "0000000000000ce2df05cb7e5f0a"
+        }
+    ],
+    "header": {
+        "subject": "re",
+        "from": "mimib6518@gmail.com",
+        "to": [],
+        "date": "2021-09-08T18:28:08+02:00",
+        "received_domain": [
+            "mail-vs1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.50"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

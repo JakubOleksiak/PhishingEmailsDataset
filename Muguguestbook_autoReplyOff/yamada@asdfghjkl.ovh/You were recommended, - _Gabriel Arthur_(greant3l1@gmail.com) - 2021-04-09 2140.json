@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "mgabrielarthurr@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nGood day,</DIV>\r\n<DIV>\r\nSomebody&nbsp; recommended you by a mutual associate. I write you regarding an investment of bearer bonds I made on behalf of a client. The investment was made in 2010 and has been under my management.</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nThe said investor is deceased. The window is now available to assign these bonds to any name or company of my choice. I have all the necessary information to achieve this within 10 banking days.</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nThe total value of the bond is 50 million pounds sterling, in a million-pound denominations.</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nIf you can handle this, do contact me at your earliest convenience via my Email: mgabrielarthurr@gmail.com</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nThanks</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nGabriel&nbsp; Arthur</DIV>\r\n<DIV>\r\nEmail&nbsp; mgabrielarthurr@gmail.com</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "8f4a4d316ced174788ee842a8eb758085ca3985bdf5da53a0b21b681a564ee41"
+        }
+    ],
+    "header": {
+        "subject": "You were recommended,        ",
+        "from": "greant3l1@gmail.com",
+        "to": [],
+        "date": "2021-04-09T21:40:14+02:00",
+        "received_email": [
+            "greant3l1@gmail.com"
+        ],
+        "received_domain": [
+            "srv01.soltelecompe.com.br"
+        ],
+        "received_ip": [
+            "177.93.72.14",
+            "218.56.155.106"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

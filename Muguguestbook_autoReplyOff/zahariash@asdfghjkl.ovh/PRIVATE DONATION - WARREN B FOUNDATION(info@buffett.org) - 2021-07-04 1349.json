@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "buffookj@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Warren Buffett Foundation picked you for a $1,500, 000 donation. For more details reply buffookj@gmail.com\r\n\r\nNote:All replies should be forwarded to :  buffookj@gmail.com\r\n\r\nWarm Regard\r\nCEO Warren Buffett Foundation\r\nWarren Buffett\r\n",
+            "content_type": "text/plain",
+            "hash": "13e406667c8c956beb32292e5c82debf621fe34ae3e03bef8ad6700209792ea2"
+        }
+    ],
+    "header": {
+        "subject": "PRIVATE DONATION   ",
+        "from": "info@buffett.org",
+        "to": [
+            "info@buffett.org"
+        ],
+        "date": "2021-07-04T19:49:54+08:00",
+        "received_domain": [
+            "user-pc.homenet.telecomitalia.it",
+            "mail.generlc.net"
+        ],
+        "received_ip": [
+            "122.249.239.238",
+            "80.182.203.243"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

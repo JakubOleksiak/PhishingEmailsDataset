@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "domain": [
+                "www.ajmanbank.ae"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Gr\u00fc\u00dfe des Tages,\r\n\r\nIch entschuldige mich daf\u00fcr, dass ich aus heiterem Himmel in deine Privatsph\u00e4re platze.\r\n\r\nIch bin CFO bei einer der angesehenen Banken hier in den Vereinigten Arabischen Emiraten. Ich m\u00f6chte Ihre ehrliche Hilfe bei der Sicherung und Investition einer riesigen Summe erbitten Geld, wenn Sie zuverl\u00e4ssig und vertrauensw\u00fcrdig sind.\r\n\r\nIch versichere Ihnen, dass Sie f\u00fcr Ihr aufrichtiges Engagement einen sehr guten Prozentsatz erhalten.\r\n\r\nBitte melden Sie sich bei mir, damit ich Ihnen die Details des Projekts mitteilen kann.\r\n\r\nGr\u00fc\u00dfe,\r\nHerr  Seifeldin  Abdelkareem\r\nFinanzvorstand\r\nAjman Bank Vereinigte Arabische Emirate\r\nwww.ajmanbank.ae\r\n\r\n\r\n\r\n\r\nGreetings of the day,\r\n\r\nMy apologies for barging out of the blues into your privacy.\r\n\r\nI am a CFO in one of the reputable banks here in Dubai, United Arab Emirates.\r\nI want to solicit your honest assistance in securing and investing of a huge sum\r\nof money if you are reliable and can be trusted.\r\n\r\nI assure that you will be paid a very good percentage for your sincere involvement.\r\n\r\nKindly get back to me so I can lay down the details of the project to you.\r\n\r\nRegards,\r\nMr. Seifeldin Abdelkareem\r\nWebsite: www.ajmanbank.ae<http://www.ajmanbank.ae>\r\n",
+            "content_type": "text/plain",
+            "hash": "2d32a31b8777b20daa87b782475e85ddf31f0d8c645f12107968e44f2350177e",
+            "boundary": "_000_DB6PR0301MB2344B69730416857CBEDDF898EC29DB6PR0301MB2344_"
+        }
+    ],
+    "header": {
+        "subject": "Dringend/Urgent",
+        "from": "seifeldinkareem051@outlook.com",
+        "to": [],
+        "date": "2021-08-21T09:13:18+00:00",
+        "received_domain": [
+            "eur02-he1-obe.outbound.protection.outlook.com",
+            "db6pr0301mb2344.eurprd03.prod.outlook.com",
+            "db7pr03mb5114.eurprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.68.103",
+            "2603:10a6:10:7f::25",
+            "2603:10a6:4:58::14"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "German"
+    }
+}

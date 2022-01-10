@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "ttytdp_huthanhoai@hanoi.gov.vn"
+            ],
+            "domain": [
+                "hanoi.gov.vn"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "InterScan Messaging Security Appliance has detected a message which violated the security settings configured in Policy > Scanning Exceptions. The message was quarantined. You can find out more about this event by querying the Policy Event logs for Scanning exceptions.\r\n\r\nMessage details:\r\nSender: ttytdp_huthanhoai@hanoi.gov.vn\r\nRecipient: \r\nSubject: Congratulations ($ 100,800,000.00)\r\nMessage ID: 2501AC70-BF63-2005-A456-7A8E8CDAF804\r\nAttachment: ",
+            "content_type": "text/plain",
+            "hash": "da785be139bed25c190705a0f7bb806427ce35ed7d53a44bfd06ab2da4dd929f"
+        }
+    ],
+    "header": {
+        "subject": "IMSVA Security settings violation",
+        "from": "postmaster@imsva.trendmicro.com",
+        "to": [
+            "notificationrecipients@mx01.hanoi.gov.vn"
+        ],
+        "date": "2021-04-07T21:55:45+07:00",
+        "received_domain": [
+            "mx01.hanoi.gov.vn"
+        ],
+        "received_ip": [
+            "113.160.32.33"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

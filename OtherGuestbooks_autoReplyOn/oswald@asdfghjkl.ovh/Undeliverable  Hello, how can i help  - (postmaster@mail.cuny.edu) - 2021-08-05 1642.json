@@ -1,0 +1,182 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 2711,
+            "hash": {
+                "md5": "cf593a1075e4c70dfab9ac2341d70cc0",
+                "sha1": "bee12bd5416a4dd3f135a9fefcab9ebc240c12ec",
+                "sha256": "4eb32a86747f8f150b1b366996b138b328eefd6bb0b8976ac255f123605acaaf",
+                "sha512": "0a97d63bea510a0b5b20f0047a566bc8a8f1dc9a345573c4e52370519127d5bf4e4e62fa965c60798e02d624ca7c5f209f76316a8e8a490f489d404f5d727f20"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "shkrueger@cuny.edu",
+                "mailfrom=oswald@asdfghjkl.ovh",
+                "b7beed85-c13a-4e1a-bea1-cf020f6a6443@desktop-9avsair",
+                "oswald@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "cuny.edu",
+                "excpm5703.enterpriseapps.cuny.adlan",
+                "excpm5702.enterpriseapps.cuny.adlan",
+                "172.29.210.62",
+                "172.29.210.63",
+                "ppsm1.cuny.edu",
+                "host-185-25-217-220.jmdi.pl",
+                "ppa1.cuny.edu",
+                "asdfghjkl.ovh"
+            ],
+            "ip": [
+                "185.25.217.220",
+                "8.16.0.43"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Delivery has failed to these recipients or groups:\r\n\r\nshkrueger@cuny.edu<mailto:shkrueger@cuny.edu>\r\nThe email address you entered couldn't be found. Please check the recipient's email address and try to resend the message. If the problem continues, please contact your helpdesk.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDiagnostic information for administrators:\r\n\r\nGenerating server: EXCPM5703.enterpriseapps.cuny.adlan\r\n\r\nshkrueger@cuny.edu\r\nRemote Server returned '550 5.1.1 RESOLVER.ADR.RecipNotFound; not found'\r\n\r\nOriginal message headers:\r\n\r\nReceived: from EXCPM5702.enterpriseapps.cuny.adlan (172.29.210.62) by\r\n EXCPM5703.enterpriseapps.cuny.adlan (172.29.210.63) with Microsoft SMTP\r\n Server (TLS) id 15.0.1497.2; Thu, 5 Aug 2021 10:42:19 -0400\r\nReceived: from ppsm1.cuny.edu (172.28.0.167) by\r\n EXCPM5702.enterpriseapps.cuny.adlan (172.29.210.62) with Microsoft SMTP\r\n Server (TLS) id 15.0.1497.2 via Frontend Transport; Thu, 5 Aug 2021 10:42:19\r\n -0400\r\nAuthentication-Results: cuny.edu;\r\n        spf=none smtp.mailfrom=oswald@asdfghjkl.ovh;\r\n        dmarc=none\r\nReceived: from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\r\n        by ppa1.cuny.edu (8.16.0.43/8.16.0.43) with ESMTPS id 175EgH64014937\r\n        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128 verify=NOT)\r\n        for <shkrueger@cuny.edu>; Thu, 5 Aug 2021 10:42:18 -0400\r\nContent-Type: text/plain; charset=\"utf-8\"\r\nMIME-Version: 1.0\r\nMessage-ID: <B7BEED85-C13A-4E1A-BEA1-CF020F6A6443@DESKTOP-9AVSAIR>\r\nDate: Thu, 5 Aug 2021 16:42:16 +0200\r\nFrom: <oswald@asdfghjkl.ovh>\r\nTo: <shkrueger@cuny.edu>\r\nSubject: Hello, how can i help?\r\nContent-Transfer-Encoding: quoted-printable\r\nAuto-Submitted: auto-replied\r\nX-hMailServer-LoopCount: 1\r\nX-Proofpoint-ORIG-GUID: A33DkRtKqF_Izwc25E1cpHDuy7UzhCpm\r\nX-CLX-Response: 1TFkXBx8eEQpZRBdrfHp7Rx5mZEdOThEKWFgXZH5OZxxfcm4BZ2cRCnhOF24\r\n dEh1BW0weTxlZEQp5TBd6ElNuRFtJS3xeBREKQ0gXBxkRCkNZFwcYHhMRCkNJFxoEGhoaEQpZTR\r\n dnZnIRCllJFwcbGHEbBgcYHncGBx8ZBhoGGgYYGwYacRoQGncGGgYaBhoGBxsaBhoGGnEaEBp3B\r\n hoRClleF2hjeREKSUYXSV9EU3VaWEVOX0leQ0VEGVxHEQpDThdrGRluQXheYVtsdWNQXUkYH28b\r\n SVpibl9THX9QQmlaRxEKWFwXHwQaBBgZGQUbGgQbGxoEHxoEGx4fEBseGh8aEQpeWRdze3AbRxE\r\n KTVwXHhkRCkxaF3hpQ2trEQpFWRdNaxEKTF8XegUFBQUFBQUFBRgRCk1OF28RCkxGF2Nra2sRCk\r\n JPF2hnYEtlekNYG1IcEQpDWhcbEh8EGB8EGBsdBBgYGhEKQkUXZH5OZxxfcm4BZ2cRCkJOF24dE\r\n h1BW0weTxlZEQpCTBdkfk5nHF9ybgFnZxEKQmwXZH5OZxxfcm4BZ2cRCkJAF2hZTW1JYmloYQFu\r\n EQpCWBdoHkB/bnIffkNvbhEKTV4XBxsRCnlDF2kSZVIfYn5GfxJ6EQpwaBdsE2UaeWMSSxJFHBA\r\n HGRoRCm1+FwcbEQpYTRdLESA=\r\nX-Proofpoint-GUID: A33DkRtKqF_Izwc25E1cpHDuy7UzhCpm\r\nX-CLX-Shades: MLX\r\nX-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.391,18.0.790\r\n definitions=2021-08-05_05:2021-08-05,2021-08-05 signatures=0\r\nX-Proofpoint-Spam-Details: rule=inbound_notspam policy=inbound score=37 clxscore=-54 impostorscore=0\r\n mlxscore=37 phishscore=0 lowpriorityscore=0 bulkscore=0 adultscore=0\r\n priorityscore=1501 suspectscore=0 mlxlogscore=23 spamscore=37\r\n malwarescore=0 classifier=spam adjust=0 reason=mlx scancount=1\r\n engine=8.12.0-2107140000 definitions=main-2108050089\r\nReturn-Path: oswald@asdfghjkl.ovh\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "50c157fda8d3c308423ce771670b79763562f8fd5726c8bb53edf3d6bb78b7cb",
+            "boundary": "712900dc-99fa-4f1d-b9dc-4a4762c4c06e"
+        },
+        {
+            "content_header": {
+                "reporting-mta": [
+                    "dns;EXCPM5703.enterpriseapps.cuny.adlan"
+                ],
+                "received-from-mta": [
+                    "dns;ppsm1.cuny.edu"
+                ],
+                "arrival-date": [
+                    "Thu, 5 Aug 2021 14:42:19 +0000"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822;shkrueger@cuny.edu"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.1.1"
+                ],
+                "diagnostic-code": [
+                    "smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {},
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "received": [
+                    "from EXCPM5702.enterpriseapps.cuny.adlan (172.29.210.62) by EXCPM5703.enterpriseapps.cuny.adlan (172.29.210.63) with Microsoft SMTP Server (TLS) id 15.0.1497.2; Thu, 5 Aug 2021 10:42:19 -0400",
+                    "from ppsm1.cuny.edu (172.28.0.167) by EXCPM5702.enterpriseapps.cuny.adlan (172.29.210.62) with Microsoft SMTP Server (TLS) id 15.0.1497.2 via Frontend Transport; Thu, 5 Aug 2021 10:42:19 -0400",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby ppa1.cuny.edu (8.16.0.43/8.16.0.43) with ESMTPS id 175EgH64014937\t(version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128 verify=NOT)\tfor <shkrueger@cuny.edu>; Thu, 5 Aug 2021 10:42:18 -0400"
+                ],
+                "authentication-results": [
+                    "cuny.edu;\tspf=none smtp.mailfrom=oswald@asdfghjkl.ovh;\tdmarc=none"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<B7BEED85-C13A-4E1A-BEA1-CF020F6A6443@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Thu, 05 Aug 2021 16:42:16 +0200"
+                ],
+                "from": [
+                    "oswald@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "shkrueger@cuny.edu"
+                ],
+                "subject": [
+                    "Hello, how can i help?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ],
+                "x-proofpoint-orig-guid": [
+                    "A33DkRtKqF_Izwc25E1cpHDuy7UzhCpm"
+                ],
+                "x-clx-response": [
+                    "1TFkXBx8eEQpZRBdrfHp7Rx5mZEdOThEKWFgXZH5OZxxfcm4BZ2cRCnhOF24 dEh1BW0weTxlZEQp5TBd6ElNuRFtJS3xeBREKQ0gXBxkRCkNZFwcYHhMRCkNJFxoEGhoaEQpZTR dnZnIRCllJFwcbGHEbBgcYHncGBx8ZBhoGGgYYGwYacRoQGncGGgYaBhoGBxsaBhoGGnEaEBp3B hoRClleF2hjeREKSUYXSV9EU3VaWEVOX0leQ0VEGVxHEQpDThdrGRluQXheYVtsdWNQXUkYH28b SVpibl9THX9QQmlaRxEKWFwXHwQaBBgZGQUbGgQbGxoEHxoEGx4fEBseGh8aEQpeWRdze3AbRxE KTVwXHhkRCkxaF3hpQ2trEQpFWRdNaxEKTF8XegUFBQUFBQUFBRgRCk1OF28RCkxGF2Nra2sRCk JPF2hnYEtlekNYG1IcEQpDWhcbEh8EGB8EGBsdBBgYGhEKQkUXZH5OZxxfcm4BZ2cRCkJOF24dE h1BW0weTxlZEQpCTBdkfk5nHF9ybgFnZxEKQmwXZH5OZxxfcm4BZ2cRCkJAF2hZTW1JYmloYQFu EQpCWBdoHkB/bnIffkNvbhEKTV4XBxsRCnlDF2kSZVIfYn5GfxJ6EQpwaBdsE2UaeWMSSxJFHBA HGRoRCm1+FwcbEQpYTRdLESA="
+                ],
+                "x-proofpoint-guid": [
+                    "A33DkRtKqF_Izwc25E1cpHDuy7UzhCpm"
+                ],
+                "x-clx-shades": [
+                    "MLX"
+                ],
+                "x-proofpoint-virus-version": [
+                    "vendor=fsecure engine=2.50.10434:6.0.391,18.0.790 definitions=2021-08-05_05:2021-08-05,2021-08-05 signatures=0"
+                ],
+                "x-proofpoint-spam-details": [
+                    "rule=inbound_notspam policy=inbound score=37 clxscore=-54 impostorscore=0 mlxscore=37 phishscore=0 lowpriorityscore=0 bulkscore=0 adultscore=0 priorityscore=1501 suspectscore=0 mlxlogscore=23 spamscore=37 malwarescore=0 classifier=spam adjust=0 reason=mlx scancount=1 engine=8.12.0-2107140000 definitions=main-2108050089"
+                ],
+                "return-path": [
+                    "oswald@asdfghjkl.ovh"
+                ]
+            },
+            "content": "***ATTENTION: This email came from an external source. Do not open attachments or click on links from unknown senders or unexpected emails.*** \r\n\r\nHello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nOswald\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "f162f665b06a01f432b7d77f7d7c4a500d3a6969178643361a50c6e21e61ed41"
+        }
+    ],
+    "header": {
+        "subject": "Undeliverable: Hello, how can i help?",
+        "from": "postmaster@mail.cuny.edu",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-05T10:42:19-04:00",
+        "received_domain": [
+            "excpm5703.enterpriseapps.cuny.adlan",
+            "ppa3.cuny.edu",
+            "ppsm1.cuny.edu"
+        ],
+        "received_ip": [
+            "8.16.0.43",
+            "128.228.0.169"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

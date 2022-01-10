@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "email": [
+                "agentbooker123456789@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "I'm very good, have you heard of the good news on facebook\r\n Are you not aware of the prize you won with the promotion on Facebook give away?\r\n you  won $500,000, From the On-going Lottery Promotion. And I thought you were also aware of the Facebook promotion because i saw your name and photos on the winning list when I got my prize\r\n email us agentbooker123456789@gmail.com to claim your prizes \r\n or add us on WhatsApp +1 (870) 770-5375\r\n  \r\n",
+            "content_type": "text/plain",
+            "hash": "efa7ff80fe7368c87e18c55ff26fbf1fad36637d02ca3bd72f424f288faf3786",
+            "boundary": "===============1217430530=="
+        }
+    ],
+    "header": {
+        "subject": "hello ",
+        "from": "bx@chamber.uz",
+        "to": [
+            "bx@chamber.uz"
+        ],
+        "date": "2021-09-19T01:32:21+08:00",
+        "received_domain": [
+            "mail.chamber.uz"
+        ],
+        "received_ip": [
+            "217.30.169.104"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

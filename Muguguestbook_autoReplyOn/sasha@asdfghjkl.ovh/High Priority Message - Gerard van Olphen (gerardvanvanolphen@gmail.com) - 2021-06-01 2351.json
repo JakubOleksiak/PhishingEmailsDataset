@@ -1,0 +1,30 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\nMy name is Gerard van Olphen I am contacting you concerning a certain bonded account in bank that shares the same last name with yours,please contact me via email if you are interested to know more.\r\n\r\nIt will be beneficial to all parties concerned.\r\n\r\nRegards,\r\n\r\nGerard van Olphen.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "c2378b862a387d332f2b9381e506cb2c66774827ada8820dc551de7614ca23d0"
+        }
+    ],
+    "header": {
+        "subject": "High Priority Message",
+        "from": "gerardvanvanolphen@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-01T21:51:37+00:00",
+        "received_domain": [
+            "server2.thumplocal.net"
+        ],
+        "received_ip": [
+            "72.10.33.213"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

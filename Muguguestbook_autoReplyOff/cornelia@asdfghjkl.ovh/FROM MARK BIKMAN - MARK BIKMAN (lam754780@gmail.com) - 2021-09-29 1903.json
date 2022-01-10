@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "markbikman@protonmail.com"
+            ],
+            "domain": [
+                "protonmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir,\r\n\r\nThis is to notify you of a new order on the release of your fund.\r\nPrior to this proceeding, we have been mandated by the President of\r\nthe International Monetary Fund to make sure all our debtors received\r\ntheir long awaited funds within the next five working days from date.\r\n\r\nBut in your own case, we found some complicity in your payment due to\r\na petition filed by one Erik Andersen from the United States of\r\nAmerica informing us that he is your Lawyer and you are dead, in your\r\nWill while you are alive that we should hand over the ownership of\r\nthis unclaimed fund to him. So, he now wants us to transfer\r\nyour fund worth $8.9million USDollars to his own account that is stated below.\r\n\r\nBank of America, New York\r\nBranch A/C No: 0911667701\r\nSwift Code: BOFAUS3N\r\nBeneficiary: Erik Andersen\r\n\r\nKindly get in touch with us today  with your telephone number to\r\nconfirm this information to avoid wrong\r\ntransfer of your funds.\r\nContact Email address: markbikman@protonmail.com\r\n\r\nYours faithfully\r\nMARK BIKMAN\r\nEmail: markbikman@protonmail.com\r\n\r\n(Director of Foreign Operations and\r\nInspection Unit)\r\n",
+            "content_type": "text/plain",
+            "hash": "14c74c100c90d211dadc1937d0fc95fd1b29a34a905906250193af938eb07fc6"
+        }
+    ],
+    "header": {
+        "subject": "FROM MARK BIKMAN",
+        "from": "lam754780@gmail.com",
+        "to": [],
+        "date": "2021-09-29T18:03:39+01:00",
+        "received_domain": [
+            "mail-pf1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.178",
+            "2002:a02:ccd1::"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

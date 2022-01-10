@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nGood day\r\nPlease we need your advice to invest some funds in your country,get back if\r\npossible\r\nRegards,\r\nSalim Omar\r\n",
+            "content_type": "text/plain",
+            "hash": "6581c711c68658ea80d0ec71f5bbcd0e9e04a1da3ad64071fa94adfa2a1b9185",
+            "boundary": "00000000000010066405cbdd7edb"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "syedahmedconsultants@gmail.com",
+        "to": [],
+        "date": "2021-09-13T10:56:48+01:00",
+        "received_domain": [
+            "mail-wm1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.52"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

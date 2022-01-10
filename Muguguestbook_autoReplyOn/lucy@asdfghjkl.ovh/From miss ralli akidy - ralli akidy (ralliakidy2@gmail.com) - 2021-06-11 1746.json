@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "My dearest\r\n\r\nI have sent you a message and I have not received your reply\r\n\r\nPlease get back to me so that we can proceed\r\n\r\nI will send to you the bank contact for you to contact them for the transfer\r\n\r\nI will tell you what to tell them\r\n\r\nThanks\r\nReply me\r\n\r\n\r\n--\r\n",
+            "content_type": "text/plain",
+            "hash": "3f3cf4876e2ad7bb29d944199995fac22e5059f451b858f0939d45cf449866bc",
+            "boundary": "000000000000986c0705c47f67f7"
+        }
+    ],
+    "header": {
+        "subject": "From miss ralli akidy",
+        "from": "ralliakidy2@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-11T17:46:01+02:00",
+        "received_domain": [
+            "mail-il1-f170.google.com"
+        ],
+        "received_ip": [
+            "2002:a02:6383::",
+            "209.85.166.170"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

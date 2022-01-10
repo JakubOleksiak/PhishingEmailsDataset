@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Dear, Bartolomeo*\r\n\r\n\r\n* Hope you are doing good.*\r\n\r\n*I am SEO Consultant from a leading Search Engine Optimization (SEO)\r\nCompany.*\r\n\r\n *Would you like to increase the leads/sales generated from your website or\r\nwant to become first page ranking on Google, Yahoo & Bing? We can help you\r\nto promote your website.*\r\n\r\n *Let me know if you are interested then I will send you our Packages and\r\nprice list.*\r\n\r\n*Thanks & Regards,*\r\n\r\n\r\n*Amelia HalSEO Consultant*\r\n[image: beacon]\r\n",
+            "content_type": "text/plain",
+            "hash": "e9d6c8fbcb87104943243bf1e84f4532fd54844f3f06f5a5f58390dc81fbca22",
+            "boundary": "0000000000009df13e05c9f931d1"
+        }
+    ],
+    "header": {
+        "subject": "Hey Bartolomeo,Waiting For Your Reply?",
+        "from": "amelia6276hal@gmail.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-20T01:09:59-07:00",
+        "received_domain": [
+            "mail-wm1-f46.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.46"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

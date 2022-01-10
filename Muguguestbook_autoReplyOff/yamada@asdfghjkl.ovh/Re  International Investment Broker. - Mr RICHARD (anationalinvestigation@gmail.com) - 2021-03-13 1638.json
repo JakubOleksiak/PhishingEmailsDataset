@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello,\r\n\r\nGreetings\r\n\r\nI am Head of Business Development with PEG Equity Partners in Ghana.\r\nI am an international investment broker with access to clients who have\r\nprivate and corporate investment portfolios with more\r\n\r\nthan  ($300 Million Dollars).\r\n\r\nPresently, my client  (Private / Silent Investor) has the sum of US$30\r\nMillion and he is looking for a profitable project where\r\n\r\nthe said funds will be invested with the aim of making good profits in\r\nreturn.\r\nIn case you have any profitable projects, please do not hesitate to write\r\nme back with the project details like. Business Plan or\r\n\r\nExecutive Summary for our review.\r\n\r\n\r\nSincerely Yours\r\n\r\nDr. Albert David\r\nEmail: dralbertdavid01@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "e0490618fed87666979d1199b4cdc8a3dbb9e5f5a416577f00f82b2014a7c4c0",
+            "boundary": "00000000000058610805bd6cd0d9"
+        }
+    ],
+    "header": {
+        "subject": "RE: International Investment Broker.",
+        "from": "anationalinvestigation@gmail.com",
+        "to": [],
+        "date": "2021-03-13T16:38:42+01:00",
+        "received_domain": [
+            "mail-yb1-f176.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.176"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

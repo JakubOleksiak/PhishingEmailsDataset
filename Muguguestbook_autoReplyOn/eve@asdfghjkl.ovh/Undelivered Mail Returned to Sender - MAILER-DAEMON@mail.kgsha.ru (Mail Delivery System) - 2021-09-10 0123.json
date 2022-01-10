@@ -1,0 +1,135 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1026,
+            "hash": {
+                "md5": "ab2ca243921a5c68c91bcee085613f56",
+                "sha1": "26af6c907fb84f971ac60da7a8f8c23724d8b4c6",
+                "sha256": "a090db9551f7cbd94b45ec64f61c18b7723583c7f3563da71ef68291c4e887b7",
+                "sha512": "6f8eda2639ab01752c0c0c490151a2e546bce4495fe9a1c7c3f9874dadfb560f8e5c5651d4da74bc016049c91cacc8261d94fb5258d99be5dec16de01cd25120"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "pkmnmasterholly@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "ip": [
+                "173.194.222.27"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host mail.kgsha.ru.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<pkmnmasterholly@gmail.com>: host gmail-smtp-in.l.google.com[173.194.222.27]\r\n    said: 550-5.2.1 The user you are trying to contact is receiving mail at a\r\n    rate that 550-5.2.1 prevents additional messages from being delivered. For\r\n    more 550-5.2.1 information, please visit 550 5.2.1\r\n    https://support.google.com/mail/?p=ReceivingRatePerm i1si4181779ljd.167 -\r\n    gsmtp (in reply to RCPT TO command)\r\n",
+            "content_type": "text/plain",
+            "hash": "b6efc79700f34bcde55371a00f9b4d18360202721d9f1224278b1056c52054f9",
+            "boundary": "4DF67434051.1631229823/mail.kgsha.ru"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; pkmnmasterholly@gmail.com"
+                ],
+                "original-recipient": [
+                    "rfc822;ilin_ae@kgsha.ru"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.2.1"
+                ],
+                "remote-mta": [
+                    "dns; gmail-smtp-in.l.google.com"
+                ],
+                "diagnostic-code": [
+                    "smtp; 550-5.2.1 The user you are trying to contact is    receiving mail at a rate that 550-5.2.1 prevents additional messages from    being delivered. For more 550-5.2.1 information, please visit 550 5.2.1    https://support.google.com/mail/?p=ReceivingRatePerm i1si4181779ljd.167 -    gsmtp"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<eve@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from localhost (localhost [127.0.0.1])\tby mail.kgsha.ru (Postfix) with ESMTP id 4DF67434051\tfor <pkmnmasterholly@gmail.com>; Thu,  9 Sep 2021 23:56:42 +0300 (MSK)",
+                    "from mail.kgsha.ru ([127.0.0.1])\tby localhost (mail.kgsha.ru [127.0.0.1]) (amavisd-new, port 10024)\twith ESMTP id 0Au4zCaa91-D; Thu,  9 Sep 2021 23:56:41 +0300 (MSK)",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby mail.kgsha.ru (Postfix) with ESMTPS id 63C024320FB\tfor <ilin_ae@kgsha.ru>; Thu,  9 Sep 2021 23:56:39 +0300 (MSK)"
+                ],
+                "x-virus-scanned": [
+                    "amavisd-new at mail.kgsha.ru"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<D3F48471-4026-4404-A36A-8141EE5CF840@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Thu, 09 Sep 2021 22:56:20 +0200"
+                ],
+                "from": [
+                    "eve@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "ilin_ae@kgsha.ru"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nEve\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "76ce2c4ebd3b59378f13ade0c96d812ab8a0b72320d8d7269fd3368c43630a3c"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@mail.kgsha.ru",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-10T02:23:43+03:00",
+        "received_domain": [
+            "mail.kgsha.ru"
+        ],
+        "received_ip": [
+            "178.249.241.198"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

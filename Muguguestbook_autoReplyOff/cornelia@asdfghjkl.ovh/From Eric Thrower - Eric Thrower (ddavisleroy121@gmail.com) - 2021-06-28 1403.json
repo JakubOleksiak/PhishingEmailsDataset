@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "paydirect_delivery1@diplomats.com",
+                "peneloperoberson147@gmail.com"
+            ],
+            "domain": [
+                "diplomats.com",
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attention,\r\n\r\nI am Eric Thrower the International Police (PRO) And I'm writing to\r\nyou in regards to the Victims Internet Fraud Compensation Scheme\r\nvalued Four Million Two Hundred Thousand United States Dollars ($4,\r\n200,000.00) only by the United Nations.\r\nKindly reply for more details by contacting the Delivery Payment\r\nManager with the information below:\r\nName: Mrs Penelope Roberson\r\nOfficial: paydirect_delivery1@diplomats.com\r\nPrivate:  peneloperoberson147@gmail.com\r\nRegards,\r\nEric Thrower\r\nInterpol (PRO)\r\nericthrower001@gmail.com\r\ninfo.interpdesk001@cyberservices.com\r\n",
+            "content_type": "text/plain",
+            "hash": "a2bcff00363295fcc12ff83a7fa898d8ec5dd0d81af9a99f4468795f78f986a9"
+        }
+    ],
+    "header": {
+        "subject": "From Eric Thrower",
+        "from": "ddavisleroy121@gmail.com",
+        "to": [],
+        "date": "2021-06-28T13:03:43+01:00",
+        "received_domain": [
+            "mail-pf1-f170.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.170",
+            "2002:a05:6a20:a021:b029:23:1934:8ab"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Dear Sir,\r\n\r\nThe aviation industry is facing a challenging time as travelling restrictions persist and airplanes are grounded in an effort to stop the spread of this infamous coronavirus pandemic. Most airplanes are either in short-term park status or are being put in long-term storage. This is going to be so for an interminable amount of time, and as such the Federal Ministry of Aviation in conjunction with the Nigerian Civil Aviation Authority (NCAA) have put in place a preventive measure to keep parked airplanes in near ready-to-fly conditions.\r\n\r\nThis decision has led to some stringent initiatives to properly regulate the industry and help ensure the right measures are taken to safely return planes to the skies when the time comes and one of these steps is to make sure there are availability of spare parts from genuine sources, with lubricant oil, and also to emphasize to the individual players in the industry the need to abide by the guidelines and instructions included in \u2018Aircraft OEM\u2019 maintenance manuals.\r\n\r\nThere is also a high demand for ester-based aviation turbine lubricants, due to the increased risk of deterioration of components and structure emanating from extended parking periods.\r\n\r\nHaving said that, I am well connected to key administrative contacts, responsible for the award of contracts relating to the supply of oil lubricants and other needed aviation supplies on behalf of the agency. If you have the capability to source for this product with the prices, I will be more than happy to work with you and also link you directly with the top government official in charge, so that a quotation can be presented in the ongoing tender to supply the products to our government.\r\n\r\nBest regards,\r\n\r\nKalu Buhari\r\n",
+            "content_type": "text/plain",
+            "hash": "4e6ba138586936502bc512be28395b65fb7fea9dba4351e8072278d8f0177003"
+        }
+    ],
+    "header": {
+        "subject": "The aviation industry",
+        "from": "",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-13T15:20:43+01:00",
+        "received_domain": [
+            "win-vngh094qhra.home"
+        ],
+        "received_ip": [
+            "102.68.111.1",
+            "103.133.214.3"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://news.bbc.co.uk/1/hi/world/europe/859479.stm"
+            ],
+            "domain": [
+                "dr.chris",
+                "today.the",
+                "news.bbc.co.uk",
+                "859479.stm",
+                "person.going"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": " - This mail is in HTML. Some elements may be ommited in plain text. -\r\n\r\nHello,I am DR.Chris Ani of the AFRICAN DEVELOPMENT BANK GROUP, I seek your assistance in clearing a Treasure Box containing a sum of Ten Million five houndred United States Dollars, which has been dormant in our vaults in the last five years hence my reason of calling you today.The said box was deposited by a foreign customer from Germany (Mr. Andreas) who unfortunately was one of the victims of the AF4590 German Concorde plane that crashed on Monday, 31, July 2000, with every member of his family. Check the following website:\r\nhttp://news.bbc.co.uk/1/hi/world/europe/859479.stm\r\nHe has lost touch with us. After going through some old files in the records I discovered that the owner of the account died without a [heir]. Hence I have been unsuccessful in locating the relatives for over 5years. Now, I seek your consent to present you as the next of kin to the deceased person.Going by the usual statutory rules governing our operation, the treasure box shall be handed over to!\r\nthe relevant government authorities as an unclaimed deposit within the next two months.Therefore, on receipt of your positive response, we shall then discuss the sharing ratio and modalities for transfer. I have all necessary information and legal documents needed to back you up for claim. Details shall be made available to you as soon as I hear from you.Thanks &amp; God Bless!Regards,DR.Chris Ani\r\n",
+            "content_type": "text/plain",
+            "hash": "334745f2193ae115eea56ce7bae31461ee248c53f4dec75a8c10ad197c9bf3c2",
+            "boundary": "Q=_2rmBEIaXr3ZvVycyHAZST6aWf63tXH10"
+        }
+    ],
+    "header": {
+        "subject": "Good news from the US government",
+        "from": "smtp-o5kz6@xenangnhapkhau.net",
+        "to": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-13T03:15:06+08:00",
+        "received_email": [
+            "smtp-o5kz6@xenangnhapkhau.net"
+        ],
+        "received_domain": [
+            "share-linux23u.nhanhoa.com"
+        ],
+        "received_ip": [
+            "41.220.75.174",
+            "103.28.36.136"
+        ],
+        "received_foremail": [
+            "swen@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

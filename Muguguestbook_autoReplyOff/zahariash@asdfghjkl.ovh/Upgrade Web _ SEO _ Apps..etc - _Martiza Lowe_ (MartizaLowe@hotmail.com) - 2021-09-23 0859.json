@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hey Zahariash\r\n\r\nI am a professional Web Design & Mobile App Developer with 11 years of\r\nexperience. If you are interested, then I can send you our past work\r\ndetails, company information and a low quotation with the best Prices.\r\n\r\nOur Specialty: \r\n\r\n.       Business App & Websites\r\n\r\n.       Website Design / Redesign\r\n\r\n.       PHP | SEO | Word press |.Net\r\n\r\nI am waiting for your positive response.\r\n\r\nThanks,\r\n\r\nMartiza Lowe\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "1dbed7a167b878d4165ad554e190776e1b5a57db37f53d807e7c7c932a26135d",
+            "boundary": "----=_NextPart_000_11AE_01D7B076.9FD00A80"
+        }
+    ],
+    "header": {
+        "subject": "Upgrade Web | SEO | Apps..etc",
+        "from": "martizalowe@hotmail.com",
+        "to": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-23T12:29:11+05:30",
+        "received_domain": [
+            "bm1pr0101ca0009.indprd01.prod.outlook.com",
+            "tycp286mb0736.jpnp286.prod.outlook.com",
+            "tyap286mb0348.jpnp286.prod.outlook.com",
+            "jpn01-ty1-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "122.161.48.248",
+            "2603:1096:b00:18::19",
+            "2603:1096:404:8040::9",
+            "2603:1096:400:7d::12",
+            "104.47.93.158"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

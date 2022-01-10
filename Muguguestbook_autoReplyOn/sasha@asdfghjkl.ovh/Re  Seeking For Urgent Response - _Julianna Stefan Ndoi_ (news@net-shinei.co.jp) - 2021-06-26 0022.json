@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.julianna",
+                "family.if"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Greetings my beloved,\r\nMy name is Mrs.Julianna Stefan Ndoi,I am a deaf woman and also a cancer\r\npatient who had decided to donate what I have to you for God's works. I\r\nwant to donate $8.5 million to you so that you will use part of the this\r\nfund to help the poor ones,while you use the rest for your family.If you\r\nare interested,Respond now for more details on how to receive this fund.\r\n\r\nRegards,\r\nMrs.Julianna,greeting from the sick bed\r\n",
+            "content_type": "text/plain",
+            "hash": "f23af779927c8e39c11205f3360853c53738a98eaf38f53d949712e8ad7d755c"
+        }
+    ],
+    "header": {
+        "subject": "Re:Seeking For Urgent Response",
+        "from": "news@net-shinei.co.jp",
+        "to": [
+            "news@net-shinei.co.jp"
+        ],
+        "date": "2021-06-25T22:22:55+00:00",
+        "received_domain": [
+            "mail.net-qp.com"
+        ],
+        "received_ip": [
+            "157.205.219.41"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

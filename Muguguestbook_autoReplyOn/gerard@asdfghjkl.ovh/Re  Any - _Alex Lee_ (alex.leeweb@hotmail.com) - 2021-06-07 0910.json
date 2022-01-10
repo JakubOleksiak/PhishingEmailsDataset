@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Gerard\r\n\r\nI am reaching out to see if there is anything that would like to upgrade,\r\nrepair, or redesign on your site. I am a web designer / developer that can\r\ndo just about anything you can imagine at very affordable prices.\r\n\r\nPS: - if this is something, you are interested please respond to this email\r\nfor Portfolio and Price list.\r\n\r\nLet me know what you think.\r\n\r\nThanks &Regards,\r\n\r\nBusiness Development Executive\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "94837a5a45dc1c5f798fa843c93cd61f143a35890679ee9d20b91cb93bccb49b",
+            "boundary": "----=_NextPart_000_0155_01D75B9A.A24B6420"
+        }
+    ],
+    "header": {
+        "subject": "Re:Any",
+        "from": "alex.leeweb@hotmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-07T12:40:47+05:30",
+        "received_domain": [
+            "am5eur02ht067.eop-eur02.prod.protection.outlook.com",
+            "eur02-am5-obe.outbound.protection.outlook.com",
+            "am5eur02ft050.eop-eur02.prod.protection.outlook.com",
+            "sg2pr01ca0108.apcprd01.prod.exchangelabs.com",
+            "db7pr07mb6074.eurprd07.prod.outlook.com",
+            "am5eur02ft050.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7e1c::49",
+            "2a01:111:e400:7e1c::457",
+            "40.92.67.109",
+            "122.177.136.222",
+            "2603:1096:3:15::34",
+            "2a01:111:e400:7e1c::508",
+            "2a01:111:e400:7e1c::46"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

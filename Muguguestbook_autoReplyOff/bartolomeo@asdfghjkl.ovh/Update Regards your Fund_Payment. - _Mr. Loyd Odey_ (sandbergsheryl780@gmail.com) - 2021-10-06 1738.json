@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "email": [
+                "loyd.odey@alliedirish-bank.com"
+            ],
+            "domain": [
+                "alliedirish-bank.com",
+                "treasury.un"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Mr. Loyd Odey\r\nHead of Treasury\r\nAllied Irish Bank (GB)\r\nSt Helen's\r\n1 Undershaft\r\nLondon, EC3A 8AB\r\nUnited Kingdom\r\n Attention,\r\n This is to notify you that your fund has been programmed for\r\nimmediate delivery to you upon reconfirmation of your physical address\r\nas all arrangements has been finalized to released the fund to you as\r\nthe legitimate beneficiary.\r\n  The total sum of 1.800,000,00 Pounds have been made available to be\r\ndelivered to you through diplomatic courier service, this decision was\r\ntaken by the bank as the best option left for you since you were not\r\nable to meet up with the procedures of having your fund transferred\r\nthrough the bank. We also must assure you that this process is safe\r\nand secure.\r\n You are required to reconfirm the below details of yours to us:\r\n  1) Your Current Home Address\r\n(2) Your Direct  Telephone Number\r\n(3) Govt. Issued ID such as Your Intl. Passport or Driver\u2019s License\r\n Finally, be informed that instructions has been given to the bank\r\ncorresponding Diplomatic Courier Company for urgent delivery of your\r\nfund once the aforementioned details of you is received. We will also\r\nfurnish you with the information of the Diplomatic Courier Company in\r\nreceiving your response with the requested details of you to enable\r\nyou open up communication with them regarding your delivery process.\r\n We wait to hear from you.\r\n Yours Faithfully,\r\nMr. Loyd Odey\r\nHead of Treasury\r\nAllied Irish Bank (GB)\r\nloyd.odey@alliedirish-bank.com\r\n\r\ntreasury.unit@alliedirish-bank.com\r\n",
+            "content_type": "text/plain",
+            "hash": "013abd600fbfc2b8bb4aeb87ec9d267a12d02bbda982bf6ed1049557d1f4e230"
+        }
+    ],
+    "header": {
+        "subject": "Update Regards your Fund/Payment.",
+        "from": "sandbergsheryl780@gmail.com",
+        "to": [],
+        "date": "2021-10-06T16:38:15+01:00",
+        "received_domain": [
+            "mail-qk1-f195.google.com"
+        ],
+        "received_ip": [
+            "2002:a5e:8217::",
+            "209.85.222.195"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

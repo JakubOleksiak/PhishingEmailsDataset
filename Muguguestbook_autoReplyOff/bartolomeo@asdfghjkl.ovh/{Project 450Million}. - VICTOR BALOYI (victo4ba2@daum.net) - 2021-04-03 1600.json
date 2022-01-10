@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "(AASSUURRRANCTT).pdf",
+            "size": 56915,
+            "extension": "pdf",
+            "hash": {
+                "md5": "d91b249ed85959f7f4e82498fb8cfd6f",
+                "sha1": "07b3342c17029ffb813a0b987aa0140c5b3d6442",
+                "sha256": "14031fd6e7b52be71258ebb44675cd17f07e2dd4e9c68f5b694ab7b05f3be197",
+                "sha512": "081a659b7606164c93d96f477c08728a29102e478f42bd38ca3dbc4875a4f67a366650cfff9496e7f974508e63f2b6e250cf07178cc80a453c489699f9fa8fd0"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/pdf; name=\"(AASSUURRRANCTT).pdf\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"(AASSUURRRANCTT).pdf\""
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "<html>\n<head>\n    <style>\n        p{margin-top:0;margin-bottom:0}\n    </style>\n</head>\n<body>\n    <div style=\"color:#111;font-family:Apple SD Gothic Neo,Malgun Gothic,'\ub9d1\uc740 \uace0\ub515',sans-serif;font-size:10pt;line-height:1.5;\">\n    <div style=\"color:#111;font-family:Apple SD Gothic Neo,Malgun Gothic,'\ub9d1\uc740 \uace0\ub515',sans-serif;font-size:10pt;line-height:1.5;\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">(.DOWNLOAD.........INFO.)</font></font><p><br></p></div>\n\n\n<p><br></p></div>\n</body>\n</html>\n<img src=\"https://confirm.mail.daum.net/confirmapi/v1/users/victo4ba2%40hanmail%2Enet/cmails/20210403230025%2EykK8A2DgSyGsphF45nIWjA%40victo4ba2%2Ehanmail%2Enet/recipients/bartolomeo%40asdfghjkl%2Eovh\">",
+            "content_type": "text/html",
+            "hash": "494549d2e163d71d5d76f894dff82bfc97d98ec039d26cb6151c86e164097b43",
+            "boundary": "----=_Part_8098560_1924156142.1617458425366"
+        }
+    ],
+    "header": {
+        "subject": "{Project 450Million}.",
+        "from": "victo4ba2@daum.net",
+        "to": [
+            "victo4ba2@daum.net"
+        ],
+        "date": "2021-04-03T23:00:25+09:00",
+        "received_domain": [
+            "mail-hammer-was5.s2.krane.9rum.cc",
+            "mail-smail-vm58.hanmail.net"
+        ],
+        "received_ip": [
+            "203.133.181.17"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

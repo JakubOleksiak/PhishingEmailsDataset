@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.theguardian.com/news/2016/apr/08/mossack-fonseca-law-firm-hide-money-panama-papers",
+                "https://www.theguardian.com/world/2018/mar/14/mossack-fonseca-shut-down-panama-papers",
+                "https://www.icij.org/investigations/panama-papers/new-panama-papers-leak-reveals-mossack-fonseca"
+            ],
+            "domain": [
+                "www.theguardian.com",
+                "www.icij.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attention: Your urgent response is required\r\n\r\nI am a Lawyer and a former employee at Mossack Fonseca Investment\r\nCorporation Panama. Following a joint investigation by the FBI and the\r\nFederal Reserve Bank, the IMF and the World Bank and based on the\r\nfindings, government authorities ordered Mossack Fonseca Investment\r\nCorporation to close down due to several investment irregularities and\r\nerrors discovered at the corporation. During the investigation, your\r\nname and email address and details was found as one of the next of kin\r\nbeneficiaries of one of the investment funds at the Corporation and\r\nwho is not aware of the fund. These invested funds were secretly\r\ninvested and most of the investors are deceased and their next of kin\r\nare not aware of these funds.\r\n\r\nI will give you more details about this immediately you reply as I\r\nhave so many investment documents showing your name and details as the\r\nbeneficiary next of kin to this investment fund.\r\n\r\nYou may also read more about the investment company, Mossack Fonseca\r\nInvestment Corporation here and how they secretly invested Billions of\r\nDollars for their secret investors and these funds have been ordered\r\nby the government to be paid out to either the original investors or\r\ntheir heir next of kin (where the investor is late or deceased):\r\n\r\nhttps://www.theguardian.com/news/2016/apr/08/mossack-fonseca-law-firm-hide-money-panama-papers\r\nhttps://www.theguardian.com/world/2018/mar/14/mossack-fonseca-shut-down-panama-papers\r\nhttps://www.icij.org/investigations/panama-papers/new-panama-papers-leak-reveals-mossack-fonsecas-chaotic-scramble/\r\n\r\nI wait for your reply for more details.\r\n\r\nRegards,\r\n\r\nConcerned Lawyer\r\n",
+            "content_type": "text/plain",
+            "hash": "41c8520528d852a0ffedc19c1d02d53ca682fe855654559d8c1f50121d196abb"
+        }
+    ],
+    "header": {
+        "subject": "YOUR URGENT ATTENTION REQUIRED",
+        "from": "dennissmith5671@gmail.com",
+        "to": [],
+        "date": "2021-08-23T04:10:49-04:00",
+        "received_domain": [
+            "mail-yb1-f179.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:7010:6715:b029:d5:cdf7:53d3",
+            "209.85.219.179"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

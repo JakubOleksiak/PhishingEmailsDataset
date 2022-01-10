@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "*Hi Consumer,*\r\n\r\nThank you for your interest in our products.\r\n\r\n Your Annual product subscription for NORTON LIFE 365 has been renewed &\r\nupdated successfully.\r\n\r\n\r\n\r\nPRODUCT NAME\r\n\r\nFinish Date\r\n\r\nQty\r\n\r\nAmount Total\r\n\r\nMethod of Payment\r\n\r\nNORTON LIFE 365\r\n\r\nIn One year\r\n\r\n1\r\n\r\n$264.00 USD\r\n\r\nAuto Debit\r\n\r\n\r\n\r\nInvoice No. NOR566543FI\r\n\r\n\r\n\r\n *Order Date: 25-08-2021*\r\n\r\n*If you require urgent assistance, please call our Experts for refund and\r\nsettlement issue on  +1 \u2013 ( 832) \u2013 ( 937) \u2013 (8985)*\r\n\r\n\r\n\r\n--\r\n\r\nKind Regards,\r\n\r\n\r\n*Billing Dept.*\r\n",
+            "content_type": "text/plain",
+            "hash": "978ce3dead4d08f7f03ef5ad4c459bed15929bebad9d567d5828dcc13bb713b5",
+            "boundary": "000000000000db898005ca634d7e"
+        }
+    ],
+    "header": {
+        "subject": "BILLING##NOR566543FI",
+        "from": "walkerhalpbawg@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-08-25T20:14:05+07:00",
+        "received_domain": [
+            "mail-pg1-f179.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.179"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

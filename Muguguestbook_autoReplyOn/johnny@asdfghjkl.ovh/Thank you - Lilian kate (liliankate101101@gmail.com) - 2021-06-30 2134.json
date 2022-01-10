@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "johnny@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "dr.lilian",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello John,\r\nThanks a lot for your kind words but honestlyI don't know how you can help\r\nme if you do not know the engineer nor related to him in any way.\r\nRegards,\r\nDr.Lilian\r\n\r\nOn Sun, Jun 27, 2021 at 1:23 PM <johnny@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> John\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "6416bdc761b1bfe9ba3dd963950dc4b15c1b1e1eae899bd810eb1474464914a4",
+            "boundary": "000000000000720afb05c600d0d6"
+        }
+    ],
+    "header": {
+        "subject": "Thank you",
+        "from": "liliankate101101@gmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-30T20:34:32+01:00",
+        "received_domain": [
+            "mail-ed1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.52"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

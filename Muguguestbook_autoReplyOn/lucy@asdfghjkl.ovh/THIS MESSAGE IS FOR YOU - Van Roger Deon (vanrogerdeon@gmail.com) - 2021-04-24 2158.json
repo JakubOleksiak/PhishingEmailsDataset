@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "YOUR RECIEPT .pdf",
+            "size": 319937,
+            "extension": "pdf",
+            "hash": {
+                "md5": "c8028a447ac18b39c1d40e215891ab3e",
+                "sha1": "f4d5ebf76491a91f02fce7353087e075c6a85241",
+                "sha256": "2a8aa45522618720b7ca2055fb12c7142f600cdf810b91fa8106d96dec7b86e3",
+                "sha512": "d67d06b1988d92065d20328e3173caef753b389c3270ba6ed522063ff9d2f500a9b479ca21da915cc832f419310e9d27cf6751ea4f170f91c1148513e271d0a6"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/pdf; name=\"YOUR RECIEPT .pdf\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"YOUR RECIEPT .pdf\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_knw59p0v0>"
+                ],
+                "x-attachment-id": [
+                    "f_knw59p0v0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello\r\n\r\nQuickly forward your details to Miss Victoria Cohen, she will help you to\r\nprocess your claim application.\r\n\r\nFor more details please view attachment\r\n\r\nVirtual Lottery Coordinator Officer\r\n",
+            "content_type": "text/plain",
+            "hash": "fec6ca44158d93cc6b76ea838d585ef4282255fce7d10567c7e5a6aaaf0c195d",
+            "boundary": "000000000000ebd3a805c0bd5a1d"
+        }
+    ],
+    "header": {
+        "subject": "THIS MESSAGE IS FOR YOU",
+        "from": "vanrogerdeon@gmail.com",
+        "to": [],
+        "date": "2021-04-24T21:58:54+02:00",
+        "received_domain": [
+            "mail-wr1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.45"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

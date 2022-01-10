@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir,\r\n\r\nI am a Polish citizen living in the USA, I am a realtor with 25 years of\r\nexperience. I recently became infested with the Covid-19 virus and due to\r\nmy age, I don't think I can survive this, I have been under oxygen for a\r\nfew days and I can't buy my life with the money I could donate to charity,\r\nespecially in my homeland, Poland to help the poor. Last year, I lost my\r\nwife to cancer, and my only son is a chronic gambler and squandered all the\r\nfunds I gave him. Lying on the sick bed, with no hope of survival, I wish\r\nyou helped me fulfill my last wish. Hope this is a wish that will serve me\r\nas a plea to God for my soul and my forgiveness of sins. If you are willing\r\nand ready to help me, please answer me and I may give you details. I know I\r\ncan trust you, help me as a brother.\r\n\r\nKind regards,\r\nRuben Herbert\r\n",
+            "content_type": "text/plain",
+            "hash": "d48477b55ec68420927474e136fe809aaac04c0f130e9122b99eb8b56374bbd9"
+        }
+    ],
+    "header": {
+        "subject": "FOR YOUR KIND ATTENTION",
+        "from": "rubenherbertdr@gmail.com",
+        "to": [],
+        "date": "2021-05-24T12:03:05-05:00",
+        "received_domain": [
+            "mail-lj1-f181.google.com"
+        ],
+        "received_ip": [
+            "2002:a2e:a790::",
+            "209.85.208.181"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

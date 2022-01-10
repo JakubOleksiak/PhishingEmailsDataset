@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello dear friend\r\n\r\nI am happy to inform you of my success in transferring that fund.I have been helped by a partner from Cuba, so right now i am in Cuba with him, investing the money. But i did not forget your effort as you wanted to help me which did not materialized. I have left behind a bank ATM card containing $800,000 .00 USD (Eight hundred thousand dollars) which i  prepared in your name. You can withdraw the money in your country or any ATM machine in any country in the world.\r\n\r\nYou should contact the reverend father Emmanuel Bruno now and ask him to send you the ATM card which i have used to compensate you for your past effort towards me.\r\n\r\nName: Rev. Emmanuel Bruno\r\nHis email address is      ( revemmanuelbruno@hotmail.com )\r\nTelephone: +228 93 57 16 18\r\n\r\nLet me know when you get the ATM card so the joy will be complete.\r\nYours sincerely\r\nBona Hassan\r\n",
+            "content_type": "text/plain",
+            "hash": "c921c032184b777a89e8c26fe9f8074ec48f52f74dc83dd113ae1157f285fc8d",
+            "boundary": "_000_DB7PR06MB589877919C4296E203CC9A04867C9DB7PR06MB5898eurp_"
+        }
+    ],
+    "header": {
+        "subject": "GOOD NEWS",
+        "from": "sylvesterthompson981@hotmail.com",
+        "to": [],
+        "date": "2021-03-31T10:10:10+00:00",
+        "received_domain": [
+            "eur05-db8-obe.outbound.protection.outlook.com",
+            "db8eur05ht134.eop-eur05.prod.protection.outlook.com",
+            "db8eur05ft028.mail.protection.outlook.com",
+            "db7pr06mb5898.eurprd06.prod.outlook.com",
+            "db8eur05ft028.eop-eur05.prod.protection.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.89.99",
+            "2a01:111:e400:fc0f::130",
+            "2a01:111:e400:fc0f::210",
+            "2a01:111:e400:fc0f::52",
+            "2a01:111:e400:fc0f::48"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

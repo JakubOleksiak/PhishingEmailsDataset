@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"windows-1252\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<HEAD>\r\n<META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type>\r\n<META name=GENERATOR content=\"MSHTML 11.00.9600.17842\"></HEAD>\r\n<BODY>\r\n<P><FONT size=2 face=\"Arial, Helvetica, sans-serif\">Good day,</FONT></P>\r\n<P><FONT size=2 face=\"Arial, Helvetica, sans-serif\">I am Dennis Marthachris Yaccouba, the village head of Tongon here in Ivory Coast. I have Gold Bars/Dust of 197kg which I&nbsp; want you to help me sell in your country because the market value here in my country (Ivory Coast) is very low. please do get back to me for urgent business discussion.</FONT></P>\r\n<P><FONT size=2 face=\"Arial, Helvetica, sans-serif\">Dennis Marthacchris Yaccouba<BR><A href=\"mailto:dennismarthachris5566@gmail.com\">dennismarthachris5566@gmail.com</A> </FONT></P></BODY>\r\n",
+            "content_type": "text/html",
+            "hash": "a57718aa8fea7201076ee3bfbca22065e46ceeb83a25c590f2dd6c35692a18b6"
+        }
+    ],
+    "header": {
+        "subject": "Dennis Marthachris Yaccouba",
+        "from": "unic@post-online.dk",
+        "to": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-21T12:30:01+08:00",
+        "received_domain": [
+            "smtp3.orange.ci"
+        ],
+        "received_ip": [
+            "196.201.64.70",
+            "160.154.116.81"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

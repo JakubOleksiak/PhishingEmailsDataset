@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://en.wikipedia.org/wiki/Maria-Elisabeth_Schaeffler"
+            ],
+            "domain": [
+                "en.wikipedia.org"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "Hello,\r\n\r\nI'm Ms. Maria Elisabeth Schaeffler, a German business magnate,Investor and philanthropist. I am the chairman of Wipro Limited. 25 percent of my personal wealth is spent on charity. And I also promised to give the rest of 25% away to individuals this year 2021. I have decided to donate 1,500,000.00 euros to you. If you are interested in my donation, contact me for more information.\r\n\r\nYou can also read more about me using the link below\r\n\r\nhttps://en.wikipedia.org/wiki/Maria-Elisabeth_Schaeffler\r\n\r\nGreetings\r\nManaging Director Wipro Limited\r\nMaria-Elisabeth_Schaeffler\r\nEmail: mariaelisabethschaef18fler@yahoo.com\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "6a505b98f9701ab4bfa87b6c2aae123eb48d3a1d0ef758a5c8ebb04c1f62e0a4",
+            "boundary": "b1_54064187768ed940dc45f58b77cb3d25"
+        }
+    ],
+    "header": {
+        "subject": "Hello, greetings to you.",
+        "from": "support@artikel303.com",
+        "to": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-18T07:30:18+00:00",
+        "received_email": [
+            "support@artikel303.com"
+        ],
+        "received_domain": [
+            "server188.spark.com"
+        ],
+        "received_ip": [
+            "45.64.128.128"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

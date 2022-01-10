@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "email": [
+                "annallee091@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello,\r\n Compliments of the day. My Name is Ann Lee, I am a senior Staff with a public Bank here in Wing Hang Bank, Hong Kong, , I am contacting you regarding a confidential business Proposal that will be of great mutual benefit to both of us ,If you are interested Kindly Contact me on my private email address for more details: annallee091@gmail.com . I look forward to hearing from you soon.\r\n Regards,\r\n Miss Anna Lee\r\n",
+            "content_type": "text/plain",
+            "hash": "1dcfe7fbe7c472069b89500daa2db15afe9ff80ec278b43588b7af249a8b83c5",
+            "boundary": "===============0318783243=="
+        }
+    ],
+    "header": {
+        "subject": "Good Day",
+        "from": "bx@chamber.uz",
+        "to": [
+            "bx@chamber.uz"
+        ],
+        "date": "2021-08-19T17:36:46-05:00",
+        "received_domain": [
+            "mail.chamber.uz"
+        ],
+        "received_ip": [
+            "217.30.169.104"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Greetings  %0%\r\n\r\nI have a business transaction worth over $19 Million USD.  All i \r\nneed is honesty with trust. Get back to me for more details.\r\nHope to hear back from you soon.\r\n\r\nMalem Raher\r\n370 University Avenue\r\nToronto, Ontario\r\nM5G 2J5\r\nCanada.\r\n",
+            "content_type": "text/plain",
+            "hash": "31e79a147e9d5cb1ed910bb6abb3a42e4219371225bab9c257f5e9b82fc1164c"
+        }
+    ],
+    "header": {
+        "subject": "Greetings      3/1/2021 7:20:12 p.m.",
+        "from": "gfshipping@gofor.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-01T19:20:12+01:00",
+        "received_email": [
+            "gfshipping@gofor.com"
+        ],
+        "received_domain": [
+            "server.diameb.ua"
+        ],
+        "received_ip": [
+            "154.120.88.50",
+            "91.239.233.174"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "mohammedshamekh24@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi Friend I am a bank director of the UBA Bank Plc bf .I want to\r\ntransfer an abandoned sum of 27.5 millions USD to you through ATM VISA\r\nCARD .50% will be for you. No risk involved. Contact me for more\r\ndetails. Kindly reply me back to my alternative email address (\r\nmohammedshamekh24@gmail.com ) Mr  mohammed   shamekh\r\n\r\n\r\nHallo Freund, ich bin ein Bankdirektor der UBA Bank Plc bf. Ich m\u00f6chte\r\nIhnen eine aufgegebene Summe von 27,5 Millionen USD \u00fcber die ATM VISA\r\nCARD \u00fcberweisen. 50% sind f\u00fcr Sie. Kein Risiko. Kontaktieren Sie mich\r\nf\u00fcr weitere Details. Bitte antworten Sie mir zur\u00fcck an meine\r\nalternative E-Mail-Adresse (mohammedshamekh24@gmail.com)\r\n",
+            "content_type": "text/plain",
+            "hash": "c20285013caf98927b5840adc09fba4dc1bfdbe4aee29dcf2d677dcf6cea7c72"
+        }
+    ],
+    "header": {
+        "subject": "URGENTBUSINESSPROPOSAL",
+        "from": "azizissaa101@gmail.com",
+        "to": [],
+        "date": "2021-05-29T07:49:22-07:00",
+        "received_domain": [
+            "mail-ot1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.41",
+            "2002:a9d:7984::"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

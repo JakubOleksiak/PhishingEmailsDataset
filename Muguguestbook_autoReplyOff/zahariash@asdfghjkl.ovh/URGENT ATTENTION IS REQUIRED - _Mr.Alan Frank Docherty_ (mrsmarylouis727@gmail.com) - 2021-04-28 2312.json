@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.alan"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "WELCOME TO THE COMMONWEALTH BANK AUSTRALIA\r\nINTERNATIONAL PAYMENTS AUTHORITY\r\nFROM: Mr. Alan Frank Docherty\r\nChief Financial Officer\r\nCommonwealth Bank Australia\r\n\r\nATTENTION OF: Sir/Ma\r\n\r\nWe Commonwealth Bank of Australia, wish to inform you that your\r\npayment file was submitted to this office for immediate release to\r\nyour Nominated Bank Account.\r\n\r\nYour Approved Fund will be release to you as soon as we are done with\r\nthe opening of an Online Bank Account on your Name, as soon as we\r\nreceive your information, your Online Bank Account will be open and\r\nall Account Details will be forwarded to you for immediate\r\ntransferring of Fund to your Local Accounts.\r\n\r\nNote. you are advised to respond back to this office immediately with\r\nyour information to enable us to furnish you with more information\r\nabout your Online Bank Account Opening process.\r\n\r\nI will be expecting your response to my mail\r\n\r\nYours Faithfully\r\n\r\nMr.Alan Frank Docherty\r\nChief Financial Officer\r\nCommonwealth Bank Australia\r\nGround Floor, Tower 1,201 Sussex Street\r\nSydney, NSW, Australia, 2000\r\n",
+            "content_type": "text/plain",
+            "hash": "8c428b84f375a5d9d298c49d5e269271ed1b2f4fa85c430237909b0e1dee9a81"
+        }
+    ],
+    "header": {
+        "subject": "URGENT ATTENTION IS REQUIRED",
+        "from": "mrsmarylouis727@gmail.com",
+        "to": [],
+        "date": "2021-04-28T22:12:11+01:00",
+        "received_domain": [
+            "mail-yb1-f172.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:7110:540e:b029:5b:6008:f4ee",
+            "209.85.219.172"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

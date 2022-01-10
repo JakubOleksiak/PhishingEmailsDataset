@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1252\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi,\r\n\r\nAre you looking for a reliable, creative and experience team for Web Design&Mobile apps development? We specialize in:-\r\n\r\nWeb: Website Design Development, Website Redesign, E-Commerce/Online Web Stores,\r\nApp: iOS, Android App Development, Taxi App, [Personal interest]\r\n\r\nPS: - We Provide SEO services at a minimum cost, May I send you a quote? If interested.\r\n\r\nThanks\u2026!!!\r\nBusiness Development Consultant\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "abefee5f6ff715fbb700614a23aa39623ab3da1b6288cec622c37eebcf40fbf0",
+            "boundary": "_000_SI2PR03MB5532CCD99196E5E1317122AAC2EF9SI2PR03MB5532apcp_"
+        }
+    ],
+    "header": {
+        "subject": "Re: App And Web site Design",
+        "from": "abbey-leitner123@hotmail.com",
+        "to": [],
+        "date": "2021-08-02T17:38:34+00:00",
+        "received_domain": [
+            "si2pr03mb5532.apcprd03.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com",
+            "si2pr03mb5913.apcprd03.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.253.103",
+            "2603:1096:4:145::5",
+            "2603:1096:4:12a::7"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

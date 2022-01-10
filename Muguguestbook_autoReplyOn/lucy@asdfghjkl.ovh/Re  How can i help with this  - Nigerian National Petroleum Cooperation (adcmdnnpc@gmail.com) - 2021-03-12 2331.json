@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "domain": [
+                "1.your",
+                "2.your",
+                "3.your",
+                "4.present",
+                "5.residential",
+                "6.bank",
+                "dr.richard"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Lucy\r\n\r\nThanks for accepting to work with me. As  you may know, this requires that\r\nwe understand each other very well before proceeding. Having stated my\r\nposition  with the Nigerian National Petroleum Corporation (NNPC), I will\r\nlike to know a little more about you with specific regard to your ability\r\nto manage resources  for profit making ventures in future. I am a\r\nprofessional and would be pleased to talk with you, hear your voice and\r\npossibly pray to God for us to meet once we conclude the transaction.\r\n\r\nThis is my Cellphone number +234-81-0920-6368 if you would like to speak\r\nwith me or please give me your phone number and I will call to tell you\r\nmore about the deal and arrangements already put in place for us to start\r\nand finish as quickly as possible. So kindly provide the details as\r\nrequested. Please be informed that for assisting us to receive this fund\r\nfor investment in your country, we have agreed to give you 20% of the total\r\nsum because we are more than 4 Senior directors involved in this deal and\r\nwe will definitely know how to settle ourselves once we have this\r\ntransaction concluded successfully with you.\r\n\r\n1.Your First/Middle & Last Name:\r\n2.Your Full Office or Residential Address:\r\n3.Your Original Country of Origin:\r\n4.Present Occupation:\r\n5.Residential Tel & Mobile Line:\r\n6.Bank Name:\r\n  Bank Address\r\n  Bank Tel...............\r\n  Bank Fax...............\r\n  Account Number.........\r\n\r\nYours faithfully,\r\n\r\nDr.Richard Ifediorah\r\nAssistant Director, Crude Oil Marketing Division (COMD)\r\nPrivate email: drrichardifediorah@mailbox.org\r\nCellphone number: +234-81-0920-6368\r\n\r\nOn Fri, Mar 12, 2021 at 9:39 PM <lucy@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Lucy\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "f06bf2bf6ffdfa2fb6875dbae4151db61eb6180cb42bc9ee23242db03bebd041",
+            "boundary": "00000000000056754e05bd5e7589"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "adcmdnnpc@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-03-12T23:31:02+01:00",
+        "received_domain": [
+            "mail-ed1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.54"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "body": [
+        {
+            "email": [
+                "mssinclairmarietta@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "I desire to entrust this amount of money in your care\r\nMs. Marietta Sinclair\r\nmssinclairmarietta@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "81bf82cc6fa33a3d8e38071e0f8edf9880a5476bfacccdbe85279a70c412945c"
+        }
+    ],
+    "header": {
+        "subject": "Your Care",
+        "from": "careers@cashapona.com",
+        "to": [
+            "careers@cashapona.com"
+        ],
+        "date": "2021-06-18T10:56:29+01:00",
+        "received_email": [
+            "careers@cashapona.com"
+        ],
+        "received_domain": [
+            "sg2plcpnl0025.prod.sin2.secureserver.net",
+            "27-113-230-242.cpe.medias.ne.jp",
+            "sg2nlshrout02.shr.prod.sin2.secureserver.net"
+        ],
+        "received_ip": [
+            "182.50.132.94",
+            "27.113.230.242",
+            "182.50.132.194"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

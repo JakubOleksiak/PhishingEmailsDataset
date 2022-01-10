@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail"
+            ],
+            "email": [
+                "wwwrlnd@outlook.com"
+            ],
+            "domain": [
+                "w.arnold",
+                "outlook.com",
+                "www.avast.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Please I need your Co-operation.\r\n\r\nW.Arnold\r\n\r\nwwwrlnd@outlook.com\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.\r\nwww.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>\r\n",
+            "content_type": "text/plain",
+            "hash": "6ff25b9ca428886eda024aca58ff65fbd857ae6be31676e8e03ffe4cbc203fc1",
+            "boundary": "000000000000f9346d05cacae3c8"
+        }
+    ],
+    "header": {
+        "subject": "Is this your private email?",
+        "from": "wwwrnld4@gmail.com",
+        "to": [],
+        "date": "2021-08-30T20:19:57+02:00",
+        "received_domain": [
+            "mail-wr1-f41.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.41"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

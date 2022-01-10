@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "lucy@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "2.your",
+                "3.your",
+                "3.my",
+                "mrs.rita",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Lucy,\r\n\r\nThanks for mail, You should forward to me your more informations. 1.\r\nYour Telephone number 2.Your valid Id or passport copy 3.Your\r\ninvestiment plans.\r\n\r\nNote the money will be invested by you, 2. I will give you 20% of the\r\ntotal $25,400,000 for your good assistance 3.My Daughter will be\r\nschooling in a good school in your country.\r\n\r\nWaiting your urgent respond.\r\n\r\n\r\nWarmest Regards\r\n\r\nMrs.Rita Lee Wong.\r\n\r\nOn 8/14/21, lucy@asdfghjkl.ovh <lucy@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Lucy\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "d378bd689989ca0a1b4fdde288d087964feabeb0ede30183bc4caeaba0cebbc0"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "wongritalee1@gmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-14T20:49:31+00:00",
+        "received_domain": [
+            "mail-vs1-f52.google.com"
+        ],
+        "received_ip": [
+            "2002:ab0:25d7::",
+            "209.85.217.52"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Dear sir,*\r\n\r\nThank you for entrusting us with your financial needs. I am the Senior\r\nFinancial Advisor and procurement manager for Financial Impact Limited, we\r\nhave various financial structures that are tailored to meet your financial\r\nobligations, this could be used for a new project, existing project,\r\nbusiness expansion and startups.\r\n\r\nKindly send your project executive summary and other available\r\ndocuments including a bank statement showing your recent transactions with\r\nyour bank, in order to evaluate your creditworthiness to determine your\r\neligibility for an international project finance loan, also include CIS\r\n(Client Information Sheet).\r\n\r\n\r\n*Thank you.*\r\n\r\n*William James*\r\n*Financial Impact Ltd*\r\n*Basepoint Centre, 70 The Havens,*\r\n*Ipswich, IP3 9BF, Suffolk,*\r\n*United Kingdom*\r\n\r\nOn Thu, 26 Aug 2021 at 00:20, <zack@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Zack\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "6d9632415e45b9a55f8c5a0ca9fb8b1e698dbbc13c70fe426c5aa8f3f65fb2f7",
+            "boundary": "00000000000074217005caf212e1"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help with this?",
+        "from": "bergclaire37@gmail.com",
+        "to": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-01T18:03:26+01:00",
+        "received_domain": [
+            "mail-vs1-f45.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.45"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

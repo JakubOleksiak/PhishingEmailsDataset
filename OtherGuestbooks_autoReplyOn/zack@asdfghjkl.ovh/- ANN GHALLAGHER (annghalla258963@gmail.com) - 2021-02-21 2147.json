@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi Dear,\r\n\r\nNice to meet you, hope you\u2019re enjoying a blissful day? I'm Ann Ghallagher.\r\nI'm a U.S. Army officer from the United States of America, I am supportive\r\nand caring, I like swimming and cooking am gentle although I am a soldier\r\nbut I'm kind, wanting to get a good friend, I would like to establish\r\nmutual friendship with you.\r\n\r\nRegards,\r\n\r\nAnn\r\n",
+            "content_type": "text/plain",
+            "hash": "efb1fa52eb2256acda2688f1751145464e91e5acf12c9ec64baea0e49403d84d",
+            "boundary": "000000000000f2a43e05bbdecb62"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "annghalla258963@gmail.com",
+        "to": [],
+        "date": "2021-02-21T21:47:30+01:00",
+        "received_domain": [
+            "mail-yb1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.194"
+        ],
+        "received_foremail": [
+            "zack@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

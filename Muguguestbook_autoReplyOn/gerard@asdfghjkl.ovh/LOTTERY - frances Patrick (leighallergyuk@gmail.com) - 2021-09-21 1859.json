@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "francespatrickconnolly600@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "We are Frances and Patrick Connolly and we won \u00a3115m Euromillions\r\nlottery jackpot January 1, 2019.\r\n We are giving donation to 5 randomly selected emails and yours is one\r\nof the email we selected from a raffle draw.\r\nWe are donating the sum of 1,700,000 Euro  to you and your family in good\r\nfaith.\r\nContact us through email:francespatrickconnolly600@gmail.com to claim\r\nyour donation.\r\n",
+            "content_type": "text/plain",
+            "hash": "2b77a1b40a0708b3d1b33757e209b4487a53c41debd472fe669c8738f98d2d80",
+            "boundary": "000000000000d3ead205cc84513d"
+        }
+    ],
+    "header": {
+        "subject": "LOTTERY",
+        "from": "leighallergyuk@gmail.com",
+        "to": [],
+        "date": "2021-09-21T17:59:15+01:00",
+        "received_domain": [
+            "mail-qt1-f196.google.com"
+        ],
+        "received_ip": [
+            "209.85.160.196"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

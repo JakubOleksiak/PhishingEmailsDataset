@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Dear Sir/Madam, A message was sent to you sometimes but did not receive a\r\nreply, that's why I am sending it again. My name is Mr.  Sayyad Zahed, the\r\nprincipal attorney at Sayyad & Partner Associate Law Office based in Dubai.\r\nI am contacting you because of my deceased client who died leaving some\r\nfunds with a bank in Dubai. I want to announce you as an heir/beneficiary\r\nto the fund. Best Regards, Mr. Sayyad Zahed, Sayyad & Partner Law Office.\r\nDubai, UAE.  *\r\n",
+            "content_type": "text/plain",
+            "hash": "15f1202b65bdb07dfda54bc8d30076f936a4926e0ab1129049cffc2504029a48",
+            "boundary": "0000000000003c3a3105c5f89157"
+        }
+    ],
+    "header": {
+        "subject": "Inheritance",
+        "from": "ask.sayyadzahedchambers@gmail.com",
+        "to": [],
+        "date": "2021-06-30T10:44:10+01:00",
+        "received_domain": [
+            "mail-ej1-f42.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.42"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

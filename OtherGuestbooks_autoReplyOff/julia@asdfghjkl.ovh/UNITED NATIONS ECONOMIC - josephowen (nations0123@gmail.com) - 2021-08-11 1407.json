@@ -1,0 +1,60 @@
+{
+    "attachment": [
+        {
+            "filename": "INSTRUCTION TO CREDIT YOUR ACCOUNT WITH THE SUM OF ($4,5 MILLION US DOLLARS).doc",
+            "size": 3712000,
+            "extension": "doc",
+            "hash": {
+                "md5": "9d4456fc80036ddd83f4ef4733681680",
+                "sha1": "9d9e2f7f95969e62932342b7a6e4b53e5218d61c",
+                "sha256": "680d99d263b7bc1059b559cdbf468763dba9b1d69091be5a5157703503e47a5c",
+                "sha512": "e2d56ae4e961b1a973a813b312ddfdb5af911f428376ff86218028dcffc6c2d3c2d38bde74c0e32c837aa05a2bea9bb59696738dc1d2fe86b09df80f80ee3ca4"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/msword; name=\"INSTRUCTION TO CREDIT YOUR ACCOUNT WITH THE SUM OF ($4,5 MILLION US DOLLARS).doc\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"INSTRUCTION TO CREDIT YOUR ACCOUNT WITH THE SUM OF ($4,5 MILLION US DOLLARS).doc\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "file0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "see attached Mail.\r\n",
+            "content_type": "text/plain",
+            "hash": "8c53a65fa4a8eddff02df54d63e24655d410e2a7e40d2288139d394f9b88d815",
+            "boundary": "00000000000064b63505c947776e"
+        }
+    ],
+    "header": {
+        "subject": "UNITED NATIONS ECONOMIC",
+        "from": "nations0123@gmail.com",
+        "to": [],
+        "date": "2021-08-11T14:07:44+02:00",
+        "received_domain": [
+            "mail-qk1-f193.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.193",
+            "2002:a6b:102::"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

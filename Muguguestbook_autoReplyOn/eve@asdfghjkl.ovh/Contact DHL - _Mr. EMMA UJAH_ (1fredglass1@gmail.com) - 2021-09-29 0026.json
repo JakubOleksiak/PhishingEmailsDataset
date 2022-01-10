@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "nigeria.dhl2@rediffmail.com"
+            ],
+            "domain": [
+                "packaged.all",
+                "rediffmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\n        International Monetary Fund (IMF)\r\n         Hon. Justice Mohammed Bello St.\r\n                 Asokoro Abuja,\r\n                    NIGERIA.\r\n\r\n\r\nGood day,\r\n\r\nI wish to inform you that your overdue payment worth of $5.8\r\nMillion USD has be scheduled to pay you through certified ATM Card\r\nwhich you will\r\n\r\nbe only required to proceed to any ATM Cash Point to withdraw $5,000,\r\n2-times per\r\n\r\nday till your fund is completed.\r\n\r\nMeanwhile, the valid ATM CARD was registered with NIGERIA DHL\r\nCourier Company as a packaged.All you need to do now is to contact DHL with the\r\n\r\nemail below. And provide them with your address.\r\n\r\nKindly reconfirm to him the following below information:\r\n\r\nYour full name____________\r\nYour address______________\r\nYour country______________\r\nYour Phone number_________\r\nYour Passport/Drivers license ____________\r\n\r\n\r\nManager Name: MR Vincent Eze\r\nE-mail: nigeria.dhl2@rediffmail.com\r\nPhone/Fax: (+234)9028806107\r\n\r\nThanks,\r\n\r\nMr. EMMA UJAH.\r\nIMF Managing Director,\r\nNigeria.\r\n",
+            "content_type": "text/plain",
+            "hash": "532c00a92450dd49d2c971a4eb6a3e486ee450962e5a1c86c87bbdf340491758"
+        }
+    ],
+    "header": {
+        "subject": "Contact DHL",
+        "from": "1fredglass1@gmail.com",
+        "to": [],
+        "date": "2021-09-28T15:26:20-07:00",
+        "received_domain": [
+            "mail-qv1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.50",
+            "2002:a05:6102:1275::"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

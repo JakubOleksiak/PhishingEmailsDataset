@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "455.99"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "*Dear User,*\r\n\r\n*Your Subscription for Computer Protection has been successfully renewed &\r\nupdated.*\r\n\r\n*The Charged Amount will be reflected within the Next 24 TO 48 HRS on your\r\nA/C statement.*\r\n\r\n\r\n\r\n*NORTON\u00ae 36O*\r\n\r\n\r\n\r\n*PRODUCT DESCRIPTION*\r\n\r\n\r\n\r\n*Invoice ID \u2013 NOR21PH554765252*\r\n\r\n*\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026*\r\n\r\n*Product: NORTON 36O PC PROTECTION (FP1 PCO4)*\r\n\r\n\r\n\r\n*Issue Date: O6-24-2O21*\r\n\r\n\r\n\r\n*Expiration Date: O6-24-2O22*\r\n\r\n\r\n\r\n*Quantity: 1*\r\n\r\n\r\n\r\n*Price: $ 455.99 USD*\r\n\r\n\r\n\r\n\r\n\r\n**If you wish to Cancel this Subscription then please feel free to Contact\r\nour Billing Department as soon as Possible**\r\n\r\n*Also in case of any proven dispute you may have your Full Amount Settled\r\nwith us.*\r\n\r\n*And if you are not able to reach us please leave us a voice mail we will\r\ncall you back as soon as possible. Please wait for us so that we can serve\r\nour motto by serving you better.*\r\n\r\n* You can Reach us on*   +1   - (866) \u2013 (258) \u2013 (21O4) **\r\n\r\n\r\n\r\n*Regards,*\r\n\r\n*Billing Department*\r\n",
+            "content_type": "text/plain",
+            "hash": "df18f64d0c3d22c6941121cde4f420b174b9b95ae6a44663f1197947f1db8423",
+            "boundary": "0000000000001c452705c584b80b"
+        }
+    ],
+    "header": {
+        "subject": "NORTON ANTI VIRUS FOR PC",
+        "from": "hemingwayb90@gmail.com",
+        "to": [],
+        "date": "2021-06-24T21:01:19+05:30",
+        "received_domain": [
+            "mail-pf1-f174.google.com"
+        ],
+        "received_ip": [
+            "209.85.210.174"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

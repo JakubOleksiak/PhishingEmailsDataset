@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear friend,\r\n\r\nI write to inform you about a business proposal I have which I would\r\nlike to handle with you.\r\nFifty million dollars is involved. Be rest assured that everything is\r\nlegal and risk free.\r\nKindly indicate your interest.\r\n\r\nMichael Rachid.\r\n",
+            "content_type": "text/plain",
+            "hash": "4093c7d397594fd67d7e70d564df4c683123d4a32376ad4661ea042723e0d2ed"
+        }
+    ],
+    "header": {
+        "subject": "Proposal",
+        "from": "blattenjohn@gmail.com",
+        "to": [],
+        "date": "2021-07-29T15:38:08+01:00",
+        "received_domain": [
+            "mail-yb1-f173.google.com"
+        ],
+        "received_ip": [
+            "2002:a8a:a04::",
+            "209.85.219.173"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

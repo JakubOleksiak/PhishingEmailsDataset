@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "domain": [
+                "means.the",
+                "means.we"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "This is a notification to you that the US DEPT. OF HOMELAND SECURITY (DHS) has been\r\ninstructed by the us government to intervene on your seized funds in Africa which is\r\nsupposed to have earlier been released to you as a compensation payment for all scam\r\nvictims which you are entitled to be a beneficiary of, so right now we the DHS will now\r\nbe in-charge of disbursing the payment to you after a mutual agreement was reached with\r\nthe Economic Community of West African States (ECO-WAS).\r\n\r\nWe have Choose only two methods for releasing your long overdue payment which is the sum of $12.5m.\r\n\r\n1: Delivery means.The fund will be uploaded in an ATM Master card if you wish and here\r\nbelow are details of the delivery company which will deliver the fund to your home address:\r\n\r\n24hrs/$170USD\r\n48hrs/$120USD\r\nhrs/$100USD\r\n\r\n2: Diplomatic means.We can deliver the fund to you cash (ATM MASTER CARD) through one of our diplomatic agents.\r\nDelivery charge is $320USD only and it will be delivered to your home.\r\nDeliver fee $320 USD 1DAY TO DELIVER.\r\n\r\nKindly choose any of the options and provide me with the below details in your response to this email and let\r\nme know which method you prefer to receive your fund.\r\n\r\n1. Valid Delivery Address:\r\n2. Full Names:\r\n3. Phone Number:\r\n4. Occupation:\r\n5. Age:\r\n6. Sex:\r\n\r\nRegard\r\nmicheal sam INFORMATION\r\n",
+            "content_type": "text/plain",
+            "hash": "b2a420c887fe0409f8960669715b95311c3d9ecbb0d774de17fb01ee5a2e088c"
+        }
+    ],
+    "header": {
+        "subject": "micheal sam INFORMATION",
+        "from": "shirai_scl@docomonet.jp",
+        "to": [],
+        "date": "2021-08-21T22:48:41+09:00",
+        "received_domain": [
+            "md-app-cb003.noc-chibaminato.ocn.ad.jp",
+            "vcwebmail.ocn.ad.jp",
+            "ocn-vc-mts-205c1.ocn.ad.jp",
+            "mf-smf-unw002c1.ocn.ad.jp",
+            "mogw6010.ocn.ad.jp"
+        ],
+        "received_ip": [
+            "210.145.251.11",
+            "153.138.211.199",
+            "125.206.160.23",
+            "153.138.219.69",
+            "61.118.32.197"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

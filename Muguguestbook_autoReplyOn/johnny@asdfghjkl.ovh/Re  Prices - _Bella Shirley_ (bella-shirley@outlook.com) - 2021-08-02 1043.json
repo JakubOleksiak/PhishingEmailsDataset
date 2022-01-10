@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Johnny,\r\n\r\n \r\n\r\nMy name is Bella Shirley, and I am working with a Digital Marketing Company.\r\n\r\nWe are providing Web Design and Mobile App Service at affordable prices.\r\n\r\nIn CMS website package, we will do following:\r\n\r\n \r\n\r\n.         Mobile Apps Development\r\n\r\n.         Website Design / Redesign\r\n\r\n.         PHP | Word press |.Net\r\n\r\n.         E-Commerce & SEO | SMO| PPC\r\n\r\nMay I send you a quote and Company Information, if interested?\r\n\r\nI am waiting for your positive response.\r\n\r\n               \r\n\r\nKind Regards,\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "09c48d5cbfaca4737bf6567a11850540cf7f6fe7106147de5bc875f97409bc96",
+            "boundary": "----=_NextPart_000_5B96_01D787A8.B3089AA0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Prices",
+        "from": "bella-shirley@outlook.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T14:13:39+05:30",
+        "received_domain": [
+            "apc01-pu1-obe.outbound.protection.outlook.com",
+            "ty2pr02mb3070.apcprd02.prod.outlook.com",
+            "pn2pr01ca0137.indprd01.prod.outlook.com",
+            "ty2pr02mb3279.apcprd02.prod.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.254.105",
+            "2603:1096:c01:6::22",
+            "122.161.50.97",
+            "2603:1096:404:5b::18",
+            "2603:1096:404:47::12"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

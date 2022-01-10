@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Shalom\r\n I have a project for the sum $13,609,000.00USD that I would love to partner with you. Kindly respond back to me and I will explain in detail to you.\r\n Regards\r\nMs. Ramona Caswell\r\nChief Internal Auditor\r\nBanking Division.\r\n\r\n\n",
+            "content_type": "text/plain",
+            "hash": "fb4df122136c6e953d1b0be21b55ef70e93d3b904962db7dc5704e86e03af3f6",
+            "boundary": "===============1293234129=="
+        }
+    ],
+    "header": {
+        "subject": "Re: Shalom. I have a project of $13,609,000.00USD! ",
+        "from": "ao.ryzhkov@vtc-service.ru",
+        "to": [
+            "ao.ryzhkov@vtc-service.ru"
+        ],
+        "date": "2021-09-01T13:07:36+04:00",
+        "received_domain": [
+            "zimbra.vtc-service.ru",
+            "mac0957.localdomain"
+        ],
+        "received_ip": [
+            "89.22.161.30",
+            "91.74.186.35"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

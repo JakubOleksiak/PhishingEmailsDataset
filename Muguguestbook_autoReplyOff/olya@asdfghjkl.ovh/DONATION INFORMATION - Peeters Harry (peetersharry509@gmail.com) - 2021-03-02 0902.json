@@ -1,0 +1,43 @@
+{
+    "body": [
+        {
+            "email": [
+                "tremblaycharles21@hotmail.com"
+            ],
+            "domain": [
+                "hotmail.com"
+            ],
+            "content_header": {
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n\u2063Hello Mr / Mrs,\r\n\r\nHow are you ? Well I hope so, my name is Tremblay Charles, 76 years old born in Quebec of Canadian nationality and I live in Canada at the moment, I suffer from a serious disease which condemns me to certain death it is cancer of gorge, and I have a sum of 2,000,000 $ which I would like to make a donation to a trustworthy and honest person so that they can put it to good use. I lost my wife, 6 years ago, which affected me a lot and I have not been able to remarry until this day, unfortunately we had not had children.\r\n\r\nI would like to donate this amount before my death, so that my days are numbered by the fault of this disease which I do not have got medicine to be healed. I would not like to know later, if you can benefit from this donation.\r\nIf you want, you can receive this donation and use at least 35% to make a donation to an association and the rest will be yours.\r\nHere is my email address:tremblaycharles21@hotmail.com\r\nWaiting to read you I own a webcam so you can\u00a0see me and see my state of health.\r\n\r\n\r\nMr Tremblay Charles\r\n\r\n....\u200b",
+            "content_type": "text/plain",
+            "hash": "fc20fc09dbb4340d7dd21254ea27fc231aed7d47ee8dac1a9e7bedf39d8b335b",
+            "boundary": "----9IBEIEXHUTTYECKHL75OEQRSDQ3YND"
+        }
+    ],
+    "header": {
+        "subject": "DONATION INFORMATION ",
+        "from": "peetersharry509@gmail.com",
+        "to": [],
+        "date": "2021-03-02T09:02:50+01:00",
+        "received_domain": [
+            "mail-wr1-f48.google.com",
+            "smtp.gmail.com"
+        ],
+        "received_ip": [
+            "156.0.214.20",
+            "209.85.221.48"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

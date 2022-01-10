@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "alexptt56@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dear\r\n\r\nI am Raphael.K.John Diko,\r\n\r\nI want to confirm from you if you are able to handle a transaction\r\nproject valued at $7.5 million dollars only, that  will benefit both\r\nof us.\r\n\r\nLet me know your willingness.\r\n\r\nYou should get back to me on this email address:  alexptt56@gmail.com\r\n\r\nThanks\r\n\r\nRaphael.K.John Diko\r\n",
+            "content_type": "text/plain",
+            "hash": "084e18f2f3cf48284dd5e7b2ef24ca08bbe0683b4db4c2bdab52c9cd6fa6a68d"
+        }
+    ],
+    "header": {
+        "subject": "URGENT, CONFIRM IF YOU DID RECEIVE THIS MAIL",
+        "from": "kenjohnsonkenjohnson3@gmail.com",
+        "to": [],
+        "date": "2021-08-16T15:05:55-07:00",
+        "received_domain": [
+            "mail-wr1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.67",
+            "2002:a5d:420c::"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

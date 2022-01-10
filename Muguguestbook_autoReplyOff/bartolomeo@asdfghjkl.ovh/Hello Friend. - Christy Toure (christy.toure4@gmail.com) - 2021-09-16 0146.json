@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\n\r\nGoedendag,\r\n\r\nMijn naam is Christy, 22 jaar oud, de enige dochter van mijn overleden\r\nouder, de heer/mevrouw\r\nKindma. Ik neem contact met u op omdat ik wil dat u als mijn voogd\r\noptreedt bij het beheer\r\n\r\nvan een bedrag van 8,6 miljoen euro dat mijn overleden vader voor mij\r\nheeft nagelaten voordat hij stierf. Alsjeblieft, ik ben altijd bereid\r\nom je 30% voor je hulp aan te bieden, 10% zal worden\r\n\r\ngedoneerd aan de wezen zoals ik om de armen te helpen, dan zul je me\r\nhelpen het saldo voor\r\n\r\nmij in jouw land te investeren.Neem me alsjeblieft als je dochter of\r\nje zus. Bedankt en ik zal u meer details geven zodra ik van u hoor.\r\n\r\nHoogachtend,\r\njuffrouw Christy.\r\n",
+            "content_type": "text/plain",
+            "hash": "0b4666780fe0aa6c91b6748b0a7a203d832501527874d60a9694eb9d81e4cf98"
+        }
+    ],
+    "header": {
+        "subject": "Hello Friend.",
+        "from": "christy.toure4@gmail.com",
+        "to": [],
+        "date": "2021-09-15T23:46:01+00:00",
+        "received_domain": [
+            "mail-ed1-f67.google.com"
+        ],
+        "received_ip": [
+            "2002:a17:906:948f::",
+            "209.85.208.67"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Dutch; Flemish"
+    }
+}

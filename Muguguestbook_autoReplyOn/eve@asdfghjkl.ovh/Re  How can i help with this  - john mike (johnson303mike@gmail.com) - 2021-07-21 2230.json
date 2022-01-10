@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "eve@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "you help me with $500 only send it through Western Union\r\n\r\nOn Mon, Jul 19, 2021 at 3:08 PM <eve@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Eve\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "7bfe89e94971a46499d44247c07b27e873f81351cba3aab50b89fcbfe7d96482",
+            "boundary": "00000000000066e64b05c7945cd0"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "johnson303mike@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-07-21T13:30:06-07:00",
+        "received_domain": [
+            "mail-pj1-f49.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.49"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

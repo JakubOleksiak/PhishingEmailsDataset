@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hi,\r\n\r\nWe are an estimating/architecture firm. We provide costing & architecture\r\nservices to General contractors, Sub-Contractors, Home builders, Owners and\r\narchitectural firms.\r\n\r\nWe work on both Commercial and Residential.\r\n\r\nLet me know if you are interested or you want to learn more. Thanks.\r\n\r\nRegards,\r\nJason Bolt\r\nMarketing Manager\r\nCrossLand Estimating, LLC\r\n",
+            "content_type": "text/plain",
+            "hash": "5000db07ec1947439311fce19a97f1c40c3845ca19434768555a77b26a7c57b2",
+            "boundary": "00000000000066df0d05c9356b9c"
+        }
+    ],
+    "header": {
+        "subject": "Estimating/Architecture Services",
+        "from": "bolt.infinityestimates@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-10T10:35:55-04:00",
+        "received_domain": [
+            "mail-lf1-f53.google.com",
+            "gmailapi.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.53"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear,\r\nBased on recommendation, I write to inform you that my Client wishes\r\nto assign the sum of 100Million Dollars  and 500kgs of Gold bars to\r\nyou for possible Investment.\r\n\r\nPlease respond stating your Full Names, Address, Occupation and\r\nTelephone Number. to enable us proceed\r\n\r\nMr Steve Edward\r\n",
+            "content_type": "text/plain",
+            "hash": "23554a93fa1c45f1459766159ca9df0962e2fe8c4f4ee23cd89a25d9ad8e3fa9"
+        }
+    ],
+    "header": {
+        "subject": "GOOD NEWS",
+        "from": "martincooker851@gmail.com",
+        "to": [],
+        "date": "2021-08-30T10:41:58+01:00",
+        "received_domain": [
+            "mail-yb1-f181.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.181",
+            "2002:a05:7108:76a4::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

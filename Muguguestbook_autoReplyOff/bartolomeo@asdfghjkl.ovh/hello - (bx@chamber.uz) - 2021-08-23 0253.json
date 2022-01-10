@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "email": [
+                "autumnbaozhaiautumn@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Good Day my Name is Baozhai autumn I am a banker, the Director for Credit & Marketing Wing Hang Bank, Hong Kong, Wing Hang Bank Bank Center, 24 Des Voeux Road Central, Hong Kong., I have some amount of funds that I want to move out of the country. I need a good partner someone I can trust. It is risk free and legal. Reply to this email: autumnbaozhaiautumn@gmail.com \r\n  \r\n Baozhai autumn \r\n",
+            "content_type": "text/plain",
+            "hash": "e19d74a60ec1904c4fa85d2e8705e898aadee9f543d41bc61ee7cc81aa82bdbf",
+            "boundary": "===============0668675672=="
+        }
+    ],
+    "header": {
+        "subject": "hello ",
+        "from": "bx@chamber.uz",
+        "to": [
+            "bx@chamber.uz"
+        ],
+        "date": "2021-08-23T08:53:51+08:00",
+        "received_domain": [
+            "mail.chamber.uz"
+        ],
+        "received_ip": [
+            "217.30.169.104"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

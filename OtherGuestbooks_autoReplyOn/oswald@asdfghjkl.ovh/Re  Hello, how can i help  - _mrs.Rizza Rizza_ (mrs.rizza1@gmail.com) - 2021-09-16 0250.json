@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "email": [
+                "oswald@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "mrs.rizza",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " Dearest Oswald,\r\nI am writing from my sick bed.\r\nI do not want to you to cheat on me i want you to prove your willingness\r\nbefore we proceed.\r\nMrs.Rizza Egobia]\r\n\r\nOn Mon, Sep 13, 2021 at 9:21 AM <oswald@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Oswald\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "9dd5755187ca3711420775be531f33df03e40e52d6e64b150a7a10242080fb79",
+            "boundary": "00000000000032628c05cc1233f5"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "mrs.rizza1@gmail.com",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-15T17:50:14-07:00",
+        "received_domain": [
+            "mail-qk1-f172.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.172"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

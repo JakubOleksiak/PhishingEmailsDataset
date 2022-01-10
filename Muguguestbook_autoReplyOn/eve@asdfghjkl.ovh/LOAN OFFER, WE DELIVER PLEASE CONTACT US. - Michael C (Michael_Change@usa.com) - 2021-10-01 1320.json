@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<HTML><HEAD>\r\n<META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD>\r\n<BODY>\r\n<P>Hello,</P>\r\n<P><BR></P>\r\n<P>My name is Michael Change, I am a Broker from from New York. My investors are funding agricultural projects, real estate, technology, healthcare, oil and gas and energy. We are willing to inject from $1,000,000 to $1 billion and more in a viable project(s) Our company is funding at a 3% ROI per annum for 10 years and 12 months moratorium. Contact us for your viable project that needs funding and Send your project plan and executive summary for review and possible funding.&nbsp;</P>\r\n<P>Regards</P>\r\n<P><BR></P>\r\n<P>Michael.</P></BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "5accac3f16b1bea574bb4b07c638593d70a0d587aadcaacf729cd276e8e50570"
+        }
+    ],
+    "header": {
+        "subject": "LOAN OFFER, WE DELIVER PLEASE CONTACT US. ",
+        "from": "michael_change@usa.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-01T11:20:43+00:00",
+        "received_email": [
+            "michael_change@usa.com"
+        ],
+        "received_domain": [
+            "hwsrv-899567.hostwindsdns.com",
+            "server.manojinnovationsolutions.com"
+        ],
+        "received_ip": [
+            "38.103.244.107",
+            "104.168.200.11"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

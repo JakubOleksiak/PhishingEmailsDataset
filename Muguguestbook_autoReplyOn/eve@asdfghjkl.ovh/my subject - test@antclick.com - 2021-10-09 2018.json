@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "lee944418@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Do you need Personal Loan?\r\nBusiness Cash Loan?\r\nUnsecured Loan\r\nFast and Simple Loan?\r\nQuick Application Process?\r\nApprovals within 24-72 Hours?\r\nNo Hidden Fees Loan?\r\nFunding in less than 1 Week?\r\nGet unsecured working capital?\r\nEmail:lee944418@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "4459d9b15085410e7364ea4e104969564a9bbc2b54c5e632bbe99e5a279a668c",
+            "boundary": "===============1399399509=="
+        }
+    ],
+    "header": {
+        "subject": "my subject",
+        "from": "test@antclick.com",
+        "to": [
+            "test@antclick.com"
+        ],
+        "date": "2021-10-09T20:18:01+02:00",
+        "received_domain": [
+            "mail.mails.antclick.com"
+        ],
+        "received_ip": [
+            "27.154.60.2",
+            "197.185.109.187"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

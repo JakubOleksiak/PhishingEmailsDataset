@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Dear prime customer,\r\n\r\n*Your **membership** for NORTON SECURITY has been successfully renewed &\r\nrestored.*\r\n\r\n\r\n\r\n*The DEBITED sum will be SHOWN within the next 24 to 48 hrs on your account\r\nrecord. *\r\n\r\n\r\n\r\n*__PRODUCT INFORMATION_*\r\n\r\n\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nInvoice No.                       :        KNX202SDB02\r\n\r\n\r\n\r\nProduct Name                   :     NORTON SECURITY\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\nOrder Date                       :        1ST SEP 2021\r\n\r\n\r\n\r\nExpiration Date              :       2 Years From The Date Of Purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nAmount                                :       $440.50 USD\r\n\r\n\r\n\r\nPayment Method            :       AUTO PAYMENT\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible. *\r\n\r\n\r\n\r\nYou can Reach us on   +1     \u2013 (888) -  (353) -  (3213)\r\n\r\n\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "516aeea1b381a5b62738c181f8bdf91ed5c0c9edf13c0721d6bcd9022105ddb3",
+            "boundary": "00000000000037851505caf47b4b"
+        }
+    ],
+    "header": {
+        "subject": "KNX202SDB02#BILLING",
+        "from": "ferdinandferdinandosmani3@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-02T01:27:40+05:30",
+        "received_domain": [
+            "mail-yb1-f193.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.193"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

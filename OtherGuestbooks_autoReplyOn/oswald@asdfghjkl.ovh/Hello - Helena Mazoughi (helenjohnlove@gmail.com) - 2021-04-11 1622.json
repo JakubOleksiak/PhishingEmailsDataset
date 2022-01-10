@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "  Hello, How are you? .\r\n",
+            "content_type": "text/plain",
+            "hash": "41e9728ee57a1d9bff7c6816fbf383761f791ef119277e04946a10a436583cab",
+            "boundary": "0000000000008d1d9005bfb320a6"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "helenjohnlove@gmail.com",
+        "to": [],
+        "date": "2021-04-11T14:22:18+00:00",
+        "received_domain": [
+            "mail-ej1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.54"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "Welsh"
+    }
+}

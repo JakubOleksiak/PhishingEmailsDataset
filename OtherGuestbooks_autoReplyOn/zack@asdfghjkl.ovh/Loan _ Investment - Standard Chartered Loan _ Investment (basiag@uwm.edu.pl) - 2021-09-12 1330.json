@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\"; format=\"flowed\""
+                ],
+                "content-transfer-encoding": [
+                    "8bit"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nHow are doing , Hope you are doing great\r\nI\u2019m pleased to introduce you to Standard Chartered Loan & Investment. We\r\nbring together and manage a multi - billion dollar portfolio of local,\r\nregional and international investment, which we wish to re-invest \r\nthrough\r\nproject funding in investment loan to third party investors, project \r\nowners\r\nand general business facilitators on a 3% loan interest rate per annum \r\non\r\nlong & short term investment projects on a minimum and maximum face \r\nvalue\r\nof 50,000 Euros to 1 Billion Euros .\r\nIf this is of interest to you or you, we would love to be a resource for\r\nyou. For more details regarding our funding program, please feel free to\r\ncontact us at bill.sanness234@outlook.com\r\n\r\nI am respectfully asking you to drop a line even if this is of no \r\ninterest\r\nto you at this moment.\r\n\r\nThanks\r\nBill Sannes\r\nStandard Chartered Loan & Investment\r\n",
+            "content_type": "text/plain",
+            "hash": "0e7d31de2180757255becdf995d014965211d7fd5b2053ea9769beeeac09ae37"
+        }
+    ],
+    "header": {
+        "subject": "Loan & Investment",
+        "from": "basiag@uwm.edu.pl",
+        "to": [],
+        "date": "2021-09-12T14:30:46+03:00",
+        "received_email": [
+            "basiag@uwm.edu.pl"
+        ],
+        "received_domain": [
+            "moskit.uwm.edu.pl"
+        ],
+        "received_ip": [
+            "213.73.22.212"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

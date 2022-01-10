@@ -1,0 +1,93 @@
+{
+    "attachment": [
+        {
+            "filename": "MRS FAITH.jpg",
+            "size": 31378,
+            "extension": "jpg",
+            "hash": {
+                "md5": "767e66954310f150bff75ba36d3cd22c",
+                "sha1": "7ef3bb98089ac9f4777ee8c08324ba96e7192028",
+                "sha256": "fb905ab4baccf94a3f345f55e7539989e9b076bde937d1040506e4e8fd4edabf",
+                "sha512": "d74998f572e40143ee1918f6214a34f8352ac3d4299a3fd3bbdb7d31f3a365e2b32c3b143a5631e34c5ab580209f13b0ac462b7ab5429fe3c61f87231779c318"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"MRS FAITH.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"MRS FAITH.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "671e8aff1defa3cc_0.1"
+                ]
+            }
+        },
+        {
+            "filename": "ME_AND_MY_HUSBAND.jpg",
+            "size": 48705,
+            "extension": "jpg",
+            "hash": {
+                "md5": "992d122cb492f1189ea8023d7c723afd",
+                "sha1": "634313dc7990278fd0b6e1f0e6db53f3b4940608",
+                "sha256": "f6fd182cc8dc17315c8252f22d52eb3f19e06875bae7aaf54197bbc0e599baa0",
+                "sha512": "33b3f676313819b537934cc1bf383283cf68b324ac1bca05a4e1c4aa80cf1472f6218364bf9107c551d397c3dbebec7c36d735ca52461d051a6ef8199764d086"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"ME_AND_MY_HUSBAND.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"ME_AND_MY_HUSBAND.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "fc51d8946f0b85a9_0.1"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Please contact the Alinco Security Company on my behalf and ask them to\r\nrelease the consignment to you immediately.\r\n\r\n\r\nMiss Stella Rose\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nOn Tuesday, May 4, 2021, <gerard@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Gerard\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "dcbdcbcb8f8a9a384c4b60da5a23c9f8e9fb64b58a6500b686a37d7d8222e952",
+            "boundary": "00000000000093687005c1830e1f"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "sr138304@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-04T16:51:52+01:00",
+        "received_domain": [
+            "mail-lj1-f172.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6512:6c2::",
+            "209.85.208.172"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

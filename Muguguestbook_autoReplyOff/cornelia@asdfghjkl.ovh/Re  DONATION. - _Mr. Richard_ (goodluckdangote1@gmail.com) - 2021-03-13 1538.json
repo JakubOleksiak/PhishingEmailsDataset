@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "neiltrotter560@outlook.com"
+            ],
+            "domain": [
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "CONGRATULATION,\r\n\r\n\r\nThe sum of 3,500,000 Million Euro has been donated to you by ( Mr Neil\r\nTrotter ) Please you are to contact him right now via email to his personal\r\nemail for discussion.\r\n\r\n\r\nMr Neil Trotter\r\n\r\nEmail: neiltrotter560@outlook.com\r\n",
+            "content_type": "text/plain",
+            "hash": "b7de4f7b4abc30387db263f70d53b3c73ffb52618c874387cf58f7813f0062e9",
+            "boundary": "000000000000dbd83105bd6bf792"
+        }
+    ],
+    "header": {
+        "subject": "RE:DONATION.",
+        "from": "goodluckdangote1@gmail.com",
+        "to": [],
+        "date": "2021-03-13T15:38:10+01:00",
+        "received_domain": [
+            "mail-lf1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.48"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nDear  Friend\r\n\r\nForgive me for writing you this letter , I will like to bring to your that\r\n(8.5.million Euro claims ) This is a legitimate transaction and The money\r\nwill be shared 60% for me and 40% for you .   get back to me, I will give\r\nyou full details on how the money will be transfer to you,\r\nWaiting for your reply,\r\n\r\nMr Ibrahim Nahr\r\n",
+            "content_type": "text/plain",
+            "hash": "42a165f07b18e65870782685709938e621cbc78b3aa82011d2f9c26cce2a7fc9",
+            "boundary": "000000000000a6a05505c7ec3c7b"
+        }
+    ],
+    "header": {
+        "subject": "Forgive me for writing you this",
+        "from": "nebswag@gmail.com",
+        "to": [
+            "brahimnahr@gmail.com"
+        ],
+        "date": "2021-07-25T06:51:41+01:00",
+        "received_domain": [
+            "mail-pj1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.48"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

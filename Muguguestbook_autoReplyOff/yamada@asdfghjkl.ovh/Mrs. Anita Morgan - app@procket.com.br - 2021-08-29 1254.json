@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello,\r\n\r\nPlease forgive me for writing this letter to you through the internet. I would like to notify you that a sum of ($50 million ) Can you been able to investment for me in your country.   \r\n \r\nRegards,\r\n\r\nMike  Odia\r\n",
+            "content_type": "text/plain",
+            "hash": "d8b9304da142a74969015e93a4935c56818fdb322d21e948c7e65c1ba82d8e8f"
+        }
+    ],
+    "header": {
+        "subject": "Mrs. Anita Morgan ",
+        "from": "app@procket.com.br",
+        "to": [
+            "app@procket.com.br"
+        ],
+        "date": "2021-08-29T11:54:47+01:00",
+        "received_domain": [
+            "inmaculada.net.gt"
+        ],
+        "received_ip": [
+            "186.151.36.252"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

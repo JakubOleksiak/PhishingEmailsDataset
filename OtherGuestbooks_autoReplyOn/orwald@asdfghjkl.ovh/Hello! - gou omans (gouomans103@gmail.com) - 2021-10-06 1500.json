@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "barris12345@yahoo.com"
+            ],
+            "domain": [
+                "yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello!\r\n\r\nI hope you had a great weekend? This is a reminder that we have\r\nresolved in finding a perfect solution to your delayed inheritance /\r\nCompensation payment valued sum of $950,000.00 (Nine Hundred Fifty\r\nThousand Dollars) and as you may know, we have arranged your payment\r\nto be paid to you through an ATM Master Card and this will be issued\r\non your name and shall be posted directly to your address via DHL or\r\nany courier services available in your country. Upon your contact with\r\nus, the sum of $950,000.00 (Nine Hundred Fifty Thousand Dollars)  will\r\nbe credited into the ATM Master Card and this will enable you to\r\nwithdraw your funds in any ATM Machine in your country with a minimum\r\nwithdrawal of  $10,000.00 per day. Your limit can be increased to any\r\namount upon your request.\r\n\r\nIn this regards, you are to contact us via\r\n( barris12345@yahoo.com) and furnish the requested\r\ninformation to the directorate of international payment and transfer\r\nwith the followings;\r\n\r\n1. Your name:\r\n2. Country:\r\n3. Age and sex:\r\n4. Occupation:\r\n5. Mobile telephone:\r\n6. Delivery address:\r\n7. Id card identification:\r\n\r\nWe require your urgent response to this email as directed to avoid\r\nfurther delay.\r\nPublic information office\r\n",
+            "content_type": "text/plain",
+            "hash": "f2707716bdbc74959f377218c90ee31b3e3e35209d1fed1f78b0e70bb126a5b7",
+            "boundary": "000000000000265cc105cdaed84b"
+        }
+    ],
+    "header": {
+        "subject": "Hello!",
+        "from": "gouomans103@gmail.com",
+        "to": [],
+        "date": "2021-10-06T13:00:23+00:00",
+        "received_domain": [
+            "mail-wr1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.47"
+        ],
+        "received_foremail": [
+            "orwald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

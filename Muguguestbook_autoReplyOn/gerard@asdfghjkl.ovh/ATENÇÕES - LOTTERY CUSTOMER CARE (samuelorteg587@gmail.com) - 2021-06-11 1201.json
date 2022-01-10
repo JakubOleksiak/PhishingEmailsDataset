@@ -1,0 +1,62 @@
+{
+    "attachment": [
+        {
+            "filename": "Estou escrevendo para informar que seu endere\u00e7o de e.docx",
+            "size": 11966,
+            "extension": "docx",
+            "hash": {
+                "md5": "3897495676c2658cd8e7e543cfaebe2b",
+                "sha1": "9419458a8bce62b3d26ddaea90778b6ede4f0d10",
+                "sha256": "96a4df8c9e448857889b8952831114b142d144b4e9be4b0d4acb0bb98f40c1aa",
+                "sha512": "1ada98e07c62f57d1900f1790ab57cedd7e60b17e32425586f845575ba542fe4321639baa7e1f08fe0f84c8780df447c4a2f2763b7ea66b706942603a4fc93e7"
+            },
+            "content_header": {
+                "content-type": [
+                    "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"Estou escrevendo para informar que seu endere\u00e7o de e.docx\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"Estou escrevendo para informar que seu endere\u00e7o de e.docx\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<f_kps5t96s0>"
+                ],
+                "x-attachment-id": [
+                    "f_kps5t96s0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+            "boundary": "000000000000ad58a205c47a97a1"
+        }
+    ],
+    "header": {
+        "subject": "ATEN\u00c7\u00d5ES",
+        "from": "samuelorteg587@gmail.com",
+        "to": [],
+        "date": "2021-06-11T10:01:14+00:00",
+        "received_domain": [
+            "mail-wr1-f54.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.54"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "UNKNOWN"
+    }
+}

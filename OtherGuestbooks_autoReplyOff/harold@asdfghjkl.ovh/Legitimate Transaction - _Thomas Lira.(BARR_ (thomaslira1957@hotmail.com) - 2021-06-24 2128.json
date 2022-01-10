@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Attention\r\nThis Email is to bring to your notice that you have been personally accredited sole beneficiary to Late Eng Orven Caster,\r\nHe deposited the sum of $198,000,000.00 USD (One Hundred and Ninety-Eight Million United States Dollars Only.\r\n\r\nConcerning my late client, Died without a WILL or  NEXT OF KIN This transaction is 100%.100 legitimate  And it's  like a gold coin 60/40 split: PLEASE CONTACT ME FOR MORE DETAILS WITH YOUR INFO IE.NAME,ADDRESS, PHONE NUMBER ,OCCUPATION,AGE.\r\nBest Regards,\r\nThomas Lira.(BARR)\r\nEMAIL:thomaslira@consultant.com\r\n",
+            "content_type": "text/plain",
+            "hash": "b3335350a53325add858b69ed0826f00bab2b594368007322380396e909997b0"
+        }
+    ],
+    "header": {
+        "subject": "Legitimate Transaction ",
+        "from": "thomaslira1957@hotmail.com",
+        "to": [
+            "harold@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-24T21:28:51+02:00",
+        "received_domain": [
+            "hq.jcncc.com",
+            "jcncc.com"
+        ],
+        "received_ip": [
+            "37.49.225.113",
+            "116.48.149.49"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

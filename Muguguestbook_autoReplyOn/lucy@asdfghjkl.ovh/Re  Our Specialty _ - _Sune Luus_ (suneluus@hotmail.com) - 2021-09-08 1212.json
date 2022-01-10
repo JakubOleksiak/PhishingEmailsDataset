@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Lucy\r\n\r\nGreetings and best wishes for the day!!!\r\n\r\nI work for an IT solution company as an app development manager.\r\nWe have offices in India and are excited to announce that our operation\r\ncentre will be in the United States soon.\r\n\r\nPlease have a look at our IT services below and discuss the requirements for\r\nyour project so that we can examine it and provide you with the most\r\ncost-effective solution for your company.\r\n\r\nOur Specialty: \r\n1: Business App & Websites\r\n2: Website Design & Redesign\r\n\r\n3: Food App & Fitness App\r\n4: SEO | PHP | Word press. Net\r\n\r\n5: Mobile and Web development\r\nif you are interested, please let me know and I will gladly share our\r\nproposal with you.\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "7266dbb17496be1d9a49f633a7850af43776cc5de28ace1dc01950e766d35532",
+            "boundary": "----=_NextPart_000_38F5_01D7A4C8.802546A0"
+        }
+    ],
+    "header": {
+        "subject": "Re: Our Specialty %",
+        "from": "suneluus@hotmail.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-08T15:42:46+05:30",
+        "received_domain": [
+            "pu1pr04mb2261.apcprd04.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com",
+            "psapr04mb4725.apcprd04.prod.outlook.com",
+            "pn2pr01ca0081.indprd01.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:1096:803:2d::15",
+            "2603:1096:301:76::9",
+            "40.92.253.43",
+            "122.161.52.143",
+            "2603:1096:c01:23::26"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

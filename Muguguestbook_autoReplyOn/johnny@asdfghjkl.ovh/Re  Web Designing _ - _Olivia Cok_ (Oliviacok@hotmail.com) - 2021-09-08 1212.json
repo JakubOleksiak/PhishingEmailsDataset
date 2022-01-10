@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi Johnny\r\n\r\n \r\n\r\nGreetings and best wishes for the day..!!\r\n\r\nI am reaching out to see if there is anything that would like to Upgrade,\r\nrepair, or redesign on your website. I am a Web design / Developer that can\r\ndo just about anything you can imagine at very affordable prices. Feel free\r\nto contact me in case of any enquiry. If interested?\r\n\r\n \r\n\r\nThanks,\r\n\r\n \r\n\r\nOlivia\r\n\r\n \r\n\r\nBusiness Development Executive\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "542c5487ef4e316e87d9f4d00490113ec230afad23ba19f38bfc14ef039935e5",
+            "boundary": "----=_NextPart_000_2C11_01D7A4C8.455C4B90"
+        }
+    ],
+    "header": {
+        "subject": "Re: Web Designing %",
+        "from": "oliviacok@hotmail.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-08T15:42:44+05:30",
+        "received_domain": [
+            "pn2pr01ca0072.indprd01.prod.outlook.com",
+            "co1pr03mb5682.namprd03.prod.outlook.com",
+            "mwhpr03mb3232.namprd03.prod.outlook.com",
+            "nam10-dm6-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "40.92.41.48",
+            "2603:1096:c01:23::17",
+            "122.161.52.143",
+            "2603:10b6:303:98::24",
+            "2603:10b6:301:43::31"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "ATTENTION: Beneficiary.\r\n\r\nI am writing to inform you that your compensation/winning payment was approved today by the Board and Directors of United Nation Committee on Rewards and Compensation.\r\n\r\nYou are therefore advised to reconfirm your details to enable the financial department release your payment to you without any delay.\r\n\r\nThus, Reconfirm the following:\r\n\r\n1. Your Full Name:\r\n2. Your residential address:\r\n3. Your Direct phone number:\r\n\r\nWe look forward to your prompt response.\r\n\r\nThank you.\r\n\r\nMr. Williams McCall.\r\nDirector of Payment,\r\nUN Foreign Office,\r\n",
+            "content_type": "text/plain",
+            "hash": "983e6d8a9979046574c3274b4943f115945bedbf5b85733115e7fd3106c07431"
+        }
+    ],
+    "header": {
+        "subject": "Important Message!!!",
+        "from": "barrett@breathe.com",
+        "to": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-06T02:17:01+08:00",
+        "received_domain": [
+            "mail.mahk.top",
+            "natee.contaboserver.net"
+        ],
+        "received_ip": [
+            "144.126.145.10",
+            "114.141.155.122"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-language": [
+                    "en"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-disposition": [
+                    "inline"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\n-- \r\nDear Fund Beneficiary.\r\n\u00a0\r\nThis is the 3rd time I am sending you this notification letter regarding your abandoned ATM Master Card valued sum of US$2.5 Million and I have not received any positive response from you or making a suggestion on how you wish to receive your ATM Card. Once again; I am Jim Ovia, the new director ATM Head of Operation Zenith Bank Plc, I resumed this office on the 5th of August 2021 and during my official research I discovered an abandoned ATM Master card valued sum of $2.5 Million dollars belonging to you as the rightfully intimate beneficiary.\r\n\u00a0\r\nI tried to know why this card has not been released to you but I was told by the Union management that the former director ATM head of operation who left this office four months ago withheld your card for his own personal use without knowing that his evil plans towards diverting your fund will be discovered.\r\n\u00a0\r\nAlternatively it can be arranged to ship to your address through any registered reliable courier service company that you will take care of the courier charge, hope it is cleared and accepted by you?\r\n\u00a0\r\nI don't know the courier cost of shipping the card to you but if you permit me and accept the terms, then I can make an inquiry from the courier shipping company to find out the cost, but in that case you will be required to forward to me your address where you want to receive the card to enable me find out the shipping cost to your location.\r\n\u00a0\r\nYour direct telephone number and address will be needed and more details of your ATM card payment will be made known to you as soon as I receive your swift positive response.\r\n\u00a0\r\nThanks for your co-operation and I wait for your kind positive response.\r\n\r\nYours Faithfully,\r\nMr jim ovia\r\n\r\nemail: jw818595@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "cd1e972215bab5ecb208048b3b68b154928c4e294e464d9b9ee39116754d398b"
+        }
+    ],
+    "header": {
+        "subject": "Dear Fund Beneficiary.",
+        "from": "techalum@emirates.net.ae",
+        "to": [],
+        "date": "2021-08-12T13:22:04-07:00",
+        "received_domain": [
+            "afomail2.emirates.net.ae",
+            "acmail1v.emirates.net.ae",
+            "emirates.net.ae"
+        ],
+        "received_ip": [
+            "129.205.113.219",
+            "5.195.192.163"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

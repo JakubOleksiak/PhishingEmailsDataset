@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://click.mlsend2.com/link/c/YT0xNzU1MjIzMjkzMDc5NTkwOTI0JmM9cDVzOCZlPTAmYj02OTIwNzQ0MTcmZD1kOHQ3dDNw.2Ost163lE29wI_b",
+                "https://click.mlsend2.com/link/c/YT0xNzU1MjIzMjkzMDc5NTkwOTI0JmM9cDVzOCZlPTAmYj02OTIwNzQ0MDgmZD1sNWIyZDhj.LHeTCMUnGWOXkN_og5oDg8EontB8rOZpL1-3FKW1LGo"
+            ],
+            "domain": [
+                "click.mlsend2.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hello,\r\n\r\nYou have received a newsletter from Perpetual Income Team.\r\n\r\nHowever, your email software can't display HTML emails. You can view the newsletter by clicking here:\r\n\r\nhttps://click.mlsend2.com/link/c/YT0xNzU1MjIzMjkzMDc5NTkwOTI0JmM9cDVzOCZlPTAmYj02OTIwNzQ0MDgmZD1sNWIyZDhj.LHeTCMUnGWOXkN_og5oDg8EontB8rOZpL1-3FKW1LGo\r\n\r\n\r\n\r\nYou're receiving this newsletter because you have shown interest in Perpetual Income Team.\r\nNot interested anymore? Click here to unsubscribe:\r\nhttps://click.mlsend2.com/link/c/YT0xNzU1MjIzMjkzMDc5NTkwOTI0JmM9cDVzOCZlPTAmYj02OTIwNzQ0MTcmZD1kOHQ3dDNw.2Ost163lE29wI_bOYW6wXl4Ug3Qu66l37tHIoClkwes\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "67cc2ad008e5271c4eb47961d24b571f0610b97f31846240849feafabe96effc",
+            "boundary": "b1_4b40a1c4934085ce5557a585f6b079c8"
+        }
+    ],
+    "header": {
+        "subject": "\ud83d\udcb0 need extra income?",
+        "from": "wayel@360onlinemoney.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-18T19:55:21+03:00",
+        "received_domain": [
+            "mail223.on.mlsend2.com"
+        ],
+        "received_ip": [
+            "185.249.220.223"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

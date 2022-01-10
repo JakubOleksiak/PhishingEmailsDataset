@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nHello,</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nI am Doctor Frederick Reif from the Weill Cornell Medical Associates. I am writing to you from my personal email requesting a favor from you on behalf of my patient. I know this will come as a surprise but I need your urgent attention to fulfill the wish of my dying patient.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nKindly reply back to this email for further details.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nYours sincerely,</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nDr. Frederick Reif.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "26a570f018af18ba16d1228a5a685a695b46e6a503be13fbdd80e4c64593078a"
+        }
+    ],
+    "header": {
+        "subject": "Weill Cornell Medical Associates.. Code 140.",
+        "from": "office@piaggio.rs",
+        "to": [],
+        "date": "2021-07-26T00:20:52+01:00",
+        "received_domain": [
+            "etouch.ee.fcu.edu.tw"
+        ],
+        "received_ip": [
+            "102.89.1.173",
+            "140.134.28.2"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

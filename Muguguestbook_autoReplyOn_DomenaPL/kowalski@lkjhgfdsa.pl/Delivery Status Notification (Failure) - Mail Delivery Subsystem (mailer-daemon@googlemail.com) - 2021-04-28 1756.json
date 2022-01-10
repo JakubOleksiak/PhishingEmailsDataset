@@ -1,0 +1,187 @@
+{
+    "attachment": [
+        {
+            "filename": "icon.png",
+            "size": 4663,
+            "extension": "png",
+            "hash": {
+                "md5": "73a9ffbfbc1be57fcf485956c3b9a13f",
+                "sha1": "b00bcc9f18efa921e62d2612c18ac5aee37d0f04",
+                "sha256": "9d1fef4ed8abeaa3cbd53c60aafa4b8774cf03c1bb3ad043c6d8f483528b9e14",
+                "sha512": "d02d3442ff0affecced80ee220874fd56d30ba20156a5abdc1ef63f6bdcfc8d86be106c44f2cc2cce8c33b6dd840e59858d82b89f92ada954866fb6326fb353a"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"icon.png\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"icon.png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<icon.png>"
+                ]
+            }
+        },
+        {
+            "filename": "part-000",
+            "size": 2806,
+            "hash": {
+                "md5": "ba25d47b47904e26bab55b4bef57f9fe",
+                "sha1": "7504c1315b8d75d3271da5fdb810c866d0a9532a",
+                "sha256": "f08a6140738446ba4c572b92a432ca0073fbeb81ef41315feff839155b7f20be",
+                "sha512": "37e6d0f51a7ca8b068b0fed28b1952beede41ed473c1f34400af13cbfa03f78d19ae6bc85666e81d3801cfb232e855a10a1bdf467c97fd274e1b855b287aa55b"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "info815632update@secure.com"
+            ],
+            "domain": [
+                "secure.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n** Message blocked **\r\n\r\nYour message to info815632update@secure.com has been blocked. See technical details below for more information.\r\n\r\n\r\n\r\nThe response was:\r\n\r\nMessage bounced due to organizational settings.\r\n",
+            "content_type": "text/plain",
+            "hash": "0079b70b4a072f7f59620fe48702c7dc863a02adddaf55930f6b8887baafc749",
+            "boundary": "00000000000041ed8205c10a6d81"
+        },
+        {
+            "content_header": {
+                "reporting-mta": [
+                    "dns; googlemail.com"
+                ],
+                "received-from-mta": [
+                    "dns; kowalski@lkjhgfdsa.pl"
+                ],
+                "arrival-date": [
+                    "Wed, 28 Apr 2021 08:56:50 -0700 (PDT)"
+                ],
+                "x-original-message-id": [
+                    "<64DBFF7D-CC00-49BD-ACE5-865E76D5668E@DESKTOP-9AVSAIR>"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; info815632update@secure.com"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.0.0"
+                ],
+                "diagnostic-code": [
+                    "smtp; Message bounced due to organizational settings."
+                ],
+                "last-attempt-date": [
+                    "Wed, 28 Apr 2021 08:56:50 -0700 (PDT)"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "x-google-smtp-source": [
+                    "ABdhPJw0qZKhdpdUCwg6xxjOxKReo8ywUC6ldXhzHsbDdzOlBXD+bgznA7HLpwMbOZv1Y4GtspTq"
+                ],
+                "x-received": [
+                    "by 2002:a19:c349:: with SMTP id t70mr6640582lff.414.1619625410166;        Wed, 28 Apr 2021 08:56:50 -0700 (PDT)"
+                ],
+                "arc-seal": [
+                    "i=1; a=rsa-sha256; t=1619625410; cv=none;        d=google.com; s=arc-20160816;        b=SVT8HzNMtpH+aQhid1ljY5kRSbxOk4/eGjGgHQMLk/QnK3BSzQJSVAizFobS8fYy/i         2t93IMlgbNRWLr/1Ff4+oloBVM0y4WPv7YEgG25zBuCrbuEiclkju43kH65K+NunQD0E         8mu84FrE7lS4BVEbwWoBRVMjZUJiPUIWDSD3ievEqMn+8fi0FcWTeCC367vgSPz8KFuy         02PMoNOaZ281M0fttmSvbPzZi0X/wYLYtM3mhSle/HcwQahE04r5lDU1WGZxECYg+pJi         +O+VY41GXqFLb0ZmnjdxqFphM3JXJnDZ78MkmkJXDaK1oOjX67ziRPnjAIsnvdNxvILm         qhlw=="
+                ],
+                "arc-message-signature": [
+                    "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=auto-submitted:content-transfer-encoding:subject:to:from:date         :message-id:mime-version;        bh=lUtD0RjhCCFSveEjgBfuxLx7QRE2/4hgnrcieKhfzgc=;        b=SrD94R3oWssGMHwkGsHzPCoH1n4R6OCYCzqYBo7EE77otUrnhkkrufFL1DweC01nXq         eI0dSYxfVboBqyzgMCF1MplTKOumEiyKA7zvoFbH3QrEcxnWM984xRUD4sItFFdHwx9x         EhZ5O1O/DQ53ykrNlM0rqwSEsFf1xafts6exZI0uVPnnSNBm28Nbd3r2P+4ri21tjaEz         5a1Lhi7GmOqUigroOmCmsbeSh2SkbpR9H43wzHauBDaaB24nFhi3A6SSSdqz+0L987Sh         U/qUtx5aVoX7T6U47zYX0xDcHSy4kby20+c0gPY6XRFTvWSeh26Mqs8zp85wIM3d6oX9         nMSA=="
+                ],
+                "arc-authentication-results": [
+                    "i=1; mx.google.com;       spf=neutral (google.com: 185.25.217.220 is neither permitted nor denied by best guess record for domain of kowalski@lkjhgfdsa.pl) smtp.mailfrom=kowalski@lkjhgfdsa.pl"
+                ],
+                "return-path": [
+                    "<kowalski@lkjhgfdsa.pl>",
+                    "<kowalski@lkjhgfdsa.pl>"
+                ],
+                "received": [
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl. [185.25.217.220])        by mx.google.com with ESMTPS id n18si239792lfu.388.2021.04.28.08.56.50        for <info815632update@secure.com>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Wed, 28 Apr 2021 08:56:50 -0700 (PDT)"
+                ],
+                "received-spf": [
+                    "neutral (google.com: 185.25.217.220 is neither permitted nor denied by best guess record for domain of kowalski@lkjhgfdsa.pl) client-ip=185.25.217.220;"
+                ],
+                "authentication-results": [
+                    "mx.google.com;       spf=neutral (google.com: 185.25.217.220 is neither permitted nor denied by best guess record for domain of kowalski@lkjhgfdsa.pl) smtp.mailfrom=kowalski@lkjhgfdsa.pl"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<64DBFF7D-CC00-49BD-ACE5-865E76D5668E@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Wed, 28 Apr 2021 17:56:48 +0200"
+                ],
+                "from": [
+                    "kowalski@lkjhgfdsa.pl"
+                ],
+                "to": [
+                    "info815632update@secure.com"
+                ],
+                "subject": [
+                    "Hello, how can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nKowalski\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "8042c76d9c8f3af4d3b90412cd0e7e2affcf8de51f0a047719a6d91a9ff7efee"
+        }
+    ],
+    "header": {
+        "subject": "Delivery Status Notification (Failure)",
+        "from": "mailer-daemon@googlemail.com",
+        "to": [
+            "kowalski@lkjhgfdsa.pl"
+        ],
+        "date": "2021-04-28T08:56:50-07:00",
+        "received_domain": [
+            "mail-lf1-f66.google.com"
+        ],
+        "received_ip": [
+            "2002:a19:c349::",
+            "209.85.167.66"
+        ],
+        "received_foremail": [
+            "kowalski@lkjhgfdsa.pl"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

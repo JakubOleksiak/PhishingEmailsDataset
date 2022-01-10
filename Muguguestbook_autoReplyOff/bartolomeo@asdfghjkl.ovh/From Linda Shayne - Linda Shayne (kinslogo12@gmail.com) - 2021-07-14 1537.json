@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "pballlot@mailbox.sk"
+            ],
+            "domain": [
+                "mailbox.sk"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "POWER BALL LOTTO\r\n730 North 10th Street\r\nSacramento, CA 95811, U.S.A\r\n\r\nYour Email has been selected for the Power Ball Email Promo of\r\nUS$1,320, 000.00. For Claim Send;\r\n\r\nName:\r\nAddress:\r\nTel No:\r\nDate of Birth:\r\nOccupation:\r\n\r\nVAULT DEPOSIT NOS (DUC/OO9L2AC/SP )\r\n\r\nSend the above details to your Claim agent, Steve Donald on pballlot@mailbox.sk\r\n\r\nThanks,\r\n\r\nLinda Shayne\r\nPowerball Lotto\r\nCoordinator\r\n",
+            "content_type": "text/plain",
+            "hash": "d8b17ce7e2b20ae944f88ce7aa4ba9124b2c2f878fa6a3b7f73b8af1f7bb4184"
+        }
+    ],
+    "header": {
+        "subject": "From Linda Shayne",
+        "from": "kinslogo12@gmail.com",
+        "to": [],
+        "date": "2021-07-14T14:37:22+01:00",
+        "received_domain": [
+            "mail-pg1-f194.google.com"
+        ],
+        "received_ip": [
+            "209.85.215.194",
+            "2002:a17:90a:9509::"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Dear consumer,*\r\n\r\n\r\n\r\nYour subscriber for NORTON 360 PC has been successfully renewed &\r\nrestored.\r\n\r\n*The charge amount will be SHOWN within the next 24 to 48 hrs on your\r\naccount record. *\r\n\r\n\r\n\r\n __PRODUCT INFORMATION_\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\n* Invoice No.                       :         VKXN005AA2*\r\n\r\n\r\n\r\nProduct Name                   :     NORTON 360 PC\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                       :        21st SEP 2021\r\n\r\n\r\n\r\nExpiration Date              :       1 Years From The Date Of Purchase\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nAmount                                :       $499.96 USD\r\n\r\n\r\n\r\nPayment Method            :       AUTO REPAY\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible. *\r\n\r\nYou can Reach us on    +1     \u2013 (866) - (278) - (6376)\r\n\r\n\r\n\r\n\r\n\r\nRegards,\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "cb1c467b66d27e5b77e46f5b6b23862f39e237d6d9a3b27dc87223f5edb23008",
+            "boundary": "00000000000065816205cc820774"
+        }
+    ],
+    "header": {
+        "subject": "VKXN005AA2#ORDER",
+        "from": "annjac53621@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-21T19:45:13+05:30",
+        "received_domain": [
+            "mail-qt1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.160.178"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Bellicum Medicals, want a Regional Liaison Manager to manage prospective\r\nclients in North America/America.\r\n\r\n*Job offers:*\r\n\r\n*Flexible work hour (Part-Time)\r\n*Good Salary and benefits;\r\n\r\nReply For more information;\r\n\r\nThank you\r\n",
+            "content_type": "text/plain",
+            "hash": "963b2874ecc610f6f602e7cc2d0f549d258b7f6cbc4af11ec75e37a7a86c7094",
+            "boundary": "00000000000078323f05c4f75d06"
+        }
+    ],
+    "header": {
+        "subject": "Re: Liaison Manager",
+        "from": "leggettrbt@gmail.com",
+        "to": [
+            "hr@bellicum.com"
+        ],
+        "date": "2021-06-17T15:52:54+01:00",
+        "received_domain": [
+            "mail-pj1-f43.google.com"
+        ],
+        "received_ip": [
+            "209.85.216.43"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

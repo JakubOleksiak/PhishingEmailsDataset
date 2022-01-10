@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\r\n                Hello my names are Monica Lin Brown I have a private discussion with you.\r\n",
+            "content_type": "text/plain",
+            "hash": "1fdcabffbfaa126805e211d5b61b38580fc21222f3a6b780347872f0dd8b1b22",
+            "boundary": "_000_728c30e18dd14476af50e5bf9f702808LCCAGOV_"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "rachel.tsai@lc.ca.gov",
+        "to": [],
+        "cc": [
+            "kimo@mail.us"
+        ],
+        "date": "2021-09-11T23:39:01+00:00",
+        "received_domain": [
+            "senmsx40.calegis.net",
+            "smtp01.lc.ca.gov",
+            "legmsx50.calegis.net"
+        ],
+        "received_ip": [
+            "165.107.11.110",
+            "165.107.12.81",
+            "165.107.11.70"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

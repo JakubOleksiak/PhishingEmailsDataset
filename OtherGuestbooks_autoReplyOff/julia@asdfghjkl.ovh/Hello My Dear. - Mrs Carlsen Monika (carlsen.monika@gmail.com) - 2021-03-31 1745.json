@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mrs.carlsen",
+                "11.000.000"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": " I sent this mail praying it will found you in a good condition of\r\nhealth, since I myself are in a very critical health condition in\r\nwhich I  sleep every night without knowing if I may be alive to see\r\nthe next day. I am Mrs.Carlsen Monika John  from Denmark wife of late\r\nMr Monika John , a widow suffering from long time illness. I have some\r\nfunds I inherited from my late husband, the sum of ($ 11.000.000\r\n,elevenmilliondollars) my Doctor told me recently that I have serious\r\nsickness which is cancer problem. What disturbs me most is my stroke\r\nsickness.\r\nHaving known my condition, I decided to donate this fund to a good\r\nperson that will utilize it the way i am going to instruct herein. I\r\nneed a very honest and God fearing person who can claim this money and\r\nuse it for Charity works, for orphanages, widows and also  build\r\nschools for less privileges that will be named after my late husband\r\nif possible and to promote the word of God and the effort that the\r\nhouse of God is maintained.\r\n\r\nI do not want a situation where this money will be used in an ungodly\r\nmanner. That's why I'm taking this decision. I'm not afraid of death\r\nso I know where I'm going. I accept this decision because I do not\r\nhave any child who will inherit this money after I die. Please I want\r\nyour sincerely and urgent answer to know if you will be able to\r\nexecute this project, and I will give you more information on how the\r\nfund will be transferred to your bank account. I am waiting for your\r\nreply.\r\n\r\nMay God bless you and your family.\r\nRegards,\r\nMrs.Carlsen Monika John\r\nwritten from Hospital.\r\n",
+            "content_type": "text/plain",
+            "hash": "bd4e1f59ef637dab53abd18c5f8c5b11df5bf1a59e2485c25855f0b7fd51e5a8"
+        }
+    ],
+    "header": {
+        "subject": "Hello My Dear.",
+        "from": "carlsen.monika@gmail.com",
+        "to": [],
+        "date": "2021-03-31T16:45:48+01:00",
+        "received_domain": [
+            "mail-io1-f68.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6602:2001::",
+            "209.85.166.68"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

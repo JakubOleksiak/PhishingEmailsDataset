@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "\r\nAttention,\r\n\r\nThis is Peter Slim, from the Cmolinamining payment center and I am assigned to pay you the total sum of ($4.7 Million) via either of these options: Global ATM card,bitcoin payment or direct wire transfer.\r\n\r\nAs a victim of internet fraud, you are to participate in the overhaul reimbursement payment from the World Bank group and the CMOLINAMINING pay center are to Lead on the payment frontline and you are to follow up as to enable you to receive your payment.\r\n\r\nKindly provide the below information as to enable us to proceed.\r\n\r\nFull Name:\r\nAddress:\r\nDirect Phone Number:\r\nScanned copy of your ID:\r\n\r\nYou are to get back to me via the below contact email address:\r\n\r\nContact Name: Peter Slim\r\nContact Email Address: peterslim833@gmail.com\r\n\r\nWith the above mentioned information, we will get back to you with more details about this payment which will cost you nothing to worry about.\r\n\r\nThank you.\r\nPeter Slim.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "31394806ea6265d68210a01fb003bcd4913b87e980e72727dc8ff246f5dc06ba"
+        }
+    ],
+    "header": {
+        "subject": "Attention,",
+        "from": "ofil76526@gmail.com",
+        "to": [
+            "ofil76526@gmail.com"
+        ],
+        "date": "2021-08-30T19:14:48-07:00",
+        "received_domain": [
+            "out-relay04.infobox.ru"
+        ],
+        "received_ip": [
+            "77.221.130.174",
+            "77.221.130.170",
+            "203.159.80.144"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

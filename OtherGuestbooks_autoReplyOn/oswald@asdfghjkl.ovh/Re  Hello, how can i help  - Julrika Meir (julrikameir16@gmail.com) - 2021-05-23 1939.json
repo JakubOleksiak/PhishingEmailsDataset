@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "paulphillip613@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Now contact my Pastor in Togo through his contact details below.\r\n\r\nHis name is Pastor Paul Phillip\r\nEmail: paulphillip613@gmail.com\r\nTel+22893025835\r\n",
+            "content_type": "text/plain",
+            "hash": "c529b5d219d3ff716bbe5096b05f3c0a45e4de7277f818030a01da657c758a0b",
+            "boundary": "00000000000063955405c302c822"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "julrikameir16@gmail.com",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-05-23T17:39:51+00:00",
+        "received_domain": [
+            "mail-yb1-f174.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.174"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

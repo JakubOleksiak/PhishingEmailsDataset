@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "  Hello , I have a business proposal to disclose to you\r\n",
+            "content_type": "text/plain",
+            "hash": "97f8588d07ed94a56845e99a989c828ac876e1b06fc521ae92e4044ef7b2d267",
+            "boundary": "000000000000e9588f05bc781ee2"
+        }
+    ],
+    "header": {
+        "subject": "",
+        "from": "ag3267574@gmail.com",
+        "to": [],
+        "date": "2021-03-01T12:42:53+01:00",
+        "received_domain": [
+            "mail-wr1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.67"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

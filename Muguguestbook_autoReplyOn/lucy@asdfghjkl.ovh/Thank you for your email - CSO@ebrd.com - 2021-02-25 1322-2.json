@@ -1,0 +1,98 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 726,
+            "hash": {
+                "md5": "1692a713980e50ae357fe350dcc7b53a",
+                "sha1": "568ae6afe947cb405091d9a872702bf6b6afc5d9",
+                "sha256": "74d47249822a3fb62299ff6bc2ba6cc4a9b455cc2db1866acd6c7b09de90ab0a",
+                "sha512": "4e27569f366829c484197406a9fb54cd90b35b1c8a4a0609f80ec78ded0988d5dc4abc97b01a0e9373ee1727c859d48ebf8acde272c281f82dbf6f577e4a1e5c"
+            },
+            "content_header": {
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "cso@ebrd.com"
+            ],
+            "domain": [
+                "ebrd.com",
+                "www.ebrd.co"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "We are looking into your query and will reply in line with the provisions of the EBRD\u2019s Access to Information Policy. \r\nThe Bank will normally respond within 20 working days after receiving the request or clarification or, if a timely explanation for a further delay is provided (within 10 working days following receipt), no later than 40 working days.\r\n\r\nYou will receive a response if your query is related to EBRD operations.\r\nFor job vacancies and procurement enquiries, we kindly direct you to the EBRD Careers Website and EBRD Procurement Notices, respectively. \r\nPlease refer to the recently released EBRD Consultation Hub for the opportunity to review and provide feedback on all upcoming EBRD country and sectoral strategies and institutional policies during open consultation periods. \r\n\r\nKind regards,\r\n\r\nCivil Society Engagement Unit\r\n\r\nEuropean Bank for Reconstruction and Development\r\nOne Exchange Square, London EC2A 2JN \r\nTel: +44 20 7338 8197\r\nEmail: cso@ebrd.com \r\nWeb: www.ebrd.com \r\nVisit our website, sign up to our email alerts and follow us on social media to get the latest updates.\r\n",
+            "content_type": "text/plain",
+            "hash": "7ce79c61187e1046b2d2db8ad7290755d769109bbf0b240acf235f9c72feeeb1",
+            "boundary": "2459271.38.10"
+        },
+        {
+            "content_header": {
+                "received": [
+                    "from DESKTOP-9AVSAIR (acdb75.neoplus.adsl.tpnet.pl [83.9.151.75])\t(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))\t(No client certificate requested)\tby seg1.ebrd.com (MTA) with ESMTPS id 4DmX3y0FvDzcj7G\tfor <prvs=169032f318=cso@ebrd.com>; Thu, 25 Feb 2021 12:22:37 +0000 (GMT)"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<6A8AF3C1-5487-4DC1-9CE9-069094EFDCE7@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Thu, 25 Feb 2021 13:28:03 +0100"
+                ],
+                "from": [
+                    "lucy@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "prvs=169032f318=cso@ebrd.com"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nLucy\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "d8024fd71b3eaeb9b2ab0cbc60e37874aed1241bb502aefb8ac555db727c73e5"
+        }
+    ],
+    "header": {
+        "subject": "Thank you for your email",
+        "from": "cso@ebrd.com",
+        "to": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "date": "2021-02-25T12:22:38+00:00",
+        "received_domain": [
+            "seg1.ebrd.com"
+        ],
+        "received_ip": [
+            "193.128.202.163"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

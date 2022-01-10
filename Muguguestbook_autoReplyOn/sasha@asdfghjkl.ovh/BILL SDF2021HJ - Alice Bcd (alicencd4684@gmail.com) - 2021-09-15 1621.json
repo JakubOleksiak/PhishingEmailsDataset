@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Dear Subscriber,\r\n\r\n\r\n\r\n**Your plan for NORTON PC 360 has been successfully renewed & restored.**\r\n\r\n\r\n\r\n**The total payment will be reflected within next 24 to 48 hours on your\r\na/c statement.**\r\n\r\n\r\n\r\n**PRODUCT DESCRIPTION**\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nInvoice No                         :       SDF2021HJ\r\n\r\n\r\n\r\nProduct Name                  :       NORTON PC 360\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                        :       15th September 2021\r\n\r\n\r\n\r\nEnd Date                            :      365 days from the date of\r\npurchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nAmount                              :       $298.90 USD\r\n\r\n\r\n\r\nPayment Method             :       AUTO DEBIT\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to contact our\r\nBilling Department as soon as possible. *\r\n\r\n\r\n\r\nYou can Reach us on   +1   \u2013   (888)   \u2013   (683)   \u2013   (1189)\r\n\r\n\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "fc788a6c2b9d01eb222ee6f469912971055fd80ef398b1b30d4e76a6cac1e5ae",
+            "boundary": "0000000000002c411b05cc096b9b"
+        }
+    ],
+    "header": {
+        "subject": "BILL SDF2021HJ",
+        "from": "alicencd4684@gmail.com",
+        "to": [],
+        "date": "2021-09-15T19:51:38+05:30",
+        "received_domain": [
+            "mail-lj1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.178"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

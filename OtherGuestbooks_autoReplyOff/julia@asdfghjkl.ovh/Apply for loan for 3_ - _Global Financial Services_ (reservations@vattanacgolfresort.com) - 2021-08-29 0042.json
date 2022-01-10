@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "We provide loans at 3% interest, please reply back to us if you are interested.\r\n Thanks,\r\nMr. Anders Marcus.\r\n",
+            "content_type": "text/plain",
+            "hash": "2490792aba0c2d55150a9c388c6312b0a8d60dda491d7e2b9d27cef153b20e7d",
+            "boundary": "===============0218422206=="
+        }
+    ],
+    "header": {
+        "subject": "Apply for loan for 3%",
+        "from": "reservations@vattanacgolfresort.com",
+        "to": [
+            "reservations@vattanacgolfresort.com"
+        ],
+        "date": "2021-08-28T22:42:33+00:00",
+        "received_email": [
+            "reservations@vattanacgolfresort.com"
+        ],
+        "received_domain": [
+            "ec2-13-209-80-65.ap-northeast-2.compute.amazonaws.com",
+            "ion.dnsprotect.com"
+        ],
+        "received_ip": [
+            "13.209.80.65",
+            "198.49.72.98"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

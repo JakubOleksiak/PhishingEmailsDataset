@@ -1,0 +1,33 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hola, amigo,\r\n\r\n\u0457C\u0443mo est\u0431s?\r\n\r\nSoy el abogado Benjamin Amadou por mi nombre. Con el debido respeto querido amigo, me estoy comunicando con usted para ayudar a obtener el dep\u0443sito de (10,5 millones de d\u0443lares), mi difunto cliente, el ingeniero Vasily, que dej\u0443 en su banco antes de su repentina muerte el 21 de abril de 2007, para evitar la confiscaci\u0443n por parte de Lloyds Bank en Londres. .\r\n\r\nS\u0439 que esto le parecer\u0431 confuso, pero para nuestra correspondencia, escr\u043dbame aqu\u043d (abogadobenjaminchamber01@gmail.com) para obtener m\u0431s informaci\u0443n sobre esta transacci\u0443n o env\u043deme su correo electr\u0443nico privado para comunicarme con usted.\r\n\r\nAtentamente.\r\nBenjamin Amadou (Esq).\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "d3de4a93001d1d963102e29e2f1ee4a24d9eb2152a7c834e55c18f940ce85229"
+        }
+    ],
+    "header": {
+        "subject": "Hola, amigo,",
+        "from": "yansh@263.net",
+        "to": [],
+        "date": "2021-03-28T15:55:09+02:00",
+        "received_domain": [
+            "smtp.263.net",
+            "lucky1.263xmail.com"
+        ],
+        "received_ip": [
+            "211.157.147.132",
+            "77.247.110.130"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Spanish; Castilian"
+    }
+}

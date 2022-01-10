@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<html><head><style> body {height: 100%; color:#000000; font-size:12pt; font-family:times new roman, new york, times, serif;}</style></head><body><div><br data-mce-bogus=\"1\"></div></body></html>\r\n",
+            "content_type": "text/plain",
+            "hash": "688c75b8748abe7ed01da45d763f2cd83c2ca3387018256eba82dfb15222cb52"
+        }
+    ],
+    "header": {
+        "subject": "Charity Donation!!!",
+        "from": "willian.andi@gestionderiesgos.gob.ec",
+        "to": [],
+        "date": "2021-08-07T06:38:53-05:00",
+        "received_email": [
+            "willian.andi@gestionderiesgos.gob.ec"
+        ],
+        "received_domain": [
+            "as.gestionderiesgos.gob.ec"
+        ],
+        "received_ip": [
+            "190.214.44.204",
+            "204.44.214.190"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

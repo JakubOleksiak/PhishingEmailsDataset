@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Esteemed Customer,\r\n\r\nIf this is your Email address........., We are contacting you based on\r\npending fund transfer on your behalf in our possession after due\r\nverification the money will be transferred to your nominated account in\r\nyour country.\r\n\r\nKindly get back to this office for more details on how your fund will be\r\ntransferred to your nominated account in your country successfully.\r\n\r\nWe are here to serve you better.\r\n\r\nSincerely Yours.\r\n\r\nMr. David Moiry.\r\n",
+            "content_type": "text/plain",
+            "hash": "74975d526a19e1c6f69e3237dfebbaf74ea33f43bf490ecf4c4c5e57ed4d01a8",
+            "boundary": "00000000000019687e05cc89fd7b"
+        }
+    ],
+    "header": {
+        "subject": "Important Notice",
+        "from": "benufuma@gmail.com",
+        "to": [],
+        "date": "2021-09-22T00:45:21+01:00",
+        "received_domain": [
+            "mail-ed1-f48.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.48"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

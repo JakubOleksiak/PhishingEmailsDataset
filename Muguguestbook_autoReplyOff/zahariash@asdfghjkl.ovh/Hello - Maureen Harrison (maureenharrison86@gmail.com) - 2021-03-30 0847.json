@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "relationship.you"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "I`m Maureen from the United States, I find it interesting to become your\r\nfriend so that we can share ideas and things together based on mutual\r\nbusiness relationship.You can mail me back if you don`t mind.\r\n",
+            "content_type": "text/plain",
+            "hash": "6d69c1c6266cac73efadb0bbad52a2883e5bdbc5189f4fb83e4236cfc0a52fcd",
+            "boundary": "000000000000840fe605bebb604c"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "maureenharrison86@gmail.com",
+        "to": [],
+        "date": "2021-03-30T06:47:38+00:00",
+        "received_domain": [
+            "mail-wr1-f50.google.com"
+        ],
+        "received_ip": [
+            "209.85.221.50"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

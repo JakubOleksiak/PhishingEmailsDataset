@@ -1,0 +1,31 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nAttention- Beneficiary,</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nI am a senior official from the World health organization, I was instructed to contact you regarding the lock down and COVID-19 grant compensation awards. This compensation was approved by the World health organization alongside the United Nations for COVID-19 as a compensation payment/rewards for eligible beneficiaries.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n Have you received your lock down grant compensation awards for COVID-19? If NO! Kindly be informed that you are among the lucky winners randomly selected to benefit from Covid-19 grant as part of World Health Organization contribution towards Covid-19 relief program on going and your grant payment is in the amount of US$500,00.(Five Hundred Thousand United States Dollars Only).</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nI advise you contact World Health Organization Covid-19 Grant Award Officer- Dr Tedros Adhanom Ghebreyesus</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nE-MAIL CONTACT- timothygeithnr002@gmail.com</DIV>\r\n<DIV>\r\n </DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nRegards,</DIV>\r\n<DIV>\r\nDr Tedros Adhanom Ghebreyesus</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "bf076a3a31676a94488c578c2e8040a7d018db402e03a7e98b5c3736b3c21ab2"
+        }
+    ],
+    "header": {
+        "subject": "World Health Organization Covid-19 Grant Award",
+        "from": "timothygeithnr002@gmail.com",
+        "to": [],
+        "date": "2021-05-25T13:57:41+01:00",
+        "received_domain": [
+            "118-27-32-94.localdomain"
+        ],
+        "received_ip": [
+            "118.27.32.94"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

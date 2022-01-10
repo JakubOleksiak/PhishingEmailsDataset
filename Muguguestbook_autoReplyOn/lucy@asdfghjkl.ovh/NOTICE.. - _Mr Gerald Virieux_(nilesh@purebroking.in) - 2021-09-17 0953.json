@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "30.4mn"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nI'm Gerald P. Virieux, I am writing to seek your utmost attention to confer on you an estate of 30.4Mn of my late client Roy because you share the same last name, interested? Reply with your details.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nSincerely,</DIV>\r\n<DIV>\r\nGerald P. Virieux</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "699a0449c15ff22adedd80f5d8b508b1ce4d699b6f6c07be4daf21841c7ada8f"
+        }
+    ],
+    "header": {
+        "subject": "NOTICE..",
+        "from": "nilesh@purebroking.in",
+        "to": [],
+        "date": "2021-09-17T00:53:07-07:00",
+        "received_domain": [
+            "server.purebroking.in"
+        ],
+        "received_ip": [
+            "45.35.62.209",
+            "192.210.216.105"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

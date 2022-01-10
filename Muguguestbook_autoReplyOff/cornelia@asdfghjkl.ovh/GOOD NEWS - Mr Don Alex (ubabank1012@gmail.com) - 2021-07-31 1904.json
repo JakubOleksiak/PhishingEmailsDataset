@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "information.such"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Attention My Dear,\r\n\r\nYou have been a lucky winner of $8.5MILLION from western union west\r\nAfrica continent as value customer who use western union to transfer\r\nmoney from one country to another. Right now your first payment of\r\n$5000 Is about to send today through western union money transfer You\r\nare advise to Contact Mr Peter Charles with your full\r\ninformation.such as\r\n\r\nYour name......\r\nYour country.....\r\nYour phone number..\r\nYour adders......\r\n\r\nTo Enable him send your First Payment of $5000 today.For more\r\ninformation contact Mr Peter Charles. Telephone number: +229 96739198.\r\nEmail ( wunion717@gmail.com ) he will keep sending your payment until\r\nyour total fund is Completed $8.5MILLION.usd\r\n\r\nBest Regards\r\n\r\nMr Don Alex\r\n",
+            "content_type": "text/plain",
+            "hash": "8ba4499193edcae385b66a61c731a1fb36b89b0b6b7285f93a4b88c234e1707c"
+        }
+    ],
+    "header": {
+        "subject": "GOOD NEWS",
+        "from": "ubabank1012@gmail.com",
+        "to": [],
+        "date": "2021-07-31T11:04:15-06:00",
+        "received_domain": [
+            "mail-ed1-f66.google.com"
+        ],
+        "received_ip": [
+            "209.85.208.66",
+            "2002:a55:9ada:0:b029:112:c510:48e6"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

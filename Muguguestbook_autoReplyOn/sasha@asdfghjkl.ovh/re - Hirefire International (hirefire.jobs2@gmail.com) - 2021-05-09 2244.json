@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "totalexploration@outlook.com"
+            ],
+            "domain": [
+                "outlook.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "  Atten,\r\n\r\nWe received your contact details through our international recruitment\r\nagent that your years of experience is suitable for an urgent employment\r\nhere in Total E&P Qatar and your advised to send us your cv/resume with the\r\nbelow information Asap.\r\n\r\n1) Your present monthly salary in US$:\r\n2) Expected monthly Salary:\r\n4) Are you willing to relocate now:\r\n5) Your present Position:\r\n\r\nAll cv/resume should be sent to the below email ID:\r\ntotalexploration@outlook.com\r\n\r\n\r\nRegards\r\n\r\nFrank\r\nInternational Recruitment Coordinator\r\n",
+            "content_type": "text/plain",
+            "hash": "854422cb0c42ba35c3cf03b5b6bac04bd2070979b75e9cc9e110f08d6c537a3b",
+            "boundary": "000000000000a31e4f05c1ebba71"
+        }
+    ],
+    "header": {
+        "subject": "re",
+        "from": "hirefire.jobs2@gmail.com",
+        "to": [],
+        "date": "2021-05-09T21:44:24+01:00",
+        "received_domain": [
+            "mail-wm1-f51.google.com"
+        ],
+        "received_ip": [
+            "209.85.128.51"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

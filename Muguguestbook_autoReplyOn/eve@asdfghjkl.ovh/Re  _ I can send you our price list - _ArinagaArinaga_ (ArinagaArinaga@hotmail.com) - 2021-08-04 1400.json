@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "email": [
+                "{eve@asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi {eve@asdfghjkl.ovh}\r\n\r\nI am a Business Development manager who works with 130+ experienced IT\r\nprofessionals.\r\n\r\nWebsite designing & development, PHP development, E-Commerce solutions &,\r\nHTML, Social Media Cover Page Design, UX / UI Design Services and SEO \r\n\r\nIf you are interested, then I can send you our price list, company\r\ninformation and an affordable quotation with the best offer.\r\n\r\nThanks & Regards,\r\n\r\nBusiness Development\r\n\r\nPS: If this is something you are interested; please respond to this email\r\nfor Portfolio and Pricelist\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "5147ec7260e6faf3f8888a9c24977ded0f784561eef5e226d828999518eccec5",
+            "boundary": "----=_NextPart_000_2676_01D78956.AAA74280"
+        }
+    ],
+    "header": {
+        "subject": "Re: Re:; I can send you our price list",
+        "from": "arinagaarinaga@hotmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T17:30:44+05:30",
+        "received_domain": [
+            "si2pr06mb4443.apcprd06.prod.outlook.com",
+            "si2pr06mb4442.apcprd06.prod.outlook.com",
+            "apc01-sg2-obe.outbound.protection.outlook.com",
+            "sg2pr01ca0163.apcprd01.prod.exchangelabs.com"
+        ],
+        "received_ip": [
+            "2603:1096:4:158::11",
+            "2603:1096:4:139::7",
+            "2603:1096:4:28::19",
+            "40.92.253.68",
+            "122.161.48.159"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

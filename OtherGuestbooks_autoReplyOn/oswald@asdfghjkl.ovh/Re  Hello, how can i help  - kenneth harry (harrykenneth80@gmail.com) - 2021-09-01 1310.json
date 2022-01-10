@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "oswald@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Please can we talk om phone, i will explain better\r\n\r\n\r\n\r\nOn 9/1/21, oswald@asdfghjkl.ovh <oswald@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Oswald\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "90cdda111cd7c5f7354baed4e02f065c4f1824ee898fac64a68b66f21e0edff3"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "harrykenneth80@gmail.com",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-01T04:10:00-07:00",
+        "received_domain": [
+            "mail-il1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.173",
+            "2002:a02:cbcf::"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

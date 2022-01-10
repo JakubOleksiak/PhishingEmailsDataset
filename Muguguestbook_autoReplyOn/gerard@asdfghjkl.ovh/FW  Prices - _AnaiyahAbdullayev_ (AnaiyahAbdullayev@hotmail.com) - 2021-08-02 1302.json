@@ -1,0 +1,47 @@
+{
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, gerard@asdfghjkl.ovh\r\n\r\n \r\n\r\nI am a Business Development manager who works with 130+ experienced IT\r\nprofessionals.\r\n\r\n \r\n\r\nWebsite designing & development, PHP development, E-Commerce solutions &,\r\nHTML, Social Media Cover Page Design, UX / UI Design Services and SEO\r\n\r\n \r\n\r\nIf you are interested, then I can send you our price list, company\r\ninformation and an affordable quotation with the best offer.\r\n\r\n \r\n\r\nThanks & Regards,\r\n\r\nAnaiyah Abdullayev\r\n\r\nBusiness Development\r\n\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "dacee7551e57c98d247ea334c28f59c173c9d26d99bedc63ba9881f7c8263381",
+            "boundary": "----=_NextPart_000_33FC_01D787BC.3BB3CEC0"
+        }
+    ],
+    "header": {
+        "subject": "FW: Prices",
+        "from": "anaiyahabdullayev@hotmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-02T16:32:30+05:30",
+        "received_domain": [
+            "mn2pr03mb4701.namprd03.prod.outlook.com",
+            "blapr03mb5474.namprd03.prod.outlook.com",
+            "nam12-mw2-obe.outbound.protection.outlook.com",
+            "sg2p153ca0049.apcp153.prod.outlook.com"
+        ],
+        "received_ip": [
+            "2603:10b6:208:10a::28",
+            "2603:10b6:208:285::20",
+            "40.92.23.92",
+            "2603:1096:4:c6::18",
+            "122.177.99.126"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

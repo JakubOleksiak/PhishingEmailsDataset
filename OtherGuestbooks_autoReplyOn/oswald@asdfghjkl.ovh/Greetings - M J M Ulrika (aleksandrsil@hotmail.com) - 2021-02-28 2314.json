@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "uri": [
+                "http://aka.ms/weboutlook"
+            ],
+            "domain": [
+                "aka.ms"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Greetings\r\nI am trying to communicate with you without success. Confirm that you receive letter i sent to you\r\n<http://aka.ms/weboutlook>\r\n",
+            "content_type": "text/plain",
+            "hash": "9b27c57b47b3c9484d4fd62b1f5e4d93d4996926c42873fbb4d09857108a47fc",
+            "boundary": "_000_PR1PR01MB4844815782A1E6F87BF3E439D09B9PR1PR01MB4844eurp_"
+        }
+    ],
+    "header": {
+        "subject": "Greetings ",
+        "from": "aleksandrsil@hotmail.com",
+        "to": [],
+        "date": "2021-02-28T22:14:40+00:00",
+        "received_domain": [
+            "pr1pr01mb4844.eurprd01.prod.exchangelabs.com",
+            "am7eur06ft037.eop-eur06.prod.protection.outlook.com",
+            "am7eur06ht107.eop-eur06.prod.protection.outlook.com",
+            "eur06-vi1-obe.outbound.protection.outlook.com",
+            "am7eur06ft037.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:fc36::387",
+            "40.92.17.25",
+            "2a01:111:e400:fc36::4b",
+            "2a01:111:e400:fc36::4c",
+            "2a01:111:e400:fc36::133"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

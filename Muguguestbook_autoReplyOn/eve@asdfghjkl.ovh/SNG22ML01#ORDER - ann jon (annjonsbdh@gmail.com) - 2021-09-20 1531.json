@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "*Dear prime Customer**, *\r\n\r\n\r\n\r\n***Your membership for NORTON LIFE PC has been successfully renewed &\r\nrestored.***\r\n\r\n\r\n\r\n*The charge cost will be reflected within the next 24 to 48 hrs. On your\r\nA/C statement. *\r\n\r\n\r\n\r\n_PRODUCT DESCRIPTION_\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nInvoice No.                       :        SNG22ML01\r\n\r\nProduct Name                   :     NORTON LIFE PC\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                       :        20th SEP 2021\r\n\r\nExpiration Date              :       1 Years from the Date of Purchase\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nAmount                                :       $399.99 USD\r\n\r\nPayment Method            :       AUTO charge\r\n\r\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible. *\r\n\r\n\r\n\r\nYou can Reach us on   +1     \u2013  (888) - (333) - (7429)\r\n\r\nRegards,\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "30b4d690bbf50a7e331afac357682ebff6aa83622309565d1660c552c05be87f",
+            "boundary": "00000000000081003e05cc6d4b7a"
+        }
+    ],
+    "header": {
+        "subject": "SNG22ML01#ORDER",
+        "from": "annjonsbdh@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-09-20T19:01:02+05:30",
+        "received_domain": [
+            "mail-lf1-f46.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.46"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

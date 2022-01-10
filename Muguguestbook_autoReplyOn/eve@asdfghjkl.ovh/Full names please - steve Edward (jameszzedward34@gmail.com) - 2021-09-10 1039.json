@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sir/Madam,\r\nBased on recommendation, I write to inform you that my Client wishes\r\nto assign the sum of 100Million Dollars  and 500kgs of Gold bars to\r\nyou for possible Investment.\r\n\r\nPlease respond stating your Full Names, Address, Occupation and\r\nTelephone Number. to enable us proceed\r\n\r\nMr Steve Edward\r\n",
+            "content_type": "text/plain",
+            "hash": "ea64f733ee2ba69a8f511e11043d1423da575a386c4c49637c56deaf8c3185b4"
+        }
+    ],
+    "header": {
+        "subject": "Full names please",
+        "from": "jameszzedward34@gmail.com",
+        "to": [],
+        "date": "2021-09-10T09:39:44+01:00",
+        "received_domain": [
+            "mail-wr1-f54.google.com"
+        ],
+        "received_ip": [
+            "2002:a2e:864e::",
+            "209.85.221.54"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

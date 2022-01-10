@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "www.ajmanbank.ae"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Gr\u00fc\u00dfe des Tages,\r\n\r\nIch entschuldige mich daf\u00fcr, dass ich aus heiterem Himmel in deine\r\nPrivatsph\u00e4re platze.\r\n\r\nIch bin CFO bei einer der angesehenen Banken hier in den Vereinigten\r\nArabischen Emiraten. Ich m\u00f6chte Ihre ehrliche Hilfe bei der Sicherung und\r\nInvestition einer riesigen Summe erbitten Geld, wenn Sie zuverl\u00e4ssig und\r\nvertrauensw\u00fcrdig sind.\r\n\r\nIch versichere Ihnen, dass Sie f\u00fcr Ihr aufrichtiges Engagement einen sehr\r\nguten Prozentsatz erhalten.\r\n\r\nBitte melden Sie sich bei mir, damit ich Ihnen die Details des Projekts\r\nmitteilen kann.\r\n\r\nGr\u00fc\u00dfe,\r\nHerr  Seifeldin  Abdelkareem\r\nFinanzvorstand\r\nAjman Bank Vereinigte Arabische Emirate\r\nwww.ajmanbank.ae\r\n\r\n\r\n\r\n\r\nGreetings of the day,\r\n\r\nMy apologies for barging out of the blues into your privacy.\r\n\r\nI am a CFO in one of the reputable banks here in Dubai, United Arab\r\nEmirates.\r\nI want to solicit your honest assistance in securing and investing of a\r\nhuge sum\r\nof money if you are reliable and can be trusted.\r\n\r\nI assure that you will be paid a very good percentage for your sincere\r\ninvolvement.\r\n\r\nKindly get back to me so I can lay down the details of the project to you.\r\n\r\nRegards,\r\nMr. Seifeldin Abdelkareem\r\nWebsite: www.ajmanbank.ae\r\n",
+            "content_type": "text/plain",
+            "hash": "1bcf2e27527b27ff91d9288c5e274f681c7e4a4de34c1e5ac390959fca051cd6",
+            "boundary": "0000000000008cce4905c9f11212"
+        }
+    ],
+    "header": {
+        "subject": "Dringend/Urgent",
+        "from": "abdelkareemseifeldin887@gmail.com",
+        "to": [],
+        "date": "2021-08-19T15:28:16-07:00",
+        "received_domain": [
+            "mail-qk1-f178.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.178"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

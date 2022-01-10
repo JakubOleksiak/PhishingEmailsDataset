@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "email": [
+                "sec.stephanieavakian@aol.com"
+            ],
+            "domain": [
+                "aol.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Security Exchange and Commission\r\n200 Vesey Street, Suite 400.\r\nNew York, NY 10281.\r\nTel: +1(4705142241\r\nEmai:SEC.stephanieavakian@aol.com\r\n\r\n\r\n\r\nAttn: Sir,\r\n\r\nWe are the Security Exchange and Commission pay centre point attached\r\nwith  the Bank of America branch in New York City hereby contact you\r\ntoday to inform you on  the transfer on transit with this bank (BOA )\r\nin your favour.\r\n\r\nFund worth TEN MILLION, FIVE HUNDRED  THOUSAND US DOLLARS ONLY (US$10.\r\n500,000.00) You are requested to confirm the ownership so that we can\r\nproceed with the transaction to transmit your fund to your choice\r\naccount.\r\n\r\nWe request you to send any form of Identification which will\r\nsubstantiate your claims. We have been Authorised by the Federal\r\nGovernment of Nigeria and the United Nations to wire the above funds\r\ninto your account without any further delay or interception kindly get\r\nback to us as soon as possible to enable the paying bank to process\r\nthe bank Draft on your behalf.\r\n\r\nThank you.\r\n\r\nYours Faithfully\r\nMr.William  Clinton (P.A.)to,\r\nMrs. Stephanie Avakian\r\nDirector  US Security Exchange\r\nand Commission (SEC).\r\n",
+            "content_type": "text/plain",
+            "hash": "1aa73d441e8ade31e2fd16d71a4fb34a1c8d5269874526af99b24c1a5e1bf7ce"
+        }
+    ],
+    "header": {
+        "subject": "Very Important Message Sir",
+        "from": "williamclinton81@gmail.com",
+        "to": [],
+        "date": "2021-09-07T12:06:51+01:00",
+        "received_domain": [
+            "mail-oi1-f181.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.181",
+            "2002:a05:6838:d159::"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

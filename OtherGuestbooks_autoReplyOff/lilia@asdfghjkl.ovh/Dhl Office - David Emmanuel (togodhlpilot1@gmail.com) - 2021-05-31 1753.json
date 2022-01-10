@@ -1,0 +1,60 @@
+{
+    "attachment": [
+        {
+            "filename": "DHL OFFICE .................png",
+            "size": 46612,
+            "extension": "png",
+            "hash": {
+                "md5": "9bd46e734406bb957d674ac0bbe7afac",
+                "sha1": "76f7e16852602da88d4d9c593d0868340362bf62",
+                "sha256": "cd4f58aa40c9f13a423c331019792d90237eb52047f4056a65f70a76001fec0e",
+                "sha512": "07303f68dff1d2b2624de2a5d1dd5d7259148d5422a59e542381dff3e95d7322197882ca5d4f2e90e7b63305bf1f5dfd44b0efee138e079645f9c7be3beb70ff"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/png; name=\"DHL OFFICE .................png\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"DHL OFFICE .................png\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "x-attachment-id": [
+                    "file0"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "\r\n",
+            "content_type": "text/plain",
+            "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+            "boundary": "0000000000004d109c05c3a23ae5"
+        }
+    ],
+    "header": {
+        "subject": "Dhl Office",
+        "from": "togodhlpilot1@gmail.com",
+        "to": [],
+        "date": "2021-05-31T08:53:33-07:00",
+        "received_domain": [
+            "mail-il1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.177",
+            "2002:a92:194d::"
+        ],
+        "received_foremail": [
+            "lilia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "UNKNOWN"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Dear \r\n\r\nI am Aasmae Kuyumzhu Vladimir, the son of ING. GOLOVIN VLADIMIR of LIGA EVRO LTD S.R.O. and a Czech.\r\n\r\nMy father was a clinical researcher originally working with the Russian authorities but has since retired voluntarily after he had developed his desired product Os-187 that is presently stored in a private research warehouse in Germany.\r\n\r\nHis product, 2kg Osmium  Isotope Os-187, now safe in a German research center, was what he intended to use for the establishment of a mega production factory in Kabul the Afghanistan Capital before the present political crisis that took his life.\r\n\r\nFurther details shall be given upon your response as soon as I hear from you \r\n\r\nAasmae Kuyumzhu Vladimir.\r\n",
+            "content_type": "text/plain",
+            "hash": "e19a9008856c82069b59ca451613d1fbfc6e21fc0530ae6f73377c78bb839c73"
+        }
+    ],
+    "header": {
+        "subject": "Aasmae Kuyumzhu Vladimir.",
+        "from": "app@procket.com.br",
+        "to": [
+            "app@procket.com.br"
+        ],
+        "date": "2021-09-09T18:47:14+01:00",
+        "received_domain": [
+            "inmaculada.net.gt"
+        ],
+        "received_ip": [
+            "186.151.36.252"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

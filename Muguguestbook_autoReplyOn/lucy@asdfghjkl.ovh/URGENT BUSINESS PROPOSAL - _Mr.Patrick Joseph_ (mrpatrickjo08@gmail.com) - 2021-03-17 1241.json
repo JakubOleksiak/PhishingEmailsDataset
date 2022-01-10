@@ -1,0 +1,38 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.patrick"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear Sir/Madam,\r\n\r\nPlease kindly pardon me for any inconvenience this letter may cost you\r\nbecause I know it may come to you as a surprise as we have no previous\r\ncorrespondence. I got your contact through internet Google search as I\r\nwas searching for an assistant, that is why I decided to appeal to you\r\nas a matter of urgency about $16.500,000.00 Million Dollars. It is an\r\nunequivocal fact that we\u2019ve not met nor communicated before but due to\r\nthe true revelation that I should share this with you.\r\n\r\nMy name is Mr.Patrick Joseph, A Banker and Head of Operations with\r\nBank here in Burkina Faso West Africa, Thus for your indulgence and\r\nassistance (morally and financially), i propose a 35% share of the\r\ntotal amount to you after receiving the funds successfully, and i need\r\nyour assurance of trust that you will not deny me my share once the\r\nfund is credited to your personal bank account, so kindly state your\r\ninterest by replying immediately and I shall furnish you with details\r\nand procedures preceding the transaction.\r\n\r\nHoping to hear from you as soon as possible.\r\n\r\nThanks,\r\nMr.Patrick Joseph.\r\n",
+            "content_type": "text/plain",
+            "hash": "9984b72bc9da4477ae313d919bfd35e1fc8ff69175d4f6d98fe8b18097de4c61"
+        }
+    ],
+    "header": {
+        "subject": "URGENT BUSINESS PROPOSAL",
+        "from": "mrpatrickjo08@gmail.com",
+        "to": [],
+        "date": "2021-03-17T04:41:03-07:00",
+        "received_domain": [
+            "mail-il1-f176.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6602:2f0e::",
+            "209.85.166.176"
+        ],
+        "received_foremail": [
+            "lucy@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

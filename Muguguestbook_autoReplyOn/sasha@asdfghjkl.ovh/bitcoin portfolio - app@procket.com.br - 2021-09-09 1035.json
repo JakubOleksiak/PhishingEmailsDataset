@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "domain": [
+                "www.fortcoin.net"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hi Rob Hoffman, As requested, we have deposited the 30 BTC which amount to ($1,384,473.90 USD) into your bitcoin portfolio at www.fortcoin.net Customer Id: 91309360, Password: hcDU898\r\n",
+            "content_type": "text/plain",
+            "hash": "c227aae07c6662c4ccc6ff96ac6adbc0d251788a48f11dc7439819845ac009c9"
+        }
+    ],
+    "header": {
+        "subject": "bitcoin portfolio",
+        "from": "app@procket.com.br",
+        "to": [
+            "app@procket.com.br"
+        ],
+        "date": "2021-09-09T09:35:44+01:00",
+        "received_domain": [
+            "maswb-faxmaker.mascon.com"
+        ],
+        "received_ip": [
+            "197.242.116.153",
+            "207.180.140.157"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

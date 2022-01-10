@@ -1,0 +1,63 @@
+{
+    "attachment": [
+        {
+            "filename": "Transaction details - PayPal.pdf",
+            "size": 96623,
+            "extension": "pdf",
+            "hash": {
+                "md5": "eea78833ed60155b8b7a88993909db44",
+                "sha1": "d130cffff4e439e1fe3918b9657f91edc4051cbd",
+                "sha256": "d6bd78454804891158c652526868037fae8a7fdac13060e89bf293e83de53ffa",
+                "sha512": "e85ee09ba504f32e4ff32684dde25f34291911aa76c2edd6c50810d287534828d5d3046c12899d53bc6d3c6e72349c06897bd2b37bd702d863b49a444056c7c9"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"Transaction details - PayPal.pdf\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-disposition": [
+                    "attachment"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "<P>find enclosed file..</P>",
+            "content_type": "text/html",
+            "hash": "7b3aad8c4a2b8fd026545c3ab96ee7250f997b11d6931fbff69f38ef934657cd",
+            "boundary": "--boundary_378_cd12bc18-fea7-467d-9549-404b12e61dcd"
+        }
+    ],
+    "header": {
+        "subject": "transaction successful",
+        "from": "justinbertmmccollam@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-16T06:26:49-07:00",
+        "received_domain": [
+            "mail-il1-f181.google.com",
+            "smtp.gmail.com"
+        ],
+        "received_ip": [
+            "3.12.224.97",
+            "209.85.166.181"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

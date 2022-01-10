@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/html; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "<HTML><HEAD><TITLE></TITLE>\r\n</HEAD>\r\n<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>\r\n<FONT size=2 color=#000000 face=\"Arial\">\r\n<DIV>\r\nAttention: Sir/Madam,</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nCompliments of the season.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nI am Mr. Peters Ibe&nbsp; a senior staff of the Computer Telex Dept of central bank of Nigeria.I decided to contact you because of the prevailing security report reaching my office and the intense nature of polity in Nigeria.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nThis is to inform you about the recent plan of the federal government of Nigeria to send your fund to you via diplomatic immunity CASH DELIVERY SYSTEM valued at $10.6 Million United states dollars only, contact me for further details.</DIV>\r\n<DIV>\r\n&nbsp;</DIV>\r\n<DIV>\r\nRegards,</DIV>\r\n<DIV>\r\nMr. Peters Ibe.</DIV>\r\n</FONT>\r\n</BODY></HTML>\r\n",
+            "content_type": "text/html",
+            "hash": "58419b2ffa4a73c7925b989cf9795333e91db941adb540acc7ae9a7f718439aa"
+        }
+    ],
+    "header": {
+        "subject": "OK",
+        "from": "cheryl@boxpapa.com",
+        "to": [],
+        "date": "2021-06-10T07:37:15-07:00",
+        "received_email": [
+            "kiran@evernew.com.tw"
+        ],
+        "received_domain": [
+            "mail.evernew.com.tw"
+        ],
+        "received_ip": [
+            "104.149.181.203",
+            "59.120.145.230"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

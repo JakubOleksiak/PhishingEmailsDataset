@@ -1,0 +1,45 @@
+{
+    "body": [
+        {
+            "email": [
+                "collins-michael@outlook.com",
+                "eve@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "outlook.com",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "FROM THE DESK OF:\r\n\r\nDR. MICHAEL COLLINS\r\n\r\nDIRECTOR INTERNATIONAL REMITTANCE DEPARTMENT\r\n\r\nPHONE: +234705554661\r\n\r\nOUR REF: UBNR/IRD/UBX/021/021\r\n\r\nE-MAIL: COLLINS-MICHAEL@OUTLOOK.COM\r\n\r\n\r\n\r\nMANY THANKS FOR YOUR EMAIL READING THIS MORNING AND I HAVE STOP DEALING\r\nWITH THIS FAKE WOMAN MRS. DONNA J. BROWN FROM HOLTON KANSAS SINCE YOU NEVER\r\nAUTHORIZED HER AND YOU HAVE NOTING TO WORRY ABOUT AS I AM HERE TO PROTECT\r\nYOUR FUND AND YOUR INTEREST, GO AHEAD AND FURNISH ME WITH DETAILS ENABLE ME\r\nSECURE APPROVAL TRANSFER OF THE FUND THIS WEEK\r\n\r\n\r\n\r\nKINDLY SEND YOUR DETAILS INCLUDING YOUR ACCOUNT INFORMATION URGENT OK\r\n\r\n\r\n\r\n*1. YOUR FULL NAME:........................*\r\n\r\n*2. YOUR FULL ADDRESS:.......................*\r\n\r\n*3. YOUR TELEPHONE...................*\r\n\r\n*5. AGE....................................*\r\n\r\n*6 .SEX:...................................*\r\n\r\n*7. YOUR OCCUPATION.........................*\r\n\r\n*8. A COPY OF YOUR IDENTITY:......................*\r\n\r\n*9. MARITAL STATUS:......................*\r\n\r\n*10. YOUR ACCOUNT DETAILS WHERE YOU WANT YOUR FUND TO TRANSFER INTO:\u2026\u2026\u2026\u2026\u2026*\r\n\r\n\r\n\r\nPLEASE ALWAYS EMAIL ME ON E-MAIL: COLLINS-MICHAEL@OUTLOOK.COM FOR SECURITY\r\nREASON AND DO NOT ANSWER ANY OTHER EMAIL FOR US TO ENSURE A SUCCESSFUL\r\nREMITTANCE OF YOUR FUND THIS WEEK\r\n\r\n\r\n\r\nBEST REGARDS,\r\n\r\n\r\n\r\nDR. MICHAEL COLLINS\r\n\r\nDIRECTOR, FOREIGN/REMITTANCE DEPARTMENT\r\n\r\nUNION BANK OF NIGERIA PLC\r\n\r\nCALL ME PHONE: +234705554661\r\n\r\nOn Tue, Aug 31, 2021 at 3:41 AM <eve@asdfghjkl.ovh> wrote:\r\n\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Eve\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "327c379c6a2bf878061083badaa7a7887f228178ce95e17b8157808e4fba5e99",
+            "boundary": "000000000000395e1405cb39ce75"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "bankunionbankplc@gmail.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-04T23:40:33-07:00",
+        "received_domain": [
+            "mail-pl1-f180.google.com"
+        ],
+        "received_ip": [
+            "209.85.214.180"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

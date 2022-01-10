@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "bobbiehunt1@yahoo.com"
+            ],
+            "domain": [
+                "mr.bobbie",
+                "yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Friend\r\n\r\nI Am Mr.Bobbie Hunt . from west Africa i have a business deal to share with\r\nyou in the sum of 10.2 USD dollars that is been held in our here in\r\n(B.O.A) bank of Africa the fund mentioned rightful belong to one of\r\nour late client who deposited the money in our bank here ever since he\r\ndied. Nobody have been able to apply to claim the fund so i wish that\r\nyou will come and.\r\n\r\nAssume as his foreign business partner also note this business is risk\r\nfree not to be sacred or doubt is real please my dearest one also note\r\nthis once we succeed in transferring this fund to your wish provided\r\naccount in your country it\r\n\r\nwill be shared among us in agreement of 60%40 i believe that after this\r\ndeal joy and happiness will be on or face's and family's please reply\r\nto me with your details so we can move on with this great plan ok.\r\n\r\n\r\nREPLY TO-- (bobbiehunt1@yahoo.com   )\r\n\r\n\r\nYour Full Name.......\r\n\r\nYour Age&Sex........\r\n\r\nYour Marital Status......\r\n\r\nYour Country Name.......\r\n\r\nYour Phone Number......\r\n\r\nYour Occupation.....\r\n\r\nYour Bank Name......\r\n\r\nYour Account Number......\r\n\r\nThanks Yours Brotherly\r\n\r\nMr.Bobbie Hunt.\r\n",
+            "content_type": "text/plain",
+            "hash": "fc46070e28542f77e6e4c1359964018f4a1d4d0f2284a3ce722a270167ab283c",
+            "boundary": "0000000000007f768f05bf1555b9"
+        }
+    ],
+    "header": {
+        "subject": "Dear Friend  ",
+        "from": "mrbobbiehunt@gmail.com",
+        "to": [],
+        "date": "2021-04-03T11:06:54-07:00",
+        "received_domain": [
+            "mail-ej1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.52"
+        ],
+        "received_foremail": [
+            "julian@lkjhgfdsa.pl"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

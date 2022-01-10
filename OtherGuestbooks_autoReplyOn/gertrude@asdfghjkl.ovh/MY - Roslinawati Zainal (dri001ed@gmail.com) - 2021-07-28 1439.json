@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nI write to solicit for your cooperation in a $17.9 Million United States\r\ndollars transaction, and i need your urgent reply for more details.\r\n\r\nKind regards\r\nMis Zainal.\r\n",
+            "content_type": "text/plain",
+            "hash": "e2b44799b677b5ddc4173dc7184c251fd07fcd61eec3ccd8ceec73544f553f99",
+            "boundary": "0000000000005bf5b105c82e4851"
+        }
+    ],
+    "header": {
+        "subject": "MY",
+        "from": "dri001ed@gmail.com",
+        "to": [],
+        "date": "2021-07-28T14:39:39+02:00",
+        "received_domain": [
+            "mail-yb1-f177.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.177"
+        ],
+        "received_foremail": [
+            "gertrude@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

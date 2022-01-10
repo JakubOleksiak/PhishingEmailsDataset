@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "andrewsmith35@yahoo.com"
+            ],
+            "domain": [
+                "yahoo.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Dear Sasha\r\n\r\nGood Day.\r\n\r\nReach the investor Andrew Smith on andrewsmith35@yahoo.com for more\r\ndetails. Inform him that Mrs. Guadiola Fabrigaz told you to contact\r\nhim for the investment proper\r\n\r\nKindly get back to me for more details.\r\n\r\nBest Regards,\r\nMrs. Guadiola Fabrigaz\r\n",
+            "content_type": "text/plain",
+            "hash": "285445d91669b694920b5cff85c1c75ed5d0522a6c1cdfe8d88ed507918ce877"
+        }
+    ],
+    "header": {
+        "subject": "Contact the investor",
+        "from": "haciendaespanola1861@gmail.com",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-06-03T16:18:40+01:00",
+        "received_domain": [
+            "mail-vs1-f48.google.com"
+        ],
+        "received_ip": [
+            "2002:ab0:b9a::",
+            "209.85.217.48"
+        ],
+        "received_foremail": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

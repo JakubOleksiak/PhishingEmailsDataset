@@ -1,0 +1,42 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Greetings! To You\r\nMr. Joe is my name; I work in a Bank here in Benin. And I personally handles transactions of Mr. Martin Quick who eventually died on the 5th of February 2018 from injuries sustained in road accident that happened 3 years ago.\r\n\r\nPrior to his death, Mr. Martin Quick lived and Work in Benin Republic and was doing Contracting with Benin Energy dept. He has (Four million, three hundred thousand Euros) in a fixed account with the bank with no other beneficiary.\r\n\r\nNow i write to seek your consent to present you as a oversea based partner to stand in as next of kin to the late Mr. Martin Quick. Let me know if it is ok to work with you.\r\n\r\nMy best Regards\r\nMr. Joe.\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "df80f670f6f8ddbbc299c0a98a5ddd44c1a7cb9a06b561a821408757bc373db8",
+            "boundary": "_000_AM8PR10MB46899FA763B26C9C2E9A673EAC049AM8PR10MB4689EURP_"
+        }
+    ],
+    "header": {
+        "subject": "Important Message",
+        "from": "lincolnamanda@hotmail.com",
+        "to": [
+            "jk001011@hotmail.com"
+        ],
+        "date": "2021-06-27T13:05:47+00:00",
+        "received_domain": [
+            "am6eur05ft061.eop-eur05.prod.protection.outlook.com",
+            "eur05-db8-obe.outbound.protection.outlook.com",
+            "am6eur05ht134.eop-eur05.prod.protection.outlook.com",
+            "am8pr10mb4689.eurprd10.prod.outlook.com",
+            "am6eur05ft061.mail.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:fc11::131",
+            "40.92.89.67",
+            "2a01:111:e400:fc11::466",
+            "2a01:111:e400:fc11::40",
+            "2a01:111:e400:fc11::49"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

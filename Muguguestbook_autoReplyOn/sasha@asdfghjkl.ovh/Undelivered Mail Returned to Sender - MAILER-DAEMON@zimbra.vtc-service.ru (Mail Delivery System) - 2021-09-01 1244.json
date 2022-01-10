@@ -1,0 +1,135 @@
+{
+    "attachment": [
+        {
+            "filename": "part-000",
+            "size": 1085,
+            "hash": {
+                "md5": "1d466d26f54a11d6fffa24ef2fd445f9",
+                "sha1": "12f3800df66770ad28fba82c07034e1dbbeaf50c",
+                "sha256": "15e25816de825ff4f8236da6f176011baebc7e8631536af7e243d37d986f098a",
+                "sha512": "e7f94cffd60fbe5b8ca2974ba4a30b5c8f9e2baaef894f50df04abf7ddac26dd7f26b804b2ad2da18066014287af3fe5d6c9962c2e7fcc3d30990b414e6bfc2f"
+            },
+            "content_header": {
+                "content-description": [
+                    "Undelivered Message"
+                ],
+                "content-type": [
+                    "message/rfc822"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "email": [
+                "pkmnmasterholly@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "ip": [
+                "64.233.164.26"
+            ],
+            "content_header": {
+                "content-description": [
+                    "Notification"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ]
+            },
+            "content": "This is the mail system at host zimbra.vtc-service.ru.\r\n\r\nI'm sorry to have to inform you that your message could not\r\nbe delivered to one or more recipients. It's attached below.\r\n\r\nFor further assistance, please send mail to postmaster.\r\n\r\nIf you do so, please include this problem report. You can\r\ndelete your own text from the attached returned message.\r\n\r\n                   The mail system\r\n\r\n<pkmnmasterholly@gmail.com>: host gmail-smtp-in.l.google.com[64.233.164.26]\r\n    said: 550-5.2.1 The user you are trying to contact is receiving mail at a\r\n    rate that 550-5.2.1 prevents additional messages from being delivered. For\r\n    more 550-5.2.1 information, please visit 550 5.2.1\r\n    https://support.google.com/mail/?p=ReceivingRatePerm o13si23831578lfl.265 -\r\n    gsmtp (in reply to RCPT TO command)\r\n",
+            "content_type": "text/plain",
+            "hash": "ba42c9ee8f46cc239c6ea3c86c4b2d94f0eb035f48c84c15cdfafd1cd7156b88",
+            "boundary": "D6B622BA3F46.1630493048/zimbra.vtc-service.ru"
+        },
+        {
+            "content_header": {
+                "final-recipient": [
+                    "rfc822; pkmnmasterholly@gmail.com"
+                ],
+                "original-recipient": [
+                    "rfc822;ao.ryzhkov@vtc-service.ru"
+                ],
+                "action": [
+                    "failed"
+                ],
+                "status": [
+                    "5.2.1"
+                ],
+                "remote-mta": [
+                    "dns; gmail-smtp-in.l.google.com"
+                ],
+                "diagnostic-code": [
+                    "smtp; 550-5.2.1 The user you are trying to contact is    receiving mail at a rate that 550-5.2.1 prevents additional messages from    being delivered. For more 550-5.2.1 information, please visit 550 5.2.1    https://support.google.com/mail/?p=ReceivingRatePerm o13si23831578lfl.265 -    gsmtp"
+                ]
+            },
+            "content": "",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "content_header": {
+                "return-path": [
+                    "<sasha@asdfghjkl.ovh>"
+                ],
+                "received": [
+                    "from localhost (localhost [127.0.0.1])\tby zimbra.vtc-service.ru (Postfix) with ESMTP id D6B622BA3F46\tfor <pkmnmasterholly@gmail.com>; Wed,  1 Sep 2021 13:42:05 +0300 (MSK)",
+                    "from zimbra.vtc-service.ru ([127.0.0.1])\tby localhost (zimbra.vtc-service.ru [127.0.0.1]) (amavisd-new, port 10024)\twith ESMTP id 1XGltHbSsqhN; Wed,  1 Sep 2021 13:42:02 +0300 (MSK)",
+                    "from DESKTOP-9AVSAIR (host-185-25-217-220.jmdi.pl [185.25.217.220])\tby zimbra.vtc-service.ru (Postfix) with ESMTPS id BCCE92BA3B09\tfor <ao.ryzhkov@vtc-service.ru>; Wed,  1 Sep 2021 13:41:48 +0300 (MSK)"
+                ],
+                "x-virus-scanned": [
+                    "amavisd-new at vtc-service.ru"
+                ],
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "message-id": [
+                    "<4B739099-CD35-4B67-8863-A64F70AA95A5@DESKTOP-9AVSAIR>"
+                ],
+                "date": [
+                    "Wed, 01 Sep 2021 12:40:47 +0200"
+                ],
+                "from": [
+                    "sasha@asdfghjkl.ovh"
+                ],
+                "to": [
+                    "ao.ryzhkov@vtc-service.ru"
+                ],
+                "subject": [
+                    "How can i help with this?"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "auto-submitted": [
+                    "auto-replied"
+                ],
+                "x-hmailserver-loopcount": [
+                    "1"
+                ]
+            },
+            "content": "Hello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nSasha\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "04bf30daae90260bfaf0df1ab59a8b9ac8ed74d1de14e14f94b7172c512904e1"
+        }
+    ],
+    "header": {
+        "subject": "Undelivered Mail Returned to Sender",
+        "from": "mailer-daemon@zimbra.vtc-service.ru",
+        "to": [
+            "sasha@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-01T13:44:08+03:00",
+        "received_domain": [
+            "zimbra.vtc-service.ru"
+        ],
+        "received_ip": [
+            "89.22.161.30"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

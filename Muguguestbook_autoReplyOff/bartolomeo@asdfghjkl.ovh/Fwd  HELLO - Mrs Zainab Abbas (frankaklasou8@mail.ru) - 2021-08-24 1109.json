@@ -1,0 +1,41 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "\nHello,\nHope you understand my previous email? i am still waiting for your reply\nMrs. Zainab Abbas\n\n\u00a0",
+            "content_type": "text/plain",
+            "hash": "237920dea0460e6785456456041b2666366e8596aea2e7627dcceb54318ebf53",
+            "boundary": "--ALT--2b32459488eD2Bb38599A708a48DfB0c1629796148"
+        }
+    ],
+    "header": {
+        "subject": "Fwd: HELLO",
+        "from": "frankaklasou8@mail.ru",
+        "to": [
+            "frankaklasou8@mail.ru"
+        ],
+        "date": "2021-08-24T12:09:08+03:00",
+        "received_email": [
+            "frankaklasou8@mail.ru"
+        ],
+        "received_domain": [
+            "fallback21.mail.ru",
+            "e.mail.ru"
+        ],
+        "received_ip": [
+            "94.100.176.131"
+        ],
+        "received_foremail": [
+            "bartolomeo@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

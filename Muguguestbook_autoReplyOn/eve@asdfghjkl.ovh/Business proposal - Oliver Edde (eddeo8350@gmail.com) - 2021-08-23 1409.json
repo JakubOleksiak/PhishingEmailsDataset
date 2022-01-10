@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "email%3aalgerad645@gmail.com",
+                "eddeo8350@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Premier Oil Plc,\r\n23 Lower Belgrave Street SW1W 0NR,\r\nLondon.\r\nAttention: Account/Finance manager\r\n\r\n\r\nHello, My name is Mr Oliver Edde, Account/Finance manager in (Premier Oil\r\nPLC).\r\nI have a business proposal that will be beneficial to you and me.\r\nplease contact me for more details of the business to you. thanks.\r\n\r\nForward your response to this email: <email%3Aalgerad645@gmail.com>\r\neddeo8350@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "2a1027ab0852089b11b66474a56b75d81ce5a810d88b375f6837975d25789d62",
+            "boundary": "000000000000d1c04705ca38e585"
+        }
+    ],
+    "header": {
+        "subject": "Business proposal",
+        "from": "eddeo8350@gmail.com",
+        "to": [],
+        "date": "2021-08-23T13:09:51+01:00",
+        "received_domain": [
+            "mail-qk1-f173.google.com"
+        ],
+        "received_ip": [
+            "209.85.222.173"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi, Eve      \r\n\r\nI am working with experienced IT professionals who are into:\r\n\r\n.         Shopping App\r\n\r\n.         Fitness App\r\n\r\n.         Restaurant App\r\n\r\n.         Food & Drink App\r\n\r\n.         E-Commerce App\r\n\r\n.         IPhone and iPad Apps\r\n\r\nPlease tell me what type of App development you need, please share your\r\nRequirement with contact details for more discussion.\r\n\r\nThanks & Regards,\r\n\r\nGenesis\r\n\r\n \r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "4aa840407c6387223b89b8e9c4d6a42eaa21d723b378ae7ac8fcc64ed07b7a26",
+            "boundary": "----=_NextPart_000_353A_01D78E05.BD447580"
+        }
+    ],
+    "header": {
+        "subject": "Re; Any App",
+        "from": "genesis84martin@outlook.com",
+        "to": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-10T16:33:27+05:30",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "hk2pr04ca0089.apcprd04.prod.outlook.com",
+            "bm1pr01mb5332.indprd01.prod.outlook.com",
+            "pn2pr01ca0161.indprd01.prod.outlook.com",
+            "kl1pr03mb5521.apcprd03.prod.outlook.com",
+            "hk2apc01ft038.eop-apc01.prod.protection.outlook.com",
+            "hk2apc01ft038.mail.protection.outlook.com",
+            "hk2pr04ca0089.outlook.office365.com"
+        ],
+        "received_ip": [
+            "40.92.255.32",
+            "2603:1096:202:15:cafe::fb",
+            "2603:1096:820:51::12",
+            "2603:1096:202:15::33",
+            "2a01:111:e400:7ebc::243",
+            "2401:4900:1f38:4871:811b:871c:9ff9:5591",
+            "2603:1096:c01:26::16",
+            "2a01:111:e400:7ebc::4e"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

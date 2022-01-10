@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "oswald@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "My Dear,\r\n\r\nGood evening, will you please send me your private telephone number\r\nhere regarding this transaction\r\n\r\nI am waiting to hear your good  news\r\nYours Daughter\r\nMiss. Myriam.\r\n\r\nOn 01/10/2021, oswald@asdfghjkl.ovh <oswald@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Oswald\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "74a4fa36c78a6d3d468d4042f46b765799962afd134b7033cee3fe2bfb63afc1"
+        }
+    ],
+    "header": {
+        "subject": "Re: Hello, how can i help?",
+        "from": "visaafricard@gmail.com",
+        "to": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "date": "2021-10-02T22:31:24+02:00",
+        "received_domain": [
+            "mail-io1-f53.google.com"
+        ],
+        "received_ip": [
+            "2002:a4f:fc0c::",
+            "209.85.166.53"
+        ],
+        "received_foremail": [
+            "oswald@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

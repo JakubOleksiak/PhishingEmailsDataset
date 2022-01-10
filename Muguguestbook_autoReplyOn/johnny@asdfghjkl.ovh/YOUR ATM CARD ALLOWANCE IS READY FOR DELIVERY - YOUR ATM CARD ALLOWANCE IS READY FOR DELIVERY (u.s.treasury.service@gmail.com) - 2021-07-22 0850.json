@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\nAttn,\r\n\r\nThis message is from the World Bank union& the United Nations institution.\r\n\r\nYour ATM card allowance of $750 thousand has been released to deliver to you.\r\n\r\nTo claim your ATM card friendly provide us the below info for your\r\ndelivery procedure.\r\n\r\nFull Name;\r\nAddress;\r\nPhone;\r\nEmail;\r\nCity;\r\n\r\nRespectable,\r\nMrs. Janet Yellen,\r\nU.S. Dept. Treasury Secretary.\r\n",
+            "content_type": "text/plain",
+            "hash": "573011e61a03b8adf00e0db984978b3aadf0d08f261278a63c1ec000a42cbada"
+        }
+    ],
+    "header": {
+        "subject": "YOUR ATM CARD ALLOWANCE IS READY FOR DELIVERY",
+        "from": "u.s.treasury.service@gmail.com",
+        "to": [],
+        "date": "2021-07-21T23:50:37-07:00",
+        "received_domain": [
+            "mail-lf1-f52.google.com"
+        ],
+        "received_ip": [
+            "209.85.167.52",
+            "2002:a17:906:a2d2::"
+        ],
+        "received_foremail": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

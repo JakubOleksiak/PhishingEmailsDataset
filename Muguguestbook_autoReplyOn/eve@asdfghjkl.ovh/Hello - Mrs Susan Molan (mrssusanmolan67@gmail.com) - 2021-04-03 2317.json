@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "*Hello*\r\n\r\n\r\n\r\n\r\n*My name is Susan Molan, I was infected with the evil pandemic (COVID-19),\r\nI have lost my husband and our only son to Covid-19 and I guess my life is\r\nnext! I have made up my mind to WILL my late husband's funds to you for\r\ncharity work. I am currently in the hospital battling with the deadly\r\nCovid-19 pandemic and I am scared I may not survive the attack. Reply\r\nurgently if you wish to help me accomplish my testament.Regards,Mrs. Susan.\r\nMolan*\r\n",
+            "content_type": "text/plain",
+            "hash": "da01f13b9976d8b2bc8bb7a52c40065d04141fd3459e054b05a5af482d9068dd",
+            "boundary": "00000000000067c2eb05bf17fdd4"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "mrssusanmolan67@gmail.com",
+        "to": [],
+        "date": "2021-04-03T14:17:09-07:00",
+        "received_domain": [
+            "mail-io1-f68.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.68"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

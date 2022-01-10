@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Hello Dear,\r\n\r\nI am a banker I need your help to transfer a abandoned sum of 6\r\nmillion dollars to your bank account why 50 / percent  will  be your\r\npart No risk involved in this case contact me for more details if you\r\nare interested.\r\n(1.) your Name:\r\n(2.) Country:\r\n(3.)Phone Nb:\r\n(4.)your passport:\r\n(5.)your Occupation:\r\n(6.)Your Age:\r\nBest Regards,\r\nMrs Maria Hassan\r\n",
+            "content_type": "text/plain",
+            "hash": "c61ea6d372357290733bd67db6ba3fd5d91bde402d7e527556bde38cbe2c0347"
+        }
+    ],
+    "header": {
+        "subject": "Hello Dear,",
+        "from": "mrs.chunweiya226@gmail.com",
+        "to": [],
+        "date": "2021-10-06T14:53:24+00:00",
+        "received_domain": [
+            "mail-qv1-f45.google.com"
+        ],
+        "received_ip": [
+            "2002:a17:90a:a515::",
+            "209.85.219.45"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

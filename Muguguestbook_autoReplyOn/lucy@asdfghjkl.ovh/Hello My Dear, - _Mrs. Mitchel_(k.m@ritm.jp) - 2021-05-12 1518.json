@@ -1,0 +1,44 @@
+{
+    "body": [
+        {
+            "domain": [
+                "christian.my"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Hello My Dear,\r\n Good day my dear and may God bless you, My name is Mrs. Mitchel Jerry Lawson from United States of America. I am married to late Dr. Jerry Lawson who worked with USA embassy in Cote D'ivoire for nine years before he died in the year October 2014. We were married for twenty years without no child. He died after an illness that lasted for long one year. Before his death we were both a good christian.My late husband before he died sold his inherited family company and deposited the sum of $30 million with one of the banks in Cote D'ivoire. Presently, this money is still with the bank in Cote D'ivoire. I have been diagnose with Esophageal cancer,Recently my Doctor told me that I would not last for the next one month due to my cancer Problem. Having known my condition I decided to donate this Fund to a good individual That will use this money to the orphanage and helpless poor children.\r\n \r\nI am presently placed on dialysis check up and will not need telephone communication most of the time because of my heath.I am not afraid of death because I know where I am going to. I know that I am going to be in the bosom of the Lord. I do not want your telephone communication in this regard because of my health and because of the presence of the people around me always. I don't want any of my husband family relatives to receive this money because they poisoned and killed my husband to take away all we have laboured for.\r\n \r\nWith God all things are possible. As soon as I receive your reply I shall give you the contact of the bank in Cote D'ivoire. I will also register your name and introduce you to the bank that will make you as the new beneficiary of this money so that the bank will recognize you and advise you what to do for the successful transfer of this money to your account to enable use the money to the orphanage homes and the poor helpless children in the street.\r\nNowadays there are so much scams going on in the internet and it is difficult to trust but i don't know why the Holy spirit still approved me to email you about this out of few email addresses i have from the internet, yours was the only one that my mind convinced me to contact.\r\n \r\nWaiting for your reply.\r\nYours in Christ,\r\nMrs. Mitchel Jerry Lawson\r\nmjerrylawson@aol.com\r\n",
+            "content_type": "text/plain",
+            "hash": "d83bc4cfe42a85f04bc8c88cb20928e143e7b3c283f759387e5c33fbefacc027",
+            "boundary": "===============0131252265=="
+        }
+    ],
+    "header": {
+        "subject": "Hello My Dear,",
+        "from": "k.m@ritm.jp",
+        "to": [
+            "k.m@ritm.jp"
+        ],
+        "date": "2021-05-12T06:18:50-07:00",
+        "received_domain": [
+            "mail.pakubuwonospring.com"
+        ],
+        "received_ip": [
+            "103.87.84.132",
+            "129.205.124.143"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

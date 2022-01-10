@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Good day,\r\n\r\nCan you be reached on this email, I have a lucrative offer to discuss with you.\r\n\r\nThanks,\r\nPeter.\r\n",
+            "content_type": "text/plain",
+            "hash": "7e5bfa8e454f1094935672d21f736b588dfa75d4e9373cb5f642e4bb7fc44e3a"
+        }
+    ],
+    "header": {
+        "subject": "Hello",
+        "from": "peterdeere@info.com",
+        "to": [
+            "peterdeere@info.com"
+        ],
+        "date": "2021-06-21T00:55:20-07:00",
+        "received_domain": [
+            "correo.ada.gba.gov.ar"
+        ],
+        "received_ip": [
+            "170.155.9.23",
+            "197.229.133.189"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "attachment": [
+        {
+            "filename": "CG's Passport 001.jpg",
+            "size": 454664,
+            "extension": "jpg",
+            "hash": {
+                "md5": "d082406c89d471d4c5f68a34aff59c62",
+                "sha1": "b920c77160d963a6eda9f8d2092e0133e5b627e4",
+                "sha256": "64c135f4ea472a7f5b00a1763bc0a0c1c091963c87ce79d9ccf2abb4a1d29527",
+                "sha512": "922a3ae9f0beed1df21a1e53626439478b3a870cf571d2c8dadef61d401122cb26be020eec76b495e7e59afff3f1eac22f301ba8b314f1abd5719e93cd5daa7b"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"CG's Passport 001.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"CG's Passport 001.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<178506ee8ef8774e6461>"
+                ],
+                "x-attachment-id": [
+                    "178506ee8ef8774e6461"
+                ]
+            }
+        },
+        {
+            "filename": "Driving Licence 001.jpg",
+            "size": 138497,
+            "extension": "jpg",
+            "hash": {
+                "md5": "721b0daf2409cd40131977de056a0eb5",
+                "sha1": "c59d39ce6f4bb1c5ac13d9026aede3db2baae3b0",
+                "sha256": "b68d26dc04d8c85e9671ca2e68793b3d0ff2ac9331e3c11c4caedd79280bc8b8",
+                "sha512": "8aa37a44cf975c773da966fb581d5c8bf03019050c73331cb054b94507bfa92402dcf67aeb5b5e37ebbb84863e30c86dc359d6738749ab17c36e0a4016322c7d"
+            },
+            "content_header": {
+                "content-type": [
+                    "image/jpeg; name=\"Driving Licence 001.jpg\""
+                ],
+                "content-disposition": [
+                    "attachment; filename=\"Driving Licence 001.jpg\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ],
+                "content-id": [
+                    "<178506ee8efc8bf553c2>"
+                ],
+                "x-attachment-id": [
+                    "178506ee8efc8bf553c2"
+                ]
+            }
+        }
+    ],
+    "body": [
+        {
+            "domain": [
+                "country.he"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Greetings from Bishop Creswell Green,\r\n\r\nLet\u2019s help the widows and the less privileged ones with the fund\r\n\r\nI know that this message might meet you in utmost surprise as we never know\r\neach other before,I am Creswell Lindsay Green (Bishop) Country: United\r\nKingdom, I contacted you on a business deal of $5.8 Million US Dollars,\r\nready to transfer to your account, The depositor of the said fund died and\r\nunfortunately leaving nobody for the claim also He was into gold & diamond\r\nexportation in Burkina Faso, West Africa to Europe and Asia, Please take\r\nnote that if we make this claim, we will share it 60% for me while 40% for\r\nyou to help widows and the less privileged ones in the rural and urban\r\nareas and to carry out charity works in your Country.He was a good friend\r\nand member of the church before he died, If you are interested reply\r\nimmediately with the following information\u2019s below, Please take note that\r\nIt is 100 percent risk free and there is nothing to worry  because I have\r\nall the information needed to put the claim.\r\n\r\n\r\n\r\n\r\nYour Full Name...........,\r\nYour Resident Address.........,\r\nYour Phone Number..........,\r\nYour Age........,\r\nYour Occupation............\r\n\r\n\r\n\r\nPlease note that my ID documents are attached also looking forward in\r\nhearing from you,\r\n\r\nMany thanks.\r\nYours faithfully,\r\nBishop Creswell Green\r\nBishopCreswellGreen@minister.com\r\ndebtreconciliation446@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "7cd4541da17ac831b7f0322bdf7c9ff10ec154a15b7e891c69cad10717dd717a",
+            "boundary": "00000000000080c09e05bdfa3745"
+        }
+    ],
+    "header": {
+        "subject": "Let\u2019s help the widows and the less privileged ones with the fund",
+        "from": "debtreconciliation446@gmail.com",
+        "to": [],
+        "date": "2021-03-20T09:19:41-07:00",
+        "received_domain": [
+            "mail-il1-f176.google.com"
+        ],
+        "received_ip": [
+            "209.85.166.176"
+        ],
+        "received_foremail": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

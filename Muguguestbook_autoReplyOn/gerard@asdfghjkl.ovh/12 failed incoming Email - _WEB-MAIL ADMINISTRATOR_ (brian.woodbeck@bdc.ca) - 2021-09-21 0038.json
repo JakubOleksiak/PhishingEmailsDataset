@@ -1,0 +1,51 @@
+{
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "mime-version": [
+                    "1.0"
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Attention: gerard@asdfghjkl.ovh\r\n\r\nYou have 12 failed incoming Email on  Monday 19th,september 2021\r\n To retrieve your pending messages kindly resolve now to view your message.\r\n \r\n \r\n   Resolve action\r\n   Best Regards, \r\n\r\nDomain Support \r\nAdministration.",
+            "content_type": "text/plain",
+            "hash": "4b2982a5ba37e05f473e5cba58bf94c1ec1e2155cec82ab3a0e95f9fc903ff6d",
+            "boundary": "===============2015065767=="
+        }
+    ],
+    "header": {
+        "subject": "12 failed incoming Email ",
+        "from": "brian.woodbeck@bdc.ca",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-20T15:38:10-07:00",
+        "received_domain": [
+            "bizcloud-bayogetoke.com.de"
+        ],
+        "received_ip": [
+            "23.94.159.131",
+            "157.230.20.243",
+            "6::"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "mr.duke"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings,\r\n\r\nI am a local Gold Miner and Gold Seller Located in Ghana\r\nwest Africa we have a 300KG Gold Bar ready for sale with Good Prices, We\r\nonly do FOB and our company will give you a visa as soon as we sign a\r\ncontract with you.\r\n\r\nThanks\r\nMr.Duke O\r\nDirector\r\n",
+            "content_type": "text/plain",
+            "hash": "78ab5e16ab69efed40d074f5ef66d06a22cc54b5dcba00c2e597ffaf99b4de39",
+            "boundary": "000000000000937e0705cb4340d2"
+        }
+    ],
+    "header": {
+        "subject": "GOLD FOR SALE / FOB",
+        "from": "dkosam1215@gmail.com",
+        "to": [],
+        "date": "2021-09-05T05:56:07-07:00",
+        "received_domain": [
+            "mail-qv1-f68.google.com"
+        ],
+        "received_ip": [
+            "209.85.219.68"
+        ],
+        "received_foremail": [
+            "cornelia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

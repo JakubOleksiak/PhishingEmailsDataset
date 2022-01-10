@@ -1,0 +1,46 @@
+{
+    "body": [
+        {
+            "email": [
+                "emsexpresscustomer@aol.com",
+                "johnny@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "aol.com",
+                "address.and",
+                "mr.jerry",
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\nCompany name: EMS Express Customer Service\r\nContact Email:\u00a0emsexpresscustomer@aol.com\r\nLogistic Manager:Mr.Jerry Brown\r\nPhone: +229-51740650\r\n\r\nMy Dear\u00a0 Friend,\r\n\r\nPlease i received your email and as i am talking to you right now everything about your ATM card is ready to be deliver since then, So please try and make sure that you send the needed fee US$85 Today and i will get back to you with the delivery information which is tracking numbers you will use to see where your ATM card is until you receive at hand. The $85 is only problem we have now. Try and send US$85 by Western Union or Money-Gram.\r\n\r\nYou are advice to get back to us with the security keeping fee of US$85 only to enable us deliver your package of ATM VISA CARD to your address.and also Reconfirm your address\r\n\r\nWe are waiting to receiver the security keeping fee of US$85 from you urgent to enable us registered your package and send you the tracking number.\r\n\r\nBlow is information where to send the US$85 by Western Union or Money-Gram\r\n\r\nReceiver's name : Badai Atangana\r\n\r\nCountry : Benin Republic\r\n\r\nCity : porto novo\r\n\r\nText Question : who\r\n\r\nText Answer : God\r\n\r\nAmount:US$85\r\n\r\nMTCN...................\r\n\r\nReconfirm your address\r\n\r\n(1)Your Full name:.......................\r\n(2)Your Phone number:..............\r\n(3)Your Contact address:.................\r\n\r\nLooking forward for your reply.\r\n\r\n\r\n\r\n\r\nManager.\r\nMr.Jerry Brown\r\n\r\n\r\nOn Thursday, August 5, 2021 johnny <johnny@asdfghjkl.ovh> wrote:\r\nHello,\r\nhow can I help you with this?\r\n\r\nSincerely\r\nJohn\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "dfe718f717c2937d86bd5327146af58b02d9e656313720aa15f2db6c38cc5706",
+            "boundary": "----=_Part_133573_1195564369.1628267517124"
+        }
+    ],
+    "header": {
+        "subject": "RE: How can i help with this?",
+        "from": "emsexpresscustomer@aol.com",
+        "to": [
+            "johnny@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-06T16:31:57+00:00",
+        "received_domain": [
+            "sonic307.consmr.mail.bf2.yahoo.com",
+            "sonic.gate.mail.ne1.yahoo.com",
+            "sonic307-2.consmr.mail.bf2.yahoo.com"
+        ],
+        "received_ip": [
+            "74.6.134.41"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

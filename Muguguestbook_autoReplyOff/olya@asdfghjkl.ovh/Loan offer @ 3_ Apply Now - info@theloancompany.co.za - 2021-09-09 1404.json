@@ -1,0 +1,31 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Dear olya",
+            "content_type": "text/plain",
+            "hash": "32da33e81aad6def6698485c097d397f8588557e32375852a2d675c680302d84",
+            "boundary": "----=_NextPart_000_0012_28F7D6C4.572340A7"
+        }
+    ],
+    "header": {
+        "subject": "Loan offer @ 3% Apply Now ",
+        "from": "info@theloancompany.co.za",
+        "to": [
+            "olya@asdfghjkl.ovh"
+        ],
+        "date": "2021-09-09T14:04:57+02:00",
+        "received_ip": [
+            "185.222.57.167"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "Turkish"
+    }
+}

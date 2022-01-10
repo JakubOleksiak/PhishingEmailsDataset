@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "Greetings, I am Mr. John Collins, a banker from Lome Republic of Togo\r\nI contacted you for a legitimate business deal, looking forward to\r\nestablish long-term business relationship with you\r\nLooking forward to your urgent reply for more details\r\nYour urgent reply is highly needed\r\nBest Regards.\r\nMr. John Collins\r\n",
+            "content_type": "text/plain",
+            "hash": "f23483c3e946be1c5f969c502825c5759a5b6c042e8bc82598adb50e88d4e892"
+        }
+    ],
+    "header": {
+        "subject": "From Collins",
+        "from": "deckchester@gmail.com",
+        "to": [],
+        "date": "2021-08-17T13:37:24+00:00",
+        "received_domain": [
+            "mail-qt1-f174.google.com"
+        ],
+        "received_ip": [
+            "2002:a0c:c784::",
+            "209.85.160.174"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

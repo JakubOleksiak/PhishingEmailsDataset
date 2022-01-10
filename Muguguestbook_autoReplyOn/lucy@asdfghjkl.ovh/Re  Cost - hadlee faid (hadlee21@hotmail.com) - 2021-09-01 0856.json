@@ -1,0 +1,36 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1252\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "Hi,\r\n\r\n\r\n\r\nMy name is Hadlee and I was reviewing your website on behalf of your Email and noticed that the website has a good design and it looks good.\r\n\r\n\r\n\r\nBut it is not ranking on GOOGLE for Relevant Keywords.\r\n\r\n\r\n\r\nI couldn\u2019t find your website on the first page with your business keywords/ phrases.\r\n\r\n\r\n\r\nWe can help you do better in all search engines by Achieving top page Rankings.\r\n\r\n\r\n\r\nWe Provide SEO services at a minimum cost, May I send you a quote? If interested.\r\n\r\n\r\n\r\nThanks very much!!\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "bdf744388646c9fdbc5a5f6e2c1464ef22ce013332d42ad69d6168c19277b490",
+            "boundary": "_000_TY2PR0101MB35836021F01A629022DD191ECDCD9TY2PR0101MB3583_"
+        }
+    ],
+    "header": {
+        "subject": "RE: Cost",
+        "from": "hadlee21@hotmail.com",
+        "to": [],
+        "date": "2021-09-01T06:56:08+00:00",
+        "received_domain": [
+            "apc01-hk2-obe.outbound.protection.outlook.com",
+            "ty2pr0101mb3583.apcprd01.prod.exchangelabs.com",
+            "ty2pr0101mb3007.apcprd01.prod.exchangelabs.com"
+        ],
+        "received_ip": [
+            "2603:1096:404:800c::14",
+            "40.92.255.101",
+            "2603:1096:404:9f::19"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

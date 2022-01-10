@@ -1,0 +1,48 @@
+{
+    "body": [
+        {
+            "email": [
+                "{yamada@asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"us-ascii\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hi {yamada@asdfghjkl.ovh}\r\n\r\nI am a Business Development manager who works with 130+ experienced IT\r\nprofessionals.\r\n\r\nWebsite designing & development, PHP development, E-Commerce solutions &,\r\nHTML, Social Media Cover Page Design, UX / UI Design Services and SEO \r\n\r\nIf you are interested, then I can send you our price list, company\r\ninformation and an affordable quotation with the best offer.\r\n\r\nThanks & Regards,\r\n\r\nBusiness Development\r\n\r\nPS: If this is something you are interested; please respond to this email\r\nfor Portfolio and Pricelist\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "08b1a87a675a2413a0f50aaf033648c596cc510b21ec305ab84e0935eed3d456",
+            "boundary": "----=_NextPart_000_55C4_01D7895C.7ED3DF50"
+        }
+    ],
+    "header": {
+        "subject": "Re: Re:; I can send you our price list",
+        "from": "daishidaishi56@hotmail.com",
+        "to": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-04T18:11:04+05:30",
+        "received_domain": [
+            "sg2pr02ca0045.apcprd02.prod.outlook.com",
+            "mw2nam10ht054.eop-nam10.prod.protection.outlook.com",
+            "mw2nam10ft022.mail.protection.outlook.com",
+            "by5pr18mb3171.namprd18.prod.outlook.com",
+            "mw2nam10ft022.eop-nam10.prod.protection.outlook.com",
+            "nam10-bn7-obe.outbound.protection.outlook.com"
+        ],
+        "received_ip": [
+            "2a01:111:e400:7e87::44",
+            "2a01:111:e400:7e87::49",
+            "122.161.48.159",
+            "2a01:111:e400:7e87::357",
+            "2603:1096:3:18::33",
+            "40.92.40.38",
+            "2a01:111:e400:7e87::290"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

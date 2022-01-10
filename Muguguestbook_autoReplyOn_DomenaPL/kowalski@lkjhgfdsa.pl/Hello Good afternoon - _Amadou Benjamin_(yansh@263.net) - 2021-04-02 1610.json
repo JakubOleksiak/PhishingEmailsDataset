@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "email": [
+                "barristeramadou011@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"Windows-1251\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello Good afternoon!\r\n\r\nI am Lawyer Amadou Benjamin by name, With due respect , I am contacting you to help and assist me to get the deposit of (10.5 million Dollars) my late client Engineer Vasiliy left in his Bank(Lloyds Bank) before his sudden death with his wife and their only Daughter on April 21, 2007. \r\n\r\nTo avoid confiscation by the bank, Please contact me through this email (barristeramadou011@gmail.com) so that I will tell you everything about this or kindly provide me with your own private email address so that I can contact you myself with all the details at your own will.\r\n\r\nI hope to hear from you as soon as you read my message.\r\n\r\nWith kind regards and best wishes to you and your family.\r\n\r\nBarrister Amadou Benjamin\r\n\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "a0c064984ff810d6c3fc0ebccce82f64aad8dd9dc1d7ca00c02f1dd70ccc7769"
+        }
+    ],
+    "header": {
+        "subject": "Hello Good afternoon",
+        "from": "yansh@263.net",
+        "to": [],
+        "date": "2021-04-02T16:10:00+02:00",
+        "received_domain": [
+            "smtp.263.net",
+            "lucky1.263xmail.com"
+        ],
+        "received_ip": [
+            "77.247.110.130",
+            "211.157.147.130"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

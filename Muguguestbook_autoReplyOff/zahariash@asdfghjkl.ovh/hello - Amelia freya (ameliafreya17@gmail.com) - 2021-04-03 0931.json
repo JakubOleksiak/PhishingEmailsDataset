@@ -1,0 +1,32 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "hello\r\n\r\nI sent this mail praying it will find you in a good condition, since I\r\nmyself am in a very critical health condition in which I sleep every night\r\nwithout knowing if I may be alive to see the next day. I am Mrs Amelia\r\nfreya, a widow suffering from a long time illness. I have some funds I\r\ninherited from my late husband, the sum of ($11,000,000.00, Eleven Million\r\nDollars) my Doctor told me recently that I have serious sickness which is a\r\ncancer problem. What disturbs me most is my stroke sickness.\r\nHaving known my condition, I decided to donate this fund to a good person\r\nthat will utilize it the way I am going to instruct herein. I need a very\r\nhonest and God fearing  person who can claim this money and use it for\r\nCharity works, for orphanages, widows and also build schools for less\r\nprivileges that will be named after my late husband if possible and to\r\npromote the word of God and the effort that the house of God is maintained.\r\nI do not want a situation where this money will be used in an ungodly\r\nmanner.That's why I'm taking this decision. I'm not afraid of death so I\r\nknow where I'm going. I accept this decision because I do not have any\r\nchild who will inherit this money after I die. Please I want your sincere\r\nand urgent answer to know if you will be able to execute this project, and\r\nI will give you more information on how the fund will be transferred to\r\nyour bank account.\r\n\r\nMay God Bless you,\r\nMrs Amelia freya\r\n",
+            "content_type": "text/plain",
+            "hash": "ac7021a353f5313b320ea9ed5d647042619385a19acdbf3b445da26f53287c6e",
+            "boundary": "000000000000e4179105bf19ddaa"
+        }
+    ],
+    "header": {
+        "subject": "hello",
+        "from": "ameliafreya17@gmail.com",
+        "to": [],
+        "date": "2021-04-03T00:31:37-07:00",
+        "received_domain": [
+            "mail-ej1-f67.google.com"
+        ],
+        "received_ip": [
+            "209.85.218.67"
+        ],
+        "received_foremail": [
+            "zahariash@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

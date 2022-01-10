@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "email": [
+                "gerard@asdfghjkl.ovh"
+            ],
+            "domain": [
+                "asdfghjkl.ovh"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "send your details\r\n\r\nThank you\r\n\r\nOn 19/08/2021, gerard@asdfghjkl.ovh <gerard@asdfghjkl.ovh> wrote:\r\n> Hello,\r\n> how can I help you with this?\r\n>\r\n> Sincerely\r\n> Gerard\r\n>\r\n>\r\n",
+            "content_type": "text/plain",
+            "hash": "7d8c1d0702421babdc3e43b752e9facf088e2168e6728e9c3fab5960bc5d640e"
+        }
+    ],
+    "header": {
+        "subject": "Re: How can i help with this?",
+        "from": "optimistclark123@gmail.com",
+        "to": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-19T12:36:11-07:00",
+        "received_domain": [
+            "mail-lj1-f177.google.com"
+        ],
+        "received_ip": [
+            "2002:a19:c508::",
+            "209.85.208.177"
+        ],
+        "received_foremail": [
+            "gerard@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

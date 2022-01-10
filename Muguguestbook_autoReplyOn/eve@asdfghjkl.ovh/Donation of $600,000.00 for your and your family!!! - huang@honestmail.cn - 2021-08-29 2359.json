@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Congratulations from the Azim Hashim Premji Philanthropies Foundation-India, where life changing opportunities and cash are given-out on a daily basis! Our foundation/founder has indeed been a great Philanthropist to this generation and is truly committed to \u201cgiving while living,\u201d.However, We are pleased toinform you that you are one (1) of the lucky people to benefit and receive $600,000.00 USD from our foundation\u2019s ongoing goodwill project, grant/donations program.\r\n\r\nIs this message sent to a valid e-mail account? Your email account was randomly selected to receive a cash donation of $600,000.00 USD from the Philanthropist. If this is a valid e-mail account, then click reply to contact us directly for comprehensive information.\r\n\r\n\r\nSincerely,\r\n\r\nCEO, Azim Premji Foundation\r\n\r\n",
+            "content_type": "text/plain",
+            "hash": "705baec90bb30eef4c6bf134327f15bad3333fedf28b8e6d6c3a476e58361306"
+        }
+    ],
+    "header": {
+        "subject": "Donation of $600,000.00 for your and your family!!!",
+        "from": "huang@honestmail.cn",
+        "to": [
+            "huang@honestmail.cn"
+        ],
+        "date": "2021-08-29T14:59:17-07:00",
+        "received_domain": [
+            "c15fui0f.mwprem.net"
+        ],
+        "received_ip": [
+            "153.149.195.244",
+            "217.138.254.71"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "body": [
+        {
+            "domain": [
+                "you.before"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ]
+            },
+            "content": "-- \r\n\r\n\r\n-- \r\n\r\n\r\n-- \r\nDear Friend,\r\n\r\nMy name is Jeffrey Mark, U.S. Immigration and Customs Enforcement\r\nofficer. I wish to acquaint you that a diplomat in possession of a box\r\ncontaining worth 12.5 million dollars died after being confirmed\r\npositive for coronavirus on the 17Th of September 2020, at the Austin\r\nBergstrom  International Airport on his way to your city to deliver\r\nthe Box to you.\r\n\r\nHe secretly informed me before his demise that the box belongs to you\r\nand he further explained to me that your email was among the  few\r\nluckily selected in the ongoing scam victims compensation reward by\r\nthe World Bank.\r\n\r\nHe pleaded to me before his death to assist him deliver this\r\nconsignment box to you.Before I will proceed with further prove and\r\ndetails,please kindly send me the requested details to ensure that the\r\nbox is delivered to the right person.Please,kindly reconfirm  the following\r\ninformation Asap\r\n\r\nFULL NAME:\r\nAGE:\r\nHOME ADDRESS FOR THE DELIVERY:\r\nMOBILE NO:\r\nOCCUPATION:\r\nCOUNTRY:\r\nNEAREST AIRPORT:\r\n\r\nPlease, get back to me asap and also endeavor to keep this to yourself\r\nas am doing this selfless service to ensure the diplomat's last wish\r\nis honored.\r\n\r\nSincerely\r\nJeffrey Mark\r\n",
+            "content_type": "text/plain",
+            "hash": "645edc210fb436100c41fa26def96dc3d90f77c79658108b4299c014a5ad6ad4"
+        }
+    ],
+    "header": {
+        "subject": "My name is Jeffrey Mark, U.S. Immigration and Customs Enforcement officer.",
+        "from": "lexrobsmith@gmail.com",
+        "to": [],
+        "date": "2021-08-30T20:11:02+01:00",
+        "received_domain": [
+            "mail-pf1-f172.google.com"
+        ],
+        "received_ip": [
+            "2002:a05:6a10:20c9::",
+            "209.85.210.172"
+        ],
+        "received_foremail": [
+            "julia@asdfghjkl.ovh"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

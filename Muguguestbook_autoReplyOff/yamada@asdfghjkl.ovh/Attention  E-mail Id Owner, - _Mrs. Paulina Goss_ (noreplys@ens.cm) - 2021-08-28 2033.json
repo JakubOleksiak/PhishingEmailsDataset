@@ -1,0 +1,50 @@
+{
+    "body": [
+        {
+            "email": [
+                "calottorg@consultant.com"
+            ],
+            "domain": [
+                "consultant.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ]
+            },
+            "content": "\r\n\u00aePowerball Canada\r\n#45 Summer Street, Summerside PE IN CANADA. \r\nTicket No: BC7865 0987125477\r\n\r\nAttention: E-mail Id Owner,\r\n\r\nCongratulations! Your email address has won you the total sum of us$1,000,000.00 in the Canadian-Power Ball jackpot, drawn on Wednesday 02 June, 2021 in the Ontario-Canada, organized by the Canadian and USA Government. We are glad to notify you that your email address attached to Ticket No: BC7865 0987125477 drew the Winning Number: 6 -7 - 11- 66 -67, POWERPLAY: 19, has emerged the winner of the total sum of $1,000,000.00 (One Million United States Dollars)\r\n\r\nPlease note that the lucky winning numbers fall within our Afrobooklet representative as indicated in the electronic play coupon. All participan were selected randomly from worldwide websites through computer draw system and extracted from over 100,000,000 .00 companies and personal email addresses.\r\n\r\nFor security reason, you are advised to keep your winning information strictly confidential until you are paid. To file your claim, please contact our corresponding claim agent immediately you read this message for help/urgent release of your Fund.\r\n\r\nRepresentative Officer: Dr. Peter FREEMAN \r\nEmail Address: \r\n\r\ncalottorg@consultant.com mailto:calottorg@consultant.com\r\n\r\nEmail the claim agent the below stated information:\r\n\r\n(1) Ticket No (2) Winning No (3) Your Full Name(s) (4) Contact Address (5) Date of Birth (6) Occupation (7) Gender (8) Marital Status (9) Nationality (10) Phone Number\r\n\r\nThank you for being part of our prestigious Lottery program. \r\n\r\nYou rs Sincerely, \r\nMrs Joyce Derrick,(Management)\r\n",
+            "content_type": "text/plain",
+            "hash": "70b7c74625def4cef414f5967f91e76be55675d6febfe85ba8e00d789060c940",
+            "boundary": "BRXEMrmpRBtgCAWFALGGZRKdv2K8xoJ=_J"
+        }
+    ],
+    "header": {
+        "subject": "Attention: E-mail Id Owner,",
+        "from": "noreplys@ens.cm",
+        "to": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "date": "2021-08-28T11:33:35-07:00",
+        "received_email": [
+            "noreplys@ens.cm"
+        ],
+        "received_domain": [
+            "p3plsmtps2ded02.prod.phx3.secureserver.net",
+            "s192-169-201-228.secureserver.net",
+            "ip129.ip-91-134-145.eu"
+        ],
+        "received_ip": [
+            "91.134.145.129",
+            "208.109.80.59",
+            "192.169.201.228"
+        ],
+        "received_foremail": [
+            "yamada@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

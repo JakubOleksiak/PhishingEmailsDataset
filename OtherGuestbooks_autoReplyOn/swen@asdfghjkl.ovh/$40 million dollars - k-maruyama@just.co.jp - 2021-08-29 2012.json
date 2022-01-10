@@ -1,0 +1,50 @@
+{
+    "body": [
+        {
+            "email": [
+                "wmavis688@gmail.com"
+            ],
+            "domain": [
+                "gmail.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Good day,\r\nTo whom it may concern,\r\nI hope you are well today? MRS. MAVIS WANCZYK has granted you a donation of $40 million dollars to be transferred in the next few days.\r\n\r\nPlease contact her for more information at: wmavis688@gmail.com\r\nThanks.\r\n",
+            "content_type": "text/plain",
+            "hash": "0ecea844406d7dcb612bd4deb5714efc9916cabf59903427a382691d066b440a"
+        }
+    ],
+    "header": {
+        "subject": "$40 million dollars",
+        "from": "k-maruyama@just.co.jp",
+        "to": [
+            "k-maruyama@just.co.jp"
+        ],
+        "date": "2021-08-29T20:12:15+02:00",
+        "received_domain": [
+            "c15sfxpp.mwprem.net",
+            "sgs-vcgw105.ocn.ad.jp",
+            "cmn-spm-mts-001c1.ocn.ad.jp",
+            "mgw-vc-mts-007c1.ocn.ad.jp",
+            "oogw2103.ocn.ad.jp"
+        ],
+        "received_ip": [
+            "153.153.67.130",
+            "153.149.234.201",
+            "153.138.238.83",
+            "60.43.157.118",
+            "61.118.32.4"
+        ],
+        "bait_method": "Other guestbooks",
+        "language": "English"
+    }
+}

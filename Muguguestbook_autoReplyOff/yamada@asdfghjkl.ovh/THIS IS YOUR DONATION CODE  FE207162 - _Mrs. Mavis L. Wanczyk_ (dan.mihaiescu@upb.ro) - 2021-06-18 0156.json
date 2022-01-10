@@ -1,0 +1,39 @@
+{
+    "body": [
+        {
+            "uri": [
+                "https://www.youtube.com/watch?v=7kWnqvJM1mMTHIS"
+            ],
+            "domain": [
+                "below.watch",
+                "www.youtube.com"
+            ],
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"utf-8\""
+                ],
+                "content-transfer-encoding": [
+                    "7bit"
+                ]
+            },
+            "content": "Hello,I'm Mrs. Mavis Wanczyk, the mega winner of $758 Million in Mega Millions\r\nJackpot, I am donating to 5 random individuals if you get this email then\r\nyour email was selected after a spin ball. I have spread most of my wealth over a\r\nnumber of charities and organizations. I have voluntarily decided to donate the sum of\r\n$2 Million USD to you as one of the selected 5,to verify my winnings via YouTube page below.WATCH ME HERE: https://www.youtube.com/watch?v=7kWnqvJM1mMTHIS IS YOUR DONATION CODE: FE207162Reply with the DONATION CODE to this email: mrsmaviswac010@gmail.comHope to make you and your family happy.Regards,\r\nMrs. Mavis L. Wanczyk.",
+            "content_type": "text/plain",
+            "hash": "00a27d6bd1f70f378b0041be2121be37a2dd1ad7225d21f5fa389baf079d03b0",
+            "boundary": "=_9876c1dd-d404-436a-b46a-bf59c523a32a"
+        }
+    ],
+    "header": {
+        "subject": "THIS IS YOUR DONATION CODE: FE207162",
+        "from": "dan.mihaiescu@upb.ro",
+        "to": [],
+        "date": "2021-06-18T02:56:13+03:00",
+        "received_domain": [
+            "mx.upb.ro"
+        ],
+        "received_ip": [
+            "141.85.13.210"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

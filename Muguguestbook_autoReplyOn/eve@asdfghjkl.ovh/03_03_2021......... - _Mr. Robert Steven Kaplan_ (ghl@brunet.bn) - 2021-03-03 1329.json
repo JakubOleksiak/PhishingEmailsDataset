@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"iso-8859-1\""
+                ],
+                "content-transfer-encoding": [
+                    "quoted-printable"
+                ],
+                "content-description": [
+                    "Mail message body"
+                ]
+            },
+            "content": "Sir/Ma,\r\n\r\nWe wish to inform you that a power of attorney was forwarded to our office this morning, by two gentlemen regarding your unclaimed fund of $2.5 Million Dollar. One of them is an American citizen named Mr. Robert Porter and the other is Mr. Wilhelm Berg a Swedish citizen.\r\n\r\nThe document claims these gentlemen to be your authorized representatives, and the power of attorney states that you are already deceased. It further states that your death was due to lung cancer, with your date of death being March 27th, 2019.\r\n\r\nThey have now submitted a new account to replace the receiving account that was in the original claim of funds. These funds have remained unclaimed for quite some time and the need for resolution is pressing.\r\n\r\nBelow is the new account they have submitted.\r\n\r\nAccount Name's : Robert Porter /Wilhelm Berg\r\nAccount: 5007-29 438 66\r\nIBAN-nr: SE4150000000050072943866\r\nBic-kod: ESSESESS\r\nSkandinaviska Enskilda Banken. (SEB :)\r\nSWEDEN .\r\n\r\nIn the event that you are in fact still alive, we ask that you confirm your existence by responding to this email. You are to view this as a matter requiring immediately attention and response. We have 48 hr monitoring of all activities within Federal Reserve Bank.\r\n\r\nWe have contacted the bank in the Sweden asking them to wait for further directives from Federal Reserve Bank, prior to authorizing any withdrawals in any form. Our request is based entirely on our attempt to verify that you are in fact deceased, before money is wrongly disbursed.\r\n\r\n\r\nFinally, we forewarn you that if we do not hear back from you shortly, we will have to assume that you are in fact deceased and Federal Reserve bank will proceed with release funds to the above newly submitted account.\r\n\r\n\r\n\r\nSincerely,\r\n\r\nRobert Steven Kaplan\r\nrobertstevenkaplan00006@gmail.com\r\n",
+            "content_type": "text/plain",
+            "hash": "0b9e511315e60fd510f0ef197a2bc3944c8ea5d26c19e0f97aec2e2f14f9d093"
+        }
+    ],
+    "header": {
+        "subject": "03/03/2021.........",
+        "from": "ghl@brunet.bn",
+        "to": [
+            "ghl@brunet.bn"
+        ],
+        "date": "2021-03-03T04:29:24-08:00",
+        "received_domain": [
+            "mail.cm-topsci.com"
+        ],
+        "received_ip": [
+            "154.127.53.102",
+            "106.38.108.67"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}

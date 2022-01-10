@@ -1,0 +1,37 @@
+{
+    "body": [
+        {
+            "content_header": {
+                "content-type": [
+                    "text/plain; charset=\"UTF-8\""
+                ],
+                "content-transfer-encoding": [
+                    "base64"
+                ]
+            },
+            "content": "Hello Member,\r\n\r\nYour yearly membership for NORTON SECURITY PC has been successfully renewed\r\n& restored.\r\n\r\n**The debit amount will be reflected within the next 24 to 48 hrs on your\r\naccount record. **\r\n\r\n\r\n\r\n __PRODUCT INFORMATION_\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\n Invoice No.                       :        TJXSD7485OA06\r\n\r\nProduct Name                   :     NORTON SECURITY PC\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\nOrder Date                       :        26TH AUG 2021\r\n\r\nExpiration Date              :       1 Years From The Date Of Purchase\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nAmount                                :       $212.027 USD\r\n\r\nPayment Method            :       AUTO RENEW\r\n\r\n \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\n* If you wish to claim a REFUND then please feel free to Contact our\r\nBilling Department as soon as Possible. *\r\n\r\n\r\n\r\nYou can Reach us on   +1     \u2013   (888) - (353) - (3213)\r\n\r\n\r\n\r\nRegards,\r\n\r\n\r\n\r\nBilling Department\r\n",
+            "content_type": "text/plain",
+            "hash": "be1c1a247e955f134e41508f2edbb9be96a344687ea8cb08419a7bffe14d60c4",
+            "boundary": "000000000000c3a51805ca7970db"
+        }
+    ],
+    "header": {
+        "subject": "TJXSD7485OA06#ORDER",
+        "from": "elizawatggdr@gmail.com",
+        "to": [
+            "nortoncustomer58@gmail.com"
+        ],
+        "date": "2021-08-26T22:40:05+05:30",
+        "received_domain": [
+            "mail-vs1-f47.google.com"
+        ],
+        "received_ip": [
+            "209.85.217.47"
+        ],
+        "received_foremail": [
+            "eve@asdfghjkl.ovh"
+        ],
+        "bait_method": "Muguguestbook.com",
+        "language": "English"
+    }
+}
